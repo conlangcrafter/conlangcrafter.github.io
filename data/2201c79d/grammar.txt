@@ -1,0 +1,243 @@
+# Grammar
+
+## Morphology
+
+This language is highly isolating. Grammatical information is primarily encoded through word order and the use of independent function words like particles and auxiliary verbs. A few grammatical functions are marked by clitics, which attach phonologically to a preceding word. New lexical items can be formed through noun-noun or verb-noun compounding, where the resulting compound behaves as a single word with primary stress on the first element.
+
+*   **Noun-Noun Compound:**
+    ```
+    'dʷolʲamə 'gʷaŋk ('dʷolʲamə "house" + 'gʷaŋk "rock")
+    'dʷolʲamə-'gʷaŋk
+    house-rock
+    "cave" or "stone house"
+    ```
+*   **Verb-Noun Compound:** A noun can be compounded with a verb to create a new, more specific verb. This is a form of lexical compounding, not syntactic incorporation. The noun typically describes the manner, location, or instrument of the action. The transitivity of the new compound verb is determined by its semantics.
+    ```
+    'trəŋgo + 'zʷomartə ("run" + "path") -> 'trəŋgozʷomartə "to path-run" (i.e., to scout)
+
+    'ʃkʷambər 'vʲetrə 'trəŋgozʷomartə kʷo ʃi.
+    'ʃkʷambər 'vʲetrə 'trəŋgozʷomartə kʷo   ʃi
+    hunter   boar   path-run        3S.AGT 3S.PAT
+    "The hunter scouts the boar." (lit. "The hunter path-runs the boar.")
+    ```
+
+A key feature is that the language is predominantly head-marking, particularly in the verbal clause. This is achieved through particles that follow the head of a phrase to mark its arguments. For verbs, this means particles follow the verb to reference the subject and object. In genitive constructions, however, the language uses dependent-marking: a particle follows the possessor noun (the dependent) to mark the relationship.
+
+The language has a Split-S (or active-stative) alignment system, which is marked on the verb via post-verbal particles. The single argument of an intransitive verb is marked either like the agent of a transitive verb (agentive case) or the patient (patientive case), depending on the semantics of the verb and the volition of the participant. Subjects of active verbs (e.g., "run," "speak") take the agentive particle, while subjects of inactive or stative verbs (e.g., "fall," "die," "be big") take the patientive particle.
+
+**Argument-Marking Particle Sets:**
+
+| Person/Number | Agentive (A/Sₐ) | Patientive (P/Sₚ) |
+| :--- | :---: | :---: |
+| **1st Singular** | `pʷo` | `ɲi` |
+| **2nd Singular** | `tʷo` | `ci` |
+| **3rd Singular** | `kʷo` | `ʃi` |
+| **1st Plural** | `pʷe` | `ɲe` |
+| **2nd Plural** | `tʷe` | `ce` |
+| **3rd Plural** | `kʷe` | `ʃe` |
+
+*   **Transitive Example:**
+    ```
+    'pəɲa 'gʷaŋk tə'mʲiʃpʷe kʷo ʃi.
+    'pəɲa 'gʷaŋk tə'mʲiʃpʷe kʷo   ʃi
+    person rock  throw    3S.AGT 3S.PAT
+    "The person throws the rock."
+    ```
+*   **Agentive Intransitive (S=A):**
+    ```
+    'pəɲa 'trəŋgo kʷo.
+    'pəɲa 'trəŋgo kʷo
+    person run    3S.AGT
+    "The person runs (deliberately)."
+    ```
+*   **Patientive Intransitive (S=P):**
+    ```
+    'pəɲa 'splʲemʲit ʃi.
+    'pəɲa 'splʲemʲit ʃi
+    person fall      3S.PAT
+    "The person falls (accidentally)."
+    ```
+
+TAM (Tense-Aspect-Mood) is expressed periphrastically using auxiliary verbs which precede the main verb or verb phrase. The negative auxiliary `kʷə'lʲevʲi` precedes any other TAM auxiliaries. They do not affect the post-verbal argument particles.
+
+*   **Future (`nʷa'colo` "will"):** Indicates a future event.
+    ```
+    'pəɲa 'gʷaŋk nʷa'colo tə'mʲiʃpʷe kʷo ʃi.
+    'pəɲa 'gʷaŋk nʷa'colo tə'mʲiʃpʷe kʷo   ʃi
+    person rock  will     throw    3S.AGT 3S.PAT
+    "The person will throw the rock."
+    ```
+*   **Past Perfective (`ʃʷə'leʒ` "did/has"):** Indicates a completed past event.
+    ```
+    'pəɲa 'gʷaŋk ʃʷə'leʒ tə'mʲiʃpʷe kʷo ʃi.
+    'pəɲa 'gʷaŋk ʃʷə'leʒ tə'mʲiʃpʷe kʷo   ʃi
+    person rock  did      throw    3S.AGT 3S.PAT
+    "The person threw the rock."
+    ```
+*   **Imperfective (`mʲi'lʲerp` "is/was -ing"):** Indicates an ongoing or habitual action, past or present. Context distinguishes the tense.
+    ```
+    'pəɲa mʲi'lʲerp 'trəŋgo kʷo.
+    'pəɲa mʲi'lʲerp 'trəŋgo kʷo
+    person PROG     run    3S.AGT
+    "The person is running / was running."
+    ```
+*   **Negation (`kʷə'lʲevʲi` "not"):** A negative auxiliary that precedes other TAM auxiliaries.
+    ```
+    'ʃkʷambər 'vʲetrə kʷə'lʲevʲi ʃʷə'leʒ sʷo'gʷaɲu kʷo ʃi.
+    'ʃkʷambər 'vʲetrə kʷə'lʲevʲi ʃʷə'leʒ sʷo'gʷaɲu kʷo   ʃi
+    hunter   boar   not      did      see      3S.AGT 3S.PAT
+    "The hunter did not see the boar."
+    ```
+
+A mandatory system of evidentiality is marked on the verb. This is achieved by a special class of particles that precede the post-verbal argument markers. The lack of an evidential particle implies direct, sensory evidence.
+
+*   **`rʲe` (Reportative):** The speaker was told the information.
+*   **`kist` (Inferential):** The speaker is inferring the information from evidence.
+*   **`mʲit` (Assumed):** The speaker is assuming or guessing.
+
+*   **Direct Evidence (no particle):**
+    ```
+    'pəɲa 'splʲemʲit ʃi.
+    'pəɲa 'splʲemʲit ʃi
+    person fall      3S.PAT
+    "The person fell (I saw it)."
+    ```
+*   **Reportative Evidence:**
+    ```
+    'pəɲa 'splʲemʲit rʲe ʃi.
+    'pəɲa 'splʲemʲit rʲe    ʃi
+    person fall      REPORT 3S.PAT
+    "The person fell (I was told)."
+    ```
+*   **Inferential Evidence:**
+    ```
+    'pəɲa 'splʲemʲit kist ʃi.
+    'pəɲa 'splʲemʲit kist   ʃi
+    person fall      INFER  3S.PAT
+    "The person must have fallen (I infer)."
+    ```
+
+## Syntax
+
+The word order of core arguments is strictly Subject-Object-Verb (SOV). Given the lack of case marking on nouns, this order is rigid for distinguishing core arguments. Adverbial phrases typically appear between the object and the verb.
+
+*   **SOV Order:**
+    ```
+    'ʃkʷambər 'vʲetrə sʷo'gʷaɲu kʷo ʃi.
+    'ʃkʷambər 'vʲetrə sʷo'gʷaɲu kʷo   ʃi
+    hunter   boar   see      3S.AGT 3S.PAT
+    "The hunter sees the boar."
+    ```
+
+The language is strongly pro-drop. Pronominal arguments are almost always omitted, as their presence is indexed by the post-verbal agentive and patientive particles. Pronouns are only used for emphasis or to introduce a new topic.
+
+*   **Pro-drop example:**
+    ```
+    sʷo'gʷaɲu kʷo ʃi.
+    sʷo'gʷaɲu kʷo   ʃi
+    see      3S.AGT 3S.PAT
+    "He/she/it sees him/her/it."
+    ```
+
+The noun phrase has mixed head-initial and head-final properties. The order is strictly: **(Adjective) > (Numeral) > Noun > (Genitive) > (Demonstrative)**. Adjectives can also function as stative intransitive verbs, in which case they follow their subject and take a patientive particle.
+
+*   **Adjective as Modifier:**
+    ```
+    'gʷaŋk 'vʲetrə
+    'gʷaŋk 'vʲetrə
+    big   boar
+    "the big boar"
+    ```
+*   **Adjective as Predicate:**
+    ```
+    'vʲetrə 'gʷaŋk ʃi.
+    'vʲetrə 'gʷaŋk ʃi
+    boar   big   3S.PAT
+    "The boar is big."
+    ```
+*   **Genitives:** Genitives follow the possessed noun. The structure is: `Possessed-Noun Possessor-Noun GEN-particle(ŋʷə)`. The particle `ŋʷə` marks the preceding noun as the possessor.
+    ```
+    'dʷolʲamə 'ʃkʷambər ŋʷə
+    'dʷolʲamə 'ʃkʷambər ŋʷə
+    house    hunter   GEN
+    "the hunter's house" (lit. "house of the hunter")
+    ```
+*   **Full NP Example:**
+    ```
+    'gʷaŋk kʷa'trolnʷa 'vʲetrə 'ʃkʷambər ŋʷə sʷo.
+    'gʷaŋk kʷa'trolnʷa 'vʲetrə 'ʃkʷambər ŋʷə   sʷo
+    big   two         boar   hunter   GEN   that
+    "those two big boars of the hunter"
+    ```
+
+Spatial relations are handled by two distinct systems. A small, closed class of "pre-verbs" behave like prepositions but are placed immediately before the main verb, following any of their own nominal arguments. Other spatial relations use a more typical system of postpositions, which follow the noun phrase. In clauses containing both an adverbial phrase and a pre-verb, the order is `Adverbial > Pre-verb Phrase > Main Verb`.
+
+*   **Pre-verb `fʲe` "towards":**
+    ```
+    'ʃkʷambər 'dʷolʲamə fʲe 'trəŋgo kʷo.
+    'ʃkʷambər 'dʷolʲamə fʲe 'trəŋgo kʷo
+    hunter   house    to  run    3S.AGT
+    "The hunter runs to the house."
+    ```
+*   **Postposition `ʒʷa` "inside":**
+    ```
+    'vʲetrə 'dʷolʲamə ʒʷa 'splʲemʲit ʃi.
+    'vʲetrə 'dʷolʲamə ʒʷa 'splʲemʲit ʃi
+    boar   house    in  fall      3S.PAT
+    "The boar falls inside the house."
+    ```
+
+Questions are formed by adding a sentence-final particle, not by changing word order.
+
+*   **Yes/No Questions (`ma`):** The particle `ma` is placed at the end of the sentence, after the verb's particle cluster.
+    ```
+    'ʃkʷambər 'vʲetrə sʷo'gʷaɲu kʷo ʃi ma?
+    'ʃkʷambər 'vʲetrə sʷo'gʷaɲu kʷo   ʃi   ma
+    hunter   boar   see      3S.AGT 3S.PAT Q
+    "Did the hunter see the boar?"
+    ```
+*   **Content (Wh-) Questions:** The question word (e.g., `sʲe` "who", `ʒʷo` "what") stays in its original position (in-situ), and the sentence ends with the interrogative particle `sə`.
+    ```
+    sʲe 'vʲetrə sʷo'gʷaɲu kʷo ʃi sə?
+    sʲe 'vʲetrə sʷo'gʷaɲu kʷo   ʃi   sə
+    who boar   see      3S.AGT 3S.PAT Q
+    "Who saw the boar?"
+    ```
+    ```
+    'ʃkʷambər ʒʷo sʷo'gʷaɲu kʷo ʃi sə?
+    'ʃkʷambər ʒʷo sʷo'gʷaɲu kʷo   ʃi   sə
+    hunter   what see      3S.AGT 3S.PAT Q
+    "What did the hunter see?"
+    ```
+
+Subordinate clauses are formed through nominalization. A verb and its post-verbal particle cluster are turned into a noun phrase by adding the nominalizing particle `brədʒʷaks`. This new NP can then function as an argument of a main clause.
+
+*   **Nominalized Clause as Object:**
+    ```
+    ['ʃkʷambər 'vʲetrə sʷo'gʷaɲu kʷo ʃi] brədʒʷaks 'frʲastbəto pʷo.
+    ['ʃkʷambər 'vʲetrə sʷo'gʷaɲu kʷo   ʃi]   brədʒʷaks 'frʲastbəto pʷo
+    [hunter   boar   see      3S.AGT 3S.PAT] NOM       know       1S.AGT
+    "I know that the hunter saw the boar." (lit. "I know the hunter's seeing of the boar.")
+    ```
+*   **Relative Clauses:** Relative clauses are also formed with `brədʒʷaks`. The nominalized clause modifies a head noun. If it modifies the subject, it is center-embedded between the subject and the rest of the clause. If it modifies the object or an oblique argument, it follows that noun phrase.
+    * **Modifying the Subject:**
+      ```
+      'ʃkʷambər ['vʲetrə sʷo'gʷaɲu kʷo ʃi brədʒʷaks] 'dʷolʲamə fʲe 'trəŋgo kʷo.
+      'ʃkʷambər ['vʲetrə sʷo'gʷaɲu kʷo   ʃi   brədʒʷaks] 'dʷolʲamə fʲe 'trəŋgo kʷo
+      hunter   [boar   see      3S.AGT 3S.PAT NOM      ] house    to  run    3S.AGT
+      "The hunter who saw the boar runs to the house."
+      ```
+    * **Modifying the Object:**
+      ```
+      'pəɲa 'vʲetrə ['ʃkʷambər sʷo'gʷaɲu kʷo ʃi brədʒʷaks] tə'mʲiʃpʷe kʷo ʃi.
+      'pəɲa 'vʲetrə ['ʃkʷambər sʷo'gʷaɲu kʷo   ʃi   brədʒʷaks] tə'mʲiʃpʷe kʷo   ʃi
+      person boar   [hunter   see      3S.AGT 3S.PAT NOM      ] throw    3S.AGT 3S.PAT
+      "The person throws the boar that the hunter saw."
+      ```
+    * **Modifying the Object of a Postposition:**
+      ```
+      'ʃkʷambər 'dʷolʲamə ['vʲetrə 'splʲemʲit ʃi brədʒʷaks] ʒʷa 'trəŋgo kʷo.
+      'ʃkʷambər 'dʷolʲamə ['vʲetrə 'splʲemʲit ʃi   brədʒʷaks] ʒʷa 'trəŋgo kʷo
+      hunter   house    [boar   fall      3S.PAT NOM      ] in  run    3S.AGT
+      "The hunter runs into the house that the boar fell in."
+      ```

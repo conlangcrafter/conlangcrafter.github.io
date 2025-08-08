@@ -1,0 +1,73 @@
+# Phonology
+
+## Consonants
+
+| | Bilabial | Alveolar | Palatal | Velar | Pharyngeal |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Plosive** | p pʰ | t tʰ | | k kʰ | |
+| **Nasal** | m | n | | | |
+| **Fricative** | | s | | | ħ ʕ |
+| **Approximant** | | l | j | | |
+
+## Vowels
+
+| | Front | Central | Back |
+| :--- | :---: | :---: | :---: |
+| **Close** | i iː | | u uː |
+| **Near-close** | ɪ ɪː | | |
+| **Close-mid** | e eː | | o oː |
+| **Open-mid** | ɛ ɛː | | |
+| **Open** | a aː | | |
+
+## Phonotactics
+
+The syllable structure is highly complex and permissive, represented as (C)(C)(C)V(V)(C)(C)(C). Initial clusters of up to three consonants and final clusters of up to three are allowed, with very few restrictions on which consonants can combine. The only major constraint is that pharyngeal consonants (/ħ/, /ʕ/) cannot participate in clusters. All vowels can form the nucleus, and long vowels are permitted. This structure allows for a vast number of possible syllables, many of which feature challenging consonant sequences adjacent to a complex vowel system.
+
+## Suprasegmentals
+
+The language features a complex pitch-accent system where tone and stress are intrinsically linked. Each word has one lexically-determined accented syllable, which is realized with a higher pitch and greater intensity. This accented syllable must carry one of five phonemic contour tones. Unaccented syllables are realized with a neutral mid-pitch, but this pitch is heavily influenced by the tone of the nearest accented syllable, creating a cascading tonal landscape across phrases. The vowel quality of unaccented syllables is not reduced; they are drawn from the full vowel inventory.
+
+The five phonemic tones and their standard diacritics are:
+*   High Level /˥/: acute accent (e.g., /á/)
+*   Low Level /˩/: grave accent (e.g., /à/)
+*   Rising /˩˥/: caron (e.g., /ǎ/)
+*   Falling /˥˩/: circumflex (e.g., /â/)
+*   Dipping /˥˩˥/: breve (e.g., /ă/)
+
+## Word Shapes and Lexical Statistics
+
+The lexicon of this language shows a clear distinction between function items and content words in terms of their phonological shape.
+
+Function words are monosyllabic (CV, CVC) or disyllabic (CV.CV), and typically contain short vowels. They must carry a lexical accent and tone like all words.
+
+Content words, in contrast, exhibit a much wider range of shapes. Most content words are disyllabic or trisyllabic. Monosyllabic content words are also quite common, and they often compensate for their single-syllable structure with phonological complexity, such as featuring a long vowel, a final consonant cluster, or both. Words of four or more syllables are rare and are typically complex derivatives or compounds. In compounds, only one morpheme retains its lexical accent.
+
+While the phonotactics permit extremely complex syllables, most syllables in practice are of the CV, CVC, or CCV type. Syllables with initial two-consonant clusters are very common, especially at the beginning of a word. Final two-consonant clusters are somewhat less frequent but still numerous. The most complex structures, involving three-consonant clusters, are rare. Initial CCC clusters appear in a few words, but final CCC clusters are exceptionally scarce. Words containing both an initial cluster and a final cluster are particularly rare. Similarly, long vowels are common, especially in accented syllables, but are less frequent in unaccented syllables. Words containing pharyngeal consonants tend to have simpler syllable structures immediately surrounding them, as these consonants cannot participate in clusters.
+
+### Lexical Items
+
+1.  /pʰá/ (function item, common)
+2.  /tɛ́/ (function item, common)
+3.  /nɪ́ːn/ (content item, common)
+4.  /jǒː/ (content item, common)
+5.  /tʰù/ (function item, common)
+6.  /ma.lɛ́/ (content item, common)
+7.  /ʕáː.tʰa/ (content item, common)
+8.  /i.sɔ̂ː/ (content item, common)
+9.  /pʰlě.nu/ (content item, common)
+10. /sta.pʰɪ́ː.la/ (content item, common)
+11. /tʰáː.ħo/ (content item, uncommon)
+12. /tjáː.ma/ (content item, common)
+13. /mù.so/ (function item, common)
+14. /spjáː/ (content item, uncommon)
+15. /tʰɛ́ːps/ (content item, common)
+16. /i.lɛ̀.mi/ (content item, common)
+17. /snǒːk.tʰa/ (content item, uncommon)
+18. /pʰá.ʕɪn/ (content item, common)
+19. /mɪ.tʰĕ.la/ (content item, common)
+20. /úː.laj/ (content item, common)
+21. /tʰnâːts/ (content item, particularly rare)
+22. /sɛ.pʰá.la.mi/ (content item, rare)
+23. /stlàk.mɔn/ (content item, rare)
+24. /i.ná.ħu.tɛ/ (content item, rare)
+25. /pʰlɛ̂ː.tja.so/ (content item, uncommon)

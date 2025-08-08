@@ -1,0 +1,178 @@
+# Grammar
+
+## Morphology
+
+The language is highly polysynthetic and agglutinative. Words, particularly verbs, are constructed by suffixing a long, transparent chain of morphemes to a root. While most morphemes carry a single, distinct grammatical meaning, some tense and aspect markers are fused. A simple vowel harmony system governs suffixation: suffixes have two forms, one with the vowel /a/ and one with the vowel /e/, conditioned by the final vowel of the root they attach to. If the root vowel is /a/ or /aː/, the suffix vowel is /a/. If the root vowel is /e/, /eː/, /o/, or /oː/, the suffix vowel is /e/. For example, the root `t̪a-` (see) and the past perfective suffix `-ʡa` simply combine to form `t̪a-ʡa`.
+
+*   **Morphological Complexity (5/5):** Verbs can incorporate nouns, adverbs, and a wide array of derivational and inflectional affixes, often forming single words that correspond to entire sentences in English.
+*   **Morpheme Fusion (1/5):** Morphemes are generally concatenated without alteration (beyond vowel harmony), with the main exception being some TAM suffixes.
+
+The language has no grammatical gender or noun classes.
+
+*   **Grammatical Gender/Noun Class (1/5):** Nouns are not categorized into any class system.
+
+### Noun Morphology
+
+Nouns are morphologically simpler than verbs. They inflect for case and number, and can take possessive suffixes.
+
+#### Case System
+
+The language uses a rich case system to mark the grammatical and semantic roles of nouns, which reduces the need for adpositions. The morphosyntactic alignment is split-ergative, meaning the case marking strategy depends on the aspect of the clause (see Syntax).
+
+*   **Case Marking (3/5):** A rich system of case suffixes is used.
+
+The core cases are (vowel harmony variants are shown as `-V-`):
+*   **Absolutive (ABS):** Unmarked. Used in the perfective aspect for the subject of an intransitive verb (S) and the object of a transitive verb (O).
+*   **Nominative (NOM):** Unmarked. Used in the imperfective aspect for the subject of an intransitive verb (S) and the agent of a transitive verb (A).
+*   **Ergative (ERG):** `-t̪e`/`-t̪a`. Used for the agent of a transitive verb (A) in the perfective aspect.
+*   **Dative (DAT):** `-ne`/`-na`. Used for the recipient or beneficiary of an action.
+    *   `d̪ʱaʡa-t̪a ma-ʡa ʢʱut̪a d̪ʱa-na`
+        d̪ʱaʡa-t̪a ma-ʡa ʢʱut̪a d̪ʱa-na
+        man-ERG show-PST.PFV house.ABS hand-DAT
+        "The man showed the house to the hand."
+*   **Accusative (ACC):** `-d̪e`/`-d̪a`. Used for the object of a transitive verb (O) in the imperfective aspect.
+
+Other common cases include:
+*   **Locative (LOC):** `-d̪ʱe`/`-d̪ʱa` (in, at, on)
+    *   `d̪ʱaʡa ʢ̰eːt̪e-ʡe ʢʱut̪a-d̪ʱa`
+        d̪ʱaʡa ʢ̰eːt̪e-ʡe ʢʱut̪a-d̪ʱa
+        man.ABS fall-PST.PFV house-LOC
+        "The man fell in the house."
+*   **Instrumental (INS):** `-d̪ʱe`/`-d̪ʱa` (with, by means of)
+*   **Genitive (GEN):** `-a` (of, 's). This suffix does not show vowel harmony.
+
+#### Number
+
+Plurality is marked with the suffix `-t̪e`/`-t̪a`. The singular is unmarked.
+*   `d̪ʱaʡa` (man) -> `d̪ʱaʡa-t̪a` (men)
+*   `ʢʱut̪a` (house) -> `ʢʱut̪a-t̪a` (houses)
+    *   `d̪ʱaʡa-t̪a-t̪a t̪a-ʡa ʢʱut̪a`
+        d̪ʱaʡa-t̪a-t̪a t̪a-ʡa ʢʱut̪a
+        man-PL-ERG see-PST.PFV house.ABS
+        "The men saw the house."
+
+### Verb Morphology
+
+Verbs are the morphological center of the language. A verb consists of a root followed by a strict order of suffixes: **ROOT - (Incorporated Noun) - (Derivational) - Tense/Aspect - Evidentiality**.
+
+**Verb Roots:** `t̪a-` (see), `ʢ̰eːt̪e-` (fall), `ma-` (show).
+**Noun Roots:** `d̪ʱa` (hand), `ʢʱut̪a` (house), `d̪ʱaʡa` (man).
+
+#### Noun Incorporation
+
+A key feature is the system of **semantic noun incorporation**. Noun roots can be incorporated into the verb to modify its meaning. This is not for core arguments (which remain outside the verb), but for instruments, locations, or to create a more specific type of action. The incorporated noun root appears directly after the verb root.
+*   `d̪ʱa-t̪a-ʡa`
+    d̪ʱa-t̪a-ʡa
+    hand-see-PST.PFV
+    "He/she hand-saw (i.e., examined by hand)."
+*   `d̪ʱaʡa t̪a-d̪ʱa-ʡa ʢʱut̪a-d̪ʱa`
+    d̪ʱaʡa t̪a-d̪ʱa-ʡa ʢʱut̪a-d̪ʱa
+    man.ABS see-hand-PST.PFV house-INS
+    "The man examined-by-hand with a house."
+
+#### Tense and Aspect (TAM)
+
+The language has a mixed system for marking tense and aspect, creating a mix of analytic and synthetic strategies which is directly tied to its split-ergative alignment.
+
+*   **TAM Marking (2/5):** The system combines suffixes and pre-verbal particles.
+*   **Perfective Aspect (PFV):** Marked with suffixes. It views an event as a single, completed whole. The primary past tense perfective suffix is `-ʡe`/`-ʡa` (PST.PFV).
+*   **Imperfective Aspect (IPFV):** Marked with a pre-verbal particle, `d̪e`. It views an event as ongoing, habitual, or incomplete. The particle can be inflected for tense; for example, `d̪e-ʡe` marks the past imperfective (PST.IPFV). The particle `d̪e` by itself indicates the present imperfective (PRS.IPFV).
+
+#### Evidentiality Suffixes
+
+A mandatory feature of the verbal complex is the final evidentiality suffix, which specifies the source of the speaker's knowledge. This system is unusually granular and follows vowel harmony.
+*   `-e`/`-a` **(Direct Visual):** The speaker saw the event.
+    *   `d̪ʱaʡa ʢ̰eːt̪e-ʡe-e`
+        d̪ʱaʡa ʢ̰eːt̪e-ʡe-e
+        man.ABS fall-PST.PFV-VIS
+        "The man fell (I saw it)."
+*   `-ne`/`-na` **(Direct Non-Visual):** The speaker experienced the event directly through other senses (hearing, feeling, etc.).
+    *   `d̪ʱaʡa ʢ̰eːt̪e-ʡe-ne`
+        d̪ʱaʡa ʢ̰eːt̪e-ʡe-ne
+        man.ABS fall-PST.PFV-NON.VIS
+        "The man fell (I heard/felt it)."
+*   `-me`/`-ma` **(Inferred):** The speaker concludes the event happened based on physical evidence.
+    *   `d̪ʱaʡa ʢ̰eːt̪e-ʡe-ma`
+        d̪ʱaʡa ʢ̰eːt̪e-ʡe-ma
+        man.ABS fall-PST.PFV-INFER
+        "The man must have fallen (I see the evidence, e.g., he is on the ground)."
+*   `-aː` **(Reported/Hearsay):** The speaker was told about the event. This suffix does not show vowel harmony.
+    *   `d̪ʱaʡa ʢ̰eːt̪e-ʡe-aː`
+        d̪ʱaʡa ʢ̰eːt̪e-ʡe-aː
+        man.ABS fall-PST.PFV-REP
+        "The man fell (I was told)."
+
+## Syntax
+
+The language has a rigid order for core constituents. It is consistently head-initial.
+
+*   **Basic Constituent Order (1/SVO):** The SVO order for core arguments is strict. In imperfective clauses, the aspectual particle precedes the subject, resulting in a Particle-S-V(O) order.
+*   **Head-Directionality (1/Head-Initial):** This SVO order is a reflection of a broader head-initial typology:
+    *   **Verbs precede Objects:** (S**VO**)
+    *   **Nouns precede Genitives:** Nouns are the head of the noun phrase.
+        *   `ʢʱut̪a d̪ʱaʡa-a`
+            ʢʱut̪a d̪ʱaʡa-a
+            house man-GEN
+            "the man's house" (lit. "house of-man")
+    *   **Adpositions are prepositions:** While rare, adpositions are head-initial.
+
+A primary reliance is placed on case marking over adpositions. While prepositions exist, they are rare and used only for complex spatial relations.
+
+*   **Adpositional Strategy (4/Case over Adpositions):** Most locative, instrumental, and benefactive roles are expressed through case suffixes.
+
+### Split-Ergative Alignment
+
+This is a core feature of the syntax. The case-marking strategy changes depending on the grammatical aspect of the clause.
+
+*   **Morphosyntactic Alignment (2/Ergative-Absolutive / Split):**
+*   **Perfective Aspect (Ergative-Absolutive):** In clauses with perfective aspect (e.g., marked by the suffix `-ʡe`/`-ʡa`), the alignment is Ergative-Absolutive. The agent (A) of a transitive verb is marked with the Ergative (`-t̪e`/`-t̪a`), while the patient (O) and intransitive subject (S) are in the unmarked Absolutive case.
+    *   **Transitive:**
+        `d̪ʱaʡa-t̪a t̪a-ʡa-a ʢʱut̪a`
+        d̪ʱaʡa-t̪a t̪a-ʡa-a ʢʱut̪a
+        man-ERG see-PST.PFV-VIS house.ABS
+        "The man saw the house." (a completed action)
+    *   **Intransitive:**
+        `d̪ʱaʡa ʢ̰eːt̪e-ʡe-e`
+        d̪ʱaʡa ʢ̰eːt̪e-ʡe-e
+        man.ABS fall-PST.PFV-VIS
+        "The man fell."
+*   **Imperfective Aspect (Nominative-Accusative):** In clauses with imperfective aspect (marked by the particle `d̪e`), the alignment is Nominative-Accusative. The agent (A) and intransitive subject (S) are in the Nominative case (which is morphologically unmarked), while the patient (O) is marked with the Accusative case suffix `-d̪e`/`-d̪a`.
+    *   **Transitive:**
+        `d̪e d̪ʱaʡa t̪a-a ʢʱut̪a-d̪a`
+        d̪e d̪ʱaʡa t̪a-a ʢʱut̪a-d̪a
+        PRS.IPFV man.NOM see-VIS house-ACC
+        "The man is seeing/sees the house." (an ongoing or habitual action)
+    *   **Intransitive:**
+        `d̪e d̪ʱaʡa ʢ̰eːt̪e-e`
+        d̪e d̪ʱaʡa ʢ̰eːt̪e-e
+        PRS.IPFV man.NOM fall-VIS
+        "The man is falling."
+
+### Pronoun Dropping
+
+The language features topic-based pronoun dropping. Any argument (subject, object, etc.) that is the established topic of the discourse can be omitted from a clause.
+
+*   **Pro-drop (4/Topic-based):** If "the man" is the topic of conversation:
+    *   `(d̪ʱaʡa) ʢ̰eːt̪e-ʡe-e`
+        (d̪ʱaʡa) ʢ̰eːt̪e-ʡe-e
+        (man.ABS) fall-PST.PFV-VIS
+        "(He) fell."
+
+### Questions
+
+Questions are formed syntactically, without changing the core SVO word order.
+
+*   **Yes/No Questions:** Formed by adding the clause-final particle `ha`.
+    *   `d̪ʱaʡa-t̪a t̪a-ʡa-a ʢʱut̪a ha`
+        d̪ʱaʡa-t̪a t̪a-ʡa-a ʢʱut̪a ha
+        man-ERG see-PST.PFV-VIS house.ABS Q
+        "Did the man see the house?"
+*   **Content Questions (Wh-questions):** An interrogative pronoun is placed in the standard argument position for the thing being questioned. The interrogative roots are `o-` (who) and `e-` (what), which take case suffixes like nouns.
+    *   `o-t̪e t̪a-ʡa-a ʢʱut̪a`
+        o-t̪e t̪a-ʡa-a ʢʱut̪a
+        who-ERG see-PST.PFV-VIS house.ABS
+        "Who saw the house?"
+    *   `d̪ʱaʡa-t̪a t̪a-ʡa-a e`
+        d̪ʱaʡa-t̪a t̪a-ʡa-a e
+        man-ERG see-PST.PFV-VIS what.ABS
+        "What did the man see?"

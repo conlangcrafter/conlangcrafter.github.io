@@ -1,0 +1,199 @@
+# Grammar
+
+## Morphology
+
+The morphology of the language is primarily analytic, with a low degree of synthesis (Complexity: 2/5). Grammatical information is conveyed through separate function words and suppletion rather than affixation. All inflection is suppletive; for instance, a verb's tense or a noun's number is indicated by using a completely different root word, not by adding a prefix or suffix. This results in a large lexicon of related but phonologically distinct forms.
+
+### Verbal Suppletion
+
+Verbs are highly suppletive, meaning a single semantic root like 'to go' will have dozens of distinct, unpredictable forms. Each combination of tense (past, present, future), aspect (perfective, imperfective), and mood (indicative, potential) is a unique suppletive form that must be learned. The verbal system is moderately complex (Complexity: 3/5).
+
+*   *gɔ̀.t͡ʃá xɔ́.mɔ̀n̪*
+*   gɔ̀.t͡ʃá xɔ́.mɔ̀n̪
+*   see.PRS.IND.3S person.SG
+*   'The person sees.'
+
+*   *s̪ˤɛ̀.l̪ə̂.t̪ʰˤə̀ xɔ́.mɔ̀n̪*
+*   s̪ˤɛ̀.l̪ə̂.t̪ʰˤə̀ xɔ́.mɔ̀n̪
+*   see.PST.PFV.3S person.SG
+*   'The person saw (completed action).'
+
+*   *z̪ʷɛ́l̪.t̪*
+*   z̪ʷɛ́l̪.t̪
+*   see.PST.3A.3P
+*   'He/she/it saw him/her/it/them.' (Example of a past tense form for 'see', distinct from the present /kʰɛ́d̪ˤ/)
+
+This system is organized by a three-tiered paradigm system based on vowel harmony class. Every verbal root belongs to one of three paradigms, and its suppletive forms will generally adhere to the vowel harmony of its paradigm.
+
+*   **High-Vowel Paradigm:** Verbs in this paradigm tend to have suppletive forms dominated by high vowels {i, u, ɪ, ʊ}.
+    *   *Example:* The root for 'to sleep' might have forms like /jɪ́.rʊ̀.ŋɪ̀n/ (sleep.PRS.IND.3S) and /t̪ʰʷɪ̀.lʊ̀.bɪ́n/ (sleep.PST.IND.3S).
+*   **Low-Vowel Paradigm:** Verbs in this paradigm favor low vowels {ɛ, ɔ, a}.
+    *   *Example:* The root for 'to see' uses forms like /kʰɛ́d̪ˤ/ (see.PRS.3A.3P) and /gɔ̀.t͡ʃá/ (see.PRS.IND.3S).
+*   **Mixed-Vowel Paradigm:** These verbs are highly irregular, as their set of suppletive forms contains a mix of words from the high-vowel class and words from the low-vowel class. Any given word form will, however, contain vowels from only one of the two harmony sets (high or low), though the neutral vowel /ə/ may appear in words of either set.
+    *   *Example:* The verb 'to give' is in the Mixed-Vowel Paradigm. Its present indicative form is /ʃí.bʊ̀/ (high-vowel harmony), while its future potential form is /t̪ʰá.ɣà.n̪ɔ̀.d͡ʒà/ (low-vowel harmony).
+
+### Nominal Suppletion
+
+Nouns exhibit suppletion for number and, for animate nouns, for role-emphasis.
+
+*   **Number:** Singular and plural forms are distinct lexical items.
+    *   *xɔ́.mɔ̀n̪*
+    *   person.SG
+    *   'a person'
+
+    *   *t͡ʃʰàl̪.pʰɛ́ŋ*
+    *   person.PL
+    *   'people'
+
+*   **Role-Emphasis (Animates):** This is not a case system, as the verb's tripartite marking still determines grammatical roles. Instead, it is a pragmatic choice to highlight a noun's typical or specific role in a discourse. Animate nouns have distinct forms when the speaker wishes to emphasize their role as either the primary actor or undergoer. This focus reflects the speaker's perspective on the noun's typical or thematic role in the situation, even if it contradicts its grammatical role in the specific clause. For instance, a dog that is typically a pet (an 'undergoer' of affection) might be marked with patientive-focus even when it is the grammatical agent of a verb like 'sees'.
+    *   *Example:* The root for 'dog' might have a neutral singular form /gə̀.d͡zə́k/, an agentive-focus form /ŋà.t͡sʰə.d̪á/ ('dog as an actor'), and a patientive-focus form /d̪ʷá.kʰà.l̪à/ ('dog as an acted-upon').
+
+    *   *d̪ʷá.kʰà.l̪à kʰɛ́d̪ˤ*
+    *   d̪ʷá.kʰà.l̪à kʰɛ́d̪ˤ
+    *   dog.PAT.FOC see.PRS.3A.3P
+    *   'The dog (being looked at) sees.' (Grammatically the dog is the subject; the form just adds pragmatic focus on its patient-like state).
+
+### Function Words
+
+Grammatical functions like mood, aspect, definiteness, negation, and coordination are handled by free-standing function words. These are typically short, monosyllabic, and often contain neutral or simple vowels (e.g., /bə́/, /d͡ʒá/).
+
+## Syntax
+
+The most striking feature of the syntax is that word order is fixed alphabetically based on the phonemic transcription of each word in a clause. The language's underlying typological profile (VSO, head-marking) is realized through other grammatical mechanisms, as surface order is grammatically inert.
+
+### Alphabetical Word Order
+
+All words in a sentence are arranged in alphabetical order. This rule overrides any other syntactic ordering principles. If two words begin with the same phoneme, they are sorted based on the second phoneme, and so on, until a difference is found. The sorting order is: a, b, d̪, d̪ʷ, d̪ʲ, d͡z, d͡ʒ, d̪ˤ, ɛ, ə, g, ɣ, i, ɪ, j, k, kʰ, l̪, m, n, n̪, ŋ, ɔ, p, pʰ, r, s̪, s̪ʷ, s̪ʲ, s̪ˤ, ʃ, t̪, t̪ʷ, t̪ʲ, t̪ʰ, t̪ʰʷ, t̪ʰʲ, t̪ʰˤ, t͡s, t͡sʰ, t͡ʃ, t͡ʃʰ, u, ʊ, w, x, z̪, z̪ʷ, z̪ʲ, z̪ˤ, ʒ.
+
+*   *d͡ʒá kʰɛ́d̪ˤ t͡ʃʰàl̪.pʰɛ́ŋ xɔ́.mɔ̀n̪*
+*   d͡ʒá kʰɛ́d̪ˤ t͡ʃʰàl̪.pʰɛ́ŋ xɔ́.mɔ̀n̪
+*   DEF see.PRS.3A.3P person.PL person.SG
+*   'The person sees the people.' (Note: Alphabetical order of /d͡ʒá/, /kʰɛ́d̪ˤ/, /t͡ʃʰàl̪.pʰɛ́ŋ/, /xɔ́.mɔ̀n̪/)
+
+### Grammatical Relations
+
+*   **Head-Marking and Tripartite Alignment**: The language is strongly head-marking (Locus: 4/5). The verb is inflected (suppletively) to agree with its arguments. This marking follows a tripartite alignment system, where the subject of an intransitive verb (S), the agent of a transitive verb (A), and the patient of a transitive verb (P) are all distinctly marked on the verb. This system is crucial for interpreting sentences given the alphabetical word order.
+
+    *   *gɔ̀.t͡ʃá xɔ́.mɔ̀n̪*
+    *   gɔ̀.t͡ʃá xɔ́.mɔ̀n̪
+    *   see.PRS.3S person.SG
+    *   'The person sees.' (Intransitive S-argument marked on verb)
+
+    *   *kʰɛ́d̪ˤ t͡ʃʰàl̪.pʰɛ́ŋ xɔ́.mɔ̀n̪*
+    *   kʰɛ́d̪ˤ t͡ʃʰàl̪.pʰɛ́ŋ xɔ́.mɔ̀n̪
+    *   see.PRS.3A.3P person.PL person.SG
+    *   'The person sees the people.' (Transitive A and P arguments marked on verb; the verb form /kʰɛ́d̪ˤ/ is distinct from the intransitive form /gɔ̀.t͡ʃá/)
+
+*   **No Case Marking**: Nouns have no case marking (Case System: 1/5). Their grammatical role is identified solely by the cross-referencing on the verb.
+
+*   **Radical Pro-Drop**: Subject and object pronouns are almost always omitted (Pro-Drop: 4/5), as their information is fully encoded on the verb. Overt nouns are used for introducing new referents or for emphasis.
+
+    *   *z̪ʷɛ́l̪.t̪*
+    *   z̪ʷɛ́l̪.t̪
+    *   see.PST.3A.3P
+    *   'He/she/it saw him/her/it/them.'
+
+*   **Copular Clauses**: Equational and attributive clauses (e.g., "the person is big") are formed without an overt copula verb. The predicate (e.g., an adjective) is treated as an independent word and alphabetized in the clause along with the subject noun. The relationship is understood pragmatically.
+
+### Modifier Order
+
+A noun and its modifiers (adjectives, genitives) must be contiguous. The head noun appears first, followed by its modifiers, which are alphabetized among themselves. The entire resulting noun phrase is then placed in the sentence, with its position determined by the alphabetical order of the head noun relative to all other words in the sentence.
+
+*   **Order within Modifier Block:** All modifiers within the block are themselves alphabetized. The vowel harmony class of a modifier does not need to match the vowel harmony class of the noun it modifies.
+    *   *Example:* Let's assume /gə̀.d͡zə́k/ means 'ugly' and /t̪ʰˤɔ́.ɣà/ means 'big'. "The ugly big house" is:
+
+    *   *pʰʊ̀l̪.t͡ʃʰɪ́k gə̀.d͡zə́k t̪ʰˤɔ́.ɣà*
+    *   pʰʊ̀l̪.t͡ʃʰɪ́k gə̀.d͡zə́k t̪ʰˤɔ́.ɣà
+    *   house ugly big
+    *   'the ugly big house' (/g/ comes before /t̪ʰˤ/ in the alphabet). In this example, the noun /pʰʊ̀l̪.t͡ʃʰɪ́k/ belongs to the high-vowel harmony class, while its modifier /t̪ʰˤɔ́.ɣà/ belongs to the low-vowel harmony class, which is permitted.
+
+*   **Attributive vs. Predicative Adjectives:** Attributive modifiers form a contiguous block following their head noun, as described above. Predicative adjectives, however, are treated as independent words in the clause and are alphabetized accordingly. For example, "The person is big" would be *t̪ʰˤɔ́.ɣà xɔ́.mɔ̀n̪* (big person.SG). The two words are alphabetized independently in the clause, resulting in the order /t̪ʰˤɔ́.ɣà/ followed by /xɔ́.mɔ̀n̪/.
+
+*   **Noun-Genitive**: The possessed noun is followed by the possessor (Order: 2/5).
+    *   *pʰʊ̀l̪.t͡ʃʰɪ́k xɔ́.mɔ̀n̪*
+    *   pʰʊ̀l̪.t͡ʃʰɪ́k xɔ́.mɔ̀n̪
+    *   house person.SG
+    *   'the person's house'
+
+*   **Comparative and Superlative:** Comparison is handled by analytic particles that are treated as adjectives within the modifier block. Assuming /bə́/ means 'more' and /d͡ʒá/ means 'most':
+    *   *pʰʊ̀l̪.t͡ʃʰɪ́k bə́ t̪ʰˤɔ́.ɣà*
+    *   pʰʊ̀l̪.t͡ʃʰɪ́k bə́ t̪ʰˤɔ́.ɣà
+    *   house more big
+    *   'a bigger house' (/b/ comes before /t̪ʰˤ/ within the modifier block)
+
+    *   *pʰʊ̀l̪.t͡ʃʰɪ́k d͡ʒá t̪ʰˤɔ́.ɣà*
+    *   pʰʊ̀l̪.t͡ʃʰɪ́k d͡ʒá t̪ʰˤɔ́.ɣà
+    *   house most big
+    *   'the biggest house' (The particle /d͡ʒá/ is sorted alphabetically within the modifier block.)
+
+### Adpositions
+
+The language uses both prepositions and postpositions (Adpositions: 3/3). Their placement relative to the noun is determined lexically. An adposition and its object noun must be contiguous. The entire resulting phrase is then placed in the sentence, with its position determined by the alphabetical order of its first word (either the adposition or the noun) relative to all other words.
+
+*   *bə́ pʰʊ̀l̪.t͡ʃʰɪ́k*
+*   bə́ pʰʊ̀l̪.t͡ʃʰɪ́k
+*   in house
+*   'in the house' (Prepositional phrase, alphabetized under /b/)
+
+*   *pʰʊ̀l̪.t͡ʃʰɪ́k ʃí.bʊ̀*
+*   pʰʊ̀l̪.t͡ʃʰɪ́k ʃí.bʊ̀
+*   house with
+*   'with the house' (Postpositional phrase, alphabetized under /pʰ/)
+
+### Negation
+
+Negation is expressed via a dedicated negative function word, /d͡zə́/, which simply appears in its alphabetical place in the sentence. The verb itself is not altered.
+*   *d͡zə́ gɔ̀.t͡ʃá xɔ́.mɔ̀n̪*
+*   d͡zə́ gɔ̀.t͡ʃá xɔ́.mɔ̀n̪
+*   NEG see.PRS.3S person.SG
+*   'The person does not see.'
+
+### Question Formation
+
+Since word order cannot be altered, questions are formed using specialized function words or verbal moods.
+
+*   **Yes/No Questions:** A sentence is turned into a yes/no question by including the polar question particle /kʰə́/. Its position, like all words, is determined alphabetically.
+    *   *gɔ̀.t͡ʃá kʰə́ xɔ́.mɔ̀n̪*
+    *   gɔ̀.t͡ʃá kʰə́ xɔ́.mɔ̀n̪
+    *   see.PRS.3S Q person.SG
+    *   'Does the person see?'
+
+*   **Content (Wh-) Questions:** Content questions are formed using suppletive interrogative verbs. Instead of a "wh-word" like 'who' or 'what', the main verb is replaced by an interrogative version that has a "gap" for the unknown element (Agent, Patient, etc.). Overt nouns in the clause identify the other roles.
+    *   *Example:* To ask "Who saw the people?", one uses the 'see' verb's suppletive A-interrogative form.
+    *   *s̪ʲà.t̪ʰʲá t͡ʃʰàl̪.pʰɛ́ŋ*
+    *   s̪ʲà.t̪ʰʲá t͡ʃʰàl̪.pʰɛ́ŋ
+    *   see.PST.A-INT.3P person.PL
+    *   'Who saw the people?' (Literally: 'An unknown agent saw the people.')
+
+    *   *Example:* To ask "What did the person see?", one uses the P-interrogative form.
+    *   *s̪ʲì.jù.t̪ʲî.kʰù xɔ́.mɔ̀n̪*
+    *   s̪ʲì.jù.t̪ʲî.kʰù xɔ́.mɔ̀n̪
+    *   see.PST.P-INT.3A person.SG
+    *   'What did the person see?' (Literally: 'The person saw an unknown patient.')
+
+### Multi-Clause Structures
+
+All multi-clause sentences, including those involving coordination and subordination, follow a single, consistent rule: all words from all clauses are combined into a single pool and then globally alphabetized. Syntactic relationships between clauses are established through other means, such as coordinators or special anaphoric verb forms.
+
+*   **Nominal Coordination ("and"):** The coordinator and the nouns it connects must be contiguous. Within this block, all words (the nouns and the coordinator itself) are alphabetized. The entire resulting block is then placed in the sentence, with its position determined by the alphabetical order of its first word relative to all other words. The coordinated nouns are treated as a single unit for purposes of role assignment on the verb. The verb takes a form that agrees with the coordinated nouns as a plural agent (A) and with an implied patient (P).
+    *   *d͡ʒá gɔ̀.lɛ.t͡ʃá [t͡ʃʰàl̪.pʰɛ́ŋ jɪn xɔ́.mɔ̀n̪]*
+    *   d͡ʒá gɔ̀.lɛ.t͡ʃá t͡ʃʰàl̪.pʰɛ́ŋ jɪn xɔ́.mɔ̀n̪
+    *   DEF see.PRS.PL.A.3P person.PL and person.SG
+    *   'The people and the person see it/them.'
+
+*   **Clausal Coordination ("and then"):** Two clauses can be joined by a sequential coordinator, such as /bɪ́n/. All words from both clauses, including the coordinator, are alphabetized together into a single sentence.
+    *   *bɪ́n gɔ̀.t͡ʃá s̪ʷɛ́.n̪à t͡ʃʰàl̪.pʰɛ́ŋ xɔ́.mɔ̀n̪*
+    *   bɪ́n gɔ̀.t͡ʃá s̪ʷɛ́.n̪à t͡ʃʰàl̪.pʰɛ́ŋ xɔ́.mɔ̀n̪
+    *   and.then see.PRS.3S see.PST.PL.S person.PL person.SG
+    *   'The person sees, and then the people saw.' (All words alphabetized globally: /bɪ́n/, /gɔ̀.t͡ʃá/, /s̪ʷɛ́.n̪à/, /t͡ʃʰàl̪.pʰɛ́ŋ/, /xɔ́.mɔ̀n̪/).
+
+*   **Subordination and Relative Clauses:** Embedding is handled with a **"resumptive clause"** strategy. A relative clause is not embedded; instead, its words are added to the main clause pool. The link is established by using a special **anaphoric verb form** in the relative clause. The final sentence is formed by alphabetizing the words of both clauses together as one single unit.
+    *   *Example:* "The person who sees the people is big."
+    1.  Main Clause: "The person is big." -> *t̪ʰˤɔ́.ɣà xɔ́.mɔ̀n̪* (big person.SG)
+    2.  Relative Clause: "[That person] sees the people." -> *ɣɔ́.n̪à.d͡ʒà t͡ʃʰàl̪.pʰɛ́ŋ* (see.PRS.3A.3P.ANAP person.PL), where */ɣɔ́.n̪à.d͡ʒà/* is a suppletive form meaning "the previously mentioned one sees".
+    3.  Combined and alphabetized:
+
+    *   *ɣɔ́.n̪à.d͡ʒà t͡ʃʰàl̪.pʰɛ́ŋ t̪ʰˤɔ́.ɣà xɔ́.mɔ̀n̪*
+    *   ɣɔ́.n̪à.d͡ʒà t͡ʃʰàl̪.pʰɛ́ŋ t̪ʰˤɔ́.ɣà xɔ́.mɔ̀n̪
+    *   see.PRS.ANAP person.PL big person.SG
+    *   'The person who sees the people is big.'

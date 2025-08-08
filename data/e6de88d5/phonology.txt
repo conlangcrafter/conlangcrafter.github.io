@@ -1,0 +1,71 @@
+# Phonology
+
+## Consonants
+
+| | Labial | Alveolar | Postalveolar | Velar | Glottal |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Nasal** | m | n | | ŋ | |
+| **Stop** | p | t | | k | ʔ |
+| **Affricate** | | ts | tʃ | | |
+| **Fricative** | f | s ɬ | ʃ | x | h |
+| **Approximant** | w | l ɾ | j | | |
+
+## Vowels
+
+| | Front | Central | Back |
+| :--- | :---: | :---: | :---: |
+| **High** | i / i̘ | | u / u̘ |
+| **Mid** | e / e̘ | | o / o̘ |
+| **Low** | a / a̘ | | |
+
+*Each vowel has a phonemic contrast between its normal (RTR) and Advanced Tongue Root (ATR) realization. ATR vowels are marked with the diacritic `̘`.*
+
+## Phonotactics
+
+The syllable structure is ((C)(C))V(C)(C). A vowel is mandatory.
+
+**Onsets:** Onsets are optional and can have up to two consonants. In a two-consonant onset, the first must be a fricative and the second must be an approximant (e.g., /fl-, sw-, ʃɾ-/).
+
+**Codas:** Codas are optional. A coda can be a single nasal, stop (including /ʔ/), or fricative. It can also be a complex cluster of up to two consonants, where the first is a nasal and the second is a homorganic stop (e.g., /-mp, -nt, -ŋk/).
+
+## Suprasegmentals
+
+The language uses a pitch-accent system. One syllable in each lexical root carries a high pitch; all other syllables have a default low pitch. The location of this high pitch is lexically determined and can be contrastive (e.g., *'takama* vs. *ta'kama*). All vowels in a word must agree in their tongue root position; they are either all ATR ([+ATR]) or all RTR ([-ATR]). This ATR harmony is triggered by the root, with suffixes assimilating to the root's ATR value.
+
+## Word Shapes and Lexical Statistics
+
+Words in this language are characteristically consonant-rich, a direct result of the large consonant inventory and the allowance for complex syllable onsets and codas. Word length varies, but a clear distinction exists between the shapes of content and function words.
+
+Most content words (nouns, verbs, adjectives) are disyllabic or trisyllabic. These words frequently exhibit the full range of phonotactic possibilities, including complex onsets like /fl-, sw-, ʃɾ-/ and complex codas such as /-mp, -nt, -ŋk/. Monosyllabic content words also exist but are less common; when they do occur, they often feature complex onsets or codas (e.g., CVCC, CCVC, or CCVCC). Words of four or more syllables are relatively rare and are typically derived forms or compounds. The lexically determined pitch accent is a key feature of all content words.
+
+Function words (pronouns, prepositions, conjunctions) are monosyllabic and phonologically simple, consisting of just a CV or CVC syllable. They do not utilize the complex CC- clusters available in the language. All function words carry a high pitch, as they constitute a lexical root.
+
+Due to the strict ATR harmony, every word in the language is uniformly either [+ATR] or [-ATR]. This feature does not affect syllable structure but is a pervasive phonological characteristic of all lexical items.
+
+**Lexical Items**
+
+1.  /'tʃe̘/ (Function item, common)
+2.  /'na/ (Function item, common)
+3.  /'o̘k/ (Function item, common)
+4.  /'ɬi/ (Function item, common)
+5.  /'ʔamp/ (Content item, common)
+6.  /'i̘nt/ (Content item, common)
+7.  /'xwa̘/ (Content item, somewhat common)
+8.  /ʃu'a̘/ (Content item, somewhat common)
+9.  /flu'o̘mp/ (Content item, somewhat uncommon)
+10. /'ʃɾent/ (Content item, rare)
+11. /ta'kama/ (Content item, common)
+12. /'takama/ (Content item, common)
+13. /pi'le̘tʃi̘/ (Content item, common)
+14. /'so̘no̘ŋk/ (Content item, common)
+15. /xa'ɾu̘ntu̘/ (Content item, common)
+16. /'ɬaʔis/ (Content item, somewhat common)
+17. /fle'tʃo̘/ (Content item, somewhat common)
+18. /'swunaŋk/ (Content item, somewhat common)
+19. /ma'tse̘le̘/ (Content item, common)
+20. /'jiŋke̘/ (Content item, common)
+21. /ʃi'ko̘laha̘/ (Content item, somewhat uncommon)
+22. /'fuɾimpak/ (Content item, somewhat uncommon)
+23. /'hwe̘ʔe̘na̘/ (Content item, somewhat common)
+24. /tsa'ŋko̘tso̘/ (Content item, common)
+25. /ʔu'ɬe̘na̘t/ (Content item, rare)

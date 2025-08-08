@@ -1,0 +1,15 @@
+{
+  "id": "5e9c1078",
+  "name": "Kalanga",
+  "created_at": "2025-08-02 18:15:04",
+  "model": "gemini-2.5-pro",
+  "user_constraints": null,
+  "has_phonology": true,
+  "has_grammar": true,
+  "has_lexicon": true,
+  "completeness": 100,
+  "features": [
+    "Active-Stative Alignment",
+    "Evidentiality System"
+  ]
+}

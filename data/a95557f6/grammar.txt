@@ -1,0 +1,191 @@
+# Grammar
+
+## Morphology
+
+The language's morphology is consistently agglutinative and primarily suffixing, with a one-to-one correspondence between morphemes and their functions. Grammatical information is encoded via a consistent system of suffixes attached to roots. All grammatical marking is strictly on the dependent element (e.g., nouns carry case markers, verbs do not show agreement).
+
+### Nouns
+
+Nouns are invariable stems to which number and case suffixes are attached.
+
+*   **Nominative (Subject):** Unmarked (zero suffix, `-∅`).
+*   **Accusative (Direct Object):** `-un`. The final `/n/` of this suffix assimilates in place of articulation to a following consonant. It becomes `-um` before a labial consonant (e.g., /p/, /b/, /m/) and `-uŋ` before a velar consonant (e.g., /k/, /g/). It remains `-un` in all other contexts, including before vowels, glottal consonants (e.g., /ʔ/), other non-labial, non-velar consonants, or at the end of a sentence.
+*   **Genitive (Possession):** `-no`. This suffix is derived from the Japanese possessive particle `の` (no) and behaves like a case marker.
+*   **Plural:** `-ol`, which is always placed before the case marker.
+
+| | Singular | Plural |
+| :--- | :--- | :--- |
+| **Nominative** | `inu` (dog) | `inu-ol` (dogs) |
+| **Accusative** | `inu-un` | `inu-ol-un` |
+| **Genitive** | `inu-no` | `inu-ol-no` |
+
+*   `matːa-o ʔamiko-no kasa-um mi.`
+*   wait-NPST friend-GEN umbrella-ACC I
+*   "I wait for a friend's umbrella."
+
+### Pronouns
+
+Pronouns are mandatory and cannot be dropped (no pro-drop). This is a feature inherited from Esperanto's structure and reinforced to avoid ambiguity in the VOS word order. They are treated as regular nouns and take the same case markings.
+
+| Person | Nominative | Accusative | Genitive |
+| :--- | :--- | :--- | :--- |
+| **1st Sg.** | `mi` (I) | `mi-un` | `mi-no` |
+| **2nd Sg./Pl.** | `na` (you) | `na-un` | `na-no` |
+| **3rd Sg.** | `go` (he/she/it) | `go-un` | `go-no` |
+| **1st Pl.** | `ni` (we) | `ni-un` | `ni-no` |
+| **3rd Pl.** | `i` (they) | `i-un` | `i-no` |
+
+The 3rd person singular pronoun `go` is identical to the perfective focus particle. The perfective particle `go` is always part of an adverbial `[go + V.stem]` clause preceding the main verb. The pronoun `go` can only appear in the final Subject position of the main VOS clause. Thus, a sentence like `go matːa uta-o go` is unambiguous, meaning "Having waited, he/she/it sings."
+
+*   `uta-o utao-um mi.`
+*   sing-NPST song-ACC I
+*   "I sing a song."
+
+### Adjectives and Adverbs
+
+There is no distinct morphological class for adjectives and adverbs. Instead, stative verbs (verbs describing a state or quality) are used in their place.
+
+To modify a noun, a stative verb is used in its bare stem form, placed before the noun it modifies. This is distinct from a full relative clause.
+
+*   `amai` (is sweet) -> `amai pãno` (sweet bread, lit. "is-sweet bread")
+*   `silːa` (is new/knows) -> `silːa ʃimbun` (new newspaper, lit. "is-new newspaper")
+
+*   `matːa-o amai pãno-un ʔamiko.`
+*   wait-NPST sweet bread-ACC friend
+*   "A friend waits for the sweet bread."
+
+To function as an adverb modifying a main verb, the stative verb is used in its stem form in a Serial Verb Construction (SVC) preceding the main verb.
+
+*   `gomːen uta-o ʔamiko.`
+*   quietly sing-NPST friend
+*   "A friend sings quietly." (Lit: "Is-quiet sing friend.")
+
+### Verbs
+
+Verbs are marked only for a simplified set of Tense-Aspect-Mood (TAM) distinctions via suffixes. There is no person or number agreement.
+
+**TAM Suffixes:**
+*   **Non-past tense:** `-o` (present or future; from Esperanto `-as` and Japanese `-u`)
+*   **Past tense:** `-a` (simple past, imperfective; from Esperanto `-is`)
+*   **Volitional/Imperative:** `-e` (from Esperanto `-u` and Japanese `-(y)ō`)
+
+From the root `uta` (sing):
+*   `uta-o` (sings / will sing)
+*   `uta-a` (sang)
+*   `uta-e` (let's sing / sing!)
+
+**Perfective Aspect:**
+A periphrastic perfective aspect is formed using the focus particle `go`. This particle is followed by a verb stem. This `[go + V.stem]` construction functions as an adverbial clause of anterior time, preceding the main verb of the V-O-S clause to indicate that its action was completed before the action of the main clause. The verb in the `go` clause shares its subject with the main clause's subject.
+
+*   `**go matːa** uta-o utao-um mi.`
+*   **FOC wait** sing-NPST song-ACC I
+*   "Having waited, I will sing a song." / "I have finished waiting and will sing a song."
+
+**Evidential System:**
+The language uses mandatory evidential particles suffixed to the verb for all past-tense statements about third-person subjects (singular and plural). This system indicates the source of the speaker's knowledge.
+
+*   **Direct Evidence:** `-to` (The speaker directly witnessed the event).
+*   **Hearsay/Reportative:** `-de` (The speaker was told about the event).
+
+This marking is not used for first-person (`mi`), second-person (`na`), or first-person plural (`ni`) past events, for non-past (`-o`), or for volitional (`-e`) moods.
+
+*   `matːa-a-**to** kĩno-un otosan.`
+*   wait-PST-**EVID.DIR** gold-ACC father
+*   "Father waited for the gold (I saw him do it)."
+
+*   `matːa-a-**de** kĩno-un otosan.`
+*   wait-PST-**EVID.HR** gold-ACC father
+*   "Father waited for the gold (I heard)."
+
+## Syntax
+
+The syntax combines a rigid Verb-Object-Subject (VOS) constituent order with the flexibility of postpositions and serial verb constructions.
+
+### Basic Constituent Order
+The basic word order is VOS. Grammatical roles are indicated by case markers on nouns: the subject is in the unmarked nominative case, and the direct object takes the accusative suffix `-un`. The Object and Subject slots are filled by entire noun phrases. Modifiers like genitives are part of the noun phrase and do not alter the VOS order of the core constituents.
+
+*   `bapːo kĩno-uŋ go.`
+*   buy-NPST gold-ACC he/she/it
+*   "He/she/it buys the gold." (Note the assimilation of `-un` to `-uŋ` before `go`.)
+
+Noun phrase order is head-final (Modifier-Noun), a feature from Japanese. Adjectives (stative verbs), genitives, and relative clauses precede the noun they modify.
+
+### Postpositions
+The language uses postpositions exclusively. They follow the entire noun phrase they modify. Postpositional phrases follow the core VOS constituents.
+
+*   `uta-o i dobustu-ol to.`
+*   sing-NPST they animal-PL with
+*   "They sing with the animals."
+
+*   `matːa-o mi es.pe.lo de.`
+*   wait-NPST I hope in
+*   "I wait in hope."
+
+### Negation
+Negation is achieved with the particle `nai` (from Japanese `ない`), which is placed directly before the verb it negates.
+
+*   `**nai** bapːo kĩno-un otosan.`
+*   **NEG** buy-NPST gold-ACC father
+*   "Father does not buy the gold."
+
+In a Serial Verb Construction, `nai` negates only the verb that immediately follows it.
+*   `sugi **nai** bapːo-o deŋki-um mi.`
+*   pass **NEG** buy-NPST electricity-ACC I
+*   "I pass by but do not buy the electricity."
+
+To negate the action within the perfective `go` construction, `nai` is placed before the verb stem.
+*   `**go nai matːa** uta-o utao-um mi.`
+*   **FOC NEG wait** sing-NPST song-ACC I
+*   "Having not waited, I will sing a song."
+
+### Questions
+Question formation does not involve reordering constituents.
+
+**1. Yes/No Questions:** The question particle `ka` (from Japanese `か`) is placed at the end of the sentence.
+
+*   `bapːo pãno-un na **ka**?`
+*   buy-NPST bread-ACC you **Q**
+*   "Are you buying bread?"
+
+**2. Content Questions (Wh-questions):** An interrogative word occupies the position of the noun phrase it is questioning, and the sentence retains its VOS order. The particle `ka` is not used.
+
+*   **Who (Subject):** `ko`
+*   **What (Object):** `nan-un`
+*   **Where (Postpositional Phrase):** `doko e` (to where), `doko de` (at where)
+
+*   `uta-o utao-un **ko**?`
+*   sing-NPST song-ACC **who**
+*   "Who is singing the song?"
+
+*   `bapːo **nan-un** na?`
+*   buy-NPST **what-ACC** you
+*   "What are you buying?"
+
+### Serial Verb Constructions (SVCs) and Subordination
+The primary strategy for subordination and expressing complex ideas is the use of Serial Verb Constructions (SVCs). Verbs are chained together without conjunctions or complementizers. All verbs in the chain share a single subject, which appears only once at the end of the sentence. Objects, if present, follow their respective verbs, creating a `V1 O1 V2 O2 ... S` structure.
+
+In a standard SVC, preceding verbs are used in their bare stem form, and only the final verb carries a TAM suffix. A specific exception is the relative clause construction, where the modifying verb must take a TAM suffix.
+
+**1. Sequential Actions:**
+*   `sugi bapːo-o deŋki-um mi.`
+*   pass buy-NPST electricity-ACC I
+*   "I pass by and buy the electricity."
+
+*   `toru zasːi-um matːa-o ʃimbun-um mi.`
+*   take magazine-ACC wait-NPST newspaper-ACC I
+*   "I take a magazine and wait for the newspaper."
+
+**2. Cause and Effect / Instrumental:** The first verb describes the means by which the second action is performed. A common semantic pattern in instrumental SVCs is for the first verb to take on a general meaning of 'use' or 'take'. For example, the verb `toru` ('take') can be used this way.
+*   `toru deŋki-un matːa-o mi.`
+*   use electricity-ACC wait-NPST I
+*   "I wait by using the electricity." (Lit: "Use electricity wait I.")
+
+**3. Relative Clauses (Attributive SVC):** Modifying a noun is done by placing a verb before it. This construction is marked by the presence of a TAM suffix on a non-final verb, distinguishing it from other SVC types. This `[Verb+TAM Noun]` construction functions as a single noun phrase within the larger sentence. Case and number markers are suffixed to the head noun, following the modifying verb.
+
+*   `bapːo-o [**matːa-a ʔamiko**]-um mi.`
+*   buy-NPST [**wait-PST friend**]-ACC I
+*   "I buy the friend who waited."
+
+*   `bapːo-o [**matːa-a ʔamiko-ol**]-un mi.`
+*   buy-NPST [**wait-PST friend-PL**]-ACC I
+*   "I buy the friends who waited."

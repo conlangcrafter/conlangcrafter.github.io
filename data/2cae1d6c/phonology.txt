@@ -1,0 +1,59 @@
+# Phonology
+
+## Consonants
+
+|             | Bilabial | Alveolar |
+|-------------|----------|----------|
+| Plosive     | p b      | t d      |
+| Nasal       | m        | n        |
+| Fricative   |          | s z      |
+| Approximant |          | l        |
+
+Note: Sequences like /ts/ and /dz/ are consonant clusters (e.g., /t/ + /s/, /d/ + /z/), not single affricate phonemes.
+
+## Vowels
+
+|           | Front unrounded | Front rounded | Back unrounded | Back rounded |
+|-----------|-----------------|---------------|----------------|--------------|
+| Oral      | i               | y             | a              | u            |
+| Nasal     | ĩ               | ỹ             | ã              |              |
+
+Note: The back rounded nasal vowel slot is not phonemic and does not occur.
+
+## Phonotactics
+
+Syllable structure is unrestricted, allowing complex clusters in any position (e.g., CCCVCCC), with minimal phonotactic constraints; all consonants may appear freely in onsets or codas, and there are no vowel-specific restrictions.
+
+## Suprasegmentals
+
+The language employs a two-tone system (high and low) with phonemic tone on each syllable; stress is absent or lexically unpredictable and does not interact with tone or other features.
+
+## Word Shapes and Lexical Statistics
+
+Function words are predominantly monosyllabic or disyllabic, with simple to moderately complex structures, and are very common. Content words exhibit greater variability, ranging from monosyllabic to polysyllabic forms. Monosyllabic words are frequent overall, occurring in both functional and core lexical items. Disyllabic words are the most common pattern across all vocabulary. Trisyllabic content words are common, while quadrisyllabic or longer words are less common but not rare, typically appearing in derived or compound forms. Complex consonant clusters (e.g., CCC-) are more frequent in content words, especially in longer words, though they occasionally occur in function items. Nasal vowels and diverse tone combinations appear freely in all word types.
+
+1. /pỹ́/ - very common function word  
+2. /tsã̀/ - common function word  
+3. /dú/ - very common function word  
+4. /sĩ́nù/ - common function word  
+5. /zàbý/ - common function word  
+6. /stã́/ - common content word  
+7. /blỹ̀/ - common content word  
+8. /pú/ - common content word  
+9. /dzà/ - common content word  
+10. /mã́/ - common content word  
+11. /pỹ́stù/ - common content word  
+12. /dã̀bý/ - common content word  
+13. /spízù/ - common content word  
+14. /tĩ́ndà/ - common content word  
+15. /súzà/ - common content word  
+16. /bỹ̀ptã́/ - common content word  
+17. /dànzí/ - common content word  
+18. /sĩ́býtù/ - common content word  
+19. /màptỹ̀nã́/ - less common content word  
+20. /dúspìzã̀/ - less common content word  
+21. /nã́ndýsù/ - less common content word  
+22. /pàztúbỳ/ - less common content word  
+23. /spã́ndỳzúptĩ́/ - less common content word  
+24. /màbýtùsã́zù/ - rare content word  
+25. /dúpsỹ̀nã́tý/ - rare content word

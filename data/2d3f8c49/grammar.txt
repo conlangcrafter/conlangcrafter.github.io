@@ -1,0 +1,171 @@
+# Grammar
+
+## Morphology
+
+The language is overwhelmingly analytic (isolating), with grammatical relationships primarily expressed through word order and free-standing function words. There is no inflection for tense, aspect, mood, or person on verbs, nor for number on nouns. The language, however, does employ several morphological processes, including affixation, tonal modification, compounding, reduplication, and zero-derivation.
+
+The sole instance of productive affixation is an agglutinative evidential system. A small set of enclitics attach to the verb to indicate the source of the speaker's knowledge.
+
+*   **-tʃʰa**: Direct visual evidence.
+*   **-dʒa**: Non-visual sensory evidence (heard, smelled, felt).
+*   **-go**: Inferred evidence.
+*   **-lo**: Reported evidence (hearsay).
+
+Example:
+*   *pʰapʰa dʒu tʰaʔ tʃʰa˥˩.ɭa.go-**tʃʰa** ʂú.ʈà.*
+    *   pʰa.pʰa dʒu tʰaʔ tʃʰa.ɭa.go-**tʃʰa** ʂu.ʈa
+    *   child ERG IMPERF eat-**VIS** meat.ABS
+    *   "The child is eating the meat (I see it happening)."
+
+Another key morphological feature is a system of three noun classes, which are not marked on the noun itself but on its dependents (numerals and adjectives). The classes are: **Class I (Animate)**, **Class II (Natural/Inanimate)**, and **Class III (Artificial/Inanimate)**. This is realized through tonal changes on the dependent words. Adjectives and numerals have a default high tone /˥/, which changes based on the class of the noun they modify.
+
+*   **Class I (Animate):** The dependent takes a falling tone /˥˩/.
+*   **Class II (Natural):** The dependent takes a rising tone /˩˥/.
+*   **Class III (Artificial):** The dependent retains the default high tone /˥/.
+
+Example (using the adjective *kʰí* "big"):
+*   *kʰí˥˩ **pʰapʰa*** (a big child)
+    *   kʰí **pʰa.pʰa**
+    *   big.**CL1** child
+    *   "a big child"
+*   *kʰí˩˥ **χaʁiː*** (a big river)
+    *   kʰí **χa.ʁiː**
+    *   big.**CL2** river
+    *   "a big river"
+*   *kʰí˥ **ʈatʃolok*** (a big house)
+    *   kʰí **ʈa.tʃo.lok**
+    *   big.**CL3** house
+    *   "a big house"
+
+Compounding is a productive process for forming new nouns. The structure is consistently **modifier-head**, mirroring the head-final structure of the noun phrase. A key feature is **Tonal Dominance**. When forming a compound, the modifier (the first element) is reduced to its initial syllable. When the head's first syllable has a contour tone, the initial level of that contour is assigned to the modifier syllable (e.g., a low tone /˩/ is assigned from a rising /˩˥/ or falling /˥˩/ tone). If the head's first syllable has a level tone, that tone is assigned to the modifier.
+
+*   **Example 1: Noun + Noun Compound**
+    *   *ʂú.ʈà* (meat) + *tʃʰã́* (soup) → *ʂú.tʃʰã́* (meat-soup)
+    *   The modifier *ʂú.ʈà* is reduced to *ʂu*. The high tone /˥/ from the head *tʃʰã́* is assigned to it, resulting in *ʂú*.
+    *   *ʂú.tʃʰã́*
+        *   meat-soup
+        *   "broth" or "stew"
+
+*   **Example 2: Adjective + Noun Compound**
+    *   *kʰí* (big) + *χaʁiː* (river) → *kʰì.χaʁiː* (big-river)
+    *   The modifier *kʰí* is already a single syllable. The head *χaʁiː* has a low tone on its first syllable. This low tone /˩/ is assigned to the modifier, resulting in *kʰì*.
+    *   *kʰì.χaʁiː*
+        *   big-river
+        *   "main channel" or "major river"
+
+Reduplication of a content word's initial syllable (CV) serves to express intensification for adjectives and iterativity (repeated action) for verbs. The reduplicated syllable copies the tone of the original syllable.
+
+*   **Adjective Intensification:**
+    *   *dʒi˥˩.dʒà* (beautiful) → *dʒi˥˩-dʒi˥˩.dʒà* (very beautiful)
+    *   *dʒi-dʒi˥˩.dʒà*
+        *   REDUP-beautiful
+        *   "exceedingly beautiful"
+
+*   **Verbal Iterativity:**
+    *   *pʰá.pʰà* (to jump) → *pʰá-pʰá.pʰà* (to jump repeatedly)
+    *   *pʰa-pʰá.pʰà*
+        *   REDUP-jump
+        *   "to keep jumping," "to hop"
+
+Zero-derivation (conversion) is common. Many content words can be used as different parts of speech without any change in form, with the function determined by syntactic position.
+
+*   **Example: *dʒũːʁã*** (the noun 'stone')
+    *   As a noun:
+        *   *dʒidʒa ka goː βota-tʃʰa dʒũːʁã ki.*
+        *   woman NOM PERF find-VIS stone ACC
+        *   "The woman found the stone."
+    *   As a verb ('to stone'):
+        *   *pʰapʰa dʒu tʰaʔ dʒũːʁã ʂú.ʈà.*
+        *   child ERG IMPERF stone meat.ABS
+        *   "The child is stoning the meat (e.g., to tenderize it)."
+
+## Syntax
+
+The basic constituent order is **Subject-Verb-Object (SVO)**.
+
+*   *dʒidʒa tʰaʔ βota dʒũːʁã.*
+    *   dʒi.dʒa tʰaʔ βo.ta dʒũː.ʁã
+    *   woman IMPERF find stone
+    *   "The woman finds the stone."
+
+The language is strictly **dependent-marking** and exclusively **postpositional**. Case markers appear on noun phrases, and adjectives and numerals agree with the noun's class.
+
+*   *ʈatʃolok **βota**.*
+    *   ʈa.tʃo.lok **βo.ta**
+    *   house **inside**
+    *   "inside the house"
+
+The noun phrase has a fixed, head-final order: **Numeral - Adjective - Genitive - Noun**.
+
+*   *kʰaːpʰi kʰí˥˩ pʰapʰa ka pʰilaqʰaβo.*
+    *   kʰaː.pʰi kʰí pʰa.pʰa ka pʰi.la.qʰa.βo
+    *   two big.**CL1** child GEN dog
+    *   "the child's two big dogs"
+
+The language exhibits **split-ergativity** based on aspect, which is marked by free particles preceding the verb. Case is marked by postpositions.
+
+*   **NOM**: *ka* (marks A and S in perfective)
+*   **ACC**: *ki* (marks P in perfective)
+*   **ERG**: *dʒu* (marks A in imperfective)
+*   **ABS**: unmarked (marks S and P in imperfective)
+
+**Perfective Aspect (Nominative-Accusative):** The particle is *goː*.
+*   *pʰapʰa **ka** goː tʃʰa˥˩.ɭa.go-tʃʰa ʂú.ʈà **ki**.*
+    *   pʰa.pʰa **ka** goː tʃʰa.ɭa.go-tʃʰa ʂu.ʈa **ki**
+    *   child **NOM** PERF eat-VIS meat **ACC**
+    *   "The child ate the meat (I saw it)."
+
+**Imperfective Aspect (Ergative-Absolutive):** The particle is *tʰaʔ*.
+*   *pʰapʰa **dʒu** tʰaʔ tʃʰa˥˩.ɭa.go ʂú.ʈà.*
+    *   pʰa.pʰa **dʒu** tʰaʔ tʃʰa.ɭa.go ʂu.ʈa
+    *   child **ERG** IMPERF eat meat.**ABS**
+    *   "The child is eating the meat."
+
+This system is further complicated by **evidential concord**. In the perfective aspect, if the verb is marked with the inferred (-go) or reported (-lo) evidential, the nominative case marker *ka* is replaced by the ergative marker *dʒu*. This creates a "pseudo-ergative" alignment based on the speaker's knowledge source, linking case marking to epistemology. The absence of an evidential enclitic is interpreted as direct evidence, using the default nominative-accusative alignment.
+
+*   **Direct Visual Evidence (Standard Nominative-Accusative):**
+    *   *dʒi˥˩.dʒà **ka** goː βo.ta-**tʃʰa** dʒũːʁã **ki**.*
+    *   woman **NOM** PERF find-**VIS** stone ACC
+    *   "The woman found the stone (I saw it)."
+*   **Inferred Evidence (Evidential Concord):**
+    *   *dʒi˥˩.dʒà **dʒu** goː βo.ta-**go** dʒũːʁã **ki**.*
+    *   woman **ERG** PERF find-**INFER** stone ACC
+    *   "The woman found the stone (I infer, perhaps because she now has it)."
+*   **Reported Evidence (Evidential Concord):**
+    *   *dʒi˥˩.dʒà **dʒu** goː βo.ta-**lo** dʒũːʁã **ki**.*
+    *   woman **ERG** PERF find-**REP** stone ACC
+    *   "The woman found the stone (I was told)."
+
+Negation is expressed with the particle *ʔí.tʃʰà*, which is placed directly before the aspectual particle (or the verb if no aspect particle is present).
+
+*   **Example: Perfective Negation**
+    *   *pʰapʰa ka **ʔí.tʃʰà** goː tʃʰa˥˩.ɭa.go-tʃʰa ʂú.ʈà ki.*
+    *   child NOM **NEG** PERF eat-VIS meat ACC
+    *   "The child did not eat the meat."
+*   **Example: Imperfective Negation**
+    *   *pʰapʰa dʒu **ʔí.tʃʰà** tʰaʔ tʃʰa˥˩.ɭa.go ʂú.ʈà.*
+    *   child ERG **NEG** IMPERF eat meat.ABS
+    *   "The child is not eating the meat."
+
+Questions are formed using two different strategies.
+*   **Polar (Yes/No) Questions:** These are formed by adding the particle *qʰa˩* to the end of a declarative sentence.
+    *   *pʰapʰa dʒu tʰaʔ tʃʰa˥˩.ɭa.go ʂú.ʈà **qʰa˩**?*
+        *   child ERG IMPERF eat meat.ABS **Q**
+        *   "Is the child eating the meat?"
+*   **Content (Wh-) Questions:** The language uses wh-words that are fronted to the beginning of the clause, creating a **Wh-S-V-O** structure. Case is marked by postpositions which attach to the end of a noun phrase; when a wh-word representing that phrase is fronted, its corresponding case postposition is fronted along with it. Wh-words include *ŋá* (who), *tʰá.nà* (what), *mí.tà* (where), *gó.lò* (when), and *dʒá.dʒà* (why).
+    *   **Example 1: Questioning the Subject (Ergative)**
+        *   **ŋá dʒu** *tʰaʔ tʃʰa˥˩.ɭa.go ʂú.ʈà?*
+        *   **who ERG** IMPERF eat meat.ABS
+        *   "Who is eating the meat?"
+    *   **Example 2: Questioning the Object (Accusative)**
+        *   **tʰá.nà ki** *pʰapʰa ka goː tʃʰa˥˩.ɭa.go-tʃʰa?*
+        *   **what ACC** child NOM PERF eat-VIS
+        *   "What did the child eat?"
+
+Pronouns cannot be dropped (**no pro-drop**). An explicit pronoun must always be used for subjects and objects if a full noun phrase is not present.
+
+*   *go **dʒu** goː tʃʰa˥˩.ɭa.go-go ʂú.ʈà **ki**.*
+    *   go **dʒu** goː tʃʰa.ɭa.go-go ʂu.ʈa **ki**
+    *   he **ERG** PERF eat-**INFER** meat **ACC**
+    *   "He ate the meat (I infer)."
+*   (Incorrect) **dʒu goː tʃʰa˥˩.ɭa.go-go ʂú.ʈà ki.*

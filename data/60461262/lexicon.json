@@ -1,0 +1,1119 @@
+[
+  {
+    "word": "-n",
+    "translation": "suffix",
+    "pos": "M/F.PIV (masculine or feminine pivot)",
+    "notes": "Verbal pivot agreement suffix. Bound morpheme.",
+    "null": [
+      "Common function word."
+    ]
+  },
+  {
+    "word": "-s",
+    "translation": "suffix",
+    "pos": "N.PIV (neuter pivot)",
+    "notes": "Verbal pivot agreement suffix. Bound morpheme.",
+    "null": [
+      "Common function word."
+    ]
+  },
+  {
+    "word": "bʱak",
+    "translation": "adjective",
+    "pos": "black",
+    "notes": "Follows the noun it modifies. Can also be used as a verb root 'be black'.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "bʱaŋk",
+    "translation": "noun",
+    "pos": "fish",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "bʱi",
+    "translation": "postposition",
+    "pos": "to",
+    "notes": "Marks a non-pivot recipient or goal.",
+    "null": [
+      "",
+      "Common function word."
+    ]
+  },
+  {
+    "word": "bʱlaj kʰla",
+    "translation": "idiom",
+    "pos": "hello / good to see you",
+    "notes": "Lit: 'seeing good'. A common greeting.",
+    "null": [
+      "bʱlaj (see/eye) + kʰla (good)",
+      "The noun /bʱlaj/ is used here."
+    ]
+  },
+  {
+    "word": "bʱlaj",
+    "translation": "verb root",
+    "pos": "see",
+    "notes": "Base form is Direct Evidential. Does not undergo consonant mutation as it starts with a breathy consonant.",
+    "null": [
+      "Also used as a noun 'eye' (lit. 'seeing organ'), Neuter gender."
+    ]
+  },
+  {
+    "word": "bʱraw gwi-d͡ʑaləs mʱan bʱi",
+    "translation": "idiom",
+    "pos": "to promise",
+    "notes": "Lit: 'A word is given to a man'. This is a fixed expression in the Patient Voice where the patient 'word' (/bʱraw/) is the pivot. The agent is unspecified. The recipient 'man' is marked with the postposition /bʱi/ 'to'.",
+    "null": [
+      "bʱraw (word",
+      " from 'speak') + gwi-d͡ʑaləs (PV-give-N.PIV)",
+      ""
+    ]
+  },
+  {
+    "word": "bʱraw",
+    "translation": "noun",
+    "pos": "word",
+    "notes": "Neuter gender",
+    "null": [
+      "From the verb root /bʱraw/ 'speak'. This term refers to a spoken word or utterance, contrasting with /t͡ɕʰimp/ which may refer to a word as a lexical unit.",
+      "This noun form was used in an idiom; this entry clarifies it as a standalone noun."
+    ]
+  },
+  {
+    "word": "bʱraw",
+    "translation": "verb root",
+    "pos": "speak",
+    "notes": "Base form is Direct Evidential. Does not undergo consonant mutation as it starts with a breathy consonant.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "bʱə.ˈd͡ʑal",
+    "translation": "verb root",
+    "pos": "buy",
+    "notes": "Base form is Direct Evidential. Does not undergo consonant mutation as it starts with a breathy consonant.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "bʱə.ˈna",
+    "translation": "noun",
+    "pos": "student",
+    "notes": "Feminine gender",
+    "null": [
+      "From a hypothetical root /bʱan/ 'to learn' + /-a/ nominalizer.",
+      ""
+    ]
+  },
+  {
+    "word": "bʱə.ˈri",
+    "translation": "noun",
+    "pos": "sister",
+    "notes": "Feminine gender",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "bə.ˈhag",
+    "translation": "noun",
+    "pos": "tool",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      "Translation inferred from instrumental SVC example."
+    ]
+  },
+  {
+    "word": "dwa",
+    "translation": "adjective",
+    "pos": "white",
+    "notes": "Follows the noun it modifies. Can also be used as a verb root 'be white'.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d͡ʑa",
+    "translation": "noun, question word",
+    "pos": "1. house (plural) 2. where, when",
+    "notes": "Neuter gender",
+    "null": [
+      "For sense 1: d͡ʑi (house, N.SG) + -a (N.PL suffix). For sense 2: Used in-situ. Requires clause-final question particle /za/."
+    ]
+  },
+  {
+    "word": "d͡ʑal",
+    "translation": "verb root",
+    "pos": "give",
+    "notes": "Base form is Direct Evidential. Undergoes consonant mutation for other evidentials (Inferential: /t͡ɕʰal/",
+    "null": [
+      " Hearsay: /d͡ʑʱal/).",
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "d͡ʑat",
+    "translation": "noun",
+    "pos": "meat",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d͡ʑaw",
+    "translation": "verb root",
+    "pos": "run",
+    "notes": "Base form is Direct Evidential. Undergoes consonant mutation for other evidentials (Inferential: /t͡ɕʰaw/, Hearsay: /d͡ʑʱaw/).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d͡ʑi",
+    "translation": "noun",
+    "pos": "house",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "d͡ʑə.ˈkʰaj gwi-pʰakəs",
+    "translation": "idiom",
+    "pos": "to decide",
+    "notes": "Lit: 'To think is wanted'. The verb /pʰak/ 'want' is in Patient Voice with a neuter pivot, referring to the act of thinking. This structure, where a bare verb root functions as a nominal pivot, is a common strategy for forming expressions of desire or necessity involving an action.",
+    "null": [
+      "d͡ʑəkʰaj (think) + gwi-pʰakəs (PV-want-N.PIV)",
+      "A common fixed expression."
+    ]
+  },
+  {
+    "word": "d͡ʑə.ˈkʰaj",
+    "translation": "verb root",
+    "pos": "think",
+    "notes": "Base form is Direct Evidential. Undergoes consonant mutation for other evidentials (Inferential: /t͡ɕʰəkʰaj/",
+    "null": [
+      " Hearsay: /d͡ʑʱəkʰaj/).",
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "d͡ʑə.ˈraj",
+    "translation": "verb root",
+    "pos": "cry",
+    "notes": "Base form is Direct Evidential. Undergoes consonant mutation for other evidentials (Inferential: /t͡ɕʰəraj/",
+    "null": [
+      " Hearsay: /d͡ʑʱəraj/).",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d͡ʑək",
+    "translation": "bound verb root",
+    "pos": "say",
+    "notes": "Base form is Direct Evidential. Undergoes consonant mutation for other evidentials (Inferential: /t͡ɕʰək/, Hearsay: /d͡ʑʱək/).",
+    "null": [
+      "This is a bound root that cannot stand alone, as it contains the vowel /ə/ which is prohibited in free-standing monosyllables. It must be affixed."
+    ]
+  },
+  {
+    "word": "d͡ʑəŋkʰi",
+    "translation": "verb root",
+    "pos": "build",
+    "notes": "Base form is Direct Evidential. Undergoes consonant mutation for other evidentials (Inferential: /t͡ɕʰəŋkʰi/",
+    "null": [
+      " Hearsay: /d͡ʑʱəŋkʰi/).",
+      "Somewhat common content word."
+    ]
+  },
+  {
+    "word": "d͡ʑʱa.ˈni",
+    "translation": "noun",
+    "pos": "mother",
+    "notes": "Feminine gender",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "d͡ʑʱan",
+    "translation": "noun",
+    "pos": "teacher",
+    "notes": "Masculine gender",
+    "null": [
+      "From a hypothetical root /d͡ʑan/ 'to teach'. This may be related to the root /bʱan/ 'to learn' found in 'bʱə.ˈna' (student), perhaps via a causative derivation.",
+      ""
+    ]
+  },
+  {
+    "word": "d͡ʑʱik",
+    "translation": "adjective",
+    "pos": "strong",
+    "notes": "Follows the noun it modifies. Can also be used as a verb root 'be strong'.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d͡ʑʱom",
+    "translation": "noun",
+    "pos": "sky",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d͡ʑʱə.ˈga",
+    "translation": "noun",
+    "pos": "sun",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "d͡ʑʱəli",
+    "translation": "postposition",
+    "pos": "with, using (marks non-pivot patient/instrument)",
+    "notes": "",
+    "null": [
+      "Somewhat common content word."
+    ]
+  },
+  {
+    "word": "fəlʱa",
+    "translation": "verb root",
+    "pos": "read",
+    "notes": "Base form is Direct Evidential. Does not undergo consonant mutation as it starts with a fricative.",
+    "null": [
+      "Common content word."
+    ]
+  },
+  {
+    "word": "glaj",
+    "translation": "verb root",
+    "pos": "fall",
+    "notes": "Base form is Direct Evidential. Undergoes consonant mutation for other evidentials (Inferential: /kʰlaj/, Hearsay: /gʱlaj/).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "grent",
+    "translation": "noun",
+    "pos": "tree",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "grob",
+    "translation": "noun",
+    "pos": "father",
+    "notes": "Masculine gender",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "grə.ˈmi",
+    "translation": "noun",
+    "pos": "moon",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "gwi",
+    "translation": "prefix",
+    "pos": "Patient Voice (PV)",
+    "notes": "Verbal voice prefix",
+    "null": [
+      "",
+      "Common function word."
+    ]
+  },
+  {
+    "word": "gə.ˈd͡ʑan",
+    "translation": "verb root",
+    "pos": "love",
+    "notes": "Base form is Direct Evidential. Undergoes consonant mutation for other evidentials (Inferential: /kʰəd͡ʑan/",
+    "null": [
+      " Hearsay: /gʱəd͡ʑan/).",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "gə.ˈza",
+    "translation": "noun",
+    "pos": "queen",
+    "notes": "Feminine gender",
+    "null": [
+      "From a hypothetical bound root /gəz/ 'to rule' + /-a/ (nominalizer)",
+      ""
+    ]
+  },
+  {
+    "word": "gʱar",
+    "translation": "noun",
+    "pos": "city",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "gʱom",
+    "translation": "verb root",
+    "pos": "rest",
+    "notes": "Base form is Direct Evidential. Does not undergo consonant mutation as it starts with a breathy consonant.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ja",
+    "translation": "conjunction",
+    "pos": "or",
+    "notes": "Connects clauses or noun phrases.",
+    "null": [
+      "",
+      "Common function word."
+    ]
+  },
+  {
+    "word": "kraw",
+    "translation": "noun",
+    "pos": "blood",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kri.ˈna",
+    "translation": "noun",
+    "pos": "food",
+    "notes": "Neuter gender",
+    "null": [
+      "krin (eat) + -a (nominalizer)",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "krin",
+    "translation": "verb root",
+    "pos": "eat",
+    "notes": "Base form is Direct Evidential. Undergoes consonant mutation for other evidentials (Inferential: /kʰrin/",
+    "null": [
+      " Hearsay: /gʱrin/).",
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "kə-",
+    "translation": "prefix",
+    "pos": "POSS.M/N (masculine or neuter possessor)",
+    "notes": "Attaches to possessed noun. Bound morpheme.",
+    "null": [
+      "Common function word."
+    ]
+  },
+  {
+    "word": "kə.ˈla",
+    "translation": "noun",
+    "pos": "water",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "kʰant",
+    "translation": "noun",
+    "pos": "book",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "kʰjant",
+    "translation": "adjective",
+    "pos": "beautiful",
+    "notes": "Follows the noun it modifies. Can also be used as a verb root 'be beautiful'.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʰla",
+    "translation": "adjective",
+    "pos": "good",
+    "notes": "Follows the noun it modifies.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "kʰwa",
+    "translation": "adjective",
+    "pos": "new",
+    "notes": "Follows the noun it modifies. Can also be used as a verb root 'be new'.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʰwimp t͡ɕʰwa",
+    "translation": "idiom",
+    "pos": "epic / long story",
+    "notes": "Lit: 'big story'.",
+    "null": [
+      "kʰwimp (story) + t͡ɕʰwa (big)",
+      "Example of a standard Noun-Adjective phrase."
+    ]
+  },
+  {
+    "word": "kʰwimp",
+    "translation": "noun",
+    "pos": "story",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      "Unrelated to /t͡ɕʰimp/ 'word'."
+    ]
+  },
+  {
+    "word": "kʰwət͡ɕʰəli",
+    "translation": "verb root",
+    "pos": "use",
+    "notes": "Base form is Direct Evidential. Does not undergo consonant mutation as it starts with an aspirated consonant. Used in instrumental SVCs.",
+    "null": [
+      "Uncommon content word."
+    ]
+  },
+  {
+    "word": "kʰə.ˈraj",
+    "translation": "noun",
+    "pos": "wind",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʰə.ˈt͡ɕa",
+    "translation": "verb root",
+    "pos": "laugh",
+    "notes": "Base form is Direct Evidential. Does not undergo consonant mutation as it starts with an aspirated consonant.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "lʱin",
+    "translation": "verb root",
+    "pos": "sing",
+    "notes": "Base form is Direct Evidential. Does not undergo consonant mutation as it starts with a breathy consonant.",
+    "null": [
+      "",
+      "Somewhat common content word."
+    ]
+  },
+  {
+    "word": "lʱəvəri",
+    "translation": "postposition",
+    "pos": "by (marks non-pivot agent)",
+    "notes": "",
+    "null": [
+      "Somewhat common content word."
+    ]
+  },
+  {
+    "word": "ma",
+    "translation": "question word",
+    "pos": "who, what (animate)",
+    "notes": "Masculine/Feminine gender",
+    "null": [
+      "Used in-situ. Requires clause-final question particle /za/."
+    ]
+  },
+  {
+    "word": "mit",
+    "translation": "adjective",
+    "pos": "small",
+    "notes": "Follows the noun it modifies.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "mʱa.ˈni.ja",
+    "translation": "noun",
+    "pos": "boy",
+    "notes": "Masculine gender",
+    "null": [
+      "mʱani (men) + -ja (diminutive suffix",
+      " hypothetical)",
+      "Illustrates a possible diminutive strategy."
+    ]
+  },
+  {
+    "word": "mʱan",
+    "translation": "noun",
+    "pos": "man",
+    "notes": "Masculine gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "mʱon",
+    "translation": "noun",
+    "pos": "mountain",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "mʱə.ˈga",
+    "translation": "noun",
+    "pos": "brother",
+    "notes": "Masculine gender",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "mʱə.ˈlaj",
+    "translation": "noun",
+    "pos": "song",
+    "notes": "Neuter gender",
+    "null": [
+      "Derived from the verb root /lʱin/ 'sing' + a nominalizing affix. The phonological change from /lʱin/ to /laj/ is irregular or involves a different, unattested nominalizer.",
+      ""
+    ]
+  },
+  {
+    "word": "na",
+    "translation": "conjunction",
+    "pos": "and, but",
+    "notes": "Connects clauses or noun phrases.",
+    "null": [
+      "",
+      "Common function word."
+    ]
+  },
+  {
+    "word": "nʱə-",
+    "translation": "prefix",
+    "pos": "POSS.F (feminine possessor)",
+    "notes": "Attaches to possessed noun. Bound morpheme.",
+    "null": [
+      "Common function word."
+    ]
+  },
+  {
+    "word": "pə.ˈd͡ʑa",
+    "translation": "adjective",
+    "pos": "old",
+    "notes": "Follows the noun it modifies. Can also be used as a verb root 'be old'.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pə.ˈtak",
+    "translation": "verb root",
+    "pos": "cut",
+    "notes": "Base form is Direct Evidential. Undergoes consonant mutation for other evidentials (Inferential: /pʰətʰak/, Hearsay: /bʱətʰak/).",
+    "null": [
+      "",
+      "Somewhat common content word."
+    ]
+  },
+  {
+    "word": "pʰa.ˈlaj",
+    "translation": "noun",
+    "pos": "light",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʰak",
+    "translation": "verb root",
+    "pos": "want",
+    "notes": "Base form is Direct Evidential. Does not undergo consonant mutation as it starts with an aspirated consonant.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʰal",
+    "translation": "noun",
+    "pos": "stone",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "pʰi",
+    "translation": "postposition",
+    "pos": "from, out of",
+    "notes": "",
+    "null": [
+      "Common function word."
+    ]
+  },
+  {
+    "word": "pʰiŋ",
+    "translation": "adverb",
+    "pos": "always",
+    "notes": "Precedes the verb complex, similar to the negator /vi/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʰla.ˈkʰi",
+    "translation": "noun",
+    "pos": "dream",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʰlaŋk",
+    "translation": "complementizer",
+    "pos": "that",
+    "notes": "Introduces content clauses.",
+    "null": [
+      "Somewhat common content word."
+    ]
+  },
+  {
+    "word": "pʰrint",
+    "translation": "noun",
+    "pos": "heart",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      "A common content word."
+    ]
+  },
+  {
+    "word": "pʰə.ˈlaj",
+    "translation": "verb root",
+    "pos": "sell",
+    "notes": "Base form is Direct Evidential. Does not undergo consonant mutation as it starts with an aspirated consonant.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ramp",
+    "translation": "verb root",
+    "pos": "be quick",
+    "notes": "Base form is Direct Evidential. Used in manner SVCs. Does not undergo consonant mutation.",
+    "null": [
+      "Somewhat common content word."
+    ]
+  },
+  {
+    "word": "sa",
+    "translation": "question word",
+    "pos": "what (inanimate)",
+    "notes": "Neuter gender",
+    "null": [
+      "Used in-situ. Requires clause-final question particle /za/."
+    ]
+  },
+  {
+    "word": "sat",
+    "translation": "prefix",
+    "pos": "Locative Voice (LV)",
+    "notes": "Verbal voice prefix",
+    "null": [
+      "",
+      "Common function word."
+    ]
+  },
+  {
+    "word": "swin",
+    "translation": "verb root",
+    "pos": "swim",
+    "notes": "Base form is Direct Evidential. Does not undergo consonant mutation as it starts with a fricative.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "sə.ˈkʰan",
+    "translation": "noun",
+    "pos": "road",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "sə.ˈma",
+    "translation": "verb root",
+    "pos": "walk",
+    "notes": "Base form is Direct Evidential. Does not undergo consonant mutation as it starts with a fricative.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "tə-",
+    "translation": "prefix",
+    "pos": "REFL (reflexive)",
+    "notes": "Verbal prefix that attaches to verb roots. Indicates the agent acts upon themself.",
+    "null": [
+      "",
+      "Common function morpheme."
+    ]
+  },
+  {
+    "word": "tə.ˈd͡ʑint",
+    "translation": "verb root",
+    "pos": "write",
+    "notes": "Base form is Direct Evidential. Undergoes consonant mutation for other evidentials (Inferential: /tət͡ɕʰint/, Hearsay: /təd͡ʑʱint/).",
+    "null": [
+      "The first vowel is epenthetic /ə/, inserted to break an initial cluster. The underlying root is likely /d͡ʑint/ with a prefix, or it has a complex onset that simplifies. Stress falls on the final syllable."
+    ]
+  },
+  {
+    "word": "trin",
+    "translation": "verb root",
+    "pos": "drink",
+    "notes": "Base form is Direct Evidential. Undergoes consonant mutation for other evidentials (Inferential: /tʰrin/, Hearsay: /dʱrin/).",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "tʰa",
+    "translation": "prefix",
+    "pos": "Actor Voice (AV)",
+    "notes": "Verbal voice prefix",
+    "null": [
+      "",
+      "Common function word."
+    ]
+  },
+  {
+    "word": "tʰrin",
+    "translation": "noun",
+    "pos": "warrior",
+    "notes": "Masculine gender",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "t͡ɕəna",
+    "translation": "postposition",
+    "pos": "at, in, into (marks locative)",
+    "notes": "",
+    "null": [
+      "Common content word."
+    ]
+  },
+  {
+    "word": "t͡ɕʰa",
+    "translation": "adverb",
+    "pos": "now",
+    "notes": "Typically appears clause-initially or clause-finally.",
+    "null": [
+      "",
+      "Common function word."
+    ]
+  },
+  {
+    "word": "t͡ɕʰa.ˈna",
+    "translation": "adverb",
+    "pos": "yesterday",
+    "notes": "Typically appears clause-initially or clause-finally.",
+    "null": [
+      "",
+      "Common function word."
+    ]
+  },
+  {
+    "word": "t͡ɕʰik",
+    "translation": "noun",
+    "pos": "mind",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡ɕʰimp",
+    "translation": "noun",
+    "pos": "word",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      "Refers to a word as a lexical unit, contrasting with /bʱraw/ which refers to a spoken word or utterance."
+    ]
+  },
+  {
+    "word": "t͡ɕʰwa",
+    "translation": "adjective",
+    "pos": "big",
+    "notes": "Follows the noun it modifies.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡ɕʰwa",
+    "translation": "noun",
+    "pos": "dog",
+    "notes": "Masculine gender",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "t͡ɕʰət",
+    "translation": "noun",
+    "pos": "head",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "vi",
+    "translation": "particle",
+    "pos": "NEG (negator)",
+    "notes": "Precedes the entire verb complex (any SVC verbs and the main inflected verb).",
+    "null": [
+      "",
+      "Common function word."
+    ]
+  },
+  {
+    "word": "vras",
+    "translation": "verb root",
+    "pos": "kill",
+    "notes": "Base form is Direct Evidential. Does not undergo consonant mutation.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "və-",
+    "translation": "prefix",
+    "pos": "CAUS (causative)",
+    "notes": "Verbal prefix that attaches to verb roots. Bound morpheme.",
+    "null": [
+      "",
+      "Common function morpheme."
+    ]
+  },
+  {
+    "word": "və.ˈna",
+    "translation": "verb root",
+    "pos": "sleep",
+    "notes": "Base form is Direct Evidential. Does not undergo consonant mutation as it starts with a fricative.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "xəbʱlant",
+    "translation": "noun",
+    "pos": "king",
+    "notes": "Masculine gender",
+    "null": [
+      "",
+      "Rare content word."
+    ]
+  },
+  {
+    "word": "za",
+    "translation": "particle",
+    "pos": "question particle",
+    "notes": "Clause-final particle marking a question.",
+    "null": [
+      "",
+      "Common function word."
+    ]
+  },
+  {
+    "word": "zwaj",
+    "translation": "noun",
+    "pos": "fire",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "zə.ˈkʰi.ja",
+    "translation": "noun",
+    "pos": "girl",
+    "notes": "Feminine gender",
+    "null": [
+      "zəkʰi (woman) + -ja (diminutive suffix",
+      " hypothetical)",
+      "Illustrates a possible diminutive strategy."
+    ]
+  },
+  {
+    "word": "zə.ˈlaj",
+    "translation": "noun",
+    "pos": "child",
+    "notes": "Feminine gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "zə.ˈpʰa",
+    "translation": "adjective",
+    "pos": "bad",
+    "notes": "Follows the noun it modifies.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "zəkʰi",
+    "translation": "noun",
+    "pos": "woman",
+    "notes": "Feminine gender",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "ŋant",
+    "translation": "noun",
+    "pos": "hand",
+    "notes": "Neuter gender",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "ŋʱwazat",
+    "translation": "verb root",
+    "pos": "destroy",
+    "notes": "Base form is Direct Evidential. Does not undergo consonant mutation as it starts with a nasal.",
+    "null": [
+      "Rare content word. Translation inferred based on phonological shape and rarity."
+    ]
+  },
+  {
+    "word": "ɣit",
+    "translation": "adjective",
+    "pos": "red",
+    "notes": "Follows the noun it modifies. Can also be used as a verb root 'be red'.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "ɣəd͡ʑ",
+    "translation": "bound verb root",
+    "pos": "know",
+    "notes": "Base form is Direct Evidential. Does not undergo consonant mutation as it starts with a fricative.",
+    "null": [
+      "This is a bound root that cannot stand alone, as it contains the vowel /ə/ which is prohibited in free-standing monosyllables. It must be affixed."
+    ]
+  },
+  {
+    "word": "ɣəd͡ʑa",
+    "translation": "verb root",
+    "pos": "enter",
+    "notes": "Base form is Direct Evidential. Used in directional SVCs. Does not undergo consonant mutation as it starts with a fricative.",
+    "null": [
+      "Common content word."
+    ]
+  }
+]

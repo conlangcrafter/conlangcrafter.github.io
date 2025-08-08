@@ -1,0 +1,23 @@
+{
+  "overall_score": 4,
+  "issues": [
+    {
+      "issue": "The item /fe˥.ã˩/ is listed as a common function item, but it contains a nasal vowel /ã/. The description for function words states they 'typically feature short, oral vowels'.",
+      "type": "inconsistency",
+      "correction": "To align with the description of function words, the vowel in /fe˥.ã˩/ should be oral, e.g., /fe˥.a˩/.",
+      "priority": 1
+    },
+    {
+      "issue": "The vowel harmony system as described is inconsistent with several lexical items. The sets are {i, e, a}, {y, ø}, and {ɯ, ɤ, u, o}. However, the item /jãː˥.˩ta˩/ contains only /a/ from the front unrounded set, while /pʷõː˥.˩tɯ˩/ contains {o, ɯ} from the back set, and /wɤ̃˥˩.so˩/ contains {ɤ, o} from the back set. All these are internally consistent. The problem arises with items like /tʲe˩.kʲẽp˩.tʲaː˩˥/ ({e, e, a}) and /pʲi˥.fãs˩.tʲe˥/ ({i, a, e}), which are valid within the {i, e, a} set. A true violation would be a word mixing front and back vowels, such as */ke.to/. No such violations exist in the lexicon. However, the grouping of /a/ with front unrounded vowels is typologically marked.",
+      "type": "ambiguity",
+      "correction": "The vowel harmony description is functional for the given lexicon but could be clearer. A more typologically common and clear system would be to define /a/ as a neutral vowel. The rule could be revised to: 'Within a word root, all vowels must belong to one of two harmony sets: front {i, y, e, ø} or back {ɯ, ɤ, u, o}. The vowel /a/ is neutral and may appear in a word with vowels from either set.' This change would not invalidate any existing words but would make the system more robust and less ambiguous.",
+      "priority": 2
+    },
+    {
+      "issue": "The distinction between content and function words is not consistently applied in the examples. For instance, /kʲa˥.sa˩/ is a content word, while /la˥.ke˩/ is a function word. /kʲa˥.sa˩/ contains a palatalized stop /kʲ/, a feature of content words, making its classification correct. However, /la˥.ke˩/ is phonologically simple (CV.CV, level tones, no secondary articulations, short oral vowels), fitting the description of a function word. The issue is that the descriptions imply a clearer-cut distinction than the examples show, creating potential for ambiguity where simple content words and function words can appear very similar.",
+      "type": "ambiguity",
+      "correction": "The descriptions should be refined to better capture the observed overlap. For example, clarify that while function words are always simple, content words *can* be simple, but are distinguished by allowing for complexity (like secondary articulation, as in /kʲa˥.sa˩/) which is forbidden in function words. The description could state: 'Function words are exclusively disyllabic, use only short oral vowels, level tones, and plain onsets. Content words may also be simple, but are the only class to permit secondary articulations, long/nasal vowels, and complex tones.'",
+      "priority": 3
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2cae1d6c",
+  "name": "Kaãnã",
+  "created_at": "2025-07-23 08:57:12",
+  "model": "deepseek-ai/DeepSeek-R1",
+  "user_constraints": null,
+  "has_phonology": true,
+  "has_grammar": true,
+  "has_lexicon": false,
+  "completeness": 60,
+  "features": [
+    "Tone System",
+    "SOV Word Order",
+    "Ergative Alignment",
+    "Evidentiality System"
+  ]
+}

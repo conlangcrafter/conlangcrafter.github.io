@@ -1,0 +1,203 @@
+# Grammar
+
+## Morphology
+
+The morphology of the language is fundamentally isolating for most lexical categories, with a strict one-to-one correspondence between words and morphemes. The major exception is the small, closed class of verbs, which are highly synthetic.
+
+Nouns and adjectives are uninflected roots that do not undergo suffixation. Roots themselves can be polysyllabic. Grammatical relations are marked externally via particles.
+
+*   **Noun:** `ket` (house)
+*   **Adjective:** `pʰla` (big)
+
+Verbs are obligatorily inflected for a wide array of Tense-Aspect-Mood (TAM) categories using a complex system of suffixes. For clause chaining, a special non-finite verb form consisting of the bare root is used.
+
+*   **Finite Verb:** `kulut-u-k` (see-PST-IND)
+
+The language exhibits a system of vowel harmony where all non-neutral vowels in a word must belong to one of three sets: front-unrounded {i, e}, front-rounded {y, ø}, or back-rounded {u, o}. The neutral vowel /a/ can co-occur with vowels from any of these sets. This harmony constrains verb suffixation, with each suffix having three allomorphs to match the vowel set of the verb root.
+
+*   **Front-unrounded:** `sʲelet-e-k` (know-PST-IND)
+*   **Front-rounded:** `ʃyɗø-ø-k` (want-PST-IND)
+*   **Back-rounded:** `kulut-u-k` (see-PST-IND)
+
+### Pronoun System and Animacy
+
+The pronoun system makes a fundamental distinction based on animacy (animate vs. inanimate) exclusively in the 3rd person. All pronouns are subject to the same case-marking rules as nouns. Some 3rd person forms are identical to common nouns (e.g., `ɓok` can mean "man" or "he"); their function as pronouns is determined by context. A pronominal reading is required when a clear antecedent has been established in the prior discourse. In contexts where no antecedent is present, forms like `ɓok` are interpreted as common nouns.
+
+|                     | Nominative (Subject) | Accusative (Object) | Genitive (Possessor) |
+| :------------------ | :------------------- | :------------------ | :------------------- |
+| **1st Person Sg.**  | u                    | a u                 | pʰi u                |
+| **2nd Person Sg.**  | tʰy                  | a tʰy               | pʰi tʰy              |
+| **3rd Sg. (Animate)**   | ɓok                  | a ɓok               | pʰi ɓok              |
+| **3rd Sg. (Inanimate)** | sʷøp                 | a sʷøp              | pʰi sʷøp             |
+| **1st Person Pl.**  | nʲeɲe                | a nʲeɲe             | pʰi nʲeɲe            |
+| **2nd Person Pl.**  | ʃyɗa                 | a ʃyɗa              | pʰi ʃyɗa             |
+| **3rd Pl. (Animate)**   | ʃakan                | a ʃakan             | pʰi ʃakan            |
+| **3rd Pl. (Inanimate)** | sʷøpa                | a sʷøpa             | pʰi sʷøpa            |
+
+*   `kulut-u-k ʃakan a sʷøpa pʲe.`
+    `see-PST-IND they(an.) ACC they(inan.) EVID:SENSORY`
+    "They (the people) saw them (the things)."
+
+### Evidential Particles
+
+Evidentiality (the source of the speaker's knowledge) is marked for the entire clause using a set of mandatory, clause-final function particles. These particles are required in all declarative sentences, both verbal and verbless.
+
+*   **`pʲe` (Direct Evidence):** A function particle used for information known through direct sensory experience.
+    *   `ket pʰla pʲe.`
+        `house big EVID:SENSORY`
+        "The house is big (I see it)."
+*   **`ɗʲic` (Inferred Evidence):** A function particle used for conclusions drawn from indirect evidence or logical deduction.
+    *   `ʃakan tʷo ket ɗʲic.`
+        `chief in house EVID:INFERRED`
+        "The chief is in the house (I infer, perhaps because his shoes are at the door)."
+*   **`nʲeɲ` (Reported/Hearsay Evidence):** A function particle used for information told to the speaker by someone else.
+    *   `ʃakan ɠʷaŋ tʷo ket nʲeɲ.`
+        `chief NEG in house EVID:HEARSAY`
+        "The chief is not in the house (I was told)."
+*   **`sʲelet` (General Knowledge/Assumed Truth):** A function particle used for information that is common knowledge or an undisputed fact (the gnomic evidential). This particle is homophonous with and historically derived from the verb root meaning 'to know'.
+    *   `ɓok ɠʷaŋ ʃakan sʲelet.`
+        `man(NOM) NEG chief(NOM) EVID:GEN.KNOW`
+        "The man is not the chief (it's a known fact)." (Note: in a context with an established male antecedent, this could also mean "He is not the chief.")
+
+## Syntax
+
+### Basic Clause Structure
+
+The language has a rigid VSO word order. The verb is the first element in a positive declarative clause. Grammatical roles are marked with postpositional case particles, following a nominative-accusative alignment. The nominative case for the subject has no overt marking, while the accusative case for the object is marked with the particle `a`. All declarative clauses must end with an evidential particle.
+
+*   `kulut-u-k ɓok a ket pʲe.`
+    `see-PST-IND man ACC house EVID:SENSORY`
+    "The man saw the house."
+*   `ʃyɗø-ø-k ɓok pʲe.`
+    `want-PST-IND man EVID:SENSORY`
+    "The man wants/wanted."
+
+Pronouns are always required and cannot be dropped. They follow the same VSO order and case-marking rules.
+
+*   `kulut-u-k u a tʰy pʲe.`
+    `see-PST-IND I ACC you EVID:SENSORY`
+    "I saw you."
+
+### Noun Phrase Structure
+
+Noun phrases are head-final. Genitives (possessors) precede the head noun, while adjectives follow it.
+
+The genitive relationship is marked by the postposition `pʰi` on the possessor.
+
+*   `ɓok pʰi ket`
+    `man GEN house`
+    "the man's house"
+
+Adjectival modification is handled by placing the adjective directly after the head noun.
+
+*   `ket pʰla`
+    `house big`
+    "the big house"
+
+### Postpositions
+
+The language uses a wide array of postpositions to mark oblique arguments and other relationships. They always follow the noun phrase they modify.
+
+*   `tʷo` - Locative ("in, at, on")
+*   `pʰi` - Genitive ("of")
+*   `lʲe` - Dative ("for," beneficiary)
+*   `sʷøpi` - Instrumental ("with, using")
+*   `cʷam` - Comitative particle ("along with, in the company of")
+
+*   `kulut-u-k u a ɓok tʷo ket pʲe.`
+    `see-PST-IND I ACC man in house EVID:SENSORY`
+    "I saw the man in the house."
+
+### Verbless Constructions
+
+The language makes pervasive use of verbless constructions, which supplant the need for a copular verb. The standard word order in these clauses is Subject-Predicate, with the notable exception of possessive clauses. They must end with an evidential particle.
+
+**1. Equational:** Two nominative (unmarked) noun phrases are juxtaposed.
+*   `ɓok ʃakan sʲelet.`
+    `man(NOM) chief(NOM) EVID:GEN.KNOW`
+    "The man is the chief."
+
+**2. Predicational/Attributive:** A nominative subject is followed by a predicative adjective.
+*   `ket pʰla pʲe.`
+    `house(NOM) big EVID:SENSORY`
+    "The house is big."
+
+**3. Locational:** A nominative subject is followed by a noun phrase marked with a locative postposition.
+*   `ʃakan tʷo ket ɗʲic.`
+    `chief(NOM) in house EVID:INFERRED`
+    "The chief is in the house."
+
+**4. Benefactive:** A nominative subject is followed by a noun phrase marked with the dative postposition `lʲe`.
+*   `map ʃakan lʲe pʲe.`
+    `mountain(NOM) chief(NOM) for EVID:SENSORY`
+    "The mountain is for the chief."
+
+**5. Existential/Possessive:** These clauses follow a fixed Possessed-Possessor order. A nominative noun phrase (the possessed) is followed by a genitive-marked noun phrase (the possessor). The genitive particle `pʰi` is used here.
+*   `ket ɓok pʰi nʲeɲ.`
+    `house(NOM) man GEN EVID:HEARSAY`
+    "The man has a house." (lit. "A house of the man exists.")
+*   `kʷotun u pʰi pʲe.`
+    `dog(NOM) I GEN EVID:SENSORY`
+    "I have a dog." (lit. "A dog of me exists.")
+
+### Negation
+
+Negation is handled by the function particle `ɠʷaŋ`, which is placed directly before the element it negates.
+
+*   **Verbal Clause Negation:** `ɠʷaŋ` immediately precedes the verb.
+    *   `ɠʷaŋ kulut-u-k ɓok a ket pʲe.`
+        `NEG see-PST-IND man ACC house EVID:SENSORY`
+        "The man did not see the house (I saw that he didn't)."
+*   **Verbless Clause Negation:** `ɠʷaŋ` precedes the predicate.
+    *   `ket ɠʷaŋ pʰla pʲe.`
+        `house(NOM) NEG big EVID:SENSORY`
+        "The house is not big (I see it)."
+
+### Question Formation
+
+**1. Polar (Yes/No) Questions:**
+These are formed by adding the function particle `tʰʷaŋat` to the end of a clause. The question particle and the evidential particle are two separate, sequential words, with the polar question particle `tʰʷaŋat` being the absolute final element of the clause.
+
+*   `ket pʰla pʲe tʰʷaŋat?`
+    `house big EVID:SENSORY Q`
+    "Is the house big (that you see)?"
+*   `kulut-u-k ɓok a ket pʲe tʰʷaŋat?`
+    `see-PST-IND man ACC house EVID:SENSORY Q`
+    "Did the man see the house (did you witness it)?"
+
+**2. Content (Wh-) Questions:**
+These use interrogative pro-forms that remain *in-situ* (in their normal grammatical position). The clause is marked as a question by the final particle `cʷat`, which is placed after the evidential particle. The polar particle `tʰʷaŋat` and the content question particle `cʷat` are mutually exclusive; a clause can end with one or the other, but not both.
+
+| Interrogative | Meaning                       |
+| :------------ | :---------------------------- |
+| `pʰitek`      | who (animate, sg/pl)          |
+| `xolusok`     | what (inanimate)              |
+| `cʰøɓʲøɲ`      | where                         |
+| `køpø`        | why                           |
+| `tʰʷaŋak`     | when                          |
+
+*   `kulut-u-k pʰitek a xolusok pʲe cʷat?`
+    `see-PST-IND who ACC what(inan.) EVID:SENSORY Q.WH`
+    "Who saw what?"
+*   `ʃakan cʰøɓʲøɲ pʲe cʷat?`
+    `chief(NOM) where EVID:SENSORY Q.WH`
+    "Where is the chief (that you see)?"
+
+### Clause Chaining and Coordination
+
+Complex sentences are formed by clause chaining. Only the final clause in the chain is fully marked with a finite verb and an evidential particle. Preceding, non-final clauses use a non-finite verb form (the bare root) or are verbless clauses. In either case, they must not have an evidential particle. The evidential of the final clause applies to the entire chain and must be semantically compatible with all chained clauses. If the subject is the same across clauses, the full noun phrase is used in the first clause and the corresponding pronoun must be used in subsequent clauses.
+
+*   **Verbal Clause Chaining:**
+    *   `kulut ɓok a ket, ʃyɗø-ø-k ɓok a sʷøp pʲe.`
+        `see.NF man ACC house, want-PST-IND he ACC it EVID:SENSORY`
+        "(I saw that) the man saw the house and wanted it." (The second `ɓok` is the obligatory pronoun 'he', which is identical in form to the noun 'man' used as its antecedent in the first clause.)
+*   **Mixed Clause Chaining:**
+    *   `ket pʰla, kulut-u-k u a sʷøp pʲe.`
+        `house big, see-PST-IND I ACC it EVID:SENSORY`
+        "(I saw that) the house was big, and I saw it."
+
+Coordination of noun phrases uses the comitative particle `cʷam`.
+
+*   `ɓok cʷam ʃakan tʷo ket pʲe.`
+    `man with chief in house EVID:SENSORY`
+    "The man and the chief are in the house."

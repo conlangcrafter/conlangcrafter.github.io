@@ -1,0 +1,226 @@
+# Grammar
+
+## Morphology
+
+The language is fusional, with grammatical information often compressed into single affixes that can be difficult to segment. Its morphology is primarily suffixing.
+
+### Nouns
+
+Nouns are inflected for case, number, and animacy class.
+
+#### Animacy
+
+There are two animacy classes: Animate (humans, animals, personified forces) and Inanimate (objects, concepts, locations).
+
+#### Number
+
+Singular nouns are unmarked for number. Plural nouns are marked with the suffix **`-tə̀`**, which is inserted *before* the case/animacy suffix. The tone of this plural suffix is always low-level. This low tone can trigger the allophonic voicing of a following stop in the case marker.
+
+*   **`ʂǎɴ`** (dog, root)
+    *   Singular Absolutive: `ʂǎɴ-a` → /ʂǎɴ.a/ → [ʂɑ̌n.a]
+    *   Plural Absolutive: `ʂǎɴ-tə̀-a` → /ʂǎɴ.tə̀.a/ → [ʂɑ̌n.də.a]
+        *   `dog-PL-ABS.ANIM`
+        *   ‘dogs’ (as S or O)
+        *   Note: The voicing of the plural marker's /t/ to [d] is a separate sandhi effect, triggered by the preceding low-toned root.
+
+*   **`ʔà.kə̂t`** (house, root)
+    *   Singular Ergative: `ʔà.kə̂t-kâ` → /ʔà.kə̂t.kâ/ → [ʔà.kə̂t.kâ]
+    *   Plural Ergative: `ʔà.kə̂t-tə̀-kâ` → /ʔà.kə̂t.tə̀.kâ/ → [ʔà.kə̂t.tə.gâ]
+        *   `house-PL-ERG.INAN`
+        *   ‘houses’ (as A)
+        *   Note: Here, the low tone of `-tə̀` voices the following /k/ of the case marker to [g].
+
+#### Case
+
+There are four grammatical cases. The endings for the core cases (Absolutive, Ergative, Genitive) fuse with the animacy marker.
+
+| Case | Animate Suffix | Inanimate Suffix |
+| :--- | :--- | :--- |
+| **Absolutive** | *-a* | *-ət* |
+| **Ergative** | *-jə́* | *-kâ* |
+| **Genitive** | *-t̪à* | (glottalization) |
+
+*   The **Absolutive** is the default, unmarked form. The suffix is often dropped on CVC nouns, especially in fast speech, leaving the bare root.
+*   The **Ergative** marks the agent of transitive verbs in the perfective aspect.
+*   The **Genitive** indicates possession. The inanimate genitive is not a suffix, but a process of applying glottalization to the preceding coda consonant, causing it to be unreleased (e.g., /t/ becomes [t̚ʔ]).
+
+Possession is indicated by placing the possessor noun, marked with the Genitive case, before the possessed noun, which is in the Absolutive case.
+
+*   **`mǎ.n̪ǎ-a`** → /mǎ.n̪ǎ.a/ → [mǎ.n̪ǎ.a]
+    *   `man-ABS.ANIM`
+    *   ‘a/the man’ (as S or O)
+*   **`mǎ.n̪ǎ-jə́`** → /mǎ.n̪ǎ.jə́/ → [mǎ.n̪ǎ.jə́]
+    *   `man-ERG.ANIM`
+    *   ‘a/the man’ (as A)
+*   **`mǎ.n̪ǎ-t̪à ʔà.kə̂t-ət`** → /mǎ.n̪ǎ.t̪à ʔà.kə̂.tət/ → [mǎ.n̪ǎ.d̪à ʔà.kə̂.tət]
+    *   `man-GEN.ANIM house-ABS.INAN`
+    *   ‘the man’s house’
+*   **`ʔà.kə̂t-ət`** → /ʔà.kə̂.tət/ → [ʔà.kə̂.tət]
+    *   `house-ABS.INAN`
+    *   ‘a/the house’ (as S or O)
+*   **`ʔà.kə̂t-kâ`** → /ʔà.kə̂t.kâ/ → [ʔà.kə̂t.kâ]
+    *   `house-ERG.INAN`
+    *   ‘a/the house’ (as A, e.g. "the house crushed the car")
+*   **`ʔà.kə̂t-GEN.INAN câ.lǎk-ət`** → /ʔà.kə̂tʔ câ.lǎ.kət/ → [ʔà.kə̂t̚ʔ t͡ɕâ.lǎ.kət]
+    *   `house-GEN.INAN door-ABS.INAN`
+    *   ‘the door of the house’
+
+In addition to the core cases, there is an **Instrumental-Comitative case** indicating "with [noun]" or "by means of [noun]". The suffix is **`-sá`** by default. It becomes **`-ʂá`** when the noun root contains a retroflex (/ʈ, ɳ, ʂ/) or uvular (/q, ɴ, χ/) consonant.
+
+*   **`jə́-sá`**
+    *   `hand-INS`
+    *   /jə́.sá/ → [jə́.sá]
+    *   ‘with a hand’
+*   **`ʂǎɴ-ʂá`**
+    *   `dog-INS`
+    *   /ʂǎɴ.ʂá/ → [ʂɑ̌n.ʂɑ́]
+    *   ‘with a dog’
+
+### Verbs
+
+The verbal system is extremely complex, marking for aspect, mood, evidentiality, and subject agreement through a series of fusional suffixes. Tense is primarily contextual or marked by adverbs. Subject agreement is marked on the verb as the final suffix in the verb chain, which allows for radical pro-drop.
+
+*   **`sə̂p-sâ-m`**
+    *   `see-IPFV.VIS-1SG`
+    *   ‘I see (it)’
+
+#### Evidential-Mood Suffix System
+
+Verbal suffixes fuse aspect (Perfective/Imperfective) with a four-way evidential distinction: Visual, Auditory, Inferential, and Reported.
+
+| Evidentiality | Perfective Suffix | Imperfective Suffix | Meaning |
+| :--- | :--- | :--- | :--- |
+| **Visual** | `-lá` / `-là` | `-sâ` / `-sǎ` | Direct visual evidence |
+| **Auditory** | `-χǎ` / `-χâ` | `-mí` / `-mì` | Direct auditory evidence |
+| **Inferential** | `-lǎ` / `-lâ` | `-tá` / `-tà` | Inferred from results/logic |
+| **Reported** | `-kə` / `-kə́` | `-n̪ə` / `-n̪ə́` | Hearsay, reported information |
+
+A creative feature is **tonal polarity** in verb inflection. Many verbal suffixes have a tone that is the opposite of the tone on the verb root's **first** vowel. A high tone (/á, â/) on the root's first vowel will cause the suffix to take a low tone (/à, ǎ/), and vice-versa. This creates a "see-saw" melodic contour across the verb.
+
+*Example with a high-tone root: **`pə̌t.tá-`** (to build)*
+*   **`pə̌t.tá-χǎ`**
+    *   `build-PFV.AUD` (Suffix takes low-rising tone, opposite of root's initial low-rising tone)
+    *   /pə̌t.tá.χǎ/ → [pə̌t.tá.χɑ̌]
+    *   ‘(I heard that someone) built’
+
+*Example with a low-tone root: **`ŋə̀n-`** (to eat)*
+*   **`ŋə̀n-sâ`**
+    *   `eat-IPFV.VIS` (Suffix takes high-falling tone, opposite of root's low-level tone)
+    *   /ŋə̀n.sâ/ → [ŋə̀n.sâ]
+    *   ‘(He) is eating (I see him).’
+
+#### Object Incorporation
+
+A notable feature is object incorporation, which is restricted to inanimate, non-specific objects. The inanimate object noun root is placed directly before the verb root, forming a compound verb. The original noun loses all its case marking. This structure describes a generic or habitual activity. When an object is incorporated, the tone of the incorporated noun does not affect the tonal polarity calculation; the verbal suffix's tone remains opposite to the tone of the main verb root's first vowel.
+
+*   **Without Incorporation (Specific Object):**
+    *   **`mǎ.n̪ǎ-jə́ ʔí-ət ŋə̀n-sâ-n.`**
+    *   `man-ERG.ANIM fish-ABS.INAN eat-IPFV.VIS-3SG`
+    *   /mǎ.n̪ǎ.jə́ ʔí.ət ŋə̀n.sâ.n/ → [mǎ.n̪ǎ.jə́ ʔí.ət ŋə̀n.sân]
+    *   ‘The man is eating **the/a (specific) fish** (I see him).’
+
+*   **With Incorporation (Non-Specific Object):**
+    *   **`mǎ.n̪ǎ-jə́ ʔí-ŋə̀n-sâ-n.`**
+    *   `man-ERG.ANIM fish-eat-IPFV.VIS-3SG`
+    *   /mǎ.n̪ǎ.jə́ ʔí.ŋə̀n.sâ.n/ → [mǎ.n̪ǎ.jə́ ʔí.ŋə̀n.sân]
+    *   ‘The man is **fish-eating** (I see him eating fish in general).’
+
+### Adpositions
+
+The language uses a mix of prepositions and postpositions. The choice is governed by the animacy of the noun phrase object. Animate objects take prepositions, while Inanimate objects take postpositions.
+
+*   **`qá mǎ.n̪ǎ-a`**
+    *   `to man-ABS.ANIM`
+    *   ‘to the man’
+*   **`ʔà.kə̂t-ət ɲà`**
+    *   `house-ABS.INAN from`
+    *   ‘from the house’
+
+## Syntax
+
+### Constituent Order
+
+Constituent order is highly flexible and determined by pragmatics (topic and focus). There is no grammatically fixed SVO or SOV order. The element in focus is typically fronted. A neutral, but uncommon, utterance order is SOV.
+
+*   **`mǎ.n̪ǎ-jə́ ʔà.kə̂t-ət pə̌t.tá-χǎ-n.`** (Neutral SOV)
+    *   `man-ERG.ANIM house-ABS.INAN build-PFV.AUD-3SG`
+    *   ‘(I heard that) the man built the house.’
+*   **`pə̌t.tá-χǎ-n mǎ.n̪ǎ-jə́ ʔà.kə̂t-ət.`** (Verb-initial focus)
+    *   `build-PFV.AUD-3SG man-ERG.ANIM house-ABS.INAN`
+    *   ‘The man **built** the house (he didn’t demolish it).’
+*   **`ʔà.kə̂t-ət mǎ.n̪ǎ-jə́ pə̌t.tá-χǎ-n.`** (Object-initial focus/topicalization)
+    *   `house-ABS.INAN man-ERG.ANIM build-PFV.AUD-3SG`
+    *   ‘**The house**, the man built it.’
+
+### Morphosyntactic Alignment
+
+The language exhibits split ergativity based on aspect.
+*   In the **Perfective aspect** (completed actions), it uses an **Ergative-Absolutive** alignment. The agent of a transitive verb (A) is marked with the Ergative case, while the intransitive subject (S) and transitive patient (O) are both in the unmarked Absolutive case.
+*   In the **Imperfective aspect** (ongoing actions), the alignment is different. The subject of both intransitive (S) and transitive (A) verbs is marked with the **Ergative case**. The object of a transitive verb (O) is marked with the **Absolutive case**. This system is sometimes known as a "Transitive" alignment.
+
+**Perfective (Ergative-Absolutive):**
+*   **`ʂǎɴ-a slà.xá-lǎ-n.`** (S is Absolutive)
+    *   `dog-ABS.ANIM run-PFV.INFER-3SG`
+    *   ‘The dog must have run.’
+*   **`mǎ.n̪ǎ-jə́ ʂǎɴ-a xǎ.mí-lǎ-n.`** (A is Ergative, O is Absolutive)
+    *   `man-ERG.ANIM dog-ABS.ANIM feed-PFV.INFER-3SG`
+    *   ‘The man must have fed the dog.’
+
+**Imperfective (Transitive alignment):**
+*   **`ʂǎɴ-jə́ t͡sə́m-sâ-n.`** (S is Ergative)
+    *   `dog-ERG.ANIM sing-IPFV.VIS-3SG`
+    *   ‘The dog is singing (I see it).’
+*   **`mǎ.n̪ǎ-jə́ ʔí-ət xǎ.mí-sâ-n.`** (A is Ergative, O is Absolutive)
+    *   `man-ERG.ANIM fish-ABS.INAN feed-IPFV.VIS-3SG`
+    *   ‘The man is feeding the fish (I see it).’
+
+### Questions
+
+The language lacks question words like "who" or "what". Instead, it uses an indefinite pro-form in the argument slot, combined with a sentence-final question particle. The pro-form is **`hə`** for animates and **`sa`** for inanimates. The question particle is **`=á`**, which cliticizes to the final word of the utterance, overriding its last tone.
+
+*   **Yes/No Question:** Add `=á` to a declarative statement.
+    *   **`mǎ.n̪ǎ-jə́ ʂǎɴ-a xǎ.mí-lǎ-n=á`**
+    *   `man-ERG.ANIM dog-ABS.ANIM feed-PFV.INFER-3SG=Q`
+    *   ‘Must the man have fed the dog?’
+
+*   **Content Question (Who):** Use `hə-` (animate pro-form) with the appropriate case.
+    *   **`hə-jə́ ʂǎɴ-a xǎ.mí-lǎ-n=á`**
+    *   `INDEF.ANIM-ERG.ANIM dog-ABS.ANIM feed-PFV.INFER-3SG=Q`
+    *   ‘Who must have fed the dog?’
+
+*   **Content Question (What):** Use `sa-` (inanimate pro-form) with the appropriate case.
+    *   **`mǎ.n̪ǎ-jə́ sa-ət xǎ.mí-lǎ-n=á`**
+    *   `man-ERG.ANIM INDEF.INAN-ABS.INAN feed-PFV.INFER-3SG=Q`
+    *   ‘What must the man have fed?’
+
+### Subordinate Clauses
+
+Subordination is handled with finite clauses introduced by conjunctions. There is a rich set of conjunctions that also encode evidential information, agreeing with the main verb's evidential marking.
+
+*   **`hə́.jən-tá-m [ qá-lǎ n̪ì.sə́m-a ɳâ.ʈà-lǎ-n ].`**
+    *   `know-IPFV.INFER-1SG [ that-INFER child-ABS.ANIM sleep-PFV.INFER-3SG ]`
+    *   ‘I gather that the child must have slept.’
+
+Here, the inferential conjunction `qá-lǎ` matches the inferential mood on both the main clause verb (`hə́.jən-tá-m`) and the subordinate clause verb (`ɳâ.ʈà-lǎ-n`). Using a mismatched conjunction would be ungrammatical.
+
+### Serial Verb Constructions (SVCs)
+
+The language makes extensive use of Serial Verb Constructions, where two or more verbs appear in a single clause without a linker. They share a single subject and the same aspect/mood/evidentiality marking, which appears only on the final verb. SVCs are highly productive for expressing manner, direction, or sequential actions conceived of as a single event.
+
+*   **Manner SVC:**
+    *   **`ʂǎɴ-jə́ slà.xá tə̂-sâ-n.`**
+    *   `dog-ERG.ANIM run arrive-IPFV.VIS-3SG`
+    *   /ʂǎɴ.jə́ slà.xá tə̂.sâ.n/ → [ʂɑ̌n.jə́ slɑ̀.xɑ́ tə̂.sân]
+    *   ‘The dog is arriving by running / The dog is running hither.’
+
+*   **Directional SVC:**
+    *   **`n̪ì.sə́m-a ɳâ.ʈà plá-lǎ-n.`**
+    *   `child-ABS.ANIM sleep go.up-PFV.INFER-3SG`
+    *   /n̪ì.sə́.ma ɳâ.ʈà plá.lǎ.n/ → [n̪ì.sə́.ma ɳɑ̂.ɖɑ̀ plɑ́.lɑ̌n]
+    *   ‘The child must have gone up to sleep.’
+
+*   **Sequential SVC:**
+    *   **`mǎ.n̪ǎ-jə́ ʔà.kə̂t-ət pə̌t.tá kwǎj-χǎ-n.`**
+    *   `man-ERG.ANIM house-ABS.INAN build finish-PFV.AUD-3SG`
+    *   /mǎ.n̪ǎ.jə́ ʔà.kə̂.tət pə̌t.tá kwǎj.χǎ.n/ → [mǎ.n̪ǎ.jə́ ʔà.kə̂.tət pə̌t.tá kwɑ̌j.χɑ̌n]
+    *   ‘(I heard that) the man finished building the house.’

@@ -1,0 +1,236 @@
+# Grammar
+
+## Morphology
+
+The language is moderately synthetic and highly fusional. Words typically consist of a root plus a few affixes, but the boundaries between these morphemes are often blurred by phonological changes and portmanteau expression. Vowel harmony, dictated by the root, is a key feature; all vowels in a word must be either unrounded {i, e, a} or rounded {u, o}. Affixes have two forms to comply with this harmony.
+
+### Noun Morphology
+
+Nouns are inflected for case and number (singular/plural). Case and number are often fused into a single suffix. The core cases are Nominative/Absolutive (unmarked), Accusative (marked by tone), Ergative (marked by a suffix), Genitive, and Dative/Benefactive.
+
+**Case and Number System:**
+
+| Case | Singular | Plural | Function |
+| :--- | :--- | :--- | :--- |
+| **Nominative / Absolutive** | Ø (unmarked) | Ø (unmarked) | Subject of intransitive V; Agent in IPFV aspect; Patient in PFV aspect |
+| **Accusative** | Final syllable tone -> /˩˥/ | Final syllable tone -> /˩˥/ | Patient in IPFV aspect |
+| **Ergative** | *-se˥* / *-so˥* | *-le˩* / *-lo˩* | Agent in PFV aspect |
+| **Genitive** | *-ʔi* / *-ʔu* | *-li* / *-lu* | Possessor |
+| **Dative / Benefactive** | *-na* / *-no* | *-na.le˥* / *-no.lo˥* | Indirect object, recipient, beneficiary |
+
+*   **Nominative/Absolutive (Unmarked):**
+    /twa˩ **kʰa˥** xa.le/
+    `PFV` `**man(ABS)**` `play`
+    'The man played.'
+
+*   **Accusative (Rising Tone):**
+    /me˩ ǁˀa˥ ᵑǃo.kʰo˩ **kʰa˩˥** /
+    `IPFV` `child(NOM)` `see` `**man-ACC**`
+    'The child is seeing the man.'
+
+*   **Ergative (Suffix):**
+    /kʰa˥/ `man` -> /kʰa.se˥/ `man-ERG.SG`
+    /kʰa˥/ `man` -> /kʰa.le˩/ `man-ERG.PL`
+
+    /twa˩ **kʰa.se˥** ᵑǃo.kʰo˩ ǁˀa˥/
+    `PFV` `**man-ERG.SG**` `see` `child(ABS)`
+    'The man saw the child.'
+
+    /twa˩ **kʰa.le˩** ᵑǃo.kʰo˩ ǁˀa˥/
+    `PFV` `**man-ERG.PL**` `see` `child(ABS)`
+    'The men saw the child.'
+
+*   **Genitive (Possession):** The genitive suffix marks the possessor, which follows the possessed noun. The singular suffix is inherently `*-ʔi / -ʔu*`.
+    /ʘoŋ˥ **kʰa.ʔi˥** /
+    `house` `**man-GEN.SG**`
+    'The man's house.'
+
+    /kwo.soŋ˩˥ **pʰo.tʰu.lu˩** /
+    `story` `**chief-GEN.PL**`
+    'The chiefs' story.'
+
+*   **Dative (Indirect Object):** The Dative plural is formed by adding the plural marker *-le* / *-lo* to the singular suffix.
+    /twa˩ kʰa.se˥ si˩˥ **ǁˀa.na˥** /
+    `PFV` `man-ERG.SG` `give` `**child-DAT.SG**`
+    'The man gave (something) to the child.'
+
+    /twa˩ kʰa.se˥ si˩˥ **ǁˀa.na.le˥** /
+    `PFV` `man-ERG.SG` `give` `**child-DAT.PL**`
+    'The man gave (something) to the children.'
+
+### Verb Morphology
+
+Verbs do not inflect for person or number agreement. The verb root itself remains unchanged. Tense, Aspect, and Mood (TAM) are handled analytically by a combination of pre-verbal particles and auxiliaries.
+
+**TAM Particles:**
+
+| Particle | Tone | Meaning | Aspect |
+| :--- | :---: | :--- | :--- |
+| *me* | /˩/ | Imperfective | Present, progressive, habitual |
+| *twa* | /˩/ | Perfective | Past, completed |
+| *pʰa* | /˥/ | Prospective | Future, irrealis |
+| *kwo* | /˥˩/ | Gnomic | General truths, timeless statements |
+
+*   **Imperfective:**
+    /me˩ kʰa˥ ᵑǃo.kʰo˩/
+    `IPFV` `man` `see`
+    'The man is seeing / sees.'
+
+*   **Perfective:**
+    /twa˩ kʰa˥ ᵑǃo.kʰo˩/
+    `PFV` `man` `see`
+    'The man saw.'
+
+*   **Prospective (Future):**
+    /pʰa˥ kʰa˥ ᵑǃo.kʰo˩/
+    `PROSP` `man` `see`
+    'The man will see.'
+
+*   **Gnomic (Timeless):**
+    /kwo˥˩ ʘoŋ˥ te.la˩/
+    `GNOM` `house` `be.big`
+    'Houses are big.'
+
+**Evidentiality:** The language marks the source of the speaker's knowledge through a system of verb-doubling. The main verb is repeated after the object (or directly after the verb in an intransitive clause), but with a modified tone to indicate evidentiality. If no doubled verb is present, the statement is neutral.
+
+*   **Direct Evidence (Sensory):** The doubled verb takes a High Level tone /˥/.
+    /twa˩ kʰa.se˥ ᵑǃo.kʰo˩ ǁˀa˥ **ᵑǃo.kʰo˥** /
+    `PFV` `man-ERG` `see` `child` `**see-VISUAL**`
+    'The man saw the child (I saw it happen).'
+
+*   **Inferred Evidence (Logical):** The doubled verb takes a Rising tone /˩˥/.
+    /twa˩ ǁˀa˥ xa.le **xa.le˩˥** /
+    `PFV` `child` `play` `**play-INFR**`
+    'The child played (I see their toys outside, so I infer it).'
+
+*   **Reported Evidence (Hearsay):** The doubled verb takes a Falling tone /˥˩/.
+    /me˩ kʰa˥ ᵑǃo.kʰo˩ ǁˀa˩˥ **ᵑǃo.kʰo˥˩** /
+    `IPFV` `man(NOM)` `see` `child-ACC` `**see-RPRT**`
+    '(They say) he is seeing the child.'
+
+### Adjective Morphology
+
+Adjectives agree with their noun in terms of vowel harmony but are otherwise invariant. They can function as predicates (stative verbs) or as modifiers that follow the noun. Intensity is shown through consonant symbolism or prefixation.
+
+*   **Consonant Symbolism:** For adjectives beginning with a tenuis plosive (/p, t, k/), the initial consonant is altered.
+    *   **Augmentation (greater degree):** The plosive becomes aspirated (/pʰ, tʰ, kʰ/).
+    *   **Diminution (lesser degree):** The plosive becomes a corresponding nasalized click: /p/ -> /ᵑʘ/ (bilabial), /t/ -> /ᵑǀ/ (dental), and /k/ -> /ᵑǃ/ (velar).
+
+    /te.la˩/ `big`
+    /tʰe.la˩/ `very big` (augmented)
+    /ᵑǀe.la˩/ `somewhat big / biggish` (diminished)
+
+*   **Prefixation:** For adjectives that do not begin with a tenuis plosive, a syllable is prefixed.
+    *   **Augmentation Prefix:** *tʰa-* / *tʰo-*
+    *   **Diminution Prefix:** *sa-* / *so-*
+
+    /xans˥/ `fast`
+    /tʰa.xans˥/ `very fast`
+    /sa.xans˥/ `somewhat fast`
+
+    /pʰlums˥˩/ `dark`
+    /tʰo.pʰlums˥˩/ `very dark`
+    /so.pʰlums˥˩/ `somewhat dark`
+
+*   **Example as a modifier:**
+    /ʘoŋ˥ tʰo.lo˩/
+    `house` `very.big`
+    'A very big house.' (Vowel harmony: `to.lo` is used for the rounded vowel in `ʘoŋ`)
+
+## Syntax
+
+The basic word order is Subject-Verb-Object (SVO). Clauses with adjectival predicates, which function as intransitive verbs, follow a Subject-Adjective (SV) order.
+
+### Alignment (Split-Ergativity)
+
+The language displays a split-ergative alignment system conditioned by aspect.
+
+*   In the **imperfective aspect** (marked by particle *me˩*), the alignment is **Nominative-Accusative**. The subject of both transitive and intransitive verbs is unmarked (Nominative), and the direct object is marked with the Accusative case (a rising tone /˩˥/ on its final syllable).
+
+    *Transitive:*
+    /me˩ kʰa˥ ᵑǃo.kʰo˩ ǁˀa˩˥/
+    `IPFV` `man(NOM)` `see` `child(ACC)`
+    'The man is seeing the child.'
+
+    *Intransitive:*
+    /me˩ ǁˀa˥ xa.le/
+    `IPFV` `child(NOM)` `play`
+    'The child is playing.'
+
+*   In the **perfective aspect** (marked by particle *twa˩*), the alignment is **Ergative-Absolutive**. The subject of a transitive verb takes the Ergative case (*-se˥*/*-so˥*), while the direct object and the intransitive subject are both unmarked (Absolutive).
+
+    *Transitive:*
+    /twa˩ kʰa.se˥ ᵑǃo.kʰo˩ ǁˀa˥/
+    `PFV` `man-ERG` `see` `child(ABS)`
+    'The man saw the child.'
+
+    *Intransitive:*
+    /twa˩ ǁˀa˥ xa.le/
+    `PFV` `child(ABS)` `play`
+    'The child played.'
+
+### Adposition Strategy (Animacy-based)
+
+The language has both prepositions and postpositions. Their usage is determined by the noun's animacy.
+
+*   **Animate Nouns** take **Postpositions**.
+    /kʰa˥ **tʰo˩** ᵑǃo.kʰo˩/
+    `man` `**with**` `see`
+    '...see with the man.'
+
+*   **Inanimate Nouns** take **Prepositions**.
+    /ᵑǃo.kʰo˩ **ŋu˩** ʘoŋ˥/
+    `see` `**inside**` `house`
+    '...see inside the house.'
+
+### Pronoun Dropping
+
+All core argument pronouns (subject, object) can be dropped when they are recoverable from the discourse context. This is common in conversational language.
+
+*   A: 'Did you see the child?'
+*   B: /twa˩ ᵑǃo.kʰo˩/
+*   `PFV` `see`
+*   '(I) saw (him/her/it).'
+
+### Question Formation
+
+*   **Yes/No Questions:** Formed by adding the sentence-final particle *ne˩˥*.
+    /twa˩ kʰa.se˥ ᵑǃo.kʰo˩ ǁˀa˥ **ne˩˥** /
+    `PFV` `man-ERG` `see` `child` `**Q**`
+    'Did the man see the child?'
+
+*   **Content Questions (Wh-questions):** Interrogative words are fronted to the beginning of the clause, immediately after the TAM particle. The questioned element's case marking is retained on the interrogative word.
+
+| Interrogative Word | Base Tone | Meaning |
+| :--- | :---: | :--- |
+| *ǀe* / *ǀo* | /˥/ | who, what (animate) |
+| *se* / *so* | /˥/ | what (inanimate) |
+| *ǁi* / *ǁu* | /˥/ | where |
+| *ǃa* | /˥/ | when |
+| *ᵑǀa* | /˥/ | why, how |
+
+    /twa˩ **ǀe.se˥** ᵑǃo.kʰo˩ ǁˀa˥/
+    `PFV` `**who-ERG.SG**` `see` `child`
+    'Who saw the child?'
+
+    /me˩ kʰa˥ ᵑǃo.kʰo˩ **se˩˥** /
+    `IPFV` `man` `see` `**what-ACC**`
+    'What is the man seeing?'
+
+    /pʰa˥ **ǁi˥** xa.le/
+    `PROSP` `**where**` `play`
+    'Where will (he/she) play?'
+
+### Clause Chaining and Switch-Reference
+
+For joining clauses that share a subject, the language uses a special conjunctive verbal form instead of repeating the subject or using a simple conjunction. This form is created by replacing the final vowel of the verb in the first clause with *-i* (unrounded) or *-u* (rounded). The case of the subject in the second clause is determined by the clause's transitivity and the overarching TAM particle, even if the subject is dropped.
+
+*   **Same Subject (SS):** The suffix takes a High Level tone /˥/.
+    /twa˩ kʰa˥ xa.l**i˥**, ᵑǃo.kʰo˩ ǁˀa˥/
+    `PFV` `man(ABS)` `play-**SS.CONJ**` `see(V2)` `child(ABS)`
+    'The man played and (he) saw the child.' (Note that "Same Subject" refers to the same referent, even if the grammatical case of that subject changes between the clauses due to the split-ergative system. Here, the dropped subject of 'see' is understood as Ergative.)
+
+*   **Different Subject (DS):** The suffix takes a Low Level tone /˩/.
+    /twa˩ kʰa˥ xa.l**i˩**, ᵑǃo.kʰo˩ ǁˀa˥/
+    `PFV` `man(ABS)` `play-**DS.CONJ**` `see(V2)` `child(ABS)`
+    'The man played, and (someone else) saw the child.'

@@ -1,0 +1,65 @@
+# Phonology
+
+## Consonants
+
+| | Labial | Dental | Retroflex | Palatal | Velar |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Stop** | p b pʰ | t̪ d̪ t̪ʰ | ʈ ɖ ʈʰ | c ɟ cʰ | k ɡ kʰ |
+| **Affricate** | | t̪s d̪z | ʈʂ ɖʐ | tɕ dʑ | |
+| **Fricative** | f v | s z | ʂ ʐ | ɕ ʑ | x ɣ |
+| **Approximant** | w | l̪ | ɭ | j | |
+| **Trill** | | r̪ | | | |
+| **Lateral Fricative** | | ɬ ɮ | | | |
+
+## Vowels
+
+| | Front | Back |
+| :-- | :---: | :---: |
+| **High** | i | u |
+| **Low** | | a |
+
+## Phonotactics
+
+The syllable structure is strictly (C)V. Every syllable consists of an optional onset consonant followed by a mandatory vowel. There are no consonant clusters or codas. As there are no nasal consonants, sequences that might be expected to produce nasality in other languages (e.g., vowel-nasal sequences) do not exist. All words must end in a vowel.
+
+## Suprasegmentals
+
+The language features a complex pitch-accent system. Each word has exactly one accented syllable, which is realized with a high falling tone (â). All other syllables in the word carry a default mid-level tone (ā). The location of the accent is phonemic and unpredictable (e.g., *kâtā* vs. *kātâ*). Additionally, there is a phonemic "breathy" tone (a̤), which can co-occur with any syllable, including the accented one. This breathy phonation is realized on the vowel but is considered a property of the syllable's tone, creating contrasts like *pā* (mid), *pâ* (falling), *pā̤* (mid, breathy), and *pâ̤* (falling, breathy).
+
+## Word Shapes and Lexical Statistics
+
+The lexicon of this language is built exclusively from (C)V syllables. Consequently, all words consist of an alternating sequence of consonants and vowels, always ending in a vowel. The simplest and most common word structures are monosyllabic ((C)V) and disyllabic ((C)V(C)V).
+
+Function words are almost universally monosyllabic and are extremely common in discourse. Most of these consist of a single CV syllable, though a few V-only function words exist. They generally favor simpler articulations (such as plain stops and fricatives), though some common items may feature aspiration. They rarely feature more complex articulations like retroflex affricates or lateral fricatives.
+
+Content words show a much greater diversity in length and phonological complexity. Most content words are disyllabic or trisyllabic. Words of four or five syllables are also quite common, particularly for more specific or technical concepts. While words longer than five syllables are possible, they are relatively rare. The full range of the extensive consonant inventory, including the aspirated stops, retroflexes, and lateral fricatives, is found predominantly in content words. The phonemic accent can fall on any syllable, leading to many minimal pairs. Breathy phonation is also a feature found primarily, though not exclusively, in the content lexicon and can appear on any syllable, regardless of accent placement.
+
+Below are some illustrative lexical items:
+
+*   /d̪ā/ (common function item)
+*   /jā/ (common function item)
+*   /vâ/ (common function item)
+*   /kʰā/ (common function item)
+*   /i̤/ (rare function item)
+*   /pât̪ā/ (common content item)
+*   /pāt̪â/ (common content item)
+*   /bādʑâ/ (common content item)
+*   /t̪sâd̪zā/ (common content item)
+*   /kʰāɡû/ (common content item)
+*   /ɕālî/ (common content item)
+*   /ʐâvā/ (common content item)
+*   /t̪ʰāl̪â̤/ (content item)
+*   /cʰâ̤rū/ (content item)
+*   /fāsâ̤/ (content item)
+*   /d̪ār̪âkʰa/ (content item)
+*   /pʰāt̪â̤lū/ (content item)
+*   /ʈʂāɖʐâkʰa/ (content item)
+*   /kāt̪āvâ/ (content item)
+*   /id̪â̤lī/ (content item)
+*   /ɬâpʰa/ (uncommon content item)
+*   /ɮâ̤wū/ (uncommon content item)
+*   /cʰîkāt̪ū/ (content item)
+*   /ʈʰāɭâpʰā/ (uncommon content item)
+*   /xāɣâtɕāsi/ (content item)
+*   /d̪zid̪ācʰâ̤bū/ (content item)
+*   /pāt̪ākʰāl̪â̤vū/ (rare content item)

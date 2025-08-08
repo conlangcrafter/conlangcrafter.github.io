@@ -1,0 +1,1056 @@
+[
+  {
+    "word": "-at˩",
+    "translation": "suffix",
+    "pos": "abstract noun formative",
+    "notes": "derivational suffix; [-ATR]",
+    "null": [
+      "`dʒan˥` (to eat) -> `dʒan˥-at˩` (eating)",
+      ""
+    ]
+  },
+  {
+    "word": "-dʒa˥",
+    "translation": "suffix",
+    "pos": "CAUS (causative)",
+    "notes": "valence suffix; [-ATR]",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-dʒo˥",
+    "translation": "suffix",
+    "pos": "CAUS (causative)",
+    "notes": "valence suffix; [+ATR]",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-e˥˩˥",
+    "translation": "suffix",
+    "pos": "agent noun formative",
+    "notes": "derivational suffix; [+ATR]",
+    "null": [
+      "`go˩` (to speak) -> `go˩-e˥˩˥` (a speaker)",
+      ""
+    ]
+  },
+  {
+    "word": "-i˥˩",
+    "translation": "suffix",
+    "pos": "ACC (accusative)",
+    "notes": "noun suffix; [+ATR]",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-na˥",
+    "translation": "suffix",
+    "pos": "APPL (applicative)",
+    "notes": "valence suffix; [-ATR]",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-ni˥",
+    "translation": "suffix",
+    "pos": "APPL (applicative)",
+    "notes": "valence suffix; [+ATR]",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-ot˩",
+    "translation": "suffix",
+    "pos": "abstract noun formative",
+    "notes": "derivational suffix; [+ATR]",
+    "null": [
+      "`go˩` (to speak) -> `go˩-ot˩` (speech)",
+      ""
+    ]
+  },
+  {
+    "word": "-o˥",
+    "translation": "suffix",
+    "pos": "PL (plural)",
+    "notes": "noun suffix; [+ATR]",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-ra˩",
+    "translation": "suffix",
+    "pos": "SS (same-subject)",
+    "notes": "switch-reference suffix; [-ATR]",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-ro˩",
+    "translation": "suffix",
+    "pos": "SS (same-subject)",
+    "notes": "switch-reference suffix; [+ATR]",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-tse˩",
+    "translation": "suffix",
+    "pos": "DS (different-subject)",
+    "notes": "switch-reference suffix; [+ATR]",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-tsɛ˩",
+    "translation": "suffix",
+    "pos": "DS (different-subject)",
+    "notes": "switch-reference suffix; [-ATR]",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-ve˥",
+    "translation": "suffix",
+    "pos": "RECIP (reciprocal)",
+    "notes": "valence suffix; [+ATR]",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-vɛ˥",
+    "translation": "suffix",
+    "pos": "RECIP (reciprocal)",
+    "notes": "valence suffix; [-ATR]",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-ɔ˥",
+    "translation": "suffix",
+    "pos": "PL (plural)",
+    "notes": "noun suffix; [-ATR]",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-ɛ˥˩",
+    "translation": "suffix",
+    "pos": "ACC (accusative)",
+    "notes": "noun suffix; [-ATR]",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-ɛ˥˩˥",
+    "translation": "suffix",
+    "pos": "agent noun formative",
+    "notes": "derivational suffix; [-ATR]",
+    "null": [
+      "`vat˥` (to hunt) -> `vat˥-ɛ˥˩˥` (a hunter)",
+      ""
+    ]
+  },
+  {
+    "word": "a˥",
+    "translation": "function item",
+    "pos": "preposition",
+    "notes": "preposition; very common",
+    "null": [
+      "`a˥ vɛ˥.dʒa˩-ɛ˥˩ ǃa˥˩.θɔ˩-ɛ˥˩` (to the big dog)",
+      "Governs a noun phrase."
+    ]
+  },
+  {
+    "word": "a˥",
+    "translation": "particle",
+    "pos": "yes/no question marker",
+    "notes": "sentence-final particle; does not participate in vowel harmony",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "bre˥˩",
+    "translation": "adjective",
+    "pos": "red",
+    "notes": "root; [+ATR]; common",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "bɔ˩.dɔk˥",
+    "translation": "noun",
+    "pos": "house",
+    "notes": "root; [-ATR]; common",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "crolk˩",
+    "translation": "verb",
+    "pos": "to calculate",
+    "notes": "root; [+ATR]; rare",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "cɛ˥.gɛ˩",
+    "translation": "noun",
+    "pos": "animal",
+    "notes": "root; [-ATR]; common",
+    "null": [
+      "Non-human animate noun class."
+    ]
+  },
+  {
+    "word": "dze-",
+    "translation": "prefix",
+    "pos": "3PL.HUM.S agreement",
+    "notes": "prefix; [+ATR]; subject agreement marker for 3rd person plural human; harmonizes to `dzɛ-` with [-ATR] roots.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "dzɛ˩",
+    "translation": "conjunction",
+    "pos": "and",
+    "notes": "coordinating conjunction; common function item",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "dɔ˩.kɔ˥.na˩",
+    "translation": "noun",
+    "pos": "market",
+    "notes": "root; [-ATR]; common",
+    "null": [
+      "The root is likely `dɔkɔna`."
+    ]
+  },
+  {
+    "word": "dʒan˥",
+    "translation": "verb",
+    "pos": "to eat",
+    "notes": "root; [-ATR]; common content item",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "dʒa˥.dʒa˥",
+    "translation": "verb",
+    "pos": "to laugh",
+    "notes": "root; [-ATR]; common",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "dʒa˥.mɛ˩˥",
+    "translation": "noun",
+    "pos": "lover",
+    "notes": "agent noun; [-ATR]",
+    "null": [
+      "`pɛm˥` (to love) + `-ɛ˥˩˥` (agent)",
+      "The derivation from `pɛm˥` involves complex, possibly suppletive, morphophonology beyond regular rules."
+    ]
+  },
+  {
+    "word": "dʒe˥",
+    "translation": "pronoun",
+    "pos": "who/what (inanimate)",
+    "notes": "interrogative pronoun",
+    "null": [
+      "Can be inflected for case.",
+      ""
+    ]
+  },
+  {
+    "word": "dʒu˥.dʒe˥",
+    "translation": "adjective",
+    "pos": "good",
+    "notes": "root; [+ATR]; common",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "e-",
+    "translation": "prefix",
+    "pos": "3SG.INAN.O agreement",
+    "notes": "prefix; [+ATR]; object agreement marker for 3rd person singular inanimate; harmonizes to `ɛ-` with [-ATR] roots.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "flɛk˥˩",
+    "translation": "verb",
+    "pos": "to fly",
+    "notes": "root; [-ATR]; common",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "go-",
+    "translation": "prefix",
+    "pos": "3SG.HUM.S agreement",
+    "notes": "prefix; [+ATR]; subject agreement marker for 3rd person singular human; harmonizes to `gɔ-` with [-ATR] roots.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "go˩",
+    "translation": "verb",
+    "pos": "to speak, to say",
+    "notes": "root; [+ATR]",
+    "null": [
+      "`go˩-ot˩` (speech)",
+      "Used in example `go˩-e˥˩˥` (a speaker)."
+    ]
+  },
+  {
+    "word": "i˥˩",
+    "translation": "particle",
+    "pos": "NEG (negation)",
+    "notes": "pre-verbal particle; common function item",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ka˩.ma˥",
+    "translation": "noun",
+    "pos": "mother",
+    "notes": "root; [-ATR]; common",
+    "null": [
+      "Human noun class.",
+      "The presence of /m/ triggers nasal harmony, so this is pronounced [kã˩.mã˥]."
+    ]
+  },
+  {
+    "word": "ki˩",
+    "translation": "function item",
+    "pos": "because",
+    "notes": "subordinating conjunction; common",
+    "null": [
+      "Introduces a reason clause."
+    ]
+  },
+  {
+    "word": "kspoŋs˩",
+    "translation": "noun",
+    "pos": "entropy",
+    "notes": "root; [-ATR]; very rare content item",
+    "null": [
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "kɛ˩",
+    "translation": "conjunction",
+    "pos": "if",
+    "notes": "subordinating conjunction; [-ATR]; common",
+    "null": [
+      "Introduces a conditional clause."
+    ]
+  },
+  {
+    "word": "kɻa˥˩˥",
+    "translation": "adjective",
+    "pos": "big",
+    "notes": "root; [-ATR]",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kɻu˥˩˥",
+    "translation": "noun",
+    "pos": "tree",
+    "notes": "root; [+ATR]; common content item",
+    "null": [
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "kʷi˩",
+    "translation": "verb",
+    "pos": "to be (located)",
+    "notes": "root; [+ATR]; common",
+    "null": [
+      "Used for locative predication."
+    ]
+  },
+  {
+    "word": "kʷɛ˩.t̪a˥",
+    "translation": "noun",
+    "pos": "fish",
+    "notes": "root; [-ATR]; common",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ma˩.nu˥",
+    "translation": "noun",
+    "pos": "hand",
+    "notes": "root; [+ATR]; common",
+    "null": [
+      "The presence of /m/ and /n/ triggers nasal harmony",
+      " so this is pronounced [mã˩.nũ˥]."
+    ]
+  },
+  {
+    "word": "mi˩.lo˥",
+    "translation": "verb",
+    "pos": "to sing",
+    "notes": "root; [+ATR]; common",
+    "null": [
+      "The presence of /m/ triggers nasal harmony",
+      " so this is pronounced [mĩ˩.l̃õ˥]."
+    ]
+  },
+  {
+    "word": "mi˩.lo˥-e˥˩˥",
+    "translation": "noun",
+    "pos": "singer",
+    "notes": "agent noun; [+ATR]",
+    "null": [
+      "`mi˩.lo˥` (to sing) + `-e˥˩˥` (agent)",
+      "The presence of /m/ triggers nasal harmony, so this is pronounced [mĩ˩.l̃õ˥.ẽ˥˩˥]."
+    ]
+  },
+  {
+    "word": "mɔ˩.lɔk˥",
+    "translation": "adjective",
+    "pos": "bad",
+    "notes": "root; [-ATR]; common",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ne˥",
+    "translation": "particle",
+    "pos": "also",
+    "notes": "adverbial particle; [+ATR]; common function item",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "nɔ˥˩",
+    "translation": "auxiliary",
+    "pos": "PST (past tense)",
+    "notes": "TAM auxiliary; common; precedes main verb",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "o˩",
+    "translation": "function item",
+    "pos": "or",
+    "notes": "coordinating conjunction; common",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pa˥.t̪a˩",
+    "translation": "noun",
+    "pos": "father",
+    "notes": "root; [-ATR]; common",
+    "null": [
+      "Human noun class."
+    ]
+  },
+  {
+    "word": "plɔm˥˩",
+    "translation": "noun",
+    "pos": "stone",
+    "notes": "root; [-ATR]; common content item",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pru˩.do˥",
+    "translation": "noun",
+    "pos": "book",
+    "notes": "root; [+ATR]; uncommon",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pɛm˥",
+    "translation": "verb",
+    "pos": "to love",
+    "notes": "root; [-ATR]; common",
+    "null": [
+      "The presence of /m/ triggers nasal harmony",
+      " so this is pronounced [pɛ̃m˥]."
+    ]
+  },
+  {
+    "word": "skɛn˩˥",
+    "translation": "verb",
+    "pos": "to run",
+    "notes": "root; [-ATR]; common content item",
+    "null": [
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "snat˥",
+    "translation": "verb",
+    "pos": "to sleep",
+    "notes": "root; [-ATR]; common",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "snat˥-at˩",
+    "translation": "noun",
+    "pos": "sleep (the act of sleeping)",
+    "notes": "abstract noun; [-ATR]",
+    "null": [
+      "`snat˥` (to sleep) + `-at˩` (abstract)",
+      ""
+    ]
+  },
+  {
+    "word": "stɻik˩",
+    "translation": "verb",
+    "pos": "to write",
+    "notes": "root; [+ATR]; uncommon content item",
+    "null": [
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "sɔl˩",
+    "translation": "noun",
+    "pos": "water",
+    "notes": "root; [-ATR]; common content item",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "trɔ˩˥",
+    "translation": "verb",
+    "pos": "to fall",
+    "notes": "root; [-ATR]; common",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tsa˥.la˩",
+    "translation": "noun",
+    "pos": "sand",
+    "notes": "root; [-ATR]; common",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tso˩",
+    "translation": "auxiliary",
+    "pos": "PRS (present tense)",
+    "notes": "TAM auxiliary; [+ATR]; common",
+    "null": [
+      "Harmonizes to `tsɔ˩` with [-ATR] verbs."
+    ]
+  },
+  {
+    "word": "tʃa˩˥",
+    "translation": "adjective",
+    "pos": "small",
+    "notes": "root; [-ATR]; common",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tʃik",
+    "translation": "noun",
+    "pos": "child",
+    "notes": "root; [+ATR]",
+    "null": [
+      "",
+      "The [+ATR] noun root for 'child'. When incorporated with a [-ATR] verb, this root harmonizes to `tʃɛk` to satisfy vowel harmony.",
+      ""
+    ]
+  },
+  {
+    "word": "tʃik˥˩",
+    "translation": "verb",
+    "pos": "to see",
+    "notes": "root; [+ATR]",
+    "null": [
+      "The [+ATR] verb 'to see'; its [-ATR] counterpart is `tʃɛk˥˩`.",
+      ""
+    ]
+  },
+  {
+    "word": "tʃu˩.le˥",
+    "translation": "noun",
+    "pos": "cloud",
+    "notes": "root; [+ATR]; common",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tʃwe˥",
+    "translation": "noun",
+    "pos": "sky",
+    "notes": "root; [+ATR]; common",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tʃɛk˥˩",
+    "translation": "verb",
+    "pos": "to see",
+    "notes": "root; [-ATR]",
+    "null": [
+      "The [-ATR] verb 'to see'; its [+ATR] counterpart is `tʃik˥˩`.",
+      ""
+    ]
+  },
+  {
+    "word": "t̪sɔŋk˥",
+    "translation": "verb",
+    "pos": "to build",
+    "notes": "root; [-ATR]; uncommon content item",
+    "null": [
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "t̪u˩.li˥",
+    "translation": "verb",
+    "pos": "to read",
+    "notes": "root; [+ATR]; uncommon",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t̪u˩.li˥-e˥˩˥",
+    "translation": "noun",
+    "pos": "reader",
+    "notes": "agent noun; [+ATR]",
+    "null": [
+      "`t̪u˩.li˥` (to read) + `-e˥˩˥` (agent)",
+      ""
+    ]
+  },
+  {
+    "word": "vat˥",
+    "translation": "verb",
+    "pos": "to hunt",
+    "notes": "root; [-ATR]",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "vroŋ˩˥",
+    "translation": "adjective",
+    "pos": "green",
+    "notes": "root; [-ATR]; common",
+    "null": [
+      "The presence of /ŋ/ triggers nasal harmony",
+      " so this is pronounced [vrɔ̃ŋ˩˥]."
+    ]
+  },
+  {
+    "word": "vɛ˥.dʒa˩",
+    "translation": "adjective",
+    "pos": "big",
+    "notes": "root; [-ATR]; common content item",
+    "null": [
+      "The root is likely `vɛdʒa`."
+    ]
+  },
+  {
+    "word": "we˩",
+    "translation": "particle",
+    "pos": "maybe",
+    "notes": "modal particle; [+ATR]; common function item",
+    "null": [
+      "Sentence-initial particle."
+    ]
+  },
+  {
+    "word": "zo˩.pi˥.ni˩",
+    "translation": "verb",
+    "pos": "to create",
+    "notes": "root; [+ATR]; uncommon",
+    "null": [
+      "The root is likely `zopini`."
+    ]
+  },
+  {
+    "word": "ðlɛlpst˥˩˥",
+    "translation": "verb",
+    "pos": "to philosophize",
+    "notes": "root; [-ATR]; very rare content item",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ŋa˩.ɻa˥",
+    "translation": "noun",
+    "pos": "air/wind",
+    "notes": "root; [-ATR]; common",
+    "null": [
+      "The presence of /ŋ/ triggers nasal harmony",
+      " so this is pronounced [ŋã˩.ɻ̃ã˥]."
+    ]
+  },
+  {
+    "word": "ŋɔ˩˥",
+    "translation": "noun",
+    "pos": "word",
+    "notes": "root; [-ATR]; common",
+    "null": [
+      "The presence of /ŋ/ triggers nasal harmony",
+      " so this is pronounced [ŋɔ̃˩˥]."
+    ]
+  },
+  {
+    "word": "ǀa˥.lartʃ˩˥",
+    "translation": "noun",
+    "pos": "story",
+    "notes": "root; [-ATR]; rare content item",
+    "null": [
+      "Translation inferred. The root is likely `ǀalartʃ`."
+    ]
+  },
+  {
+    "word": "ǀo˩˥",
+    "translation": "auxiliary",
+    "pos": "FUT (future tense)",
+    "notes": "TAM auxiliary; common function item; precedes main verb",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ǀɛ˥˩.na˥",
+    "translation": "verb",
+    "pos": "to know",
+    "notes": "root; [-ATR]; common",
+    "null": [
+      "The presence of /n/ triggers nasal harmony",
+      " so this is pronounced [ǀɛ̃˥˩.nã˥]."
+    ]
+  },
+  {
+    "word": "ǃa˥˩.θɔ˩",
+    "translation": "noun",
+    "pos": "dog",
+    "notes": "root; [-ATR]; uncommon content item",
+    "null": [
+      "The root is likely `ǃaθɔ`."
+    ]
+  },
+  {
+    "word": "ǃo˩˥.mar˩",
+    "translation": "verb",
+    "pos": "to dream",
+    "notes": "root; [+ATR]; uncommon",
+    "null": [
+      "The presence of /m/ triggers nasal harmony",
+      " so this is pronounced [ǃõ˩˥.mãr˩]."
+    ]
+  },
+  {
+    "word": "ǃu˥.le˩",
+    "translation": "noun",
+    "pos": "river",
+    "notes": "root; [+ATR]; common",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɖe˩.kʷo˥",
+    "translation": "verb",
+    "pos": "to die",
+    "notes": "root; [+ATR]; common",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɖu-",
+    "translation": "prefix",
+    "pos": "LOG.S agreement",
+    "notes": "prefix; [+ATR]; logophoric subject agreement marker for the human noun class; harmonizes to `ɖɔ-` with [-ATR] roots.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɖu˩.co˥.ni˥",
+    "translation": "noun",
+    "pos": "food",
+    "notes": "root; [+ATR]; uncommon content item",
+    "null": [
+      "The root is likely `ɖuconi`."
+    ]
+  },
+  {
+    "word": "ɟe˩.vro˥",
+    "translation": "noun",
+    "pos": "heart",
+    "notes": "root; [+ATR]; common",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɟi˩.ŋo˥.ro˩",
+    "translation": "noun",
+    "pos": "person",
+    "notes": "root; [+ATR]; common content item",
+    "null": [
+      "The root is likely `ɟiŋoro`."
+    ]
+  },
+  {
+    "word": "ɡa˩˥",
+    "translation": "verb",
+    "pos": "to go",
+    "notes": "root; [-ATR]; common",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɡa˩˥-at˩",
+    "translation": "noun",
+    "pos": "the act of going",
+    "notes": "abstract noun; [-ATR]",
+    "null": [
+      "`ɡa˩˥` (to go) + `-at˩` (abstract)",
+      ""
+    ]
+  },
+  {
+    "word": "ɡrɛn˥˩",
+    "translation": "noun",
+    "pos": "head",
+    "notes": "root; [-ATR]; common",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɡu˩.do˥",
+    "translation": "noun",
+    "pos": "moon",
+    "notes": "root; [+ATR]; common",
+    "null": [
+      "Belongs to the celestial body noun class."
+    ]
+  },
+  {
+    "word": "ɲa˥",
+    "translation": "pronoun",
+    "pos": "who/what (human)",
+    "notes": "interrogative pronoun",
+    "null": [
+      "Can be inflected for case.",
+      ""
+    ]
+  },
+  {
+    "word": "ɲe-",
+    "translation": "prefix",
+    "pos": "3SG.LIQ.O agreement",
+    "notes": "prefix; [+ATR]; object agreement marker for 3rd person singular liquid; harmonizes to `ɲɛ-` with [-ATR] roots.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɲi˩.ne˥",
+    "translation": "noun",
+    "pos": "fire",
+    "notes": "root; [+ATR]; common",
+    "null": [
+      "The presence of /ɲ/ triggers nasal harmony",
+      " so this is pronounced [ɲĩ˩.nẽ˥]."
+    ]
+  },
+  {
+    "word": "ɲɛ˩.mɔ˥.gɔ˩",
+    "translation": "noun",
+    "pos": "mountain",
+    "notes": "root; [-ATR]; common content item",
+    "null": [
+      "Translation inferred. The root is likely `ɲɛmɔgɔ`."
+    ]
+  },
+  {
+    "word": "ɳo˩.pe˥",
+    "translation": "noun",
+    "pos": "road",
+    "notes": "root; [+ATR]; common content item",
+    "null": [
+      "Translation inferred. The root is likely `ɳope`."
+    ]
+  },
+  {
+    "word": "ʃi˩.t̪u˥",
+    "translation": "noun",
+    "pos": "man",
+    "notes": "root; [+ATR]; common content item",
+    "null": [
+      "The root is likely `ʃit̪u`."
+    ]
+  },
+  {
+    "word": "ʈa˥.ɻa˩.dʒa˥",
+    "translation": "verb",
+    "pos": "to walk",
+    "notes": "root; [-ATR]; common content item",
+    "null": [
+      "Translation inferred. The root is likely `ʈaɻadʒa`."
+    ]
+  },
+  {
+    "word": "ʈu˥.li˩",
+    "translation": "verb",
+    "pos": "to know",
+    "notes": "root; [+ATR]; uncommon",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ʈu˥.li˩-ot˩",
+    "translation": "noun",
+    "pos": "knowledge",
+    "notes": "abstract noun; [+ATR]",
+    "null": [
+      "`ʈu˥.li˩` (to know) + `-ot˩` (abstract)",
+      ""
+    ]
+  },
+  {
+    "word": "θru˩˥.vo˥.tse˩",
+    "translation": "verb",
+    "pos": "to think",
+    "notes": "root; [+ATR]; uncommon content item",
+    "null": [
+      "Translation inferred. The root is likely `θruvotse`."
+    ]
+  },
+  {
+    "word": "ᶢǀi˩",
+    "translation": "verb",
+    "pos": "to sing",
+    "notes": "root; [+ATR]; uncommon content item",
+    "null": [
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "ᶢǃe˥.bu˩˥.li˥",
+    "translation": "noun",
+    "pos": "ceremony",
+    "notes": "root; [+ATR]; rare content item",
+    "null": [
+      "Translation inferred. The root is likely `ᶢǃebuli`."
+    ]
+  }
+]

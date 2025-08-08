@@ -1,0 +1,71 @@
+# Phonology
+
+## Consonants
+
+This language has no primary consonant phonemes; all consonantal sounds are predictable, allophonic realizations of underlying vowels in specific syllable positions.
+
+## Vowels
+
+This language has nine vowel phonemes.
+
+| | Front | Central | Back |
+| :- | :-: | :-: | :-: |
+| **Close** | i<br>y | | u |
+| **Mid** | e<br>ø | ə | o |
+| **Open** | | a | ɑ |
+
+## Phonotactics
+
+The syllable structure is CV(C). The nucleus (V) must be one of the nine vowel phonemes.
+
+The onset (C) is an obligatory, non-phonemic consonant. The realization of the onset is determined by the syllable's underlying vowel nucleus:
+*   If the syllable's nucleus is /a/, the onset is [ħ].
+*   If the syllable's nucleus is /ɑ/, the onset is [ʕ].
+*   If the syllable's nucleus is /ə/, the onset is [ʔ].
+*   If the syllable's nucleus is any other vowel (/i, y, u, e, ø, o/), a non-phonemic glottal stop [ʔ] is inserted as the onset. This applies in all positions, including word-initially and word-medially (resolving hiatus). For example, word-initial /i/ is realized as [ʔi], and a sequence like /e.o/ is realized as [e.ʔo].
+
+The optional coda (C) is a non-syllabic version of any of the nine vowels (represented with a non-syllabic marker, e.g., /ai̯/). A sequence of a vowel nucleus and a non-syllabic vowel coda (V+C) constitutes a single heavy syllable.
+
+Pervasive front/back vowel harmony requires all vowels in a phonological word to be harmonically compatible. Vowels are divided into a front set {i, y, e, ø}, a back set {u, o, ɑ}, and a neutral set {a, ə}. Vowels from the front and back sets cannot co-occur in the same word. Neutral vowels may co-occur with vowels from either the front or back set. Most function words are exempt from this rule.
+
+## Suprasegmentals
+
+The language has a simple pitch accent system where one syllable in a word receives a high tone (marked with an acute accent, e.g., á). Some short, monosyllabic function words are toneless and do not receive a pitch accent.
+
+Stress is weight-sensitive but independent of the pitch accent. A syllable is heavy if it has a coda (a CVC structure) or if its nucleus is one of the open vowels /a/ or /ɑ/. Stress (marked with ˈ) falls on the rightmost heavy syllable of the word. If there are no heavy syllables, stress falls on the initial syllable. Toneless function words are typically unstressed unless they are the only element in a phonological phrase.
+
+## Word Shapes and Lexical Statistics
+
+The lexicon is characterized by its reliance on vowel phonemes, leading to a fluid, vowel-rich texture. Word shapes are built exclusively from vowels and their non-phonemic consonantal realizations.
+
+Most words are polysyllabic, typically containing two or three syllables. Monosyllabic words exist but are less frequent, predominantly serving as function items. These function words are often structurally simple, may utilize the harmonically neutral vowels /a/ and /ə/, are often exempt from vowel harmony, and can be toneless. However, a small subset of function words (e.g., demonstratives) may be phonologically heavier, exhibiting stress, tone, and adherence to harmony rules, much like content words.
+
+Content words display the full range of phonotactic possibilities. They are typically polysyllabic and must adhere to the pervasive front/back vowel harmony. Words beginning with /a/, /ɑ/, or /ə/ are common, as these vowels are realized with consonantal onsets [ħ], [ʕ], and [ʔ] respectively, providing a percussive start to many utterances. Syllables with codas (falling diphthongs) are very common in content words, creating heavy syllables that attract stress. Consequently, stress is often non-initial. The phonemic pitch accent can fall on any syllable, frequently creating a contrast between the stressed and high-toned syllable.
+
+### Lexical Items
+
+1.  /ˈá/ (common function item)
+2.  /əi̯/ (common function item, toneless)
+3.  /u.ˈóu̯/ (common function item)
+4.  /a/ (very common function item, toneless)
+5.  /ə/ (very common function item, toneless)
+6.  /ˈyéø̯/ (common content item)
+7.  /u.ˈóɑ̯/ (common content item)
+8.  /ˈái̯/ (common function item)
+9.  /ɑ.uˈú̯/ (common content item)
+10. /ˈə́e̯/ (common function item)
+11. /ɑ.o.ˈúu̯/ (common content item)
+12. /ˈe.ý.i/ (common content item)
+13. /ˈá.ə.o/ (common content item)
+14. /ɑ.u.ˈɑ́.o/ (less common content item)
+15. /ˈe.i.é.y/ (less common content item)
+16. /ə.y.ˈá.ø/ (common content item)
+17. /a.o.ˈɑ́.u/ (common content item)
+18. /ɑu̯.ˈóu̯/ (common content item)
+19. /əi̯.ˈyé/ (common content item)
+20. /ˈɑ.ó/ (common content item)
+21. /ˈa.ú/ (common content item)
+22. /ˈi.é/ (common content item)
+23. /u.ə.o.a.ˈɑ́/ (rare content item)
+24. /ø.y.ˈa.í.e/ (rare content item)
+25. /ɑ.u.o.ˈɑ́.u.o/ (very rare content item)

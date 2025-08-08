@@ -1,0 +1,62 @@
+# Phonology
+
+## Consonants
+
+| | Labial | Alveolar | Palatal | Velar |
+| :--- | :---: | :---: | :---: | :---: |
+| **Nasal** | m mʲ mʷ | n nʲ nʷ | ɲ | ŋ ŋʷ |
+| **Plosive** | p pʲ pʷ <br> b bʲ bʷ | t tʲ tʷ <br> d dʲ dʷ | c <br> ɟ | k kʷ <br> g gʷ |
+| **Fricative** | f fʲ fʷ <br> v vʲ vʷ | s sʲ sʷ <br> z zʲ zʷ | ʃ ʃʷ <br> ʒ ʒʷ | |
+| **Approximant** | | l lʲ lʷ <br> r rʲ rʷ | j jʷ | w |
+
+## Vowels
+
+| | Front | Central | Back |
+| :--- | :---: | :---: | :---: |
+| **High** | i | | u |
+| **Mid** | e | ə | o |
+| **Low** | | a | |
+
+## Phonotactics
+
+The syllable structure is (C)(C)V(C)(C). Onsets may contain any two consonants, and codas may contain any two consonants, with very few restrictions. The only forbidden sequences are geminates (e.g., *kk*, *ss*) and clusters that share both place and manner of articulation (e.g., *pb*, *sz*). This permissiveness allows for a vast number of possible syllables. The language features simple front/back vowel harmony: all non-neutral vowels in a word must belong to the same harmony set, either front {i, e} or back {u, o, a}. The neutral vowel /ə/ may co-occur with vowels from either set and does not affect harmony.
+
+## Suprasegmentals
+
+Stress is phonemic and unpredictable, falling on one of the first three syllables of a word. The location of stress is not marked by changes in vowel quality or length, but solely by a noticeable increase in pitch and amplitude. This creates minimal pairs distinguished only by the placement of stress, for example, *'takama* versus *ta'kama* versus *taka'ma*.
+
+## Word Shapes and Lexical Statistics
+
+The lexicon of this language is characterized by a significant structural distinction between content words and function words. Most words in the language are content words, which tend to be polysyllabic, with the vast majority having two or three syllables. Words of four or more syllables exist but are less common. Content words frequently exhibit complex syllable structures, taking full advantage of the permissive (C)(C)V(C)(C) template. Onset and coda clusters of two dissimilar consonants are very common, leading to phonetically dense words. Phonemic stress, falling on one of the first three syllables, is a key feature of all content words.
+
+Function words, in contrast, are typically short and structurally simple. Many are monosyllabic, often with a CV or CVC structure, and most others are disyllabic. They rarely feature consonant clusters. While they technically adhere to the vowel harmony system, their short nature often makes this trivial. Most function words are unstressed or have a default, non-contrastive stress on the initial syllable, but a few monosyllabic forms can carry contrastive stress.
+
+Overall, monosyllabic words are relatively few and are split between simple function words and a small set of content words, some of which are quite common. The bulk of the lexicon consists of disyllabic and trisyllabic words. The language's rich consonantal inventory, including secondary articulations, combined with its complex syllable potential and phonemic stress, creates a vast and diverse lexical landscape.
+
+**Lexical Items**
+
+1.  /pʷo/ (common function item)
+2.  /ɲi/ (common function item)
+3.  /'gʷaŋk/ (common content item)
+4.  /ʃʷə'leʒ/ (common content item)
+5.  /'vʲetrə/ (common content item)
+6.  /tə'mʲiʃ.pʷe/ (common content item)
+7.  /kʷa'trol.nʷa/ (common content item)
+8.  /'zʷo.mar.tə/ (common content item)
+9.  /sə.rʲe'kist/ (uncommon content item)
+10. /fʲe/ (common function item)
+11. /'brə.dʒʷaks/ (uncommon content item)
+12. /'pə.ɲa/ (common content item)
+13. /'ʃkʷam.bər/ (common content item)
+14. /nʷa'co.lʲo/ (common content item)
+15. /rə.ʒʷi'ɲe.mə/ (uncommon content item)
+16. /'trəŋ.go/ (common content item)
+17. /kʷə'lʲe.vʲi/ (uncommon content item)
+18. /'splʲe.mʲit/ (rare content item)
+19. /'dʷo.lʲa.mə/ (common content item)
+20. /ʒʷa/ (uncommon function item)
+21. /'frʲast.bə.tʷo/ (uncommon content item)
+22. /'klʲe.ʒʷəp.sʲi/ (rare content item)
+23. /sʷo'gʷa.ɲu/ (common content item)
+24. /'ŋʷə/ (common function item)
+25. /mʲi'lʲerp.ʃʷa/ (rare content item)

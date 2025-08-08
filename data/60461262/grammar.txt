@@ -1,0 +1,207 @@
+# Grammar
+
+## Morphology
+
+The language is fusional and mostly head-marking. Grammatical information is encoded in dense, often unsegmentable affixes on head words (primarily verbs and nouns), rather than on dependents.
+
+### Noun Morphology
+
+Nouns are inflected for gender, number, and possession.
+
+#### Gender
+
+There are three genders: masculine (M), feminine (F), and neuter (N). Gender is a formal grammatical category, though there are semantic tendencies. Higher animates are typically masculine or feminine, while inanimates and lower animates are typically neuter.
+
+*   **Masculine:** /mʱan/ 'man', /xəbʱlant/ 'king'
+*   **Feminine:** /zəkʰi/ 'woman'
+*   **Neuter:** /d͡ʑi/ 'house', /kʰant/ 'book', /bʱlaj/ 'eye' (lit. 'seeing organ')
+
+#### Number
+
+The language distinguishes between singular and plural. The plural is formed by a suffix that fuses with the stem and varies by gender. Because stress is fixed on the final syllable, pluralization often shifts the stress.
+
+*   **Masculine/Feminine Plural:** The suffix is `-i`.
+    *   For nouns ending in a consonant, the suffix `-i` is added, and the consonant is resyllabified as the onset of the new final syllable.
+        *   /mʱan/ (man, M.SG) → /mʱa.ˈni/ (men, M.PL)
+        *   /xəbʱlant/ (king, M.SG) → /xə.bʱlan.ˈti/ (kings, M.PL)
+    *   If the stem ends in a vowel other than /i/, that vowel is replaced by /i/.
+        *   /t͡ɕʰwa/ (dog, M.SG) → /t͡ɕʰwi/ (dogs, M.PL)
+    *   If the stem already ends in /i/, no change occurs.
+        *   /zə.ˈkʰi/ (woman, F.SG) → /zə.ˈkʰi/ (women, F.PL)
+
+*   **Neuter Plural:** The suffix is `-a`. If the noun stem ends in a consonant, /a/ is added. If the stem ends in a vowel, that vowel is replaced by /a/.
+    *   /kʰant/ (book, N.SG) → /kʰan.ˈta/ (books, N.PL)
+    *   /d͡ʑi/ (house, N.SG) → /d͡ʑa/ (houses, N.PL)
+
+#### Possession
+
+Possession is marked on the possessed noun (the head) with a prefix that agrees with the gender and person of the possessor.
+
+*   `kə-`: Masculine or Neuter possessor
+*   `nʱə-`: Feminine possessor
+
+These prefixes are bound morphemes that attach directly to the noun stem.
+
+*   **nʱə**-d͡ʑi zəkʰi
+    *   **POSS.F**-house woman
+    *   ‘the woman’s house’
+
+*   **kə**-d͡ʑi mʱan
+    *   **POSS.M**-house man
+    *   ‘the man’s house’
+
+*   **kə**-kʰant d͡ʑi
+    *   **POSS.N**-book house
+    *   ‘the house’s book’ (e.g., a guestbook belonging to the house)
+
+### Verb Morphology
+
+Verbal morphology is complex and rich, focusing on voice, pivot agreement, and evidentiality. Tense and aspect are not explicitly marked on the verb and are inferred from context or adverbs.
+
+#### Voice and Pivot Agreement
+
+The language has a symmetrical voice (Austronesian-style) system where the verb is marked to align with a specific clausal argument, known as the pivot. The pivot is the syntactic subject and is unmarked for case. The verb root is prefixed for voice and suffixed for the gender of the pivot.
+
+*   **Voice Prefixes:**
+    *   `tʰa-`: **Actor Voice (AV):** The agent is the pivot.
+    *   `gwi-`: **Patient Voice (PV):** The patient is the pivot.
+    *   `sat-`: **Locative Voice (LV):** A locative or circumstantial argument is the pivot.
+
+*   **Pivot Suffixes:**
+    *   `-n`: Masculine or Feminine pivot
+    *   `-s`: Neuter pivot
+
+*   mʱan **tʰa**-bʱlaj-**n** d͡ʑi
+    *   man **AV**-see-**M/F.PIV** house
+    *   ‘The man sees the house.’
+
+*   d͡ʑi **gwi**-bʱlaj-**s** mʱan lʱəvəri
+    *   house **PV**-see-**N.PIV** man by
+    *   ‘The house is seen by the man.’
+
+#### Evidentiality via Consonant Mutation
+
+The language marks the source of the speaker's knowledge (evidentiality) on the verb root itself through mutation of its initial consonant. The base form of the verb root is the **Direct Evidential** (for events witnessed firsthand). Note that for the Inferential, the distinction between voiced and voiceless non-breathy stops/affricates is neutralized to the aspirated series.
+
+| Original C | Direct (Unmarked) | Inferential (Aspirated) | Hearsay (Breathy-Voiced) |
+| :--- | :--- | :--- | :--- |
+| **p** | /p/ | /pʰ/ | /bʱ/ |
+| **b** | /b/ | /pʰ/ | /bʱ/ |
+| **t** | /t/ | /tʰ/ | /dʱ/ |
+| **d** | /d/ | /tʰ/ | /dʱ/ |
+| **k** | /k/ | /kʰ/ | /gʱ/ |
+| **g** | /g/ | /kʰ/ | /gʱ/ |
+| **t͡ɕ** | /t͡ɕ/ | /t͡ɕʰ/ | /d͡ʑʱ/ |
+| **d͡ʑ** | /d͡ʑ/ | /t͡ɕʰ/ | /d͡ʑʱ/ |
+| **m** | /m/ | /m/ (no change) | /mʱ/ |
+| **n** | /n/ | /n/ (no change) | /nʱ/ |
+| **l** | /l/ | /l/ (no change) | /lʱ/ |
+*Note: Fricatives (e.g., /x, ɣ, s, z/) and other consonants not listed above do not undergo mutation.*
+
+**Examples:** The verb root for 'build' is `/d͡ʑəŋkʰi/`.
+
+1.  **Direct (base form):** The speaker saw it happen.
+    *   d͡ʑi **gwi**-d͡ʑəŋkʰi-s
+    *   house **PV**-build.**DIR**-N.PIV
+    *   ‘The house was built (I saw it).’
+
+2.  **Inferential (aspirated):** The speaker deduces it from evidence. The initial /d͡ʑ/ becomes /t͡ɕʰ/.
+    *   d͡ʑi **gwi**-t͡ɕʰəŋkʰi-s
+    *   house **PV**-build.**INF**-N.PIV
+    *   ‘The house must have been built / I infer the house was built.’
+
+3.  **Hearsay (breathy-voiced):** The speaker was told about it. The initial /d͡ʑ/ becomes /d͡ʑʱ/.
+    *   d͡ʑi **gwi**-d͡ʑʱəŋkʰi-s
+    *   house **PV**-build.**HEARSAY**-N.PIV
+    *   ‘The house was built (I hear) / They say the house was built.’
+
+## Syntax
+
+### Basic Clause Structure
+
+The basic constituent order is Pivot-Verb-Object, a variant of SOV. This combines with purely head-initial noun phrases (Noun-Adjective, Noun-Genitive), a typologically rare combination. Modifiers like adjectives, genitives, and relative clauses strictly follow the noun they modify.
+
+*   **Noun-Adjective:**
+    *   mʱan tʰa-d͡ʑəŋkʰi-n [d͡ʑi **t͡ɕʰwa**]
+    *   man AV-build-M/F.PIV [house **big**]
+    *   ‘The man builds the big house.’
+
+*   **Noun-Genitive:**
+    *   mʱan tʰa-bʱlaj-n [kʰant **nʱə-zəkʰi**]
+    *   man AV-see-M/F.PIV [book **POSS.F-woman**]
+    *   ‘The man sees the woman’s book.’
+
+### Grammatical Relations and Alignment
+
+The symmetrical voice system determines grammatical relations. The verb's voice prefix selects which argument becomes the pivot. The pivot is always the pre-verbal subject and is unmarked. Non-pivot arguments are marked by postpositions, which follow the entire noun phrase they modify.
+
+*   **Pivot:** Unmarked, appears in subject position.
+*   **Non-Pivot Agent:** Marked by the postposition `lʱəvəri`.
+*   **Non-Pivot Patient/Instrument:** Marked by the postposition `d͡ʑʱəli`. In Actor Voice, the Patient is marked with `d͡ʑʱəli`.
+*   **Non-Pivot Locative:** Marked by the postposition `t͡ɕəna`, regardless of voice.
+
+*   **Actor Voice (Agent is pivot):**
+    *   zəkʰi **tʰa**-fəlʱa-**n** [kʰant d͡ʑʱəli]
+    *   woman **AV**-read-**M/F.PIV** [book with]
+    *   ‘The woman reads the book.’
+
+*   **Patient Voice (Patient is pivot):**
+    *   kʰant **gwi**-fəlʱa-**s** [zəkʰi lʱəvəri]
+    *   book **PV**-read-**N.PIV** [woman by]
+    *   ‘The book is read by the woman.’
+
+*   **Locative Voice (Location is pivot):** In this voice, the non-pivot agent is marked by `lʱəvəri` and the non-pivot patient/theme is marked by `d͡ʑʱəli`.
+    *   d͡ʑi **sat**-fəlʱa-**s** [mʱan lʱəvəri] [kʰant d͡ʑʱəli]
+    *   house **LV**-read-**N.PIV** [man by] [book with]
+    *   ‘In the house, the book is read by the man.’ (Lit: ‘The house is-read-at-in by the man, with the book.’)
+
+### Subordination
+
+Subordination is primarily achieved through finite clauses introduced by a complementizer. The most common complementizer is `pʰlaŋk`, which introduces content clauses. The subordinate clause follows the main verb.
+
+*   zəkʰi tʰa-ɣəd͡ʑ-n [**pʰlaŋk** kʰant gwi-fəlʱa-s mʱan lʱəvəri]
+    *   woman AV-know-M/F.PIV [**that** book PV-read-N.PIV man by]
+    *   ‘The woman knows that the book is read by the man.’
+
+### Questions
+
+Question formation uses question words in-situ; they occupy the grammatical slot of the noun phrase they are asking about without moving. A clause-final question particle, `/za/`, is required.
+
+*   **Question Words:**
+    *   /ma/ ‘who, what (animate)’
+    *   /sa/ ‘what (inanimate)’
+    *   /d͡ʑa/ ‘where, when’ (Neuter)
+
+*   **Asking about the Pivot (Subject):**
+    *   **ma** tʰa-d͡ʑəŋkʰi-n d͡ʑi **za**
+    *   **who** AV-build-M/F.PIV house **Q**
+    *   ‘Who builds the house?’
+
+*   **Asking about a Non-Pivot (Object):**
+    *   mʱan tʰa-d͡ʑəŋkʰi-n **sa** d͡ʑʱəli **za**
+    *   man AV-build-M/F.PIV **what** with **Q**
+    *   ‘What does the man build?’
+
+*   **Asking about a Locative:**
+    *   **d͡ʑa** sat-fəlʱa-**s** [mʱan l həvəri] [kʰant d͡ʑʱəli] **za**
+    *   **where** LV-read-**N.PIV** [man by] [book with] **Q**
+    *   ‘Where does the man read the book?’ (Lit: ‘Where is read-at by the man, with the book?’)
+
+### Serial Verb Constructions (SVCs)
+
+The language uses serial verb constructions to express concepts like direction, manner, or instrument, rather than adverbs or prepositions. Two or more verbs appear together in a single clause, sharing arguments. Only the final verb in the series carries voice and pivot agreement morphology; preceding verbs are in their bare root form.
+
+*   **Manner SVC:**
+    *   mʱan **ramp tʰa**-d͡ʑəŋkʰi-n d͡ʑi
+    *   man **be.quick AV**-build-M/F.PIV house
+    *   ‘The man quickly builds the house.’ (Lit: ‘Man quick-builds house.’)
+
+*   **Directional SVC:**
+    *   mʱan **ɣəd͡ʑa tʰa**-bʱlaj-n [d͡ʑi t͡ɕəna]
+    *   man **enter AV**-see-M/F.PIV [house into]
+    *   ‘The man looks into the house.’ (Lit: ‘Man enter-sees into-house.’)
+
+*   **Instrumental SVC:** The verb `/kʰwət͡ɕʰəli/` 'use' introduces an instrument. In such constructions, the instrument NP marked with `d͡ʑʱəli` must immediately follow the verb complex, preceding any other non-pivot arguments.
+    *   zəkʰi **kʰwət͡ɕʰəli tʰa**-bʱlaj-n [bʱəg d͡ʑʱəli] [d͡ʑi t͡ɕʰwa d͡ʑʱəli]
+    *   woman **use AV**-see-**M/F.PIV** [tool with] [house big with]
+    *   'The woman uses a tool to see the big house.'

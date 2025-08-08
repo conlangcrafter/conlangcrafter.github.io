@@ -1,0 +1,84 @@
+# Phonology
+
+## Consonants
+
+| | Bilabial | Alveolar | Postalveolar | Palatal | Velar | Labial-velar | Glottal |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Nasal** | m | n | | ɲ | ŋ | | |
+| **Plosive** | p pʰ | t tʰ | | | k kʰ | kʷ kʷʰ | |
+| **Affricate** | | | tʃ tʃʰ | | | | |
+| **Fricative** | | s | ʃ | | x | xʷ | h |
+| **Approximant** | | l | | j | | w | |
+
+## Vowels
+
+| | Front | Central | Back |
+| :--- | :---: | :---: | :---: |
+| **High** | i [+ATR] | | u [+ATR] |
+| | ɪ [-ATR] | | ʊ [-ATR] |
+| **Low** | | a [+ATR] | ɔ [-ATR] |
+| | | ɐ [-ATR] | |
+
+## Syllabic Consonants
+
+In addition to vowels, the sonorants /m, n, l/ can function as syllable nuclei, bearing tone. They are transcribed with a syllabic diacritic (e.g., /m̩/). Syllabic consonants can form a nucleus on their own or as the second member of a two-consonant onset (e.g., /pʰń̩/). They appear to be restricted to pre-consonantal position.
+
+## Phonotactics
+
+The language has a complex and permissive syllable structure, allowing for forms up to CCCVCC. Onsets can be formed by any sequence of up to three consonants, and codas may consist of any sequence of up to two consonants.
+
+A sequence of identical consonants (geminates) is disallowed, both within a syllable and across syllable boundaries. This restriction is lifted in cases of reduplication, where a consonant may be followed by its identical or phonologically related counterpart (e.g., its aspirated version, as in /kʷá.kʷʰà/) across a syllable boundary.
+
+## Suprasegmentals
+
+The language features a complex interaction between tone and phonation. There are two phonemic register tones, High (H) and Low (L), which must be assigned to every syllable.
+
+Independently, each word is marked for one of two phonation types: a modal ("clear") phonation or a creaky voice phonation. The creaky phonation is realized across all vowels of the word. This interacts with tone to create four distinct phonetic pitch levels. The four levels, from highest to lowest, are:
+*   **High (modal):** Realized as a high, clear pitch.
+*   **High (creaky):** Realized as a falling pitch (high-to-mid) with creaky voice.
+*   **Low (modal):** Realized as a mid, clear pitch. This pitch is subject to downdrift, where a Low tone following another Low tone is realized at a lower pitch.
+*   **Low (creaky):** Realized as a low pitch with creaky voice.
+
+Vowel harmony is governed by ATR. All vowels in a word must belong to the same ATR set (either all [+ATR] or all [-ATR]).
+
+There is no phonemic stress; prosodic prominence is determined entirely by the tonal and phonatory systems.
+
+## Word Shapes and Lexical Statistics
+
+The language exhibits a wide variety of word shapes, heavily influenced by the distinction between content and function words. The highly permissive phonotactics allow for exceptionally complex syllables, but these maximal forms are rare in practice. Most words are disyllabic or trisyllabic, with monosyllabic words being quite common, especially among function items.
+
+Content words, such as nouns and verbs, tend to be longer and more structurally complex. Many content words feature syllables with consonant clusters, particularly in the onset (CCV) or coda (CVCC). While the maximal CCCVCC syllable structure is theoretically possible, it is exceptionally rare, and most clusters consist of only two consonants. The strict word-level vowel harmony and phonation rules mean that even long, polysyllabic words have a uniform vocalic and phonatory quality throughout.
+
+Function words, in contrast, are typically short and phonologically simpler. Most are monosyllabic, commonly taking CV or CVC shapes. Some disyllabic function words exist, but they rarely feature the complex consonant clusters found in the content lexicon.
+
+Overall, the lexicon is characterized by a core of short, simple words, supplemented by a large number of longer, more complex words built from a small, harmonizing set of vowels. Words of four or more syllables exist but are few in number compared to shorter forms.
+
+**Lexical Items**
+
+*   /pʰá/ (modal) - A common content item.
+*   /kʷáŋ/ (modal) - A common content item.
+*   /tʃʰɔ̰́k/ (creaky) - A common content item.
+*   /sɐ̰̀/ (creaky) - A very common function item.
+*   /wɪ́l/ (modal) - A common function item.
+*   /ɲú.là/ (modal) - A common content item.
+*   /ŋɔ̀.kʷʰʊ̰́ŋ/ (creaky) - A common content item.
+*   /ʃá.xʷà.mì/ (modal) - A common content item.
+*   /pʰlɐ̰́k.sɐ̰̀/ (creaky) - A somewhat common content item.
+*   /tʃʰí.kʷʰà/ (modal) - A common content item.
+*   /xʷɔ̰́/ (creaky) - A common function item.
+*   /ḿ̩.nà/ (modal) - A common content item.
+*   /jɪ́/ (modal) - A very common function item.
+*   /spjá.tʰà.kʰà/ (modal) - A somewhat uncommon content item.
+*   /kʷʰánt.ʃà/ (modal) - A common content item.
+*   /ŋɔ̰́/ (creaky) - A common function item.
+*   /tʰʊ̰́k.spɐ̰̀l/ (creaky) - An uncommon content item.
+*   /kʷá.kʷʰà/ (modal) - A common content item.
+*   /hɪ̰́.lɐ̰̀/ (creaky) - A common content item.
+*   /skʷáŋk.tʃʰà/ (modal) - A rare content item.
+*   /pʰń̩.tʃʰà.là.kʷʰí/ (modal) - An uncommon content item.
+*   /xʷĺ̩.kʷʰɔ̰̀ps/ (creaky) - A rare content item.
+*   /kʷʰá.lá.mà.nú/ (modal) - A rare content item.
+*   /tʃʰɔ̰́.tʃʰɔ̰̀/ (creaky) - A common content item.
+*   /tʰá.kʷʰì.nà/ (modal) - A common content item.
+*   /pstá̰.ŋkʷʰɔ̰̀l/ (creaky) - An extremely rare content item.
+*   /ǹ̩.kʷʰà/ (modal) - A common function item.

@@ -1,0 +1,1164 @@
+[
+  {
+    "word": "-a",
+    "translation": "suffix",
+    "pos": "(direct visual evidential)",
+    "notes": "Evidential suffix.",
+    "null": [
+      "",
+      "Vowel harmony variant of -e. Used with roots ending in /a/ or /aː/."
+    ]
+  },
+  {
+    "word": "-a",
+    "translation": "suffix",
+    "pos": "of; 's",
+    "notes": "Genitive case suffix.",
+    "null": [
+      "",
+      "Does not participate in vowel harmony."
+    ]
+  },
+  {
+    "word": "-aː",
+    "translation": "suffix",
+    "pos": "(reported/hearsay evidential)",
+    "notes": "Evidential suffix.",
+    "null": [
+      "",
+      "Does not participate in vowel harmony."
+    ]
+  },
+  {
+    "word": "-d̪a",
+    "translation": "suffix",
+    "pos": "(accusative)",
+    "notes": "Accusative case suffix.",
+    "null": [
+      "",
+      "Vowel harmony variant of -de. Used with roots ending in /a/ or /aː/."
+    ]
+  },
+  {
+    "word": "d̪e",
+    "translation": "particle",
+    "pos": "(present imperfective aspect marker)",
+    "notes": "Present Imperfective aspect particle.",
+    "null": [
+      "",
+      "Marks the present imperfective aspect. Precedes the verb in the clause."
+    ]
+  },
+  {
+    "word": "-d̪e",
+    "translation": "suffix",
+    "pos": "(accusative)",
+    "notes": "Accusative case suffix.",
+    "null": [
+      "",
+      "Vowel harmony variant of -d̪a. Used with roots ending in /e/",
+      " /eː/",
+      " /o/",
+      " or /oː/."
+    ]
+  },
+  {
+    "word": "-d̪ʱa",
+    "translation": "bound noun root",
+    "pos": "hand",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      "Bound root incorporated after a verb root to add the meaning 'by hand'. Not used as a free-standing noun."
+    ]
+  },
+  {
+    "word": "-d̪ʱa",
+    "translation": "suffix",
+    "pos": "in; at; on; with; by means of",
+    "notes": "Locative/Instrumental case suffix.",
+    "null": [
+      "",
+      "Vowel harmony variant of -d̪ʱe. Used with roots ending in /a/ or /aː/."
+    ]
+  },
+  {
+    "word": "d̪ʱa.ʡa",
+    "translation": "root",
+    "pos": "man",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-d̪ʱe",
+    "translation": "suffix",
+    "pos": "in; at; on; with; by means of",
+    "notes": "Locative/Instrumental case suffix.",
+    "null": [
+      "",
+      "Vowel harmony variant of -d̪ʱa. Used with roots ending in /e/",
+      " /eː/",
+      " /o/",
+      " or /oː/."
+    ]
+  },
+  {
+    "word": "e",
+    "translation": "root",
+    "pos": "what",
+    "notes": "Interrogative pronoun root.",
+    "null": [
+      "",
+      "Takes case suffixes."
+    ]
+  },
+  {
+    "word": "-e",
+    "translation": "suffix",
+    "pos": "(direct visual evidential)",
+    "notes": "Evidential suffix.",
+    "null": [
+      "",
+      "Vowel harmony variant of -a. Used with roots ending in /e/",
+      " /eː/",
+      " /o/",
+      " or /oː/."
+    ]
+  },
+  {
+    "word": "-ma",
+    "translation": "suffix",
+    "pos": "(inferred evidential)",
+    "notes": "Evidential suffix.",
+    "null": [
+      "",
+      "Vowel harmony variant of -me. Used with roots ending in /a/ or /aː/."
+    ]
+  },
+  {
+    "word": "-me",
+    "translation": "suffix",
+    "pos": "(inferred evidential)",
+    "notes": "Evidential suffix.",
+    "null": [
+      "",
+      "Vowel harmony variant of -ma. Used with roots ending in /e/",
+      " /eː/",
+      " /o/",
+      " or /oː/."
+    ]
+  },
+  {
+    "word": "-na",
+    "translation": "suffix",
+    "pos": "(direct non-visual evidential)",
+    "notes": "Evidential suffix.",
+    "null": [
+      "",
+      "Vowel harmony variant of -ne. Used with roots ending in /a/ or /aː/."
+    ]
+  },
+  {
+    "word": "-na",
+    "translation": "suffix",
+    "pos": "to; for",
+    "notes": "Dative case suffix.",
+    "null": [
+      "",
+      "Vowel harmony variant of -ne. Used with roots ending in /a/ or /aː/."
+    ]
+  },
+  {
+    "word": "-ne",
+    "translation": "suffix",
+    "pos": "(direct non-visual evidential)",
+    "notes": "Evidential suffix.",
+    "null": [
+      "",
+      "Vowel harmony variant of -na. Used with roots ending in /e/",
+      " /eː/",
+      " /o/",
+      " or /oː/."
+    ]
+  },
+  {
+    "word": "-ne",
+    "translation": "suffix",
+    "pos": "to; for",
+    "notes": "Dative case suffix.",
+    "null": [
+      "",
+      "Vowel harmony variant of -na. Used with roots ending in /e/",
+      " /eː/",
+      " /o/",
+      " or /oː/."
+    ]
+  },
+  {
+    "word": "o",
+    "translation": "root",
+    "pos": "who",
+    "notes": "Interrogative pronoun root.",
+    "null": [
+      "",
+      "Takes case suffixes."
+    ]
+  },
+  {
+    "word": "t̪a",
+    "translation": "root",
+    "pos": "see",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-t̪a",
+    "translation": "suffix",
+    "pos": "(ergative)",
+    "notes": "Ergative case suffix.",
+    "null": [
+      "",
+      "Vowel harmony variant of -t̪e. Used with roots ending in /a/ or /aː/."
+    ]
+  },
+  {
+    "word": "-t̪a",
+    "translation": "suffix",
+    "pos": "(plural)",
+    "notes": "Plural suffix.",
+    "null": [
+      "",
+      "Vowel harmony variant of -t̪e. Used with roots ending in /a/ or /aː/."
+    ]
+  },
+  {
+    "word": "-t̪e",
+    "translation": "suffix",
+    "pos": "(ergative)",
+    "notes": "Ergative case suffix.",
+    "null": [
+      "",
+      "Vowel harmony variant of -t̪a. Used with roots ending in /e/",
+      " /eː/",
+      " /o/",
+      " or /oː/."
+    ]
+  },
+  {
+    "word": "-t̪e",
+    "translation": "suffix",
+    "pos": "(plural)",
+    "notes": "Plural suffix.",
+    "null": [
+      "",
+      "Vowel harmony variant of -t̪a. Used with roots ending in /e/",
+      " /eː/",
+      " /o/",
+      " or /oː/."
+    ]
+  },
+  {
+    "word": "-ʡa",
+    "translation": "suffix",
+    "pos": "(past perfective)",
+    "notes": "Past Perfective tense/aspect suffix.",
+    "null": [
+      "",
+      "Vowel harmony variant of -ʡe. Used with roots ending in /a/ or /aː/."
+    ]
+  },
+  {
+    "word": "-ʡe",
+    "translation": "suffix",
+    "pos": "(past perfective)",
+    "notes": "Past Perfective tense/aspect suffix.",
+    "null": [
+      "",
+      "Vowel harmony variant of -ʡa. Used with roots ending in /e/",
+      " /eː/",
+      " /o/",
+      " or /oː/."
+    ]
+  },
+  {
+    "word": "d̪a.d̪a",
+    "translation": "adjective",
+    "pos": "red",
+    "notes": "",
+    "null": [
+      "",
+      "The root form `d̪a.d̪a-` is used when the adjective functions predicatively and takes verbal suffixes."
+    ]
+  },
+  {
+    "word": "d̪a.t̪a",
+    "translation": "root",
+    "pos": "father",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d̪a.t̪ʼa",
+    "translation": "root",
+    "pos": "listen; hear",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d̪e.d̪e",
+    "translation": "adjective",
+    "pos": "new",
+    "notes": "",
+    "null": [
+      "",
+      "The root form `d̪e.d̪e-` is used when the adjective functions predicatively and takes verbal suffixes."
+    ]
+  },
+  {
+    "word": "d̪e.d̪ʱe",
+    "translation": "root",
+    "pos": "mouth",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d̪e.t̪a",
+    "translation": "root",
+    "pos": "path; road",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d̪e.t͡sʼe",
+    "translation": "conjunction",
+    "pos": "but; however",
+    "notes": "",
+    "null": [
+      "Connects clauses.",
+      ""
+    ]
+  },
+  {
+    "word": "d̪o.d̪a",
+    "translation": "root",
+    "pos": "moon",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d̪o.d̪o",
+    "translation": "root",
+    "pos": "night",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d̪o.ma",
+    "translation": "root",
+    "pos": "work",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d̪o.t͡sʼa",
+    "translation": "root",
+    "pos": "sky",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d̪oː.t̪a",
+    "translation": "root",
+    "pos": "water",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d̪ʱa.ma",
+    "translation": "root",
+    "pos": "read",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d̪ʱa.t͡ɬʼa",
+    "translation": "root",
+    "pos": "hunt",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d̪ʱaː.t̪o",
+    "translation": "root",
+    "pos": "woman",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d̪ʱe.d̪ʱa",
+    "translation": "adjective",
+    "pos": "big; large",
+    "notes": "",
+    "null": [
+      "",
+      "The root form `d̪ʱe.d̪ʱa-` is used when the adjective functions predicatively and takes verbal suffixes."
+    ]
+  },
+  {
+    "word": "d̪ʱe.d̪ʱo",
+    "translation": "root",
+    "pos": "speak; say",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d̪ʱe.na",
+    "translation": "root",
+    "pos": "head",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d̪ʱeː",
+    "translation": "root",
+    "pos": "two",
+    "notes": "Numeral root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d̪ʱeː.ma",
+    "translation": "root",
+    "pos": "dance",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d̪ʱo.t̪a",
+    "translation": "root",
+    "pos": "break; shatter",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d͡ɮo.t̪a",
+    "translation": "adjective",
+    "pos": "bad",
+    "notes": "",
+    "null": [
+      "",
+      "The root form `d͡ɮo.t̪a-` is used when the adjective functions predicatively and takes verbal suffixes."
+    ]
+  },
+  {
+    "word": "d͡ɮo.t̪a.ma",
+    "translation": "root",
+    "pos": "hate; despise",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      "Derived from d͡ɮo.t̪a (bad).",
+      ""
+    ]
+  },
+  {
+    "word": "ha",
+    "translation": "particle",
+    "pos": "(yes/no question)",
+    "notes": "Clause-final yes/no question particle.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʷe",
+    "translation": "root",
+    "pos": "give",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ma",
+    "translation": "root",
+    "pos": "show",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ma.d̪e",
+    "translation": "adjective",
+    "pos": "old",
+    "notes": "",
+    "null": [
+      "",
+      "The root form `ma.d̪e-` is used when the adjective functions predicatively and takes verbal suffixes."
+    ]
+  },
+  {
+    "word": "ma.d̪ʱa",
+    "translation": "root",
+    "pos": "know",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ma.ma",
+    "translation": "root",
+    "pos": "mother",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ma.ne",
+    "translation": "root",
+    "pos": "four",
+    "notes": "Numeral root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ma.t̪o",
+    "translation": "root",
+    "pos": "build; make",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ma.t͡sʼa",
+    "translation": "conjunction",
+    "pos": "and; also",
+    "notes": "",
+    "null": [
+      "Connects noun phrases.",
+      ""
+    ]
+  },
+  {
+    "word": "ne.t͡ɬʼa",
+    "translation": "interjection",
+    "pos": "no; negative marker",
+    "notes": "",
+    "null": [
+      "",
+      "A simple negation, not a question response particle."
+    ]
+  },
+  {
+    "word": "qʷa.d̪o",
+    "translation": "root",
+    "pos": "river",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "qʷa.qʷa",
+    "translation": "root",
+    "pos": "bird",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "qʷa.t̪ʼa",
+    "translation": "root",
+    "pos": "child",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "qʷa.t͡ɬʼo",
+    "translation": "root",
+    "pos": "cloud",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "qʷe.d̪a",
+    "translation": "root",
+    "pos": "leaf (of a tree)",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      "Derived from qʷe.t̪ʼa (tree).",
+      ""
+    ]
+  },
+  {
+    "word": "qʷe.t̪a",
+    "translation": "adjective",
+    "pos": "sharp; pointed",
+    "notes": "",
+    "null": [
+      "",
+      "The root form `qʷe.t̪a-` is used when the adjective functions predicatively and takes verbal suffixes."
+    ]
+  },
+  {
+    "word": "qʷe.t̪ʼa",
+    "translation": "root",
+    "pos": "tree; wood",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "qʼa.d̪e",
+    "translation": "root",
+    "pos": "name",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "qʼa.na",
+    "translation": "adjective",
+    "pos": "good",
+    "notes": "",
+    "null": [
+      "",
+      "The root form `qʼa.na-` is used when the adjective functions predicatively and takes verbal suffixes."
+    ]
+  },
+  {
+    "word": "qʼa.na.ma",
+    "translation": "root",
+    "pos": "love; cherish",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      "Derived from qʼa.na (good).",
+      ""
+    ]
+  },
+  {
+    "word": "qʼa.t̪a",
+    "translation": "root",
+    "pos": "blood",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "qʼe",
+    "translation": "root",
+    "pos": "fire",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "qʼe.ma",
+    "translation": "root",
+    "pos": "burn",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      "Derived from qʼe (fire).",
+      ""
+    ]
+  },
+  {
+    "word": "qʼe.t̪ʼa",
+    "translation": "root",
+    "pos": "cut; slice",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t̪a.d̪ʱa",
+    "translation": "root",
+    "pos": "sun",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t̪a.ne",
+    "translation": "root",
+    "pos": "three",
+    "notes": "Numeral root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t̪a.t̪ʼa",
+    "translation": "root",
+    "pos": "think; believe",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t̪aː.d̪ʱe",
+    "translation": "adverb",
+    "pos": "quickly; fast",
+    "notes": "",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t̪aː.ma",
+    "translation": "root",
+    "pos": "day",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t̪o.d̪ʱa",
+    "translation": "root",
+    "pos": "drink",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t̪o.ma",
+    "translation": "root",
+    "pos": "mountain",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t̪o.t̪a",
+    "translation": "root",
+    "pos": "dog",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t̪ʼa.d̪ʱa",
+    "translation": "root",
+    "pos": "foot; leg",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t̪ʼe.ne",
+    "translation": "root",
+    "pos": "animal; beast",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t̪ʼe.t̪ʼa",
+    "translation": "adjective",
+    "pos": "wet",
+    "notes": "",
+    "null": [
+      "",
+      "The root form `t̪ʼe.t̪ʼa-` is used when the adjective functions predicatively and takes verbal suffixes."
+    ]
+  },
+  {
+    "word": "t̪ʼo.ma",
+    "translation": "adjective",
+    "pos": "heavy",
+    "notes": "",
+    "null": [
+      "",
+      "The root form `t̪ʼo.ma-` is used when the adjective functions predicatively and takes verbal suffixes."
+    ]
+  },
+  {
+    "word": "t̪ʼo.t̪ʼo",
+    "translation": "root",
+    "pos": "sleep",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡sʼa.d̪ʱa",
+    "translation": "root",
+    "pos": "carry",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡sʼa.ma",
+    "translation": "root",
+    "pos": "come; arrive",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡sʼa.t͡sʼe",
+    "translation": "root",
+    "pos": "star",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡sʼe.d̪a",
+    "translation": "root",
+    "pos": "heart; core",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡sʼo.d̪a",
+    "translation": "root",
+    "pos": "write",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡sʼo.t̪a",
+    "translation": "root",
+    "pos": "meat; flesh",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡ɬʼa.ne",
+    "translation": "root",
+    "pos": "fish",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡ɬʼa.t͡ɬʼa",
+    "translation": "adjective",
+    "pos": "small; little",
+    "notes": "",
+    "null": [
+      "",
+      "The root form `t͡ɬʼa.t͡ɬʼa-` is used when the adjective functions predicatively and takes verbal suffixes."
+    ]
+  },
+  {
+    "word": "t͡ɬʼaː",
+    "translation": "root",
+    "pos": "one",
+    "notes": "Numeral root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡ɬʼe",
+    "translation": "interjection",
+    "pos": "yes; affirmative marker",
+    "notes": "",
+    "null": [
+      "",
+      "A simple affirmation, not a question response particle."
+    ]
+  },
+  {
+    "word": "t͡ɬʼe.ma",
+    "translation": "root",
+    "pos": "walk; step",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡ɬʼe.t͡ɬʼe",
+    "translation": "root",
+    "pos": "leaf (general); blade of grass",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      "Can be used metaphorically for 'page'."
+    ]
+  },
+  {
+    "word": "t͡ɬʼo",
+    "translation": "root",
+    "pos": "eat; consume",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡ɬʼo.d̪e",
+    "translation": "root",
+    "pos": "sand",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɣe.d̪ʱo",
+    "translation": "root",
+    "pos": "ask; question",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɣe.t̪a",
+    "translation": "root",
+    "pos": "earth; ground",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɣo.ɣa",
+    "translation": "root",
+    "pos": "sing; chant",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ʁo.d̪a",
+    "translation": "root",
+    "pos": "go; travel",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ʁo.t̪e",
+    "translation": "adjective",
+    "pos": "far; distant",
+    "notes": "",
+    "null": [
+      "",
+      "The root form `ʁo.t̪e-` is used when the adjective functions predicatively and takes verbal suffixes."
+    ]
+  },
+  {
+    "word": "ʢʱu.t̪a",
+    "translation": "root",
+    "pos": "house",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ʢ̰eː.t̪e",
+    "translation": "root",
+    "pos": "fall",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ᵑga.t̪a",
+    "translation": "root",
+    "pos": "take; receive",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ⁿd̪ʱa.t̪a",
+    "translation": "root",
+    "pos": "stone; rock",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ⁿd͡za.ma",
+    "translation": "root",
+    "pos": "breathe",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      "Derived from ⁿd͡zaː (wind; air).",
+      ""
+    ]
+  },
+  {
+    "word": "ⁿd͡za.t̪a",
+    "translation": "root",
+    "pos": "cry; weep",
+    "notes": "Verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ⁿd͡zaː",
+    "translation": "root",
+    "pos": "wind; air",
+    "notes": "Noun root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d̪e.ʡe",
+    "translation": "particle",
+    "pos": "(past imperfective aspect marker)",
+    "notes": "Past Imperfective aspect particle.",
+    "null": [
+      "",
+      "Formed from the imperfective particle stem 'd̪e-' and the past tense marker '-ʡe'. Marks the past imperfective aspect. Precedes the verb in the clause."
+    ]
+  }
+]

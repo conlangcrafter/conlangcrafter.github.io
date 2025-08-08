@@ -1,0 +1,69 @@
+# Phonology
+
+## Consonants
+
+| | Labial | Alveolar | Palato-alveolar | Palatal | Velar | Uvular |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Nasal** | m | n | | ɲ | | |
+| **Stop** | p | t | | | k, kʷ | q |
+| **Affricate** | | t͡s, t͡ɬ | t͡ʃ | | k͡s | |
+| **Fricative** | f | s, ɬ | ʃ | | x | χ |
+| **Approximant** | w | | | j | | |
+| **Lateral Approximant** | | l | | ʎ | | |
+| **Trill** | | r | | | | |
+
+## Vowels
+
+| | Front | Central | Back |
+| :--- | :---: | :---: | :---: |
+| **Close** | i | | u |
+| **Close-mid** | e | | o |
+| **Open-mid** | ɛ | | ɔ |
+| **Open** | | a | |
+
+**Diphthongs:** /ie, iɛ, ia, io, iu, ei, ɛi, ai, oi, ui, eu, ɛu, au, ou, ue, uɛ, ua, uo/
+**Triphthongs:** /iai, iau, uai, uau, ieu/
+
+## Phonotactics
+
+The language has a highly complex syllable structure, maximally (C)(C)(C)V(C)(C)(C). Phonotactics are extremely permissive, with nearly any consonant able to appear in any position within a syllable, including onsets and codas. The only major restriction is that the nucleus must be a vowel, diphthong, or triphthong. This permissiveness allows for a vast number of possible syllables and long, consonant-heavy words. Voicing of stops is determined by environment rather than being phonemic: stops (/p, t, k, kʷ, q/) are realized as voiced ([b, d, g, gʷ, ɢ]) when they are immediately preceded by a vowel and immediately followed by either another vowel (e.g., /apa/ -> [aba]) or a sonorant consonant (m, n, ɲ, l, ʎ, r, w, j) (e.g., /apla/ -> [abla]). In all other positions, including word-initially and in clusters adjacent to obstruents, they are voiceless.
+
+## Suprasegmentals
+
+Prosody is marked purely at the intonational level to convey phrasing, focus, and emotion. The language has no phonemic stress or lexical tone. As a result, there is no predictable stress pattern on words, and word meaning is never distinguished by pitch or stress placement. This creates a monotonous, flowing quality to speech, where prosodic contours are applied over entire phrases or sentences rather than individual words.
+
+## Word Shapes and Lexical Statistics
+
+The language exhibits a vast diversity in word shapes, a direct consequence of its extremely permissive phonotactics. Words range from single-syllable items to exceptionally long polysyllabic constructions.
+
+Most function items are monosyllabic and phonotactically simple. Many consist of a single vowel, a CV, or a CVC structure. Some common function words may have a simple two-consonant onset or coda, but three-consonant clusters are rare in this class. These words are, by far, the most frequently occurring items in speech.
+
+Content items display a much broader range of lengths and complexities. The majority of common, everyday content words are one to three syllables long. While these words frequently utilize consonant clusters, the most complex syllable structures, such as (C)(C)(C)V(C)(C)(C), are not typical for high-frequency vocabulary. Many common content words feature one or two syllables with moderately complex onsets or codas (e.g., CCVC, CVCC).
+
+Longer polysyllabic words, often containing four or more syllables, are also numerous but less frequent in daily conversation. These are typically content items referring to more specialized, abstract, or technical concepts. It is within this class of words that the language's phonotactic potential is fully realized, with some words featuring multiple syllables with maximal three-consonant clusters in both onsets and codas. Such highly complex words are considered somewhat rare and are characteristic of formal or academic registers. The lack of lexical stress or tone gives even these long, consonant-heavy words a uniquely flat and flowing pronunciation.
+
+*   /a/ (function item, common)
+*   /kɔ/ (function item, common)
+*   /im/ (function item, common)
+*   /ʃɛt/ (function item, common)
+*   /pua/ (content item, common)
+*   /miʎ/ (content item, common)
+*   /t͡ʃax/ (content item, common)
+*   /qɔlps/ (content item, common)
+*   /krɛ.t͡su/ (content item, common)
+*   /no.t͡ɬa/ (content item, common)
+*   /stau.mik/ (content item, common)
+*   /iɛ.χar.t͡sɛn/ (content item, common)
+*   /t͡ɬu.fai.pi/ (content item, common)
+*   /wɛn.t͡ʃo/ (content item, uncommon)
+*   /skil.χa/ (content item, uncommon)
+*   /ma.qan.t͡ʃuɛ/ (content item, uncommon)
+*   /xal.t͡sʎɛ.fɔs/ (content item, uncommon)
+*   /t͡ʃuai.nɔx.tɛl/ (content item, uncommon)
+*   /i.t͡ɬar.kʷɛn.ti/ (content item, uncommon)
+*   /qɔ.χt͡ɬa.mɛu.lik/ (content item, uncommon)
+*   /pstron/ (content item, rare)
+*   /tfrɔq.spɛnt/ (content item, rare)
+*   /pʃkʷant͡ɬ.xulps/ (content item, rare)
+*   /χt͡sɔ.klia.t͡ʃau.nɛm/ (content item, rare)
+*   /ɲiɛu.t͡sχa.pstrɔ.qɔlk͡s/ (content item, rare)

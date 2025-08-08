@@ -1,0 +1,69 @@
+# Phonology
+
+## Consonants
+
+|                 | Labial | Alveolar | Postalveolar | Velar | Labial-velar | Dental Click | Glottal |
+| --------------- | :----: | :------: | :----------: | :---: | :----------: | :----------: | :-----: |
+| **Nasal**       |   m    |    n     |              |   ŋ   |              |      ŋ͡ǀ      |         |
+| **Plosive**     |   p b  |   t d    |              |  k g  |   k͡p ɡ͡b    |     ǀ ɡ͡ǀ     |         |
+| **Ejective**    |   pʼ   |    tʼ    |              |  kʼ   |     k͡pʼ      |              |         |
+| **Affricate**   |        |  t͡s d͡z   |              |       |              |              |         |
+| **Ejective Affricate** |        |   t͡sʼ    |              |       |              |              |         |
+| **Fricative**   |   f v  |   s z    |    ʃ ʒ       |  x ɣ  |              |              |    h    |
+| **Approximant** |        |    l     |      j       |       |      w       |              |         |
+| **Rhotic**      |        |  r ɾ     |              |       |              |              |         |
+
+## Vowels
+
+|              | Front Unrounded | Front Rounded | Central Unrounded | Back Unrounded | Back Rounded |
+| ------------ | :-------------: | :-----------: | :---------------: | :------------: | :----------: |
+| **High**     |        i        |       y       |                   |       ɯ        |      u       |
+| **Mid-High** |        e        |       ø       |         ə         |       ɤ        |      o       |
+| **Mid-Low**  |        ɛ        |       œ       |                   |       ʌ        |      ɔ       |
+| **Low**      |        a        |               |                   |                |              |
+
+**Diphthongs:** /aj/, /aw/, /oj/, /ow/
+
+## Phonotactics
+
+The syllable structure is (C)(C)V(C)(C). Onsets can have up to two consonants, with clusters consisting of a stop, affricate, or fricative followed by an approximant or rhotic (e.g., /tr-, pl-, ʃw-, t͡sr-/). Codas can also be up to two consonants. The first consonant (C1) in a coda cluster can be a nasal, an oral stop (including ejectives), or /l/, while the second consonant (C2) is restricted to /s/ or /k/ (e.g., /-lk, -ns, -pʼs/). Most single consonants can appear in the coda, except for clicks, labial-velars, and /h/; ejectives and affricates (treated as single phonemes) are permitted. The language exhibits progressive rounding harmony, where a rounded vowel (/y, ø, œ, u, o, ɔ/) in a word causes all subsequent non-high vowels within that word to become rounded (e.g., /e/ -> /ø/, /ɛ/ -> /œ/, /a/ -> /ɔ/).
+
+## Suprasegmentals
+
+The language has a highly complex contour tone system with five phonemic tones: high level /˥/, low level /˩/, rising /˩˥/, falling /˥˩/, and dipping /˩˥˩/. These tones are lexically significant and can distinguish minimal pairs. Stress is fixed and predictable, always falling on the final syllable of a word. Extensive and obligatory tone sandhi rules apply at word and phrase boundaries, often resulting in surface tones that are very different from their underlying forms. For example, a common rule is that two consecutive high tones /˥.˥/ become a rising tone followed by a high tone /˩˥.˥/ (e.g., underlying /ɡa˥.pa˥/ is realized as [ɡa˩˥.pa˥]). The lexical items below show underlying tones.
+
+## Word Shapes and Lexical Statistics
+
+Word shapes in the language are highly varied, reflecting its complex phonotactics. The majority of words are monosyllabic or disyllabic. Words of three syllables are less common but still frequent, especially among derived content words, while words of four or more syllables are uncommon.
+
+Function words are typically short, most often consisting of a single CV or CVC syllable (e.g., /vʌt/). They do not feature consonant clusters or the language's more marked phonemes like ejectives or clicks.
+
+Content words, in contrast, exhibit the full range of phonological possibilities. While simple CV and CVC syllables are the most common building blocks, many content words contain complex onsets, complex codas, or both. Monosyllabic content words are very common and often have a complex structure such as CCVC or CVCC to maximize their phonological distinctiveness. The most complex syllable shape, CCVCC, is uncommon and found almost exclusively in monosyllabic content words. Words containing phonemes like clicks, labial-velars, and ejectives are somewhat less frequent than words with more common consonants, but are by no means rare.
+
+### Lexical Items
+
+1.  /ɡ͡bø˥/ (Content item, common)
+2.  /kʼaj˩˥˩/ (Content item, common)
+3.  /d͡zɛn˥˩/ (Content item, common)
+4.  /vʌ˩/ (Function item, very common)
+5.  /pʼlɔkʼ˥/ (Content item, uncommon)
+6.  /t͡sʼu.lɔ˩.˥/ (Content item, common)
+7.  /ŋ͡ǀa˩˥/ (Content item, somewhat common)
+8.  /xɯps˥/ (Content item, common)
+9.  /jow˩/ (Content item, common)
+10. /pʼi.nɤ.tʼa˩.˥˩.˥/ (Content item, common)
+11. /kwiks˩/ (Content item, uncommon)
+12. /mɛ˩˥/ (Function item, very common)
+13. /ɣa.ɾu˥.˩/ (Content item, common)
+14. /t͡srɔŋk˥˩/ (Content item, rare)
+15. /ɡ͡ǀo.mə˩˥.˩/ (Content item, somewhat common)
+16. /zot͡sʼ˩˥˩/ (Content item, common)
+17. /hə˥/ (Function item, very common)
+18. /k͡pʼa.t͡so.nø˩.˥.˩˥/ (Content item, common)
+19. /fɾy˥˩/ (Content item, common)
+20. /bəlk˩/ (Content item, uncommon)
+21. /i.d͡za˩.˥/ (Content item, common)
+22. /ŋɔ.t͡sʼɔ.kʼø.vœ˥.˩.˥.˩/ (Content item, uncommon)
+23. /sə˥˩/ (Function item, very common)
+24. /pjan˩˥˩/ (Content item, common)
+25. /wœ.ʒi˩.˥˩/ (Content item, common)

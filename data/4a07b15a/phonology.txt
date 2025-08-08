@@ -1,0 +1,70 @@
+# Phonology
+
+## Consonants
+
+|                 | Labial                                 | Dental                                 | Alveolar                               | Postalveolar                           | Palatal                                | Velar                                  | Uvular                                 | Pharyngeal         | Glottal     |
+| :-------------- | :------------------------------------- | :------------------------------------- | :------------------------------------- | :------------------------------------- | :------------------------------------- | :------------------------------------- | :------------------------------------- | :----------------- | :---------- |
+| **Plosive**     | p b pʷ bʷ pˤ bˤ                        | t̪ d̪ t̪ʷ d̪ʷ t̪ˤ d̪ˤ                        | t̠ d̠ t̠ʷ d̠ʷ t̠ˤ d̠ˤ                        |                                        | c ɟ cʷ ɟʷ cˤ ɟˤ                        | k g kʷ gʷ kˤ gˤ                        | q ɢ qʷ ɢʷ qˤ ɢˤ                        |                    | ʔ           |
+| **Ejective**    | pʼ pʷʼ pˤʼ                             | t̪ʼ t̪ʷʼ t̪ˤʼ                             | t̠ʼ t̠ʷʼ t̠ˤʼ                             |                                        | cʼ cʷʼ cˤʼ                             | kʼ kʷʼ kˤʼ                             | qʼ qʷʼ qˤʼ                             |                    |             |
+| **Nasal**       | m mʷ mˤ                                | n̪ n̪ʷ n̪ˤ                                |                                        |                                        | ɲ ɲʷ ɲˤ                                | ŋ ŋʷ ŋˤ                                | ɴ ɴʷ ɴˤ                                |                    |             |
+| **Fricative**   | f v fʷ vʷ fˤ vˤ                        | θ ð θʷ ðʷ θˤ ðˤ                        | s z sʷ zʷ sˤ zˤ                        | ʃ ʒ ʃʷ ʒʷ ʃˤ ʒˤ                        | ç ʝ çʷ ʝʷ çˤ ʝˤ                        | x ɣ xʷ ɣʷ xˤ ɣˤ                        | χ ʁ χʷ ʁʷ χˤ ʁˤ                        | ħ ʕ               | h           |
+| **Approximant** |                                        |                                        | l lʷ lˤ                                |                                        | j jʷ jˤ                                |                                        |                                        |                    |             |
+| **Click**       | ʘkʼ ʘg ʘkʷʼ ʘgʷ ʘkˤʼ ʘgˤ             | ǀkʼ ǀg ǀkʷʼ ǀgʷ ǀkˤʼ ǀgˤ             | ǃkʼ ǃg ǃkʷʼ ǃgʷ ǃkˤʼ ǃgˤ             | ǂkʼ ǂg ǂkʷʼ ǂgʷ ǂkˤʼ ǂgˤ             |                                        |                                        |                                        |                    |             |
+
+## Vowels
+
+|          | Front | Central | Back   |
+| :------- | :---- | :------ | :----- |
+| **High** | i y   |         | ɯ u    |
+| **Mid**  | e ø   |         | ɤ o    |
+| **Low**  |       | a       |        |
+
+## Phonotactics
+
+The language has a strict and simple CV syllable structure. All words are composed of one or more CV syllables, with no consonant clusters or coda consonants permitted. This rigid structure contrasts sharply with the vast phonemic inventory.
+
+The language features a pervasive vowel harmony system based on backness and rounding. All vowels within a phonological word must be either front unrounded {i, e}, front rounded {y, ø}, or back {ɯ, u, ɤ, o}. The low vowel /a/ is neutral and can co-occur with vowels from any set.
+
+There is a phonotactic constraint where the contrast between plain coronal and postalveolar fricatives is neutralized before front vowels. Only the postalveolar series (/ʃ ʒ/) appears in this context, while the plain coronal series (/s z θ ð/) appears before back and neutral vowels. All transcriptions in this document are phonemic.
+
+## Suprasegmentals
+
+The language has no distinctive suprasegmental features. There is no lexical tone, pitch accent, or contrastive stress. The primary means of distinguishing words is through the sequence of consonant and vowel phonemes. A predictable, non-phonemic stress falls on the initial syllable of a word, but its placement or intensity does not alter meaning.
+
+## Word Shapes and Lexical Statistics
+
+Due to the language's strict CV syllable structure, all words consist of a sequence of one or more consonant-vowel pairs. Word length, measured in syllables, is a primary distinguishing feature.
+
+Most function words, such as pronouns, demonstratives, and adpositions, are monosyllabic (`CV`). Many are also disyllabic (`CVCV`), particularly those with more complex deictic or grammatical roles. These high-frequency items tend to utilize consonants from the more basic articulatory series (e.g., plain, non-ejective, non-pharyngealized plosives, nasals, and fricatives).
+
+Content words (nouns, verbs, adjectives) exhibit a wider range of lengths. While some common content words are monosyllabic, most are disyllabic (`CVCV`) or trisyllabic (`CVCVCV`). Disyllabic forms represent the core lexicon, while trisyllabic words are also very common, often resulting from derivational processes. Words of four or five syllables exist but are less frequent, typically representing complex nominal compounds or derived verbs. Words exceeding five syllables are rare. The vast phonemic inventory, especially the clicks and consonants with secondary articulations, is most prominently featured in the longer, less frequent content words.
+
+The vowel harmony system constrains all polysyllabic words. Words either contain only front vowels from a single rounding set, only back vowels, or a combination of one of these sets with the neutral vowel /a/.
+
+### Lexical Items
+
+1.  /me/ (function item, common)
+2.  /bʷo/ (content item, common)
+3.  /ʔa/ (function item, very common)
+4.  /kʼa.t̪a/ (content item, common)
+5.  /ʃi.ɟe/ (content item, common)
+6.  /xɯ.mɯ/ (content item, common)
+7.  /vʷø.ɲy/ (content item, uncommon)
+8.  /qʼa.ɴu/ (content item, uncommon)
+9.  /jʷa.lˤa/ (content item, uncommon)
+10. /ħo.ʕo/ (content item, common)
+11. /ʘkʼe.be.t̪e/ (content item, uncommon)
+12. /pˤo.ʁʷa.t̪ˤu/ (content item, common)
+13. /n̪ˤa.sˤa.mˤa/ (content item, uncommon)
+14. /cʷy.ɲʷy.ɟʷy/ (content item, rare)
+15. /ǀgɯ.qɤ.ɴʷɯ/ (content item, uncommon)
+16. /gʷa.χa.la/ (content item, common)
+17. /θʷø.jy.ly/ (content item, rare)
+18. /ǃgʷu.bʷa.su/ (content item, uncommon)
+19. /ðˤa.ɢˤa/ (content item, uncommon)
+20. /hɯ.t̪ɯ/ (content item, common)
+21. /lˤo.kˤo/ (content item, common)
+22. /ǂkˤʼa.bˤa.zˤa/ (content item, rare)
+23. /fʷe.ʃi.ɲe.me/ (content item, uncommon)
+24. /χʷo.d̪ʷo.ɢo.t̪o/ (content item, rare)
+25. /pʼi.cʼe/ (content item, uncommon)

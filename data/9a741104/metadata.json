@@ -1,0 +1,16 @@
+{
+  "id": "9a741104",
+  "name": "Kaãnã",
+  "created_at": "2025-08-06 05:37:22",
+  "model": "gemini-2.5-pro",
+  "user_constraints": "Triple center embeddings are common.",
+  "has_phonology": true,
+  "has_grammar": true,
+  "has_lexicon": false,
+  "completeness": 60,
+  "features": [
+    "Tone System",
+    "SVO Word Order",
+    "Agglutinative Morphology"
+  ]
+}

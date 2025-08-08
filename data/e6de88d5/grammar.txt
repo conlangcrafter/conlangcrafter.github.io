@@ -1,0 +1,248 @@
+# Grammar
+
+## Morphology
+
+The language is highly synthetic and agglutinative, with a tendency towards polysynthesis. Words, especially verbs, are constructed by affixing numerous morphemes to a root in a clear, sequential manner. All morphemes (both affixes and associated free particles) assimilate to the Advanced Tongue Root ([+ATR] or [-RTR]) value of the root.
+
+### 1. Word Class Fluidity & Derivation
+
+The language exhibits extreme word class fluidity. Most content roots are neutral and can function as nouns, verbs, or adjectives depending on their morphological and syntactic context.
+
+*   **Root:** /takama/ (concept of 'seeing' or 'sight')
+*   **As a verb:** *'na-a 'ok ka-takama-oma* (1SG-PIV PFV AT-see-1SG.PIV:3SG.PAT "I saw it.")
+*   **As a noun:** *'te takama* (the sight)
+
+While word class is fluid, derivational affixes create more specific concepts.
+
+*   **Causative `ma-`**: Creates a causative verb from a root.
+    *   *ma̘-ta'kama-le̘*
+        ma-takama-le
+        CAUS-see-STAT
+        "is made visible" / "is shown"
+    *   *ma̘-pi'le̘tʃi̘* (to cause to be a child, i.e., to treat like a child)
+*   **Stative `-le`**: Creates a stative verb or adjective.
+    *   *'ʔamp-le* (to be in a state of being a house, i.e., to be domestic/settled)
+*   **Antipassive `-tsa`**: This suffix is used with a transitive root in an Agent Trigger construction to demote the patient, making it an oblique argument marked with the locative case. This focuses on the action itself rather than its effect on the patient. The verb becomes grammatically intransitive and takes the standard intransitive agreement clitic (PIV + null AGT + null PAT).
+    *   **Standard Transitive (Agent Trigger):**
+        *'na-a 'ʔamp-k 'ok ka-'swunaŋk-oma*
+        'na-a 'ʔamp-k 'ok ka-'swunaŋk-oma
+        1SG-PIV house-PAT PFV AT-build-1SG.PIV:3SG.PAT
+        "I built the house."
+    *   **Antipassive:**
+        *'na-a 'ʔamp-t 'ok ka-'swunaŋk-tsa-on*
+        'na-a 'ʔamp-t 'ok ka-'swunaŋk-tsa-on
+        1SG-PIV house-LOC PFV AT-build-APSS-1SG.PIV
+        "I did some house-building." (Focus on the activity, the house is secondary).
+
+### 2. Pronouns and Person Marking
+
+The language has a full set of independent personal pronouns which are used for emphasis or when a noun phrase is not otherwise present. As function words, they are typically monosyllabic and carry a high pitch. They harmonize for ATR with the main verb of the clause and decline for case just like nouns.
+
+| Person | Pronoun Root | Pivot (-a) | Agentive (-s) | Patient (-k) | Locative (-t) | Genitive (-n) |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1SG** | /'na/ | /'na-a/ | /'na-s/ | /'na-k/ | /'na-t/ | /'na-n/ |
+| **2SG** | /'mi/ | /'mi-a/ | /'mi-s/ | /'mi-k/ | /'mi-t/ | /'mi-n/ |
+| **3SG** | /'se/ | /'se-a/ | /'se-s/ | /'se-k/ | /'se-t/ | /'se-n/ |
+| **1PL** | /'tsu/ | /'tsu-a/ | /'tsu-s/ | /'tsu-k/ | /'tsu-t/ | /'tsu-n/ |
+| **2PL** | /'pe/ | /'pe-a/ | /'pe-s/ | /'pe-k/ | /'pe-t/ | /'pe-n/ |
+| **3PL** | /'la/ | /'la-a/ | /'la-s/ | /'la-k/ | /'la-t/ | /'la-n/ |
+
+*Note: With an ATR root like /pi'le̘tʃi̘/, the 2SG pronoun would be /'mi̘/ and its cases would be /'mi̘-a̘/, /'mi̘-s/, etc.*
+
+### 3. Noun Morphology
+
+Nouns are marked for case but not for number, which is inferred from context or specified with quantifiers. The case system is moderate and primarily serves the Austronesian-style trigger system. Because the language exhibits double-marking (see Syntax), these case suffixes on nouns work in tandem with verbal agreement to indicate grammatical roles. A definite article `'te` / `'te̘` precedes the noun phrase.
+
+*   **Pivot Case (PIV):** *-a* / *-a̘*. Marks the noun phrase that is the "topic" or "pivot" of the clause.
+*   **Agentive Case (AGT):** *-s*. Marks the non-pivot agent of a transitive verb.
+*   **Patient Case (PAT):** *-k*. Marks the non-pivot patient of a transitive verb.
+*   **Locative Case (LOC):** *-t*. Marks a location.
+*   **Genitive Case (GEN):** *-n*. Marks a possessor.
+
+*Note on phonology: When a consonant-initial case suffix is added to a root ending in a consonant, an epenthetic vowel /ə/ ([-RTR]) or /ə̘/ ([+ATR]) is inserted to prevent an illegal consonant cluster. This vowel harmonizes for ATR value with the root.*
+
+*   *pi'le̘tʃi̘-a̘*
+    pi'letʃi-a
+    child-PIV
+    "the child (pivot)"
+
+*   *'sonoŋk-s*
+    'sonoŋk-s
+    man-AGT
+    "by the man (agent)"
+
+### 4. Verb Morphology
+
+Verbs are the most complex words, exhibiting rich polypersonal agreement. The verb's structure is `(VOICE)-ROOT-(AGR)`. Tense, Aspect, and Modality (TAM) are handled by free-standing particles that precede the verb.
+
+#### 4.1. Voice Prefixes
+
+The voice prefix is obligatory on all verbs and determines the semantic role of the pivot, in classic Austronesian alignment style.
+
+*   **Agent Trigger (AT):** `ka-` The pivot is the agent.
+*   **Patient Trigger (PT):** `su-` The pivot is the patient.
+*   **Location Trigger (LT):** `ni-` The pivot is the location.
+*   **Instrument Trigger (IT):** `pa-` The pivot is the instrument. This is a fourth, less common trigger.
+    *   *'te̘ 'ɬi-a̘ 'sono̘ŋkə̘-s 'o̘k pa̘-xa'ɾu̘ntu̘-a̘sa̘*
+        'te 'ɬi-a 'sonoŋkə-s 'ok pa-xaruntu-asa
+        DEF knife-PIV man-AGT PFV IT-cut-3SG.PIV:3SG.AGT
+        "The knife was used by the man to cut." (Lit: "As for the knife, the man cut with it.")
+
+#### 4.2. TAM Particles
+
+Tense, Aspect, and Modality are primarily handled by free particles that precede the verb. These particles harmonize for ATR with the verb they modify.
+
+*   **Aspect:**
+    *   `'tʃe` / `'tʃe̘` (Imperfective): An ongoing or habitual action.
+    *   `'ok` / `'o̘k` (Perfective): A completed action.
+*   **Tense:**
+    *   `'ʃwa` / `'ʃwa̘` (Future): An action that will happen.
+    *   `'int` / `'i̘nt` (Past): A remote or narrative past. Often used with `'ok`.
+*   **Modality:**
+    *   `'xwa` / `'xwa̘` (Desiderative): "wants to"
+    *   `'hwe` / `'hwe̘` (Obligative): "must", "should"
+    *   `'ɬi` / `'ɬi̘` (Abilitative): "can", "is able to"
+        *   *pi'le̘tʃi̘-a̘ 'ɬi̘ su̘-ta'kama-a̘n*
+            pi'letʃi-a 'ɬi su-takama-an
+            child-PIV ABL PT-see-3SG.PIV
+            "The child can be seen."
+
+#### 4.3. The Agreement Clitic Chain
+
+This is a core feature of the language. The verb must end in a single, fused portmanteau clitic that cross-references the person and number of up to three core arguments. The order of reference within the clitic is strictly **PIV-AGT-PAT**. The clitic is formed by combining and phonologically fusing person-number markers from a set paradigm.
+
+**Person-Number Markers for Clitic Formation:**
+
+| Person/Num | PIV | AGT | PAT |
+| :--- | :---: | :---: | :---: |
+| **1SG** | -o | -so | -mo |
+| **2SG** | -e | -se | -me |
+| **3SG** | -a | -sa | -ma |
+| **1PL** | -u | -su | -mu |
+| **2PL** | -i | -si | -mi |
+| **3PL** | -ə | -sə | -mə |
+
+**Fusion Rules:**
+1.  Vowels are preserved unless two are adjacent, in which case the second one is dropped (V1 + V2 -> V1).
+2.  Intervocalic /s/ is always deleted.
+3.  When vowel fusion or /s/-deletion results in a sequence of two or more vowels, a glottal stop /ʔ/ is inserted between the first and second vowel to maintain syllabic integrity.
+4.  The final form is a single phonological unit with one primary stress, inherited from the verb root.
+5.  If an argument is not present in the clause, its slot in the clitic is handled as follows:
+    *   A null marker `-n-` is used for any empty argument slot *between* two specified arguments.
+    *   In intransitive clauses, `-n-` fills all non-pivot slots.
+    *   Trailing empty slots are simply omitted.
+
+*   **Example 1: One argument (Intransitive)**
+    *   Verb: `ka-takama` (AT-see, intransitive "looks")
+    *   Arguments: 3SG.PIV
+    *   Clitic components: `-a` (3SG.PIV) + `-n-` (null AGT) + `-n-` (null PAT)
+    *   Fusion: `a + n + n` -> `-an`
+    *   Result: `ka-takama-an` ("He/she/it looks.")
+
+*   **Example 2: Two arguments (Transitive)**
+    *   Verb: `ka-ma'tse̘le̘` (AT-feed)
+    *   Arguments: 1SG.PIV, 3SG.PAT
+    *   Clitic components: `-o` (1SG.PIV) + `-ma` (3SG.PAT)
+    *   Fusion: `o + ma` -> `-oma` (AGT slot is empty and trailing, so it is omitted)
+    *   Result: `ka̘-ma'tse̘le̘-o̘ma̘` ("I feed it.")
+
+*   **Example 3: Three arguments (Ditransitive)**
+    In ditransitive clauses, the third argument (recipient/beneficiary) is cross-referenced in the PAT slot of the clitic chain.
+    *   Verb: `su̘-ma'tse̘le̘` (PT-feed)
+    *   Arguments: 3SG.PIV (the patient), 1SG.AGT, 2SG.PAT (recipient)
+    *   Clitic components: `-a` (3SG.PIV) + `-so` (1SG.AGT) + `-me` (2SG.PAT)
+    *   Fusion: `a + so + me` -> `a + o + me` (s-deletion) -> `aome` -> `-aʔome` (ʔ-insertion per Rule 3)
+    *   Result (with ATR harmony): `su̘-ma'tse̘le̘-a̘ʔo̘me̘` ("It is fed to you by me.")
+
+## Syntax
+
+### 1. Constituent Order & Alignment
+
+The basic or dominant constituent order is Subject-Object-Verb (SOV), but this is flexible. The syntax is organized around an Austronesian-style trigger system where the verb's voice prefix determines which argument is the pivot, marked with the pivot case `*-a*`/`*-a̘*`. The pivot noun phrase has a strong tendency to be fronted to the beginning of the clause for topicalization. The language exhibits **double-marking**, using both case on nouns (dependents) and rich agreement on the verb (head) to mark grammatical relations.
+
+*   **Agent Trigger (AT):** The agent is the pivot.
+    *'sonoŋk-a 'jiŋke-k 'tʃe ka-ma'tsele-ama*
+    'sonoŋk-a 'jiŋke-k 'tʃe ka-ma'tsele-ama
+    man-PIV dog-PAT IPFV AT-feed-3SG.PIV:3SG.PAT
+    "The man is feeding the dog."
+
+*   **Patient Trigger (PT):** The patient is the pivot. The non-pivot agent takes the agentive case. The example shows the more common pivot-fronted order.
+    *'jiŋke-a 'sonoŋk-s 'tʃe su-ma'tsele-asa*
+    'jiŋke-a 'sonoŋk-s 'tʃe su-ma'tsele-asa
+    dog-PIV man-AGT IPFV PT-feed-3SG.PIV:3SG.AGT
+    "The dog, the man is feeding it." (Lit: "As for the dog, the man is feeding it.")
+
+*   **Canonical SOV order (less common):**
+    *'sonoŋk-s 'jiŋke-a 'tʃe su-ma'tsele-asa*
+    'sonoŋk-s 'jiŋke-a 'tʃe su-ma'tsele-asa
+    man-AGT dog-PIV IPFV PT-feed-3SG.PIV:3SG.AGT
+    "The man is feeding the dog." (Lit: "By the man, the dog is being fed.")
+
+### 2. Noun Phrase Structure
+
+Noun phrases are consistently head-final.
+*   **Order:** [Genitive] - [Adjective] - [Noun]
+    *   *xa'runtu-n 'hweʔena 'ʔamp*
+        xa'runtu-n 'hweʔena 'ʔamp
+        woman-GEN big house
+        "the woman's big house"
+
+### 3. Clause Chaining and Subordination
+
+Complex sentences are primarily formed through clause chaining. A subordinate clause's verb takes a non-finite form by replacing the agreement clitic chain with a subordinator suffix.
+
+*   **Temporal Subordinator `-jo` ("when, while"):**
+    *   *['na-s ka-takama-jo], pi'le̘tʃi̘-a̘ 'o̘k ka̘-tsa'ŋko̘tso̘-a̘n.*
+        ['na-s ka-takama-jo], pi'letʃi-a 'ok ka-tsa'ŋkotso-an
+        [1SG-AGT AT-see-TEMP], child-PIV PFV AT-laugh-3SG.PIV
+        "When I looked, the child laughed."
+
+*   **Causal Subordinator `-ki` ("because"):**
+    *   *['sonoŋk-a ka-'furimpak-ki], 'na-a 'ok ka-ma'tsele-oma.*
+        ['sonoŋk-a ka-'furimpak-ki], 'na-a 'ok ka-ma'tsele-oma
+        [man-PIV AT-be.hungry-CAUS], 1SG-PIV PFV AT-feed-1SG.PIV:3SG.PAT
+        "Because the man was hungry, I fed him."
+
+### 4. Interrogative Clauses
+
+*   **Yes/No Questions:** Formed by adding the sentence-final particle `ha` with rising pitch.
+    *   *pi'le̘tʃi̘-a̘ 'o̘k ka̘-tsa'ŋko̘tso̘-a̘n ha?*
+        pi'letʃi-a 'ok ka-tsa'ŋkotso-an ha
+        child-PIV PFV AT-laugh-3SG.PIV Q
+        "Did the child laugh?"
+
+*   **Content Questions:** An interrogative pronoun replaces the noun phrase in question and is typically fronted.
+    *   **Who? (Animate):** `ʔe`
+    *   **What? (Inanimate):** `so`
+    *   **Where? (Location):** `te`
+    *   **Why? (Reason):** `soki` (from `so-ki` "what-because")
+    *   *ʔe-a 'o̘k ka̘-tsa'ŋko̘tso̘-a̘n?*
+        ʔe-a 'ok ka-tsa'ŋkotso-an
+        who-PIV PFV AT-laugh-3SG.PIV
+        "Who laughed?"
+    *   *so-k 'sonoŋk-s 'ok su-takama-asa?*
+        so-k 'sonoŋk-s 'ok su-takama-asa
+        what-PAT man-AGT PFV PT-see-3SG.PIV:3SG.AGT
+        "What was seen by the man?"
+
+### 5. The Evidential Case System
+
+A distinctive feature is the interaction between case marking and evidentiality. The locative case `*-t*` has a secondary function as an evidential marker on the perceiver in a clause describing sensory perception. This system forces the speaker to encode their source of knowledge into the core case-marking of a sentence. In these constructions, the locative-marked perceiver is cross-referenced in the PIV slot of the agreement clitic. This is a key feature of the evidential system: the case on the noun reflects its semantic role (perceiver) while the agreement on the verb reflects its syntactic role (pivot).
+
+*   **Direct Evidence (Sight):** The perceiver is marked with the standard pivot or agentive case. The verb is a generic perception root like /takama/ ('see/perceive').
+    *   *'na-a 'sonoŋk-k 'ok ka-takama-oma*
+        'na-a 'sonoŋk-k 'ok ka-takama-oma
+        1SG-PIV man-PAT PFV AT-perceive-1SG.PIV:3SG.PAT
+        "I saw the man." (I witnessed it with my eyes).
+
+*   **Indirect Evidence (Sound):** The perceiver takes the locative case `*-t*`.
+    *   *'na-t 'sonoŋk-k 'ok ka-takama-oma*
+        'na-t 'sonoŋk-k 'ok ka-takama-oma
+        1SG-LOC man-PAT PFV AT-perceive-1SG.PIV:3SG.PAT
+        "I heard the man." (The event 'man' happened *to my location/senses* via sound).
+
+*   **Indirect Evidence (Inference/Smell/Feeling):** The locative case is used, but with a specific stative verb root like /'jiŋke/ ('to have the quality of a dog', extended to mean 'to sense animacy/presence').
+    *   *'na-t 'jiŋke-a 'tʃe ka-'jiŋke-on*
+        'na-t 'jiŋke-a 'tʃe ka-'jiŋke-on
+        1SG-LOC dog-PIV IPFV AT-be.dog-like-1SG.PIV
+        "I sense a dog is nearby (by smell/sound/intuition)." (Lit: "To me, dogness is happening.")

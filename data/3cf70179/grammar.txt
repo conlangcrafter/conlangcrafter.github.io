@@ -1,0 +1,196 @@
+# Grammar
+
+## Morphology
+
+The language is primarily **oligosynthetic**, with most words consisting of a root and at most one or two affixes. This morphological simplicity is coupled with a high degree of **fusion**, where the few existing affixes are often portmanteaus, simultaneously encoding multiple grammatical categories. Morphological processes are deeply intertwined with the language's phonology, particularly through phonation ablaut and tone manipulation.
+
+### Noun Morphology
+
+Nouns are inflected for number and case. Number is not a standalone category but is fused with case marking.
+
+#### Case and Number
+
+Case is marked by a set of particles or clitics that follow the final word of a noun phrase. These are highly fusional, sometimes encoding both case and number (Singular, Plural, and a specialized Paucal for small, definite groups). The language follows an **Active-Stative** alignment.
+
+*   **Active Case (ACT):** Marks the agent of a transitive verb and the agentive argument of an active intransitive verb. The case-marking particle is /ŋɔ̰́/.
+*   **Stative Case (STAT):** Marks the patient of a transitive verb and the patientive argument of a stative intransitive verb. The case-marking particle is /sɐ̰̀/.
+*   **Genitive Case (GEN):** Marks the possessor. The clitic is /-wɪ́l/.
+*   **Locative Case (LOC):** Marks location. It distinguishes number: /-jɪ́/ (SG), /-xʷɔ̰́/ (PL), and /-kʷʰà̰l/ (Paucal, 'at a few specific...'). When a clitic with a non-modal phonation (like creaky /-xʷɔ̰́/) attaches to a root, the clitic's phonation is dominant and spreads leftward across the entire newly formed word. This phonation harmony does not occur when a modal clitic attaches to a non-modal root.
+    *   **pʰá-jɪ́**
+        *   pʰá-jɪ́
+        *   house-LOC.SG
+        *   'in the house'
+    *   **pʰá̰-xʷɔ̰́**
+        *   pʰá-xʷɔ̰́
+        *   house(CREAKY)-LOC.PL(CREAKY)
+        *   'in the houses'
+    *   **tʃʰɔ̰́k-kʷʰà̰l**
+        *   tʃʰɔ̰́k-kʷʰà̰l
+        *   stone(CREAKY)-LOC.PAU(CREAKY)
+        *   'at the few stones'
+*   **Instrumental Case (INS):** Marks the instrument used to perform an action. The clitic is /-tʰà/.
+    *   **na-pʰíkʷʰà** **tʃʰɔ̰̀k-tʰà** **hɪ̰́lɐ̰̀** **ŋɔ̰́**.
+    *   3.PFV-hit stone(L)-INS man ACT
+    *   'The man hit (it) with a stone.'
+*   **Possessed Marker (POSS):** A special marker, /ǹ̩kʷʰà/, that follows the possessed noun in a genitive construction, fulfilling the language's **double-marking** requirement.
+    *   **ɲúlà-wɪ́l** **pʰá** **ǹ̩kʷʰà**
+        *   ɲúlà-wɪ́l pʰá ǹ̩kʷʰà
+        *   woman-GEN house POSS
+        *   'the woman's house'
+
+#### Derivational Morphology: Phonation Ablaut and Reduplication
+
+**Phonation ablaut** is a lexical derivational process for nouns. Changing a noun's inherent phonation can create a related concept, often an abstraction or a collective.
+
+*   /kʷáŋ/ (modal) 'a dog'
+*   /kʷá̰ŋ/ (creaky) 'caninity, the concept of "dog-ness"; a pack of dogs'
+
+**Reduplication** is a productive derivational process. Full reduplication of a noun root, often with a Low tone on the copied syllable, creates an augmentative or distributive meaning. This augmentative form of any noun can be used as a pre-nominal modifier, functioning as a general adjective for 'big'.
+
+*   **tʃʰɔ̰́k** 'stone'
+*   **tʃʰɔ̰́.tʃʰɔ̰̀** 'boulder' or 'stones scattered about'
+
+### Pronoun System
+
+The language has a full set of independent personal pronouns. While the language is generally **not pro-drop**, an argument slot must always be filled by either a noun phrase or a pronoun. However, when a verbal prefix is used to mark the person of the primary argument, the corresponding independent pronoun for that argument is typically omitted, but may be retained for emphasis or contrast. The pronoun system is notable for its **phonation-based clusivity** in the first person plural. The choice of phonation (modal vs. creaky) distinguishes inclusive 'we' (speaker + addressee) from exclusive 'we' (speaker + others).
+
+| Person | Singular | Plural |
+| :--- | :---: | :---: |
+| **1st** | /jɪ́/ | /tʃʰí/ (exclusive, modal) /tʃʰḭ́/ (inclusive, creaky) |
+| **2nd** | /hɪ́/ | /pʰí/ |
+| **3rd** | /kʷʰí/ | /mí/ |
+
+*   **ḿ̩nà** **tʰákʷʰìnà** **pʰà** **sɐ̰̀** **tʃʰí** **ŋɔ̰́**.
+    *   ḿ̩nà tʰákʷʰìnà pʰà sɐ̰̀ tʃʰí ŋɔ̰́
+    *   AUX.MODAL build(MODAL) house(L) STAT 1PL.EXCL ACT
+    *   'We (but not you) are building the house.'
+
+*   **ḿ̩nà** **tʰákʷʰìnà** **pʰà** **sɐ̰̀** **tʃʰḭ́** **ŋɔ̰́**.
+    *   ḿ̩nà tʰákʷʰìnà pʰà sɐ̰̀ tʃʰḭ́ ŋɔ̰́
+    *   AUX.MODAL build(MODAL) house(L) STAT 1PL.INCL ACT
+    *   'We (including you) are building the house.'
+
+### Verb Morphology
+
+The verb is the morphological center of the clause. The **TAM system is highly complex**, marking fine-grained distinctions in tense, aspect, and mood. This complexity is realized through a combination of fusional verbal prefixes, phonation ablaut, and a rich system of auxiliary verbs.
+
+#### Phonation Ablaut
+
+As a grammatical process, **phonation ablaut** is a primary way to change a verb's aspect or voice. The change from a modal to a creaky voice systematically derives a stative or resultative form from an active or dynamic one.
+
+*   *tʰákʷʰìnà* (modal) 'to build'
+*   *tʰákʷʰḭ̀nà̰* (creaky) 'to be built, in a state of having been built'
+
+#### Verbal Prefixes
+
+A small set of fusional prefixes attaches to the verb root to encode a combination of person and aspect. These prefixes are limited to marking the primary argument (the Active argument in a transitive or active intransitive clause) and are often used in place of an auxiliary for perfective and imperfective aspectual actions.
+
+*   **`kʷa-`**: 1st Person Perfective
+*   **`tʃa-`**: 2nd Person Perfective
+*   **`na-`**: 3rd Person Perfective
+*   **`pʰa-`**: 1st Person Imperfective
+*   **`sa-`**: 2nd Person Imperfective
+*   **`la-`**: 3rd Person Imperfective
+
+*   **na-ŋɔ̀kʷʰʊ̰́ŋ** **kʷàŋ** **sɐ̰̀** **hɪ̰́lɐ̰̀** **ŋɔ̰́**.
+    *   3.PFV-see dog(L) STAT man ACT
+    *   'The man saw the dog.'
+
+*   **la-kʷákʷʰà** **hɪ̰́lɐ̰̀** **ŋɔ̰́**.
+    *   3.IPFV-run man ACT
+    *   'The man is running.'
+
+## Syntax
+
+The language has a **VOS (Verb-Object-Subject)** basic constituent order, but this is flexible and subject to pragmatic reordering. Adpositions are almost exclusively **postpositions**. Its syntax is defined by its active-stative alignment, double-marking, and unique systems of phonologically conditioned auxiliaries and tonal case concord.
+
+### Constituent Order and Alignment
+
+The verb is consistently initial in declarative clauses. While VOS is the neutral, unmarked order, other orders are common for pragmatic purposes like topicalization, where the topic is fronted to the position immediately following the verb.
+
+*   **VOS (Neutral):**
+    *   **na-ŋɔ̀kʷʰʊ̰́ŋ** **kʷàŋ** **sɐ̰̀** **hɪ̰́lɐ̰̀** **ŋɔ̰́**.
+    *   3.PFV-see dog(L) STAT man ACT
+    *   'The man saw the dog.'
+
+*   **VSA (Topic is Subject):**
+    *   **na-ŋɔ̀kʷʰʊ̰́ŋ** **hɪ̰́lɐ̰̀** **ŋɔ̰́** **kʷàŋ** **sɐ̰̀**.
+    *   3.PFV-see man ACT dog(L) STAT
+    *   'THE MAN (he's the one who) saw the dog.'
+
+Morphosyntactic alignment is **Active–Stative**. The single argument of an intransitive verb is marked like the agent of a transitive verb if it is agent-like (Active case), and like the patient of a transitive verb if it is patient-like (Stative case).
+
+*   **kʷákʷʰà** **hɪ̰́lɐ̰̀** **ŋɔ̰́**.
+    *   kʷákʷʰà hɪ̰́lɐ̰̀ ŋɔ̰́
+    *   run(PST.PFV) man ACT
+    *   'The man ran.' (Agentive S, marked Active)
+
+*   **tʃʰíkʷʰà** **kʷàŋ** **sɐ̰̀**.
+    *   tʃʰíkʷʰà kʷàŋ sɐ̰̀
+    *   fall(PST.PFV) dog(L) STAT
+    *   'The dog fell.' (Patientive S, marked Stative)
+
+### Noun Phrase Structure
+
+Noun phrases are head-final, with modifiers preceding the noun. The order is strictly: **Demonstrative > Numeral > Adjective > Noun**.
+
+*   **Adjective-Noun:**
+    *   **tʃʰɔ̰́.tʃʰɔ̰̀** **pʰá**
+    *   big house
+    *   'a big house' (using the augmentative reduplicated form of 'stone' adjectivally)
+
+### Unusual Features
+
+#### Phonologically Conditioned Auxiliaries
+
+The choice of auxiliary verb can be determined by the phonatory quality (modal vs. creaky) of the main lexical verb, creating a sort of phonological agreement.
+
+*   **ḿ̩nà** **tʰákʷʰìnà** **pʰà** **sɐ̰̀** **hɪ̰́lɐ̰̀** **ŋɔ̰́**.
+    *   ḿ̩nà tʰákʷʰìnà pʰà sɐ̰̀ hɪ̰́lɐ̰̀ ŋɔ̰́
+    *   AUX.MODAL build(MODAL) house(L) STAT man ACT
+    *   'The man is building the house.' (Modal verb takes modal auxiliary)
+
+*   **xʷɔ̰́** **tʰákʷʰḭ̀nà̰** **pʰá** **sɐ̰̀**.
+    *   xʷɔ̰́ tʰákʷʰḭ̀nà̰ pʰá sɐ̰̀
+    *   AUX.CREAKY be.built(CREAKY) house STAT
+    *   'The house is (in a state of) being built.' (Creaky verb takes creaky auxiliary)
+
+#### Tonal Case Concord
+
+While case is primarily marked by particles, the tone of a noun's final syllable can shift to agree with its case role. Specifically, a noun in the **Stative** case must have a **Low tone** on its final syllable, overriding its lexical tone. This applies to both patient arguments of transitive verbs and patientive arguments of stative intransitive verbs. This rule does not apply to pronouns or nouns ending in a syllabic consonant. Nouns in the Active case retain their lexical tones.
+
+*   Lexical form: /pʰá/ (H) 'house'
+*   In a Stative role:
+    *   **xʷɔ̰́** **tʰákʷʰḭ̀nà̰** **pʰà** **sɐ̰̀**.
+    *   AUX.CREAKY be.built(CREAKY) house(L) STAT
+    *   'The house is being built.' (Tone on *pʰá* changes to *pʰà*)
+
+*   Lexical form: /kʷáŋ/ (H) 'dog'
+*   In a Stative role:
+    *   **na-ŋɔ̀kʷʰʊ̰́ŋ** **kʷàŋ** **sɐ̰̀** **hɪ̰́lɐ̰̀** **ŋɔ̰́**.
+    *   3.PFV-see dog(L) STAT man ACT
+    *   'The man saw the dog.' (Tone on *kʷáŋ* changes to *kʷàŋ*)
+
+*   Pronoun exception:
+    *   **na-ŋɔ̀kʷʰʊ̰́ŋ** **jɪ́** **sɐ̰̀** **hɪ̰́lɐ̰̀** **ŋɔ̰́**.
+    *   3.PFV-see 1SG STAT man ACT
+    *   'The man saw me.' (Pronoun *jɪ́* retains its High tone in the Stative case)
+
+*   Syllabic consonant exception (Lexical form: /ḿ̩pʰĺ̩/ (H) 'child'):
+    *   **na-ŋɔ̀kʷʰʊ̰́ŋ** **ḿ̩pʰĺ̩** **sɐ̰̀** **hɪ̰́lɐ̰̀** **ŋɔ̰́**.
+    *   3.PFV-see child STAT man ACT
+    *   'The man saw the child.' (Noun *ḿ̩pʰĺ̩* retains its High tone in the Stative case)
+
+### Subordination
+
+Subordination is handled primarily through **non-finite verb forms** like participles and converbs. Arguments within these non-finite clauses are case-marked according to their role, just as in main clauses.
+
+*   **`-jɪ́` (Simultaneous/Manner):** Indicates an action happening at the same time as the main verb.
+    *   **[kʷákʷʰà-jɪ́]** **na-ŋɔ̀kʷʰʊ̰́ŋ** **tʃʰɔ̰̀k** **sɐ̰̀** **hɪ̰́lɐ̰̀** **ŋɔ̰́**.
+    *   [run-CONV] 3.PFV-see stone(L) STAT man ACT
+    *   'While running, the man saw the stone.'
+
+*   **`-pʰlɐ̰̀k` (Sequential):** Indicates an action completed before the main verb's action.
+    *   **[kʷʰántʃà-pʰlɐ̰̀k** **pʰà** **sɐ̰̀]** **na-ŋɔ̀kʷʰʊ̰́ŋ** **tʃʰɔ̰̀k** **sɐ̰̀** **hɪ̰́lɐ̰̀** **ŋɔ̰́**.
+    *   [enter-CONV house(L) STAT] 3.PFV-see stone(L) STAT man ACT
+    *   'After entering the house, the man saw the stone.'

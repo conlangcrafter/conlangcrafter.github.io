@@ -1,0 +1,229 @@
+# Grammar
+
+## Morphology
+
+The language is primarily analytic with some agglutinative features, corresponding to a morphological complexity score of 2. Words typically consist of a root, sometimes followed by one or two suffixes. There are no prefixes.
+
+### **Nominal Morphology**
+
+Nouns are inflected for number and case. The three-way animacy distinction (Human, Animate, Inanimate) is central to the nominal system, governing number marking and verb argument selection.
+
+**Number**
+
+Number marking is dependent on the noun's animacy class. Progressive rounding harmony applies across suffix boundaries, where a rounded vowel in a stem or an earlier suffix causes subsequent non-high vowels in suffixes to become rounded (e.g., /a/ > /ɔ/, /ʌ/ > /ɔ/).
+
+*   **Human nouns** form their plural with the suffix ***-wœ***.
+*   **Animate (non-human) nouns** form their plural with the suffix ***-ʒi***.
+*   **Inanimate nouns** are typically not marked for number, being treated as mass or collective nouns. Plurality can be specified with a separate quantifier word if necessary.
+
+*Example (Human):*
+*   *pʼinɤtʼa* /pʼi.nɤ.tʼa˩.˥˩.˥/ "man"
+*   *pʼinɤtʼa-wœ* /pʼi.nɤ.tʼɔ.wœ˩.˥˩.˥.˩˥/ "men"
+    (Note the vowel harmony: the /a/ in the root becomes /ɔ/ before the rounded vowel in *-wœ*.)
+
+*Example (Animate):*
+*   *d͡zɛn* /d͡zɛn˥˩/ "fish"
+*   *d͡zɛn-ʒi* /d͡zɛn.ʒi˥˩.˥/ "fish (plural)"
+
+*Example (Inanimate):*
+*   *ɡ͡bø* /ɡ͡bø˥/ "house" or "houses"
+
+**Case**
+
+The language has a tripartite case-marking system, where the subject of an intransitive verb (S), the agent of a transitive verb (A), and the patient of a transitive verb (P) each receive a distinct case. Case is marked by a suffix on the mandatory pronoun that follows the noun.
+
+*   **Intransitive Case (S):** *-∅* (unmarked)
+*   **Agentive Case (A):** *-vʌ*. Due to vowel harmony, this becomes *-vɔ* following a pronoun with a rounded vowel (e.g., *wœ-vɔ*).
+*   **Patientive Case (P):** *-sə*
+
+*Example (Simple):*
+*   *kʼaj mə*
+    /kʼaj˩˥˩ mə˩˥/
+    child 3SG.HUM
+    "The child sleeps."
+
+*   *kʼaj mə-vʌ zot͡sʼ ʒi-sə jow.*
+    /kʼaj˩˥˩ mə.vʌ˩˥.˩ zot͡sʼ˩˥˩ ʒi.sə˥.˥˩ jow˩/
+    child 3SG.HUM-AGNT dog 3SG.AN-PAT see
+    "The child sees the dog."
+
+*Example of case suffix following number suffix on noun:*
+*   *pʼinɤtʼa-wœ wœ-vɔ zot͡sʼ-ʒi ʒi-ʒi-sə jow-i.*
+    /pʼi.nɤ.tʼɔ.wœ˩.˥˩.˥.˩˥ wœ.vɔ˩.˩ zot͡sʼ.ʒi˩˥˩.˥ ʒi.ʒi.sə˥.˥.˥˩ jow.i˩/
+    man-PL.HUM 3PL.HUM-AGNT dog-PL.AN 3PL.AN-PAT see-DIR
+    "The men saw the dogs (I witnessed it)."
+
+**Animacy Classes and Thematic Roles**
+
+The animacy class of a noun governs which verbs it can be an agent of. For example, only Human or Animate nouns can be the agent of volitional verbs like "to speak" or "to hunt".
+
+### **Verbal Morphology**
+
+Verbal morphology combines suffixes for evidentiality and voice with periphrastic particles for Tense-Aspect-Mood (TAM).
+
+**Evidentiality**
+
+The primary inflectional category marked via suffixation is evidentiality.
+
+*   **Direct Evidential (witnessed):** *-i*
+*   **Inferential Evidential (inferred from evidence):** *-u*
+*   **Hearsay Evidential (reported):** *-ø* (unmarked)
+
+*Example:*
+*   *kʼaj mə-vʌ d͡zɛn ʒi-sə pʼlɔkʼ-i.*
+    /kʼaj˩˥˩ mə.vʌ˩˥.˩ d͡zɛn˥˩ ʒi.sə˥.˥˩ pʼlɔkʼ.i˥/
+    child 3SG.HUM-AGNT fish 3SG.AN-PAT catch-DIR
+    "The child caught a fish (I saw it happen)."
+
+**Tense and Aspect (TAM Particles)**
+
+Tense and major aspectual distinctions are marked by free particles that precede the verb. The default, unmarked form is interpreted as a present tense or a gnomic statement.
+
+*   **Past Perfective (`PST.PFV`):** The particle **ɣaɾu** /ɣa.ɾu˥.˩/ indicates a completed event in the past.
+*   **Future/Irrealis (`FUT`):** The particle **pjan** /pjan˩˥˩/ indicates a future event, intention, or hypothetical situation.
+*   **Progressive (`PROG`):** The particle **d͡za** /d͡za˩/ indicates an ongoing, incomplete action.
+
+*Example (Past Perfective):*
+*   *mə-vʌ ɣaɾu ɡ͡bø məm-sə pʼlɔkʼ-u.*
+    /mə.vʌ˩˥.˩ ɣa.ɾu˥.˩ ɡ͡bø˥ məm.sə˩.˥˩ pʼlɔkʼ.u˥/
+    3SG.HUM-AGNT PST.PFV house 3SG.INAN-PAT build-INFER
+    "He built the house (I infer, perhaps I see the finished house)."
+
+*Example (Future):*
+*   *ŋɔ pjan fɾy-i.*
+    /ŋɔ˥ pjan˩˥˩ fɾy.i˥˩/
+    1SG FUT grow-DIR
+    "I will grow (I see it starting)."
+
+**Voice: The Anti-passive**
+
+The language has a productive **anti-passive** voice, marked by the verbal suffix ***-ŋɔ***. This construction demotes the Patient (P) to an oblique phrase and promotes the Agent (A) to an Intransitive Subject (S). The demoted patient noun phrase (Noun + Pronoun) is followed by the postposition **hə** /hə˥/ ("with, concerning"), and the pronoun in this phrase takes the unmarked (Intransitive) case form.
+
+*   *Standard Transitive (A-P):*
+    *   *kʼaj mə-vʌ d͡zɛn ʒi-sə jow.*
+        /kʼaj˩˥˩ mə.vʌ˩˥.˩ d͡zɛn˥˩ ʒi.sə˥.˥˩ jow˩/
+        child 3SG.HUM-AGNT fish 3SG.AN-PAT see
+        "The child sees the fish."
+
+*   *Anti-passive (S-oblique):*
+    *   *kʼaj mə jow-ŋɔ d͡zɛn ʒi hə.*
+        /kʼaj˩˥˩ mə˩˥ jow.ŋɔ˩.˥ d͡zɛn˥˩ ʒi˥ hə˥/
+        child 3SG.HUM see-APASS fish 3SG.AN POSTP:with
+        "The child is fish-seeing / The child is looking at fish."
+
+**Derivational Morphology**
+
+A verbal derivational suffix, *-t͡sʼɔ*, can attach to a noun to create a verb meaning "to become full of [NOUN]".
+
+*   *pɔlk-t͡sʼɔ*
+    /pɔlk.t͡sʼɔ˩/
+    dust-INCHOATIVE
+    "to become dusty"
+
+## Syntax
+
+The basic constituent order is strictly Subject-Object-Verb (SOV). The syntax is rigidly head-final.
+
+### **Pronoun System**
+
+Pronouns are mandatory in all argument positions; the language is not pro-drop. Case is marked on the pronoun, which follows any overt noun it is co-referent with.
+
+| Person | Singular | Plural |
+| :--- | :--- | :--- |
+| **1st** | ŋɔ /ŋɔ˥/ | i /i˩/ |
+| **2nd** | d͡zɛ /d͡zɛ˥˩/ | ø /ø˩˥/ |
+| **3rd (Human)** | mə /mə˩˥/ | wœ /wœ˩/ |
+| **3rd (Animate)** | ʒi /ʒi˥/ | ʒi-ʒi /ʒi.ʒi˥.˥/ (reduplicated) |
+| **3rd (Inanimate)** | məm /məm˩/ | məm /məm˩/ (unmarked) |
+
+*Example:*
+*   *ø-vʌ i-sə jow.*
+    /ø.vʌ˩˥.˩ i.sə˩.˥˩ jow˩/
+    2PL-AGNT 1PL-PAT see
+    "You (pl.) see us."
+
+### **Noun Phrase Structure**
+
+Noun phrases follow a head-final pattern. Adjectives and genitives consistently follow the noun they modify.
+
+**Adjective Agreement and Stacking**
+
+Adjectives follow the noun and agree with its class through a prefixed classifier. The classifiers are **hə-** for Inanimate, **ʒi-** for Animate, and **mə-** for Human. When multiple adjectives modify a single noun, they are stacked, and each adjective must take the classifier prefix.
+
+*   *ɡ͡bø məm hə-fɾy*
+    /ɡ͡bø˥ məm˩ hə.fɾy˥.˥˩/
+    house 3SG.INAN CL.INAN-big
+    "the big house"
+
+*   *zot͡sʼ ʒi ʒi-fɾy ʒi-xɯps*
+    /zot͡sʼ˩˥˩ ʒi˥ ʒi.fɾy˥.˥˩ ʒi.xɯps˥.˥/
+    dog 3SG.AN CL.AN-big CL.AN-fast
+    "the big, fast dog"
+
+**Possession and the Genitive**
+
+The case marking on the possessor in a Noun-Genitive construction depends on the relationship between the possessor and the possessed noun. The possessor phrase follows the possessed noun (Possessed-Possessor order).
+
+1.  **Inalienable Possession** (e.g., body parts, kinship): The possessor pronoun is unmarked (Intransitive case).
+2.  **Alienable Possession** (e.g., owned objects): The possessor pronoun takes the Agentive case suffix *-vʌ*, framing the possessor as the "agent" controlling the possessed item.
+
+*Example (Inalienable):*
+*   *kʼaj mə zot͡sʼ ʒi*
+    /kʼaj˩˥˩ mə˩˥ zot͡sʼ˩˥˩ ʒi˥/
+    child 3SG.HUM dog 3SG.AN
+    "the dog's puppy" (Note: 'kʼaj', child, is used metaphorically for the young of an animal.)
+
+*Example (Alienable):*
+*   *ɡ͡bø məm pʼinɤtʼa mə-vʌ*
+    /ɡ͡bø˥ məm˩ pʼi.nɤ.tʼa˩.˥˩.˥ mə.vʌ˩˥.˩/
+    house 3SG.INAN man 3SG.HUM-AGNT
+    "the man's house"
+
+### **Adpositions**
+
+Adpositions are overwhelmingly postpositions, consistent with the head-final SOV order. They follow the noun phrase they govern, which includes the mandatory pronoun. Common postpositions include *-mɛ* (in) and *hə* (with, concerning).
+
+*   *ŋɔ-vʌ zot͡sʼ ʒi-sə ɡ͡bø məm-mɛ jow.*
+    /ŋɔ.vʌ˥.˩ zot͡sʼ˩˥˩ ʒi.sə˥.˥˩ ɡ͡bø˥ məm.mɛ˩˥ jow˩/
+    1SG-AGNT dog 3SG.AN-PAT house 3SG.INAN-POSTP:in see
+    "I see the dog in the house."
+
+### **Subordination and Questions**
+
+**Clausal Postpositions**
+
+To subordinate a clause (e.g., for temporal or causal relations), the entire clause is treated as a single nominal unit, which then takes a postposition. The verb of the subordinate clause appears in a non-finite form, marked with the suffix *-nø*. A few high-frequency postpositions, like 'ŋ͡ǀa' (after), are exceptions to the phonological restrictions on function words, likely due to their origin as content words.
+
+*   *[ŋɔ-vʌ ɡ͡bø məm-sə pjan pʼlɔkʼ-nø] ŋ͡ǀa.*
+    /ŋɔ.vʌ˥.˩ ɡ͡bø˥ məm.sə˩.˥˩ pjan˩˥˩ pʼlɔkʼ.nø˥.˩˥ ŋ͡ǀa˩˥/
+    [1SG-AGNT house 3SG.INAN-PAT FUT build-NFIN] POSTP:after
+    "After I will build the house."
+
+**Question Formation**
+
+Questions are formed not with movement, but with a sentence-final question particle, *kwi*.
+
+*   *mə-vʌ d͡zɛn ʒi-sə pʼlɔkʼ-i kwi?*
+    /mə.vʌ˩˥.˩ d͡zɛn˥˩ ʒi.sə˥.˥˩ pʼlɔkʼ.i˥ kwi/
+    3SG.HUM-AGNT fish 3SG.AN-PAT catch-DIR Q
+    "Did he catch the fish?"
+
+### **Evidential Concord**
+
+A highly unusual feature is **Evidential Concord**. The evidential suffix on the main verb of a clause must be mirrored on all adpositions within that same clause. This spreads the speaker's epistemological stance across the clause's constituents.
+
+*   **Direct Evidential (-i):** The speaker directly witnessed the event and the spatial/temporal relations.
+*   **Inferential Evidential (-u):** The speaker infers the event and the relations.
+*   **Hearsay Evidential (-ø):** The speaker was told about the event and the relations.
+
+*Example (Direct):*
+*   *ŋɔ-vʌ zot͡sʼ ʒi-sə ɡ͡bø məm-mɛ-i jow-i.*
+    /ŋɔ.vʌ˥.˩ zot͡sʼ˩˥˩ ʒi.sə˥.˥˩ ɡ͡bø˥ məm.mɛ.i˩˥.˥ jow.i˩/
+    1SG-AGNT dog 3SG.AN-PAT house 3SG.INAN-POSTP:in-DIR see-DIR
+    "I saw the dog in the house (I saw the whole event: the dog, the house, and its location inside)."
+
+*Example (Inferential):*
+*   *ŋɔ-vʌ zot͡sʼ ʒi-sə ɡ͡bø məm-mɛ-u jow-u.*
+    /ŋɔ.vʌ˥.˩ zot͡sʼ˩˥˩ ʒi.sə˥.˥˩ ɡ͡bø˥ məm.mɛ.u˩˥.˥ jow.u˩/
+    1SG-AGNT dog 3SG.AN-PAT house 3SG.INAN-POSTP:in-INFER see-INFER
+    "I saw the dog in the house (I infer it; e.g., I heard barking from inside and now see the dog emerge from the house)."

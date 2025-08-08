@@ -1,0 +1,1295 @@
+[
+  {
+    "word": "'ke.mens˥",
+    "translation": "verb",
+    "pos": "to dream",
+    "notes": "Unrounded vowel harmony class. Complex coda /ns/.",
+    "null": [
+      "Derived from /ǃˀe.mens˥/ 'dream' (noun).",
+      "Example of zero-derivation (conversion)."
+    ]
+  },
+  {
+    "word": "'ki.ma˩",
+    "translation": "adjective",
+    "pos": "red",
+    "notes": "Begins with tenuis plosive /k/; uses consonant symbolism for intensity (kʰi.ma/ᵑǃi.ma). Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Common color term."
+    ]
+  },
+  {
+    "word": "'klo.mo˩˥",
+    "translation": "noun",
+    "pos": "cloud",
+    "notes": "Rounded vowel harmony class. Complex onset /kl/.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'klo.so˥",
+    "translation": "adjective",
+    "pos": "blue",
+    "notes": " green (grue)",
+    "null": [
+      "Begins with tenuis plosive /k/; uses consonant symbolism for intensity (kʰlo.so/ᵑǃlo.so). Rounded vowel harmony class.",
+      "",
+      "The language uses a single word for blue and green."
+    ]
+  },
+  {
+    "word": "'ko.pu˩",
+    "translation": "adjective",
+    "pos": "heavy",
+    "notes": "Rounded vowel harmony class. Begins with tenuis plosive /k/; uses consonant symbolism for intensity (kʰo.pu/ᵑǃo.pu).",
+    "null": [
+      "",
+      "Common adjective."
+    ]
+  },
+  {
+    "word": "'ko.so˩",
+    "translation": "adjective",
+    "pos": "weak",
+    "notes": "Rounded vowel harmony class. Begins with tenuis plosive /k/; uses consonant symbolism for intensity (kʰo.so/ᵑǃo.so).",
+    "null": [
+      "",
+      "Common adjective."
+    ]
+  },
+  {
+    "word": "'kwa.la˩",
+    "translation": "verb",
+    "pos": "to laugh",
+    "notes": "Unrounded vowel harmony class. Complex onset /kw/.",
+    "null": [
+      "",
+      "Common verb."
+    ]
+  },
+  {
+    "word": "'kwi.na˩",
+    "translation": "verb",
+    "pos": "to hear",
+    "notes": "Unrounded vowel harmony class. Complex onset /kw/.",
+    "null": [
+      "",
+      "Common verb."
+    ]
+  },
+  {
+    "word": "'kʰi.la˩",
+    "translation": "noun",
+    "pos": "sky",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'kʰi˩˥",
+    "translation": "preposition",
+    "pos": "about",
+    "notes": " concerning",
+    "null": [
+      "Used with inanimate nouns. Unrounded vowel harmony class.",
+      "",
+      "Function word."
+    ]
+  },
+  {
+    "word": "'kʰu.lo˩˥",
+    "translation": "verb",
+    "pos": "to fight",
+    "notes": "Rounded vowel harmony class.",
+    "null": [
+      "",
+      "Common verb."
+    ]
+  },
+  {
+    "word": "'kʰwe.sa˥",
+    "translation": "noun",
+    "pos": "word",
+    "notes": " speech",
+    "null": [
+      "Unrounded vowel harmony class. Complex onset /kʰw/.",
+      "Derived from /kwa˩˥/ 'to speak' (see entry 68).",
+      "Example of irregular derivation. The phonological and tonal changes are not governed by a regular process."
+    ]
+  },
+  {
+    "word": "'kʰwoms˥˩",
+    "translation": "noun",
+    "pos": "law",
+    "notes": " rule",
+    "null": [
+      "Rounded vowel harmony class. Complex onset /kʰw/ and complex coda /ms/.",
+      "",
+      "Rare word shape",
+      " abstract concept."
+    ]
+  },
+  {
+    "word": "'la.ki˩˥",
+    "translation": "verb",
+    "pos": "to walk",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Common verb."
+    ]
+  },
+  {
+    "word": "'pi.la˩˥",
+    "translation": "adjective",
+    "pos": "sharp",
+    "notes": "Unrounded vowel harmony class. Begins with tenuis plosive /p/; uses consonant symbolism for intensity (pʰi.la/ᵑʘi.la).",
+    "null": [
+      "",
+      "Common adjective."
+    ]
+  },
+  {
+    "word": "'pʰa.la˥",
+    "translation": "noun",
+    "pos": "bird",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'pʰe.kʰa˥˩",
+    "translation": "noun",
+    "pos": "leaf",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'pʰi.li˩",
+    "translation": "noun",
+    "pos": "eye",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Common body part."
+    ]
+  },
+  {
+    "word": "'pʰi.se˩",
+    "translation": "verb",
+    "pos": "to know",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Common verb."
+    ]
+  },
+  {
+    "word": "'pʰla.si˥˩",
+    "translation": "noun",
+    "pos": "flower",
+    "notes": "Unrounded vowel harmony class. Complex onset /pʰl/.",
+    "null": [
+      "",
+      "Content item."
+    ]
+  },
+  {
+    "word": "'pʰla˥",
+    "translation": "noun",
+    "pos": "arrow",
+    "notes": "Unrounded vowel harmony class. Complex onset /pʰl/.",
+    "null": [
+      "",
+      "Common tool/weapon."
+    ]
+  },
+  {
+    "word": "'pʰo.so˥˩",
+    "translation": "verb",
+    "pos": "to die",
+    "notes": "Rounded vowel harmony class.",
+    "null": [
+      "",
+      "Synonym for /ǀˀo.kʰo˥˩/ 'to die'",
+      " perhaps with different connotations (e.g.",
+      " peaceful vs. violent death)."
+    ]
+  },
+  {
+    "word": "'se.tʰa.li˥",
+    "translation": "noun",
+    "pos": "village",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'si.wa˩˥",
+    "translation": "adjective",
+    "pos": "small",
+    "notes": "Unrounded vowel harmony class. Does not begin with a tenuis plosive; uses prefixation for intensity (tʰa.si.wa/sa.si.wa).",
+    "null": [
+      "",
+      "Common adjective."
+    ]
+  },
+  {
+    "word": "'so.kʰo˥",
+    "translation": "noun",
+    "pos": "fear",
+    "notes": "Rounded vowel harmony class.",
+    "null": [
+      "Derived from /so.kʰo˩/ 'to be afraid'.",
+      "Example of noun derivation from a verb via tonal change (low tone to high tone). Abstract noun."
+    ]
+  },
+  {
+    "word": "'so.loŋs˥˩",
+    "translation": "noun",
+    "pos": "wind",
+    "notes": "Rounded vowel harmony class. Complex coda /ŋs/.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'so.mo˥˩",
+    "translation": "noun",
+    "pos": "heart",
+    "notes": " mind (seat of emotion)",
+    "null": [
+      "Rounded vowel harmony class.",
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'te.ke˩˥",
+    "translation": "noun",
+    "pos": "hand",
+    "notes": " foot",
+    "null": [
+      "Unrounded vowel harmony class. The same word is used for both.",
+      "",
+      "Common body part."
+    ]
+  },
+  {
+    "word": "'twa.si˥",
+    "translation": "verb",
+    "pos": "to sing",
+    "notes": "Unrounded vowel harmony class. Complex onset /tw/.",
+    "null": [
+      "",
+      "Common verb."
+    ]
+  },
+  {
+    "word": "'tʰa.li˥",
+    "translation": "adjective",
+    "pos": "strong",
+    "notes": "Unrounded vowel harmony class. Does not begin with a tenuis plosive; uses prefixation for intensity (tʰa.tʰa.li/sa.tʰa.li).",
+    "null": [
+      "",
+      "Common adjective."
+    ]
+  },
+  {
+    "word": "'tʰa.ni˩",
+    "translation": "adjective",
+    "pos": "new",
+    "notes": "Unrounded vowel harmony class. Does not begin with a tenuis plosive; uses prefixation for intensity (tʰa.tʰa.ni/sa.tʰa.ni).",
+    "null": [
+      "",
+      "Common adjective."
+    ]
+  },
+  {
+    "word": "'tʰems˥˩",
+    "translation": "noun",
+    "pos": "time",
+    "notes": "Unrounded vowel harmony class. Complex coda /ms/.",
+    "null": [
+      "",
+      "Abstract noun."
+    ]
+  },
+  {
+    "word": "'tʰloŋs˥",
+    "translation": "noun",
+    "pos": "star",
+    "notes": "Rounded vowel harmony class. Complex coda /ŋs/ and complex onset /tʰl/.",
+    "null": [
+      "",
+      "Uncommon word shape."
+    ]
+  },
+  {
+    "word": "'tʰo.ŋo.lo˩",
+    "translation": "noun",
+    "pos": "god",
+    "notes": " spirit",
+    "null": [
+      "Rounded vowel harmony class.",
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "'tʰu.mo˩",
+    "translation": "verb",
+    "pos": "to want",
+    "notes": " to need",
+    "null": [
+      "Rounded vowel harmony class.",
+      "",
+      "Common modal verb."
+    ]
+  },
+  {
+    "word": "'xo.lo˥",
+    "translation": "adjective",
+    "pos": "hot",
+    "notes": "Rounded vowel harmony class. Does not begin with a tenuis plosive; uses prefixation for intensity (tʰo.xo.lo/so.xo.lo).",
+    "null": [
+      "",
+      "Common adjective."
+    ]
+  },
+  {
+    "word": "'xo.ŋo˩˥",
+    "translation": "noun",
+    "pos": "enemy",
+    "notes": "Rounded vowel harmony class.",
+    "null": [
+      "",
+      "Important social concept."
+    ]
+  },
+  {
+    "word": "'ŋe˥",
+    "translation": "postposition",
+    "pos": "without",
+    "notes": "Used with animate nouns. Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Function word."
+    ]
+  },
+  {
+    "word": "'ǀa.ni˥",
+    "translation": "noun",
+    "pos": "animal",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'ǀe.si˩",
+    "translation": "verb",
+    "pos": "to go",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Common verb of motion."
+    ]
+  },
+  {
+    "word": "'ǀʰe.na˥",
+    "translation": "verb",
+    "pos": "to think",
+    "notes": " to believe",
+    "null": [
+      "Unrounded vowel harmony class.",
+      "",
+      "Common verb."
+    ]
+  },
+  {
+    "word": "'ǀˀa.pʰa˥˩",
+    "translation": "noun",
+    "pos": "mother",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'ǀˀu.lu˥",
+    "translation": "noun",
+    "pos": "boat",
+    "notes": "Rounded vowel harmony class.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'ǁa.ke˩",
+    "translation": "verb",
+    "pos": "to write",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'ǁˀo.pʰo˥",
+    "translation": "noun",
+    "pos": "rain",
+    "notes": "Rounded vowel harmony class.",
+    "null": [
+      "",
+      "Common weather term."
+    ]
+  },
+  {
+    "word": "'ǃa.ni˩˥",
+    "translation": "verb",
+    "pos": "to run",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Common verb of motion."
+    ]
+  },
+  {
+    "word": "'ǃi.ki˩",
+    "translation": "noun",
+    "pos": "head",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'ʘa.na˩",
+    "translation": "noun",
+    "pos": "earth",
+    "notes": " ground",
+    "null": [
+      "Unrounded vowel harmony class.",
+      "",
+      "Common natural element."
+    ]
+  },
+  {
+    "word": "'ʘu.tʰo˥",
+    "translation": "noun",
+    "pos": "father",
+    "notes": "Rounded vowel harmony class.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'ᵑǀa.le˥",
+    "translation": "noun",
+    "pos": "friend",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Important social concept."
+    ]
+  },
+  {
+    "word": "'ᵑǃo.me˩",
+    "translation": "verb",
+    "pos": "to love",
+    "notes": " to cherish",
+    "null": [
+      "Rounded vowel harmony class.",
+      "",
+      "Abstract verb."
+    ]
+  },
+  {
+    "word": "'ᵑǃu.ma˩",
+    "translation": "verb",
+    "pos": "to build",
+    "notes": " to make",
+    "null": [
+      "Rounded vowel harmony class.",
+      "",
+      "Common verb."
+    ]
+  },
+  {
+    "word": "'ᵑʘa.te˥˩",
+    "translation": "noun",
+    "pos": "meat",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'ᵑʘo.so˩",
+    "translation": "noun",
+    "pos": "mouth",
+    "notes": "Rounded vowel harmony class.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "-i˥/-u˥",
+    "translation": "suffix",
+    "pos": "same-subject conjunctive suffix",
+    "notes": "Replaces final vowel of verb in clause chaining. -i for unrounded",
+    "null": [
+      " -u for rounded.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-i˩/-u˩",
+    "translation": "suffix",
+    "pos": "different-subject conjunctive suffix",
+    "notes": "Replaces final vowel of verb in clause chaining. -i for unrounded",
+    "null": [
+      " -u for rounded.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-le˩/-lo˩",
+    "translation": "suffix",
+    "pos": "ergative plural",
+    "notes": "-le for unrounded stems",
+    "null": [
+      " -lo for rounded stems.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-li/-lu",
+    "translation": "suffix",
+    "pos": "genitive plural",
+    "notes": "-li for unrounded stems",
+    "null": [
+      " -lu for rounded stems.",
+      "",
+      "This suffix is toneless. Its tone in an utterance is determined by the tone of the noun root it attaches to. For example",
+      " with the low-tone root /pʰo.tʰu˩/",
+      " the resulting form is /pʰo.tʰu.lu˩/."
+    ]
+  },
+  {
+    "word": "-na.le˥/-no.lo˥",
+    "translation": "suffix",
+    "pos": "dative/benefactive plural",
+    "notes": "-na.le for unrounded stems",
+    "null": [
+      " -no.lo for rounded stems.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-na˥/-no˥",
+    "translation": "suffix",
+    "pos": "dative/benefactive singular",
+    "notes": "-na for unrounded stems",
+    "null": [
+      " -no for rounded stems.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-se˥/-so˥",
+    "translation": "suffix",
+    "pos": "ergative singular",
+    "notes": "-se for unrounded stems",
+    "null": [
+      " -so for rounded stems.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-ʔi/-ʔu",
+    "translation": "suffix",
+    "pos": "genitive singular",
+    "notes": "-ʔi for unrounded stems",
+    "null": [
+      " -ʔu for rounded stems.",
+      "",
+      "This toneless suffix inherits the tone of the root's final syllable."
+    ]
+  },
+  {
+    "word": "i.li˩˥",
+    "translation": "noun",
+    "pos": "water",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Content item."
+    ]
+  },
+  {
+    "word": "ke.li˩",
+    "translation": "noun",
+    "pos": "tree",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "ka.li˥",
+    "translation": "adjective",
+    "pos": "good",
+    "notes": "Unrounded vowel harmony class. Begins with tenuis plosive /k/; uses consonant symbolism for intensity (kʰa.li/ᵑǃa.li).",
+    "null": [
+      "",
+      "Common adjective."
+    ]
+  },
+  {
+    "word": "kin.se˥",
+    "translation": "noun",
+    "pos": "stone",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Content item."
+    ]
+  },
+  {
+    "word": "ki˩",
+    "translation": "postposition",
+    "pos": "to",
+    "notes": " for (direction)",
+    "null": [
+      "Used with animate nouns. Unrounded vowel harmony class.",
+      "",
+      "Function word."
+    ]
+  },
+  {
+    "word": "kwa˩˥",
+    "translation": "verb",
+    "pos": "to speak",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Common verb."
+    ]
+  },
+  {
+    "word": "kwo.soŋ˩˥",
+    "translation": "noun",
+    "pos": "story",
+    "notes": "Rounded vowel harmony class.",
+    "null": [
+      "",
+      "Fairly common content item."
+    ]
+  },
+  {
+    "word": "kwo˥˩",
+    "translation": "particle",
+    "pos": "gnomic aspect marker",
+    "notes": "Used for general truths",
+    "null": [
+      " timeless statements.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʰa˥",
+    "translation": "noun",
+    "pos": "man",
+    "notes": "Unrounded vowel harmony class. Inflects for case and number.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "kʰo.so˩˥",
+    "translation": "noun",
+    "pos": "moon",
+    "notes": "Rounded vowel harmony class.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "kʰu.su˩˥",
+    "translation": "verb",
+    "pos": "to drink",
+    "notes": "Rounded vowel harmony class.",
+    "null": [
+      "",
+      "Common verb."
+    ]
+  },
+  {
+    "word": "la˩˥",
+    "translation": "particle",
+    "pos": "emphasis marker",
+    "notes": "Sentence-final particle used to add emphasis or express surprise.",
+    "null": [
+      "",
+      "Function word."
+    ]
+  },
+  {
+    "word": "me˩",
+    "translation": "particle",
+    "pos": "imperfective aspect marker",
+    "notes": "Used for present",
+    "null": [
+      " progressive",
+      " habitual aspect. Triggers Nominative-Accusative alignment.",
+      "",
+      "Common function item."
+    ]
+  },
+  {
+    "word": "na˩",
+    "translation": "conjunction",
+    "pos": "and",
+    "notes": "Connects noun phrases.",
+    "null": [
+      "",
+      "Simple function word."
+    ]
+  },
+  {
+    "word": "ne˩˥",
+    "translation": "particle",
+    "pos": "yes/no question marker",
+    "notes": "Sentence-final particle.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pu.su˩",
+    "translation": "adjective",
+    "pos": "bad",
+    "notes": "Rounded vowel harmony class. Begins with tenuis plosive /p/; uses consonant symbolism for intensity (pʰu.su/ᵑʘu.su).",
+    "null": [
+      "",
+      "Common adjective."
+    ]
+  },
+  {
+    "word": "pa.na˥",
+    "translation": "verb",
+    "pos": "to eat",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Common verb."
+    ]
+  },
+  {
+    "word": "pʰa.le˥",
+    "translation": "noun",
+    "pos": "sun",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "pʰa.tʰa.na.si˥˩",
+    "translation": "verb",
+    "pos": "to travel",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Rare content item."
+    ]
+  },
+  {
+    "word": "pʰa˥",
+    "translation": "particle",
+    "pos": "prospective aspect marker",
+    "notes": "Used for future",
+    "null": [
+      " irrealis aspect.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʰe˩",
+    "translation": "preposition",
+    "pos": "under",
+    "notes": " beneath",
+    "null": [
+      "Used with inanimate nouns. Unrounded vowel harmony class.",
+      "",
+      "Function word."
+    ]
+  },
+  {
+    "word": "pʰlums˥˩",
+    "translation": "adjective",
+    "pos": "dark",
+    "notes": "Rounded vowel harmony class. Does not begin with a tenuis plosive; uses prefixation for intensity (tʰo.pʰlums/so.pʰlums).",
+    "null": [
+      "",
+      "Common adjective."
+    ]
+  },
+  {
+    "word": "pʰo.tʰu˩",
+    "translation": "noun",
+    "pos": "chief",
+    "notes": "Rounded vowel harmony class.",
+    "null": [
+      "",
+      "Base form of the noun."
+    ]
+  },
+  {
+    "word": "pʰoŋs˥",
+    "translation": "noun",
+    "pos": "blood",
+    "notes": "Rounded vowel harmony class. Coda is /ŋs/.",
+    "null": [
+      "",
+      "Content item."
+    ]
+  },
+  {
+    "word": "sa-/so-",
+    "translation": "prefix",
+    "pos": "diminutive prefix",
+    "notes": "Used on adjectives not beginning with a tenuis plosive to mean 'somewhat'. sa- for unrounded",
+    "null": [
+      " so- for rounded.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "se.ne˩˥",
+    "translation": "noun",
+    "pos": "woman",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "se/so",
+    "translation": "pronoun",
+    "pos": "what (inanimate)",
+    "notes": "Interrogative pronoun. se for unrounded contexts",
+    "null": [
+      " so for rounded contexts.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "si˩˥",
+    "translation": "verb",
+    "pos": "to give",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "so.ko˩",
+    "translation": "verb",
+    "pos": "to sleep",
+    "notes": "Rounded vowel harmony class.",
+    "null": [
+      "",
+      "Common verb."
+    ]
+  },
+  {
+    "word": "so.kʰo˩",
+    "translation": "verb",
+    "pos": "to be afraid",
+    "notes": "Rounded vowel harmony class.",
+    "null": [
+      "",
+      "Common stative verb."
+    ]
+  },
+  {
+    "word": "te.la˩",
+    "translation": "adjective",
+    "pos": "big",
+    "notes": "Unrounded vowel harmony class. Begins with tenuis plosive /t/; uses consonant symbolism for intensity (tʰe.la/ᵑǀe.la).",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "tʰo.lo˩",
+    "translation": "adjective",
+    "pos": "very big (rounded form)",
+    "notes": "Rounded vowel harmony class.",
+    "null": [
+      "Derived from /te.la˩/ 'big' via consonant symbolism (/t/ -> /tʰ/) and vowel harmony shift (/e...a/ -> /o...o/).",
+      ""
+    ]
+  },
+  {
+    "word": "twa˩",
+    "translation": "particle",
+    "pos": "perfective aspect marker",
+    "notes": "Used for past",
+    "null": [
+      " completed aspect. Triggers Ergative-Absolutive alignment.",
+      "",
+      "Function item."
+    ]
+  },
+  {
+    "word": "tʰa-/tʰo-",
+    "translation": "prefix",
+    "pos": "augmentative prefix",
+    "notes": "Used on adjectives not beginning with a tenuis plosive to mean 'very'. tʰa- for unrounded",
+    "null": [
+      " tʰo- for rounded.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tʰa.xans˥",
+    "translation": "adjective",
+    "pos": "very fast",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "Derived from /xans˥/ 'fast' + /tʰa-/ (AUG prefix).",
+      "Example of a derived adjective."
+    ]
+  },
+  {
+    "word": "tʰe˥",
+    "translation": "preposition",
+    "pos": "on",
+    "notes": " upon",
+    "null": [
+      "Used with inanimate nouns. Unrounded vowel harmony class.",
+      "",
+      "Function word."
+    ]
+  },
+  {
+    "word": "tʰe˩˥",
+    "translation": "conjunction",
+    "pos": "but",
+    "notes": "Connects clauses.",
+    "null": [
+      "",
+      "Simple function word."
+    ]
+  },
+  {
+    "word": "tʰlo.mo˩",
+    "translation": "noun",
+    "pos": "path",
+    "notes": "Rounded vowel harmony class. Complex onset /tʰl/.",
+    "null": [
+      "",
+      "Content item."
+    ]
+  },
+  {
+    "word": "tʰloms˩",
+    "translation": "noun",
+    "pos": "night",
+    "notes": "Rounded vowel harmony class.",
+    "null": [
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "tʰo˩",
+    "translation": "postposition",
+    "pos": "with",
+    "notes": "Used with animate nouns. Rounded vowel harmony class.",
+    "null": [
+      "",
+      "The syllable /tʰo/ also appears as the augmentative prefix for rounded adjectives",
+      " but as a prefix it is toneless."
+    ]
+  },
+  {
+    "word": "wun˥˩",
+    "translation": "noun",
+    "pos": "fire",
+    "notes": "Rounded vowel harmony class.",
+    "null": [
+      "",
+      "Content item."
+    ]
+  },
+  {
+    "word": "xa.le˩",
+    "translation": "verb",
+    "pos": "to play",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Appears in grammar examples."
+    ]
+  },
+  {
+    "word": "xans˥",
+    "translation": "adjective",
+    "pos": "fast",
+    "notes": "Unrounded vowel harmony class. Does not begin with a tenuis plosive; uses prefixation for intensity (tʰa.xans/sa.xans).",
+    "null": [
+      "",
+      "Fairly common content item."
+    ]
+  },
+  {
+    "word": "ŋo˥",
+    "translation": "conjunction",
+    "pos": "or",
+    "notes": "Connects noun phrases or clauses.",
+    "null": [
+      "",
+      "Simple function word."
+    ]
+  },
+  {
+    "word": "ŋu˩",
+    "translation": "preposition",
+    "pos": "inside",
+    "notes": "Used with inanimate nouns. Rounded vowel harmony class.",
+    "null": [
+      "",
+      "Common function item."
+    ]
+  },
+  {
+    "word": "ǀe/ǀo",
+    "translation": "pronoun",
+    "pos": "who",
+    "notes": " what (animate)",
+    "null": [
+      "Interrogative pronoun. ǀe for unrounded contexts",
+      " ǀo for rounded contexts.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ǀʰa.pi.le˥˩",
+    "translation": "verb",
+    "pos": "to hunt",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "ǀˀo.kʰo˥˩",
+    "translation": "verb",
+    "pos": "to die",
+    "notes": "Rounded vowel harmony class.",
+    "null": [
+      "",
+      "Content item."
+    ]
+  },
+  {
+    "word": "ǁe˩",
+    "translation": "postposition",
+    "pos": "from",
+    "notes": "Used with animate nouns. Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Function word."
+    ]
+  },
+  {
+    "word": "ǁi/ǁu",
+    "translation": "pronoun",
+    "pos": "where",
+    "notes": "Interrogative pronoun. ǁi for unrounded contexts",
+    "null": [
+      " ǁu for rounded contexts.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ǁʰa.le.sa˥",
+    "translation": "noun",
+    "pos": "song",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "ǁˀa˥",
+    "translation": "noun",
+    "pos": "child",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Content item."
+    ]
+  },
+  {
+    "word": "ǁˀi.ma˩˥",
+    "translation": "noun",
+    "pos": "spear",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Content item."
+    ]
+  },
+  {
+    "word": "ǁˀoŋs˥˩",
+    "translation": "noun",
+    "pos": "bone",
+    "notes": "Rounded vowel harmony class. Complex coda /ŋs/.",
+    "null": [
+      "",
+      "Content item."
+    ]
+  },
+  {
+    "word": "ǃa˥",
+    "translation": "pronoun",
+    "pos": "when",
+    "notes": "Interrogative pronoun. Unrounded vowel",
+    "null": [
+      " so no rounded form needed.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ǃˀe.mens˥",
+    "translation": "noun",
+    "pos": "dream",
+    "notes": "Unrounded vowel harmony class. Complex coda.",
+    "null": [
+      "",
+      "Rare content item."
+    ]
+  },
+  {
+    "word": "ʘa˥˩",
+    "translation": "verb",
+    "pos": "to be",
+    "notes": "Unrounded vowel harmony class. Used as a copula.",
+    "null": [
+      "",
+      "Essential verb."
+    ]
+  },
+  {
+    "word": "ʘoŋ˥",
+    "translation": "noun",
+    "pos": "house",
+    "notes": "Rounded vowel harmony class.",
+    "null": [
+      "",
+      "Content item."
+    ]
+  },
+  {
+    "word": "ʘˀu.moŋ˩˥",
+    "translation": "noun",
+    "pos": "river",
+    "notes": "Rounded vowel harmony class.",
+    "null": [
+      "",
+      "Content item."
+    ]
+  },
+  {
+    "word": "ᵑǀa˥",
+    "translation": "pronoun",
+    "pos": "why",
+    "notes": " how",
+    "null": [
+      "Interrogative pronoun. Unrounded vowel",
+      " so no rounded form needed.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ᵑǀi.si˩",
+    "translation": "noun",
+    "pos": "fish",
+    "notes": "Unrounded vowel harmony class.",
+    "null": [
+      "",
+      "Content item."
+    ]
+  },
+  {
+    "word": "ᵑǃo.kʰo˩",
+    "translation": "verb",
+    "pos": "to see",
+    "notes": "Rounded vowel harmony class.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "ᵑǃu.lu˥˩",
+    "translation": "noun",
+    "pos": "mountain",
+    "notes": "Rounded vowel harmony class.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  }
+]

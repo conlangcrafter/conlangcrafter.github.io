@@ -1,0 +1,1013 @@
+[
+  {
+    "word": "-go",
+    "translation": "suffix",
+    "pos": "different-subject marker",
+    "notes": "Switch-reference suffix for clause chaining. Replaces the final CV of the verb.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-jV",
+    "translation": "suffix",
+    "pos": "relative clause marker",
+    "notes": "Suffix for stative verbs used as adjectival modifiers. Vowel harmonizes: {i,e} > e; {y,ø} > ø; {ɯ,u,ɤ,o,a} > u.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-li",
+    "translation": "suffix",
+    "pos": "same-subject marker",
+    "notes": "Switch-reference suffix for clause chaining. Replaces the final CV of the verb.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-mV",
+    "translation": "suffix",
+    "pos": "instrumental case marker",
+    "notes": "Case suffix. Vowel harmonizes: {i,e} > e; {y,ø} > ø; {ɯ,u,ɤ,o,a} > u.",
+    "null": [
+      "",
+      "Replaces stem's final vowel."
+    ]
+  },
+  {
+    "word": "-n̪V",
+    "translation": "suffix",
+    "pos": "dative case marker",
+    "notes": "Case suffix. Vowel harmonizes: {i,e} > e; {y,ø} > ø; {ɯ,u,ɤ,o,a} > u.",
+    "null": [
+      "",
+      "Replaces stem's final vowel."
+    ]
+  },
+  {
+    "word": "-qV",
+    "translation": "suffix",
+    "pos": "genitive case marker",
+    "notes": "Case suffix. Vowel harmonizes: {i,e} > e; {y,ø} > ø; {ɯ,u,ɤ,o,a} > u.",
+    "null": [
+      "",
+      "Replaces stem's final vowel."
+    ]
+  },
+  {
+    "word": "-sV",
+    "translation": "suffix",
+    "pos": "locative case marker",
+    "notes": "Case suffix. Vowel harmonizes: {i,e} > e; {y,ø} > ø; {ɯ,u,ɤ,o,a} > u.",
+    "null": [
+      "",
+      "Replaces stem's final vowel."
+    ]
+  },
+  {
+    "word": "-t̪V",
+    "translation": "suffix",
+    "pos": "accusative case marker",
+    "notes": "Case suffix. Vowel harmonizes: {i,e} > e; {y,ø} > ø; {ɯ,u,ɤ,o,a} > u.",
+    "null": [
+      "",
+      "Replaces stem's final vowel."
+    ]
+  },
+  {
+    "word": "-ʁV",
+    "translation": "suffix",
+    "pos": "ablative case marker",
+    "notes": "Case suffix. Vowel harmonizes: {i,e} > e; {y,ø} > ø; {ɯ,u,ɤ,o,a} > u.",
+    "null": [
+      "",
+      "Replaces stem's final vowel."
+    ]
+  },
+  {
+    "word": "-χa",
+    "translation": "clitic",
+    "pos": "yes/no question marker",
+    "notes": "Suffix clitic. Vowel /a/ replaces verb's final vowel and does not harmonize.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "bo",
+    "translation": "verb",
+    "pos": "to build",
+    "notes": "Verb root √*ba*-. Assumed citation form (imperfective). Back vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "bele",
+    "translation": "noun",
+    "pos": "fish",
+    "notes": "Front unrounded vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "bʷo",
+    "translation": "noun",
+    "pos": "house",
+    "notes": "Back vowel harmony group.",
+    "null": [
+      "",
+      "Monosyllabic noun."
+    ]
+  },
+  {
+    "word": "cʷe",
+    "translation": "pronoun",
+    "pos": "when",
+    "notes": "Interrogative pronoun. Used in-situ. Not marked for case.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "cʷy.ɲʷy.ɟʷy",
+    "translation": "noun",
+    "pos": "star",
+    "notes": "Front rounded vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "cʼa.qʷa.lɤ",
+    "translation": "verb",
+    "pos": "to think",
+    "notes": "Verb root √*cʼaqʷal*-. Back vowel harmony group. Imperfective form.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "cʼi.ɟi",
+    "translation": "noun",
+    "pos": "heart",
+    "notes": "Front unrounded vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d̠o",
+    "translation": "verb",
+    "pos": "to eat",
+    "notes": "Verb root √*d̠o*-. Back vowel harmony group. Imperfective form.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d̠ʷa.mˤa.so",
+    "translation": "noun",
+    "pos": "shadow",
+    "notes": "Back vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d̠ˤa.mˤa",
+    "translation": "verb",
+    "pos": "to take",
+    "notes": "Verb root √*d̠ˤamˤ*-. Back vowel harmony group (neutral /a/). Imperfective form.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "fʷe.ʃi.ɲe.me",
+    "translation": "noun",
+    "pos": "child",
+    "notes": "Front unrounded vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "gada",
+    "translation": "noun",
+    "pos": "dog",
+    "notes": "Back vowel harmony group (neutral /a/).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "gʷa.χa.la",
+    "translation": "noun",
+    "pos": "story",
+    "notes": "Back vowel harmony group (neutral /a/).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "gʷi.de",
+    "translation": "noun",
+    "pos": "animal",
+    "notes": "Front unrounded vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "hɯ.t̪ɯ",
+    "translation": "noun",
+    "pos": "man",
+    "notes": "Back vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "jʷa.lˤa",
+    "translation": "noun",
+    "pos": "sun",
+    "notes": "Back vowel harmony group (neutral /a/).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʷe.lʼe.t̠e",
+    "translation": "noun",
+    "pos": "language",
+    "notes": "Front unrounded vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʷʼi",
+    "translation": "pronoun",
+    "pos": "why",
+    "notes": "Interrogative pronoun. Used in-situ. Not marked for case.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼa.jɤ",
+    "translation": "verb",
+    "pos": "to know",
+    "notes": "Verb root √*kʼaj*-. Back vowel harmony group. Imperfective form.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼa.t̪a",
+    "translation": "noun",
+    "pos": "stone",
+    "notes": "Back vowel harmony group (neutral /a/).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼe.cʼe",
+    "translation": "noun",
+    "pos": "knife",
+    "notes": "Front unrounded vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼo",
+    "translation": "noun",
+    "pos": "sky",
+    "notes": "Back vowel harmony group.",
+    "null": [
+      "",
+      "Monosyllabic noun."
+    ]
+  },
+  {
+    "word": "kʼo-kʼo",
+    "translation": "noun",
+    "pos": "cloud",
+    "notes": "Back vowel harmony group.",
+    "null": [
+      "Dual form of `kʼo` (sky), lexicalized to mean 'cloud' or 'clouds'.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t̪u.bʼo",
+    "translation": "verb",
+    "pos": "to be small",
+    "notes": "Stative verb root √*t̪ubʼ*-. Back vowel harmony group. Imperfective form.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "lˤo.kˤɤ",
+    "translation": "verb",
+    "pos": "to see",
+    "notes": "Stative verb root √*lˤokˤ*-. Back vowel harmony group. Imperfective form.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "me",
+    "translation": "adposition",
+    "pos": "with",
+    "notes": "Preposition introducing instrumental case nouns.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "mˤa.n̪ˤɤ",
+    "translation": "verb",
+    "pos": "to want",
+    "notes": "Verb root √*mˤan̪ˤ*-. Back vowel harmony group. Imperfective form.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "no.gɤ",
+    "translation": "verb",
+    "pos": "to give",
+    "notes": "Verb root √*nog*-. Back vowel harmony group. Imperfective form.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "n̪a-",
+    "translation": "prefix",
+    "pos": "inferential evidential marker",
+    "notes": "Evidential prefix. Indicates speaker infers the event from evidence.",
+    "null": [
+      "Immune to subject agreement mutation."
+    ]
+  },
+  {
+    "word": "n̪ʷy",
+    "translation": "noun",
+    "pos": "moon",
+    "notes": "Front rounded vowel harmony group.",
+    "null": [
+      "",
+      "Monosyllabic noun."
+    ]
+  },
+  {
+    "word": "n̪ʷy.vʷø.bʼø",
+    "translation": "noun",
+    "pos": "song",
+    "notes": "Front rounded vowel harmony group.",
+    "null": [
+      "",
+      "The consonant /bʼ/ is inferred as the ejective counterpart to /b/."
+    ]
+  },
+  {
+    "word": "n̪ˤa.sˤa.mˤa",
+    "translation": "noun",
+    "pos": "sand",
+    "notes": "Back vowel harmony group (neutral /a/).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʷa",
+    "translation": "conjunction",
+    "pos": "or",
+    "notes": "Coordinate conjunction, joins noun phrases. Back vowel harmony group (neutral /a/).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʷa.t̠a",
+    "translation": "noun",
+    "pos": "father",
+    "notes": "Back vowel harmony group (neutral /a/).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "bʼa",
+    "translation": "verb",
+    "pos": "will build",
+    "notes": "Verb root √*ba*- 'to build'. Prospective aspect, subject agreement mutation unknown or irregular.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʼi.cʼe",
+    "translation": "verb",
+    "pos": "to cut",
+    "notes": "Stative verb root √*pʼicʼ*-. Front unrounded vowel harmony group. Imperfective form.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʼi.go",
+    "translation": "verb",
+    "pos": "having cut",
+    "notes": "Verb root √*pʼicʼ*- 'to cut'. Different-subject switch-reference form.",
+    "null": [
+      "Derived from `pʼicʼe`. The switch-reference suffix `-go` replaces the final CV `cʼe`.",
+      ""
+    ]
+  },
+  {
+    "word": "pʼi.li",
+    "translation": "verb",
+    "pos": "having cut",
+    "notes": "Verb root √*pʼicʼ*- 'to cut'. Same-subject switch-reference form.",
+    "null": [
+      "Derived from `pʼicʼe`. The switch-reference suffix `-li` replaces the final CV `cʼe`.",
+      ""
+    ]
+  },
+  {
+    "word": "pˤo.ʁʷa.t̪ˤu",
+    "translation": "noun",
+    "pos": "chief",
+    "notes": "Back vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pˤy.tʼy",
+    "translation": "verb",
+    "pos": "to be beautiful",
+    "notes": "Stative verb root √*pˤytʼ*-. Front rounded vowel harmony group. Imperfective form.",
+    "null": [
+      "",
+      "The ejective /tʼ/ is inferred from other lexicon items."
+    ]
+  },
+  {
+    "word": "qʷa.la",
+    "translation": "adverb",
+    "pos": "yesterday",
+    "notes": "Temporal adverb. Typically clause-initial.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "qʷo",
+    "translation": "pronoun",
+    "pos": "where",
+    "notes": "Interrogative pronoun. Used in-situ. Not marked for case.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "qʼa.ɴu",
+    "translation": "noun",
+    "pos": "water",
+    "notes": "Back vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "qʼe.ve",
+    "translation": "noun",
+    "pos": "blood",
+    "notes": "Front unrounded vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "qʼy",
+    "translation": "noun",
+    "pos": "meat",
+    "notes": "Front rounded vowel harmony group.",
+    "null": [
+      "",
+      "Monosyllabic noun."
+    ]
+  },
+  {
+    "word": "qˤu.lɤ",
+    "translation": "verb",
+    "pos": "to die",
+    "notes": "Verb root √*qˤul*-. Back vowel harmony group. Imperfective form.",
+    "null": [
+      "Denominal verb, derived from `qˤuχulˤu` (death) via an irregular apocope process.",
+      ""
+    ]
+  },
+  {
+    "word": "qˤu.χu.lˤu",
+    "translation": "noun",
+    "pos": "death",
+    "notes": "Back vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "sa-",
+    "translation": "prefix",
+    "pos": "reportative evidential marker",
+    "notes": "Evidential prefix. Indicates speaker was told about the event.",
+    "null": [
+      "Immune to subject agreement mutation."
+    ]
+  },
+  {
+    "word": "sʼo",
+    "translation": "pronoun",
+    "pos": "how",
+    "notes": "Interrogative pronoun. Used in-situ. Not marked for case.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t̠a-",
+    "translation": "prefix",
+    "pos": "direct evidential marker",
+    "notes": "Evidential prefix. Indicates speaker witnessed the event.",
+    "null": [
+      "Immune to subject agreement mutation."
+    ]
+  },
+  {
+    "word": "t̠a.la",
+    "translation": "adverb",
+    "pos": "tomorrow",
+    "notes": "Temporal adverb. Typically clause-initial.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t̠ʷu.qʷu",
+    "translation": "noun",
+    "pos": "sky",
+    "notes": "Back vowel harmony group.",
+    "null": [
+      "",
+      "Synonym for `kʼo`",
+      " perhaps with a more poetic or spiritual connotation."
+    ]
+  },
+  {
+    "word": "t̠ʼe",
+    "translation": "verb",
+    "pos": "to go",
+    "notes": "Verb root √*t̠ʼe*-. Front unrounded vowel harmony group. Imperfective form.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t̠ʼi.li",
+    "translation": "verb",
+    "pos": "to walk",
+    "notes": "Verb root √*t̠ʼil*-. Front unrounded vowel harmony group. Perfective form.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t̪ʷu.bʼu",
+    "translation": "verb",
+    "pos": "to be small",
+    "notes": "Stative verb root √*t̪ʷubʼ*-. Back vowel harmony group. Imperfective form.",
+    "null": [
+      "",
+      "The ejective /bʼ/ is inferred from other lexicon items."
+    ]
+  },
+  {
+    "word": "t̪ʷø.lʼy",
+    "translation": "verb",
+    "pos": "to sleep",
+    "notes": "Verb root √*t̪ʷølʼ*-. Front rounded vowel harmony group. Imperfective form.",
+    "null": [
+      "",
+      "The consonant /lʼ/ is an ejective lateral",
+      " which is not in the main phonology chart but its existence is inferred from this entry."
+    ]
+  },
+  {
+    "word": "t̪ˤa.n̪ˤa.bo",
+    "translation": "noun",
+    "pos": "stranger",
+    "notes": "Back vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t̪ˤo",
+    "translation": "particle",
+    "pos": "still",
+    "notes": "Temporal particle. Does not inflect.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "vʷø",
+    "translation": "adposition",
+    "pos": "for",
+    "notes": "Preposition introducing benefactive nouns (which take dative case). Front rounded vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "vʷø.ɲy",
+    "translation": "noun",
+    "pos": "bird",
+    "notes": "Front rounded vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "xɯ.mɯ",
+    "translation": "noun",
+    "pos": "mountain",
+    "notes": "Back vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "xɯ.mɯ",
+    "translation": "verb",
+    "pos": "to have been big",
+    "notes": "Stative verb root √*xɯm*-. Back vowel harmony group. Perfective form.",
+    "null": [
+      "Appears in example `hɯt̪qu bʷo xɯmju` (the man's big house), derived from this perfective form `xɯmɯ` + relative suffix `-ju`.",
+      ""
+    ]
+  },
+  {
+    "word": "xʷa.so",
+    "translation": "noun",
+    "pos": "wind",
+    "notes": "Back vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ze",
+    "translation": "conjunction",
+    "pos": "and",
+    "notes": "Coordinate conjunction, joins noun phrases. Front unrounded vowel harmony group.",
+    "null": [
+      "This word violates the phonotactic rule that /z/ does not appear before front vowels (it should be /ʒe/). This is likely due to its high frequency as a grammatical word.",
+      ""
+    ]
+  },
+  {
+    "word": "çʷe.ɲe",
+    "translation": "noun",
+    "pos": "mother",
+    "notes": "Front unrounded vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ðˤa.ɢˤa",
+    "translation": "noun",
+    "pos": "fire",
+    "notes": "Back vowel harmony group (neutral /a/).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ħi.bi",
+    "translation": "verb",
+    "pos": "to live",
+    "notes": "Verb root √*ħib*-. Front unrounded vowel harmony group. Perfective form is citation form, an irregularity.",
+    "null": [
+      "",
+      "Irregular verb; citation form is perfective /ħibi/ instead of imperfective */ħibe/."
+    ]
+  },
+  {
+    "word": "ħo.ʕo",
+    "translation": "noun",
+    "pos": "tree",
+    "notes": "Back vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ŋʷa.kʷʼa",
+    "translation": "noun",
+    "pos": "name",
+    "notes": "Back vowel harmony group (neutral /a/).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ǀgɯ.qɤ.ɴʷɯ",
+    "translation": "noun",
+    "pos": "river",
+    "notes": "Back vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ǀgʷa.ʁʷa.t̠ʷa",
+    "translation": "noun",
+    "pos": "journey",
+    "notes": "Back vowel harmony group (neutral /a/).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ǀkʷʼu.mˤu.ŋu",
+    "translation": "noun",
+    "pos": "word",
+    "notes": "Back vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ǂgø.cʼø",
+    "translation": "verb",
+    "pos": "to say",
+    "notes": "Verb root √*ǂgøcʼ*-. Front rounded vowel harmony group. Imperfective form.",
+    "null": [
+      "",
+      "A more common verb for 'to say' than `ǂgøcʼøjʼø` (to speak)."
+    ]
+  },
+  {
+    "word": "ǂgø.cʼø.jʼø",
+    "translation": "verb",
+    "pos": "to speak",
+    "notes": "Verb root √*ǂgøcʼjʼ*-. Front rounded vowel harmony group. Imperfective form.",
+    "null": [
+      "The ejective /jʼ/ is not in the phonology chart but is inferred. The longer form is perhaps more formal or specific than `ǂgøcʼø`.",
+      ""
+    ]
+  },
+  {
+    "word": "ǂkˤʼa.bˤa.zˤa",
+    "translation": "noun",
+    "pos": "dream",
+    "notes": "Back vowel harmony group (neutral /a/).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ǃgʷu.bʷa.su",
+    "translation": "noun",
+    "pos": "two",
+    "notes": "Back vowel harmony group.",
+    "null": [
+      "Numeral. Follows the noun."
+    ]
+  },
+  {
+    "word": "ǃgʷu.bʷa.su-χʷo",
+    "translation": "compound numeral",
+    "pos": "three",
+    "notes": "Back vowel harmony group. Numeral, follows the noun.",
+    "null": [
+      "Derived from `ǃgʷubʷasu` (two) and `χʷo` (one), literally 'two-one'.",
+      ""
+    ]
+  },
+  {
+    "word": "ǃkʼa.t̠ʼa",
+    "translation": "noun",
+    "pos": "lightning",
+    "notes": "Back vowel harmony group (neutral /a/).",
+    "null": [
+      "",
+      "Features a click and an ejective",
+      " typical for less common content words."
+    ]
+  },
+  {
+    "word": "ɟe",
+    "translation": "pronoun",
+    "pos": "who",
+    "notes": "Interrogative pronoun. Used in-situ. Not marked for case.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɢa",
+    "translation": "pronoun",
+    "pos": "what",
+    "notes": "Interrogative pronoun. Used in-situ. Not marked for case.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɢe",
+    "translation": "adposition",
+    "pos": "under",
+    "notes": "Preposition. Front unrounded vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɣa.t̪a",
+    "translation": "noun",
+    "pos": "path",
+    "notes": "Back vowel harmony group (neutral /a/).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ʃi.ɟe",
+    "translation": "noun",
+    "pos": "person",
+    "notes": "Front unrounded vowel harmony group.",
+    "null": [
+      "Plural form `ʃiɟe-ʃiɟe` means 'four or more people'.",
+      ""
+    ]
+  },
+  {
+    "word": "ʒe",
+    "translation": "adverb",
+    "pos": "always",
+    "notes": "Temporal adverb. Front unrounded vowel harmony group. Initial /ʒ/ is phonotactically regular before a front vowel.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ʒo",
+    "translation": "particle",
+    "pos": "now",
+    "notes": "Temporal particle. Does not inflect.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ʔa",
+    "translation": "adposition",
+    "pos": "by, to",
+    "notes": "Preposition used to introduce the demoted agent in an instrumental-fronted sentence. Vowel /a/ is neutral in harmony.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ʔi",
+    "translation": "pronoun",
+    "pos": "I/me",
+    "notes": "Emphatic 1st person singular pronoun. Front unrounded vowel harmony group.",
+    "null": [
+      "",
+      "Used for emphasis or contrast."
+    ]
+  },
+  {
+    "word": "ʘkʼe.be.t̪e",
+    "translation": "noun",
+    "pos": "insect",
+    "notes": "Front unrounded vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "θʷø.jy.ly",
+    "translation": "noun",
+    "pos": "flower",
+    "notes": "Front rounded vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "χʷo",
+    "translation": "numeral",
+    "pos": "one",
+    "notes": "Back vowel harmony group. Numeral",
+    "null": [
+      " follows the noun.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "χʷo.d̪ʷo.ɢo.t̪o",
+    "translation": "noun",
+    "pos": "king",
+    "notes": "Back vowel harmony group.",
+    "null": [
+      "",
+      ""
+    ]
+  }
+]

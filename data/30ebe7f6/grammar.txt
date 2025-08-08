@@ -1,0 +1,230 @@
+# Grammar
+
+## Morphology
+
+The morphology is moderately synthetic and exhibits a mix of agglutinative and fusional characteristics. It is a predominantly head-marking language. Most grammatical relationships are marked on the head of a phrase (e.g., verbs, possessed nouns, postpositions) rather than on their dependents.
+
+### Nouns
+
+Nouns are not marked for case or number. These concepts are either inferred from context or marked on the verb. Nouns must adhere to the language's strict front/back vowel harmony, meaning a noun root contains either all front vowels (/i, y, e, ø/) or all back vowels (/u, o, ɑ/). Neutral vowels (/a, ə/) can co-occur with vowels from either set.
+
+### Pronouns
+
+The language has a closed class of personal pronouns that are obligatory for all core arguments (no pro-drop). These pronouns are phonologically simple, often consisting of a single heavy syllable, and are primarily distinguished by their vowel quality and pitch accent placement, though toneless forms exist. They do not decline for case and follow the language's vowel harmony rules.
+
+|                 | Singular  | Plural |
+| :-------------- | :-------- | :----- |
+| **1st Person**  | /ˈá/      | /ˈɑ́u̯/  |
+| **2nd Person**  | /ˈə́e̯/     | /əi̯/   |
+| **3rd Person Animate** | /ˈyé/    | /ˈíe̯/  |
+| **3rd Person Inanimate** | /u.ˈóu̯/   | /ɑu̯.ˈóu̯/ |
+
+The 2nd person plural pronoun /əi̯/ is toneless. Unlike other heavy syllables, this toneless pronoun is prosodically weak and does not attract stress.
+
+Since pronouns are mandatory, a typical transitive sentence includes a subject pronoun, an object pronoun, and a verb that cross-references both.
+
+*   /ˈá/ /a-**ɑ.o.**-ɑ-**úu̯**-óu̯/ /ˈə́e̯/
+*   `1.PRO` 1.SUBJ-see-2.OBJ-PFV-DIRECT `2.PRO`
+*   "I saw you."
+
+### Verbs
+
+The verbal system is highly complex and is the grammatical core of the language, marking for a wide range of categories. Verbs are the locus of grammatical marking in the clause, cross-referencing their core arguments. The verb root is the lexical core to which affixes are added, typically consisting of one or two syllables (e.g., /ɑ.o/ 'see', /e.y.i/ 'give').
+
+#### Argument Marking & Valency
+
+Verbs use a series of fusional prefixes and infixes to mark the person and animacy of their subject (A/S) and object (P). These affixes do not distinguish number. This marking follows a nominative-accusative pattern. The prefixes are exempt from vowel harmony.
+
+**Subject Prefixes:**
+
+*   `a-`: 1st person subject
+*   `ə-`: 2nd person subject
+*   `u-`: 3rd person animate subject
+*   `i-`: 3rd person inanimate subject
+
+**Object Infixes:**
+The object marker is infixed after the first syllable of the verb root. For monosyllabic roots, the object marker is suffixed directly to the root before any TAME suffixes are added. For roots of three or more syllables, the infix is inserted between the first and second syllables of the root.
+
+*   `-o-`: 1st person object
+*   `-ɑ-`: 2nd person object
+*   `-e-`: 3rd person animate object
+*   `-y-`: 3rd person inanimate object
+
+The verb's affix system reflects its valency:
+
+*   **Intransitive Verbs:** Use only the subject prefix. The object infix slot is absent.
+    *   /u-**i.é**-óy̯/
+    *   3AN.SUBJ-walk-DIRECT
+    *   "He/she is walking."
+
+*   **Transitive Verbs:** Use a subject prefix and an object infix.
+    *   *a-**ɑ.o.**-ɑ-**úu̯**-óu̯*
+    *   1.SUBJ-see-2.OBJ-PFV-DIRECT
+    *   "I have seen you."
+    *   *i-**e.y.**-y-**óy̯***
+    *   3INAN.SUBJ-touch-3INAN.OBJ-DIRECT
+    *   "It (e.g., the rain) touches it (e.g., the roof)."
+
+*   **Ditransitive Verbs:** These verbs (e.g., 'give', 'show', 'tell') use the standard subject prefix and object infix for the primary object (P). The secondary object (the recipient or goal) is expressed via an oblique phrase using a postposition.
+    *   /á/ /a-**e.y.i**-y-**é.y**-óy̯/ /u.ˈóu̯/ /ˈyé/ /əi̯.é/
+    *   `1.PRO` 1.SUBJ-give-3INAN.OBJ-PST-DIRECT `3INAN.PRO` `3AN.PRO` `DAT`-3AN.AGR
+    *   "I gave it to him."
+
+#### Tense, Aspect, Mood, and Evidentiality (TAME)
+
+Verbs are marked for a rich set of TAME categories through agglutinative suffixes that follow vowel harmony. The suffixes are added in a fixed order: `ROOT-(TENSE)-(ASPECT)-(EVIDENTIAL/MOOD)`. A verb can take up to one suffix from each of the Tense, Aspect, and Evidential/Mood categories, in that fixed order. Each suffix has a back-vowel and a front-vowel allomorph.
+
+| Category    | Back Allomorph | Front Allomorph | Gloss         |
+| :---------- | :------------- | :-------------- | :------------ |
+| **Tense**   | `-ɑ́.u`          | `-é.y`           | Past          |
+|             | `-ó.e`          | `-é.i`           | Future        |
+| **Aspect**  | `-úu̯`          | `-ýy`           | Perfective    |
+|             | `-í.ɑ`         | `-í.e`          | Imperfective  |
+| **Mood**    | `-ú.i`         | `-ý.i`          | Potential     |
+| **Evidential** | `-óu̯`          | `-óy̯`           | Direct        |
+|             | `-á.o`         | `-æ.ø`          | Inferential   |
+|             | `-ó.y`         | `-é.y`          | Reported      |
+
+An unmarked verb (with only an evidential suffix) is interpreted as a present, realis statement.
+
+*   *u-**ɑ.o.**-e-**úu̯-æ.o***
+*   3AN.SUBJ-see-3AN.OBJ-PFV-INFER
+*   "He must have seen her." (I infer this from evidence)
+
+**Evidentiality-Mood Interaction:** Evidentiality is the only obligatory verbal suffix category. However, when a mood suffix is added, it *replaces* the evidential suffix. A speaker must choose between stating *how they know* something (evidentiality) or stating *how likely* it is (mood).
+
+*   **Evidential (Default):**
+    *   /u-**ɑ.o.**-e-**óu̯**/
+    *   3AN.SUBJ-see-3AN.OBJ-DIRECT
+    *   "He sees her." (A directly witnessed fact).
+
+*   **Mood (Overrides Evidential):**
+    *   /u-**ɑ.o.**-e-**ú.i**/
+    *   3AN.SUBJ-see-3AN.OBJ-POT
+    *   "He might see her." (A possibility; the source of this speculation is irrelevant).
+
+### Postpositions
+
+The language exclusively uses postpositions. As head-marking applies here, the postposition itself is inflected to agree with the person and animacy of the noun it modifies. The noun itself remains a bare root. The agreement suffix is added to the postposition root, forming a new syllable which receives a high tone.
+
+**Postposition Roots:**
+
+*   `/ái̯/` - Locative (`at`, `in`, `on`)
+*   `/əi̯/` - Dative/Benefactive (`to`, `for`)
+*   `/óu̯/` - Instrumental (`with`, `by means of`)
+*   `/úu̯/` - Comitative (`together with`)
+*   `/ɑ́.i/` - Ablative (`from`)
+
+**Agreement Suffixes:**
+The agreement suffixes do not distinguish number. The 2nd person suffix `-ɑ́` is always toned, regardless of the properties of the 2nd person pronoun.
+
+*   `-ó`: 1st person
+*   `-ɑ́`: 2nd person
+*   `-é`: 3rd person animate
+*   `-ý`: 3rd person inanimate
+
+**Examples:**
+
+*   /ˈyéø̯/ **/ái̯.ý/**
+*   house `LOC`-3INAN.AGR
+*   "at the house"
+*   /u.ˈó.ɑ/ **/ái̯.ý/**
+*   water `LOC`-3INAN.AGR
+*   "in the water"
+*   /ɑ.o.úu̯/ **/óu̯.ɑ́/**
+*   child `INSTR`-2.AGR
+*   "with your child"
+
+## Syntax
+
+### Basic Word Order
+
+The constituent word order is free and pragmatically determined. The order of subject, object, and verb depends on information structure (e.g., topic and focus). The default, pragmatically neutral order is SVO. Focus is typically marked by fronting the focused constituent and applying main phrasal stress.
+
+*   *ˈá/ /a-**ɑ.o.**-e-**úu̯-óu̯** /ˈyé/*
+*   `1.PRO` 1.SUBJ-see-3AN.OBJ-PFV-DIRECT `3AN.PRO`
+*   "I saw him." (SVO, neutral)
+*   *ˈyé/ /a-**ɑ.o.**-e-**úu̯-óu̯** /ˈá/*
+*   `3AN.PRO` 1.SUBJ-see-3AN.OBJ-PFV-DIRECT `1.PRO`
+*   "HIM, I saw." (OVS, object is focused)
+
+### Question Formation
+
+The language has no question words or particles. Questions are formed through prosodic and syntactic manipulation.
+
+#### Yes/No Questions
+
+Yes/No questions are formed by inverting the word's stress and pitch accent. The high tone moves to the first syllable of the verb's lexical root, and the main stress moves to the first syllable of the entire verbal complex (i.e., the subject prefix).
+
+*   **Statement:**
+    *   /u-ɑ.o.-e-**úu̯-óu̯**/
+    *   3AN.SUBJ-see-3AN.OBJ-PFV-DIRECT
+    *   "He has seen her."
+*   **Question:**
+    *   /ˈu.ɑ́.o-e-uu̯-ou̯/
+    *   3AN.SUBJ-see-3AN.OBJ-PFV-DIRECT.`Q`
+    *   "Has he seen her?"
+
+#### Content Questions (WH-Questions)
+
+Content questions are formed using a special "interrogative verb root," **/ə.y.á.ø/**, which means roughly "to do what" or "to be what." This verb replaces the constituent being questioned. The pronoun for the questioned element is often fronted for focus.
+
+*   **Questioning the Object:**
+    *   /ˈyé/ /ə-**ə.y.á.ø**-e-óy̯/
+    *   `3AN.PRO` 2.SUBJ-`INTERROG.ROOT`-3AN.OBJ-DIRECT
+    *   "What did you do to him?" or "Whom did you affect?"
+*   **Questioning the Subject:** This structure uses the interrogative verb with a 3rd person subject prefix to stand in for the unknown agent.
+    *   /u-**ə.y.á.ø**-e-óy̯/ /ˈyé/
+    *   3AN.SUBJ-`INTERROG.ROOT`-3AN.OBJ-DIRECT `3AN.PRO`
+    *   "Who did something to him?" (Literally: "An unknown someone did-what-to him?")
+
+### Negation
+
+Negation is marked by a pre-verbal particle, **/ə/**. This toneless particle is placed immediately before the verb complex and does not affect vowel harmony.
+
+*   /á/ **/ə/** /a-ɑ.o.-e-óu̯/ /ˈyé/
+*   `1.PRO` `NEG` 1.SUBJ-see-3AN.OBJ-DIRECT `3AN.PRO`
+*   "I do not see him."
+
+### Noun Phrase Structure
+
+#### Adjectives
+
+Adjectives precede the nouns they modify. They are a distinct word class and must belong to the same harmonic class (front or back) as the noun.
+
+*   *əi̯.ˈyé /ˈyéø̯/*
+*   big house (Both words use front vowels)
+*   *ɑu̯.ˈóu̯ /ɑ.o.úu̯/*
+*   small child (Both words use back vowels)
+
+#### Genitives
+
+The possessor precedes the possessed noun (`Genitive-Noun`). In accordance with the head-marking principle, the possessor is a bare, unmarked noun. The possessed noun (the head) is marked with a prefix indicating the person/animacy of the possessor. The noun roots of the possessor and possessed do not need to share the same vowel harmony class.
+
+**Possessor Prefixes on Nouns:**
+
+*   `a-`: 1st person possessor
+*   `ə-`: 2nd person possessor
+*   `u-`: 3rd person animate possessor
+*   `i-`: 3rd person inanimate possessor
+
+These prefixes are exempt from the language's vowel harmony rules.
+
+**Examples:**
+
+*   /ˈyéø̯/ *i-**ɑ.o.úu̯***
+*   house 3INAN.POSS-child
+*   "the house's child"
+*   */ɑ.o.úu̯/ u-**e.y.é***
+*   child 3AN.POSS-leaf
+*   "the child's leaf"
+
+### Subordinate Clauses
+
+The language uses nominalization as its primary strategy for subordination. Verbs in subordinate clauses are transformed into noun-like structures by replacing their TAME/evidential suffixes with a harmonically neutral nominalizing suffix, **-a**. This nominalized verb can then function as an argument of the main verb.
+
+*   **Combined Sentence:** "I know that he saw her."
+*   /á/ /a-**ɑ.u.o.**-y-óu̯/ [/u-ɑ.o.-e-a/]/
+*   `1.PRO` 1.SUBJ-know-3INAN.OBJ-DIRECT [`3AN.SUBJ-see-3AN.OBJ-NMLZ`]
+*   "I know his-seeing-of-her."
+*   The entire nominalized clause `[u-ɑ.o.-e-a]` acts as the inanimate object of the verb "know" (/ɑ.u.o/).

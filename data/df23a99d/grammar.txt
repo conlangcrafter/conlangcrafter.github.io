@@ -1,0 +1,180 @@
+# Grammar
+
+## Morphology
+
+The language is highly **analytic**, with most grammatical concepts expressed through independent function words. The primary morphological process, apart from noun compounding, is the affixation of case markers onto noun classifiers and pronouns.
+
+### Noun Compounding
+Two noun roots can be joined to create a new noun, with the first noun modifying the second (the head). This process involves two phonological changes:
+
+*   **Tonal Interaction:** All tones on all syllables of the first noun are neutralized to a high tone, while the second noun retains its lexical tone. This signals the compound's status as a single lexical unit.
+*   **Vowel Harmony:** The resulting compound must obey vowel harmony. If the two root words belong to different harmony sets (front vs. back/central), the vowels of the *first* noun assimilate to match the backness of the *second* (head) noun. The front vowels /i, e/ assimilate to their back/central counterparts /u, ə/ respectively. Assimilation is unidirectional; if the first noun has back/central vowels and the second has front vowels, the compound cannot be formed.
+
+*   *Example 1: Noun + Noun Compound*
+    *   Root 1: /tʼúkʼ/ (rock) [back vowel]
+    *   Root 2: /qáχ/ (house, shelter) [back vowel]
+    *   Compound: /tʼúk.qáχ/ (stone-house, cave)
+        *   Gloss: `rock-house`
+
+*   *Example 2: Compounding with Harmony Shift*
+    *   Root 1: /xé.tʼè/ (animal, beast) [front vowels]
+    *   Root 2: /qʼó.tǎ/ (master, owner) [back vowels]
+    *   Compound: /xə́.tʼə́.qʼó.tǎ/ (pet-owner, master of beasts)
+        *   Gloss: `beast-master`
+
+### Noun Class System and Case Marking
+The language is **dependent-marking** and features a complex **noun class system** with over a dozen semantic classes, distinguished by classifier proclitics. These classifiers precede the noun and are the primary locus of case marking, changing form to indicate the noun's role while the noun root remains invariant. The classes are based on categories like animacy, shape, substance, and social function.
+
+*   **Classifier System:**
+    *   `kʼîx`: class for humans, deities
+    *   `tʼě`: class for non-human animals
+    *   `qô`: class for tools, implements
+    *   `ɡâ.tʼə́`: class for abstract concepts, speech
+
+The classifier is marked with a case suffix.
+
+| Case | Suffix | Function |
+| :--- | :--- | :--- |
+| **Absolutive/Nominative** | -Ø (unmarked) | Marks S (intransitive subject) and P (transitive patient) in the imperfective; S and A (transitive agent) in the perfective. |
+| **Ergative/Accusative** | `-tə́` | Marks A in the imperfective; P in the perfective. The tone is always high. This suffix is syncretic, realizing the accusative case in the perfective aspect and the ergative case in the imperfective aspect. |
+| **Genitive** | `-nô` | Marks possession. The possessed noun follows the possessor. The tone is always falling. |
+| **Dative/Benefactive** | `-kʼé` | Marks the recipient or beneficiary of an action. The tone is always high. |
+| **Locative** | `-qʼǔ` | Marks location (in, on, at). The tone is always rising. |
+| **Instrumental** | `-χǎ` | Marks the instrument or means by which an action is performed. The tone is always rising. |
+
+*   *Example of Genitive Case:*
+    *   `kʼîx.nô` `ŋá.qʼa.nô` `qô` `qáχ`
+    *   GEN.CL:human Ngano CL:tool house
+    *   "Ngano's house."
+
+*   *Example of Dative Case:*
+    *   `tə` `ŋo` `qʼó.qʼa` `kʼîx` `ŋá.qʼa.nô` `qô.tə́` `tʼúkʼ` `tʼě-kʼé` `xé.tʼè`
+    *   PST PFV give CL:human Ngano ACC.CL:tool rock DAT.CL:animal beast
+    *   "Ngano gave the rock to the beast."
+
+*   *Example of Instrumental Case:*
+    *   `xə` `kʼú.χaɴ` `kʼîx.tə́` `ŋá.qʼa.nô` `qô` `qáχ` `qô-χǎ` `tʼúkʼ`
+    *   IPFV build ERG.CL:human Ngano CL:tool house INS.CL:tool rock
+    *   "Ngano is building the house with a rock."
+
+### Pronouns and Anaphora
+The language has a set of independent personal pronouns, but due to **radical pro-drop**, they are used primarily for emphasis, contrast, or to resolve ambiguity. Any argument can be omitted if recoverable from context. Third-person pronouns are identical in form to specific noun classifiers; the distinction is primarily syntactic and contextual, as they are used without a following noun.
+
+*   `kʼîx`: "he/she/they" (human, 3rd person)
+*   `tʼě`: "it" (non-human animal, 3rd person)
+*   `qô`: "it" (inanimate object/tool, 3rd person)
+*   `tʼi.kʼé.tʼe`: "I / we" (1st person)
+*   `kʼé.nê`: "you" (2nd person)
+
+These pronouns are marked for case just like classifiers. The distinction between a third-person pronoun and a classifier used without a noun may be indicated by prosodic emphasis; there is no difference in the syntactic structure.
+
+*   *Example of Pro-drop:*
+    *   `tə` `ŋo` `tə.ŋô` `qô.tə́` `tʼúkʼ`
+    *   PST PFV see ACC.CL:tool rock
+    *   "(He/She/They) saw the rock."
+
+*   *Example of Emphatic Pronoun Use:*
+    *   `xə` `xé.tʼě` `tʼi.kʼé.tʼe-tə́` `qô` `tʼúkʼ`
+    *   IPFV find ERG.1 CL:tool rock
+    *   "***I*** *am finding the rock (not someone else).*"
+
+*   *Example of Pro-drop vs. Explicit Pronoun:*
+    *   `tə` `ŋo` `tə.ŋô` `qô-tə́`
+    *   PST PFV see ACC.CL:tool
+    *   "(She) saw it."
+    *
+    *   `tə` `ŋo` `tə.ŋô` `kʼîx` `qô-tə́`
+    *   PST PFV see 3.H ACC.CL:tool
+    *   "***She*** *saw it.*"
+
+## Syntax
+
+The basic constituent order is **Verb-Subject-Object (VSO)**. Other arguments, such as indirect objects and adjuncts, follow the direct object.
+
+*   `tə` `ŋo` `tə.ŋô` `kʼîx` `ŋá.qʼa.nô` `qô.tə́` `tʼúkʼ`
+*   PST PFV see CL:human Ngano ACC.CL:tool rock
+*   "Ngano saw the rock."
+
+### TAM (Tense-Aspect-Mood) System
+Verbs have minimal TAM marking. Tense, aspect, and mood are indicated by a series of pre-verbal particles that appear in a strict order: **(NEG) - (MOOD) - (TENSE) - (ASPECT) - VERB**. TAM particles are required in all finite main clauses. Subordinate clauses, such as those introduced by the relativizer `qə̂` or the converbial particle `kʼe`, do not take this particle string.
+
+| Slot | Particle | Meaning |
+| :--- | :--- | :--- |
+| **Negation** | `kʼi` | not |
+| **Mood** | `tʼa` | Interrogative (Yes/No) |
+| | `ɡe` | Irrealis (hypotheticals, conditionals) |
+| **Tense** | `tə` | Past |
+| | `na` | Future |
+| | -Ø- | Present (unmarked) |
+| **Aspect** | `ŋo` | Perfective (triggers Nom-Acc alignment) |
+| | `xə` | Imperfective (triggers Erg-Abs alignment) |
+
+Some high-frequency TENSE/ASPECT + VERB combinations contract. For example, `tə.ŋô` (see.PST) can be an analysis of `tə` (PST) + `ŋo` (PFV) + a verb root for 'see'.
+
+*   *Example of a complex pre-verbal string:*
+    *   `kʼi` `ɡe` `na` `xə` `qʼó.qʼa` `kʼé.nê-tə́` `ɡâ.tʼə́` `ɡə.xâ.tʼu`
+    *   NEG IRR FUT IPFV know ERG.2 CL:abstract truth
+    *   "You would not be going to know the truth."
+
+### Split-Ergativity
+The language exhibits **split-ergativity** conditioned by aspect. This distinction governs the morphosyntactic alignment of the entire clause.
+
+*   In the **perfective aspect** (`ŋo`), it uses **nominative-accusative** alignment. The agent of a transitive verb (A) and the single argument of an intransitive verb (S) are both in the nominative case (unmarked classifier), while the patient of a transitive verb (P) is in the accusative case (`-tə́`). In a ditransitive clause, the agent (A) is nominative, the theme/patient (P) is accusative, and the recipient is dative.
+*   In the **imperfective aspect** (`xə`), it uses **ergative-absolutive** alignment. The agent of a transitive verb (A) is in the ergative case (`-tə́`), while the patient (P) and the intransitive argument (S) are both in the absolutive case (unmarked classifier).
+
+*   **Nominative-Accusative (Perfective):**
+    *   `tə` `ŋo` `tə.ŋô` `kʼîx` `ŋá.qʼa.nô`
+    *   PST PFV leave CL:human Ngano
+    *   "Ngano (S) left." (Nominative)
+    *   `tə` `ŋo` `tə.ŋô` `kʼîx` `ŋá.qʼa.nô` `qô.tə́` `tʼúkʼ`
+    *   PST PFV see CL:human Ngano ACC.CL:tool rock
+    *   "Ngano (A) saw the rock (P)." (A is Nominative, P is Accusative)
+
+*   **Ergative-Absolutive (Imperfective):**
+    *   `xə` `xé.tʼě` `kʼîx` `ŋá.qʼa.nô`
+    *   IPFV walk CL:human Ngano
+    *   "Ngano (S) is walking." (Absolutive)
+    *   `xə` `xé.tʼě` `kʼîx.tə́` `ŋá.qʼa.nô` `qô` `tʼúkʼ`
+    *   IPFV find ERG.CL:human Ngano CL:tool rock
+    *   "Ngano (A) is finding the rock (P)." (A is Ergative, P is Absolutive)
+
+### Question Formation
+*   **Yes/No Questions:** Formed by adding the interrogative mood particle `tʼa` at the beginning of the pre-verbal particle string.
+    *   `tʼa` `tə` `ŋo` `tə.ŋô` `kʼîx` `ŋá.qʼa.nô` `qô.tə́` `tʼúkʼ`
+    *   Q PST PFV see CL:human Ngano ACC.CL:tool rock
+    *   "Did Ngano see the rock?"
+
+*   **Content Questions (Wh-questions):** Formed using question words which are fronted to the beginning of the clause, preceding the verb complex.
+    *   **Question Words:** `ŋa` (who/what-animate), `qʼa` (what-inanimate), `kʼo` (where), `tʼo` (when), `xo` (why/how).
+    *   *Example:*
+        *   `qʼa` `tə` `ŋo` `tə.ŋô` `kʼîx` `ŋá.qʼa.nô`
+        *   what PST PFV see CL:human Ngano
+        *   "What did Ngano see?"
+
+### Adjectival Modification
+Adjectives function as stative verbs and must follow the noun they modify, creating a relative clause-like structure introduced by the relativizing particle `qə̂`.
+
+*   **Formal/Emphatic Structure:** The noun being modified can appear twice: first as the head of the main clause, and again as the subject of the adjectival (stative verb) clause.
+    *   `tə` `ŋo` `tə.ŋô` `kʼîx` `ŋá.qʼa.nô` `qô.tə́` `tʼúkʼ` `qə̂` `kʼú.χaɴ` `qô` `tʼúkʼ`
+    *   PST PFV see CL:human Ngano ACC.CL:tool rock REL be.big CL:tool rock
+    *   "Ngano saw the rock that is big." (lit: "Ngano saw the rock, which the rock is big.")
+
+*   **Common Structure:** The repeated noun in the relative clause is commonly dropped, while its classifier remains as a resumptive element.
+    *   `tə` `ŋo` `tə.ŋô` `kʼîx` `ŋá.qʼa.nô` `qô.tə́` `tʼúkʼ` `qə̂` `kʼú.χaɴ` `qô`
+    *   PST PFV see CL:human Ngano ACC.CL:tool rock REL be.big CL:tool
+    *   "Ngano saw the big rock." (lit: "Ngano saw the rock, which is big it-classifier.")
+
+### Subordination
+The language uses two distinct strategies for subordination.
+
+*   **Nominalization for Clausal Arguments:** To subordinate a clause that functions as an argument (e.g., a direct object), the entire clause is nominalized by placing it after a head noun like `ɡâ.tʼə́` (concept, fact). The head noun and its classifier take the case appropriate for their role in the main clause.
+    *   `xə` `qʼó.qʼa` `tʼi.kʼé.tʼe-tə́` `ɡâ.tʼə́` [`tə` `ŋo` `tə.ŋô` `kʼîx` `ŋá.qʼa.nô`]
+    *   IPFV know ERG.1 ABS.CL:abstract [PST PFV leave CL:human Ngano]
+    *   "I know the fact that Ngano left." (Here, `ɡâ.tʼə́` is the patient of an imperfective verb and is thus in the absolutive case.)
+
+*   **Evidential Clause Chaining for Adverbial Clauses:** Adverbial clauses ("when," "after," "because") are formed through a unique system of evidential clause chaining. A special set of subordinating verbs takes the main clause as its subject. The verb of the subordinate clause is marked with a special converbial particle `kʼe` instead of a TAM particle. This system also encodes evidentiality.
+    *   **Subordinating Verbs:** `qʼu.ŋó.tʼa.qâ` (to happen after/direct evidence), `tʼe.xî.kʼe.nê` (to happen during/sensory evidence), `ɡə.xâ.tʼu` (to be the reason for/inferred evidence).
+    *   *Example:*
+        *   `qʼu.ŋó.tʼa.qâ` [`kʼe` `xé.tʼě` `kʼîx` `ŋá.qʼa.nô`] `tə` `ŋo` `tə.ŋô` `tʼě` `xé.tʼè`
+        *   happen.after [CONV walk CL:human Ngano] PST PFV see CL:animal beast
+        *   "After Ngano walked, he saw a beast." (with an evidential implication of direct witness).

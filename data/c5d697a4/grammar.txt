@@ -1,0 +1,185 @@
+# Grammar
+
+## Morphology
+
+The language is highly fusional and polysynthetic. Grammatical information is concentrated on the predicate. In verbal clauses, this is the verb (exclusively head-marking), while in verbless constructions, this role is filled by a predicating particle. Nouns and adjectives are morphologically invariant and do not decline for case or number. The predicate is the morphological and syntactic core of the clause, often standing alone as a complete sentence.
+
+Verbal morphology is built around a root, to which a series of highly fused prefixes and suffixes are added. A single affix can simultaneously encode multiple categories. The language follows an ergative-absolutive alignment, which is reflected in its verbal affixation. In intransitive clauses, the single argument (subject) is marked with the absolutive case (a split-S system).
+
+### Verbal Pronominal Affixation
+
+The verb must be marked with pronominal affixes. The system is governed by an **inverse alignment** based on a person hierarchy: **2nd person > 1st person > 3rd person proximate > 3rd person obviative**.
+
+In a direct voice construction, where a higher-ranked agent acts on a lower-ranked patient, the verb is marked with a prefix that refers to the ergative argument (the agent) and a suffix that refers to the absolutive argument (the patient). In 3rd-on-3rd person actions, a fused suffix is used. The basic form is *-vɔ*, but this can be combined with other markers like tense and volitionality to form more complex, fused affixes like *-nɛvɔ-* (VOL.PST.3>3).
+
+*   **Example of direct voice (1SG.ERG > 3SG.ABS):**
+    *   *Qɔla kiʂeːbuna.*
+    *   /ki-ʂeːbu-na/
+    *   1SG.ERG-see.PFV-3SG.ABS
+    *   "I see a star."
+
+In an inverse voice construction, where a lower-ranked agent acts on a higher-ranked patient, an **inverse** prefix is added to the verb, and a suffix marks only the lower-ranked ergative agent. The higher-ranked patient (which is syntactically absolutive) receives no overt pronominal marking on the verb; its identity is inferred from the inverse marking, the person-marking on the agent, and the context. The inverse prefix *mo-* has an allomorph *ma-* that is selected based on the phonology of the following verb root; *ma-* is used before roots beginning with certain consonants, including /h/ and /ʂ/.
+
+*   **Example of inverse voice (3SG.ERG > 1SG.ABS):**
+    *   *Maʂeːbuma.*
+    *   /ma-ʂeːbu-ma/
+    *   INV-see.PFV-3SG.ERG
+    *   "He sees me." (Literally: "By-him is-seen me.")
+
+### Noun Incorporation and Semantic Drift
+
+A key feature is extensive noun incorporation. Noun roots can be integrated directly into the verb stem, creating a single, complex verb. Incorporated nouns satisfy the verb's internal (patient/theme) role, making the verb syntactically intransitive. It can therefore take only one external argument (the subject), whose absolutive case is marked on the verb. This process often results in semantic drift, where the new verb's meaning is more specific or idiomatic than the sum of its parts. Adjectival verb roots can also be incorporated alongside the noun root, typically between the noun root and the main verb root, to modify the incorporated noun.
+
+*   **Example of simple incorporation (intransitive):**
+    *   *Haʂeːbuqɔlaʁuɢuː.*
+    *   /haʂeːbu-qɔla-ʁuɢuː/
+    *   see-star-IPFV.3SG.ABS
+    *   "He is star-gazing." (Literally: "He is star-seeing.")
+
+*   **Example of incorporation with semantic drift (intransitive):**
+    *   *Lomano t̪iːd̪avɔd̪iːlɛpo.*
+    *   /lomano t̪iːd̪a-vɔd̪iːlɛ-po/
+    *   man(ABS) house-leave.PFV-INFERRED.DISTAL
+    *   "The man must have abandoned his home (over there)." (Incorporating `t̪iːd̪a` "house" into the verb "to leave" creates the specific meaning "to abandon one's home.")
+
+### Allomorphy and Vowel Harmony
+
+The language's fusional nature leads to a complex system of allomorphy. Affixes often have multiple forms that are selected based on the phonological properties (e.g., front vs. back vowels) of the preceding syllable, creating a form of vowel harmony. The choice between allomorphs (e.g., one with a palatal/alveolar consonant and front vowel vs. one with a uvular/velar consonant and back vowel) is determined by the vowel quality of the verb stem. When a suffix is added to a vowel-final stem, the vowel of the suffix replaces the stem-final vowel.
+
+*   **Example of allomorphy:**
+    *   *Miɲɛːɟi.*
+    *   /miɲɛːɟɛ-ʝi/ -> /miɲɛːɟi/
+    *   child-PST.PFV.3SG.ABS
+    *   "It was the child." (The front-vowel allomorph *-ʝi* is used after the front vowel /ɛ/, which it replaces.)
+    *   *Manɔɢo.*
+    *   /mana-ɢo/ -> /manɔɢo/
+    *   woman-PST.PFV.3SG.ABS
+    *   "It was the woman." (The back-vowel allomorph *-ɢo* is used after the back vowel /a/, replacing the stem's final vowel.)
+
+### Adverbial, Modal, and Evidential Affixation
+
+The verb complex is marked for a rich set of adverbial and modal categories through affixes, including volitionality (intentional vs. accidental). Grammatical aspect (perfective vs. imperfective) is also marked via verbal affixation, often fused with other categories like mood or switch-reference. A particularly unusual feature is the fusion of evidentiality (the source of knowledge) and spatial deixis (location relative to the speaker) into a single suffix. These suffixes are mutually exclusive with switch-reference markers and may only appear on the final verb of a sentence.
+
+| Suffix | Evidentiality | Deixis     | Meaning                                       |
+| :----- | :------------ | :--------- | :-------------------------------------------- |
+| *-kɛ*  | Witnessed     | Proximal   | "I saw it happen here."                       |
+| *-nɔ*  | Witnessed     | Distal     | "I saw it happen there."                      |
+| *-lɛ*  | Inferred      | Proximal   | "I infer it happened/is happening here."      |
+| *-po*  | Inferred      | Distal     | "I infer it happened/is happening there."     |
+| *-mi*  | Hearsay       | Unspecified| "I was told it happened."                     |
+
+*   **Example of fused evidential-deictic suffix:**
+    *   *Palɔːt̪akɛ.*
+    *   /palɔːt̪a-kɛ/
+    *   bite.PFV-WITNESSED.PROX
+    *   "He bit him (and I saw it happen right here)."
+    *   *Palɔːt̪apo.*
+    *   /palɔːt̪a-po/
+    *   bite.PFV-INFERRED.DISTAL
+    *   "He must have bitten him (based on evidence I see, and it happened over there)."
+
+These various affixes can combine to form highly complex verbs.
+
+*   **Example of a complex verb:**
+    *   *Lomano t̪iːd̪ad̪anáːkɔt̪anɛvɔnɔ.*
+    *   /lomano t̪iːd̪a-d̪anáːkɔt̪a-nɛvɔ-nɔ/
+    *   man house-build-VOL.PST.3>3-WITNESSED.DISTAL
+    *   "I saw the man intentionally build the house over there."
+
+## Syntax
+
+The language has a pragmatically determined, or "free," constituent word order. Because all core grammatical roles (agent, patient) are marked on the verb, external noun phrases are optional and are used primarily for emphasis, clarification, or to introduce new participants. Their position in the sentence is governed by information structure: topics tend to appear first, while focused elements often appear last.
+
+*   **Example of flexible word order:**
+    *   *Lomano bináːso palɔːt̪avɔ.*
+    *   /lomano bináːso palɔːt̪a-vɔ/
+    *   man dog bite-3>3.PFV
+    *   "The man bit the dog." (Topic: man)
+    *   *Bináːso lomano palɔːt̪avɔ.*
+    *   /bináːso lomano palɔːt̪a-vɔ/
+    *   dog man bite-3>3.PFV
+    *   "The man bit the dog." (Topic: dog)
+    *   *Palɔːt̪avɔ.*
+    *   /palɔːt̪a-vɔ/
+    *   bite-3>3.PFV
+    *   "He/she/it bit him/her/it." (No external nouns needed)
+
+### Verbless "Argument Frame" Constructions
+
+A central syntactic feature is the pervasive use of verbless, or "null-copula," constructions. The grammatical relationship between noun phrases is established by their **argument frame**: a sequence of nouns followed by a predicating particle (a relational postposition). The meaning is determined by the number of nouns and the specific particle, which functions as the predicate and assigns abstract semantic roles based on constituent order. The order of noun phrases within the frame is fixed for each particle.
+
+**1. Single-Argument Frames (NP + Particle):** Express existence or assertion.
+*   **Existence (Particle: *ha* "EXIST.PRED"):**
+    *   *Qɔla **ha**.*
+    *   /qɔla **ha**/
+    *   star **EXIST.PRED**
+    *   "There is a star." / "A star exists."
+
+**2. Two-Argument Frames (NP NP + Particle):** Express possession, composition, etc. This construction forms a complete predicative clause.
+*   **Possession (Particle: *no* "POSS.PRED"):** The order of roles is Possessed, then Possessor.
+    *   *Maná lomano **no**.*
+    *   /mana lomano **no**/
+    *   woman man **POSS.PRED**
+    *   "The woman belongs to the man." (or "The man possesses the woman.")
+*   **Composition (Particle: *hɛ* "PARTITIVE.PRED"):** The first noun phrase represents the Whole and the second represents the Part or Quality.
+    *   *T̪iːd̪a kɛlɛːna **hɛ**.*
+    *   /t̪iːd̪a kɛlɛː-na **hɛ**/
+    *   house bigness-NOM **PARTITIVE.PRED**
+    *   "The house is big." (Literally: "The house has bigness as a part.")
+
+**3. Three-Argument Frames (NP NP NP + Particle):** An unusual construction for complex spatial or causal relations.
+*   **Locative Relation (Particle: *t̪i* "LOC.PRED"):** The order of roles is Figure, Ground, and Location Specifier.
+    *   *Bináːso t̪iːd̪a nɛt̪iːna **t̪i**.*
+    *   /bináːso t̪iːd̪a nɛt̪iː-na **t̪i**/
+    *   dog(Figure) house(Ground) inside-NOM(Loc.Spec) **LOC.PRED**
+    *   "The dog is inside the house."
+*   **Causal Relation (Particle: *kɔ* "CAUSE.PRED"):** The order of roles is Result, Cause, and Affected Party.
+    *   *Miɲɛːɟɛ lomano vɔd̪iːlɛ **kɔ**.*
+    *   /miɲɛːɟɛ lomano vɔd̪iːlɛ **kɔ**/
+    *   child(Result) man(Cause) departure(Affected) **CAUSE.PRED**
+    *   "The man is the reason for the child's departure."
+
+### Noun Phrase Structure
+
+Noun phrases follow a Numeral-Noun order. Adjectives are syntactically intransitive stative verbs (e.g., *kɛlɛː* 'to be big'). To modify a noun, they are placed in a relative clause construction. This is achieved by nominalizing the adjectival verb with a suffix (*-na* for verbs with front/central vowels, *-ɴo* for verbs with back vowels) and placing the resulting phrase after the head noun. This nominalized form can also function as an abstract noun (e.g., *kɛlɛː-na* 'bigness').
+
+A `Noun [Adjective.Verb-NOM]` construction forms a noun phrase constituent (e.g., 'the big house') and is not a complete sentence on its own. To form a predicative clause ('The house is big'), this structure must be used within a larger construction, such as the verbless argument frame with the partitive particle *hɛ*.
+
+*   **Structure:** Noun [Adjective.Verb-NOM]
+*   **Example (Noun Phrase):** "the big house"
+    *   *T̪iːd̪a kɛlɛːna.*
+    *   /t̪iːd̪a kɛlɛː-na/
+    *   house be.big-NOM
+    *   "The house that is big."
+*   **Example (Noun Phrase in a sentence):**
+    *   *Kiʂeːbuna t̪iːd̪a kɛlɛːna.*
+    *   /ki-ʂeːbu-na t̪iːd̪a kɛlɛː-na/
+    *   1SG.ERG-see.PFV-3SG.ABS house be.big-NOM
+    *   "I see the big house."
+
+Genitives are expressed periphrastically using the possessive relational particle *no* in a predicative clause: `[Possessed Noun] [Possessor Noun] no`. To use this as a noun phrase within another clause, the entire construction must be nominalized.
+
+### Switch-Reference and Narrative Chaining
+
+Clause combining relies heavily on a switch-reference system. There are no simple conjunctions like "and" or "because." Instead, non-final verbs are marked with a suffix indicating if the subject (the highest-ranking core argument: Absolutive in intransitive clauses, Ergative in transitive clauses) of the following clause is the same (SS) or different (DS). These suffixes also fuse temporal information (sequential vs. simultaneous) and aspect. This allows for long, chained clauses common in narrative.
+
+*   **Same-Subject Sequential (*-so*):** "After X-ing, X..."
+    *   *Hɔmiːd̪anɛso vɔd̪iːlɛma.*
+    *   /hɔmiːd̪anɛ-so vɔd̪iːlɛ-ma/
+    *   eat.PFV-SS.SEQ leave.PFV-1SG.ABS
+    *   "After I ate, I left."
+*   **Different-Subject Sequential (*-t̪i*):** "After X-ing, Y..."
+    *   *Hɔmiːd̪anɛt̪i vɔd̪iːlɛma.*
+    *   /hɔmiːd̪anɛ-t̪i vɔd̪iːlɛ-ma/
+    *   eat.PFV-DS.SEQ leave.PFV-1SG.ABS
+    *   "After he/she ate, I left."
+*   **Same-Subject Simultaneous (*-lɔ*):** "While X-ing, X..."
+    *   *Miɲɛːɟɛ haʂeːbulɔ hɔmiːd̪anɛma.*
+    *   /miɲɛːɟɛ haʂeːbu-lɔ hɔmiːd̪anɛ-ma/
+    *   child.ABS see.IPFV-SS.SIM eat.IPFV-1SG.ABS
+    *   "While watching the child, I ate."
+*   **Different-Subject Simultaneous (*-χa*):** "While X-ing, Y..."
+    *   *Miɲɛːɟɛ haʂeːbuχa hɔmiːd̪anɛma.*
+    *   /miɲɛːɟɛ haʂeːbu-χa hɔmiːd̪anɛ-ma/
+    *   child.ABS see.IPFV-DS.SIM eat.IPFV-1SG.ABS
+    *   "While he was watching the child, I ate."

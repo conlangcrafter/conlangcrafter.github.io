@@ -1,0 +1,1213 @@
+[
+  {
+    "word": "a",
+    "translation": "particle",
+    "pos": "?",
+    "notes": "Clause-final yes/no question particle",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "a.ˈka",
+    "translation": "affix",
+    "pos": "Patient/Benefactive Voice (Direct Evidential)",
+    "notes": "Verbal suffix: -aka (PAT/BEN.V.DIR)",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "a.ˈket",
+    "translation": "affix",
+    "pos": "Agentive case",
+    "notes": "Case suffix: -aket (AGT)",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "a.ˈlo",
+    "translation": "noun",
+    "pos": "salt",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "a.ˈni",
+    "translation": "noun",
+    "pos": "dog",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "a.ˈru",
+    "translation": "noun",
+    "pos": "sun, day",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "e.ˈlo",
+    "translation": "noun",
+    "pos": "spirit, soul",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "e.ˈta",
+    "translation": "verb",
+    "pos": "to eat",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "i.ˈlo",
+    "translation": "noun",
+    "pos": "fire",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "-ins",
+    "translation": "affix",
+    "pos": "Instrumental case",
+    "notes": "Case suffix: -ins (INS)",
+    "null": [
+      "",
+      "Monosyllabic affix; penultimate stress rule does not apply."
+    ]
+  },
+  {
+    "word": "ya",
+    "translation": "pronoun",
+    "pos": "I",
+    "notes": "1st person singular pronoun stem",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ya.ˈli",
+    "translation": "pronoun",
+    "pos": "we",
+    "notes": "1st person plural pronoun stem",
+    "null": [
+      "ya- (1SG) + -li (PL)",
+      ""
+    ]
+  },
+  {
+    "word": "ka.ˈle",
+    "translation": "verb",
+    "pos": "to walk, to go",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "ka.ˈma",
+    "translation": "noun",
+    "pos": "woman",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "ka.ˈni",
+    "translation": "noun",
+    "pos": "meat, flesh",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "ka.ˈpo",
+    "translation": "noun",
+    "pos": "cloud",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "ka.ˈsi",
+    "translation": "verb",
+    "pos": "to hear, to listen",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "ke",
+    "translation": "pronoun",
+    "pos": "who/what",
+    "notes": "Interrogative pronoun stem for AGT/PAT/BEN roles",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ke.ˈli",
+    "translation": "noun",
+    "pos": "cat",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "ke.ˈno",
+    "translation": "noun",
+    "pos": "gold",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "-ken",
+    "translation": "affix",
+    "pos": "Genitive case",
+    "notes": "Case suffix: -ken (GEN)",
+    "null": [
+      "",
+      "Monosyllabic affix; penultimate stress rule does not apply."
+    ]
+  },
+  {
+    "word": "ki",
+    "translation": "affix",
+    "pos": "Future Tense",
+    "notes": "Verbal suffix: -ki (FUT)",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ki.ˈna",
+    "translation": "noun",
+    "pos": "food",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "ki.ˈo",
+    "translation": "pronoun",
+    "pos": "where",
+    "notes": "Interrogative pronoun stem for LOC role",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "ki.ˈro",
+    "translation": "noun",
+    "pos": "blood",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "kin",
+    "translation": "pronoun",
+    "pos": "what (instrument)",
+    "notes": "Interrogative pronoun stem for Instrumental role",
+    "null": [
+      "",
+      "Monosyllabic pronoun; penultimate stress rule does not apply."
+    ]
+  },
+  {
+    "word": "ko",
+    "translation": "pronoun",
+    "pos": "you (sg.)",
+    "notes": "2nd person singular pronoun stem",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ko.ˈli",
+    "translation": "pronoun",
+    "pos": "you (pl.)",
+    "notes": "2nd person plural pronoun stem",
+    "null": [
+      "ko- (2SG) + -li (PL)",
+      ""
+    ]
+  },
+  {
+    "word": "ko.ˈna",
+    "translation": "noun",
+    "pos": "song, music",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "ko.ˈro",
+    "translation": "noun",
+    "pos": "heart (organ), core",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "-kom",
+    "translation": "affix",
+    "pos": "Comitative case",
+    "notes": "Case suffix: -kom (COM)",
+    "null": [
+      "",
+      "Monosyllabic affix; penultimate stress rule does not apply."
+    ]
+  },
+  {
+    "word": "ku.ˈlo",
+    "translation": "noun",
+    "pos": "bird",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "ku.ˈma",
+    "translation": "verb",
+    "pos": "to be red",
+    "notes": "stative verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "la.ˈki",
+    "translation": "verb",
+    "pos": "to give",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "la.ˈso",
+    "translation": "verb",
+    "pos": "to run",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "le.ˈka",
+    "translation": "verb",
+    "pos": "to be heavy",
+    "notes": "stative verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "le.ˈmo",
+    "translation": "verb",
+    "pos": "to be good, to be right",
+    "notes": "stative verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "li",
+    "translation": "affix",
+    "pos": "Plural",
+    "notes": "Number suffix: -li (PL)",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "li.ˈma",
+    "translation": "noun",
+    "pos": "name",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "lo.ˈki",
+    "translation": "verb",
+    "pos": "to find",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "lo.ˈte",
+    "translation": "noun",
+    "pos": "path, road",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "-lok",
+    "translation": "affix",
+    "pos": "Locative case",
+    "notes": "Case suffix: -lok (LOC)",
+    "null": [
+      "",
+      "Monosyllabic affix; penultimate stress rule does not apply."
+    ]
+  },
+  {
+    "word": "lu.ˈma",
+    "translation": "noun",
+    "pos": "night, darkness",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "lu.ˈna",
+    "translation": "noun",
+    "pos": "moon",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "lu.ˈpi",
+    "translation": "verb",
+    "pos": "to break, to shatter",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "ma.ˈlo",
+    "translation": "noun",
+    "pos": "sky",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "ma.ˈni",
+    "translation": "noun",
+    "pos": "leaf",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "ma.ˈta",
+    "translation": "noun",
+    "pos": "eye",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "me.ˈki",
+    "translation": "verb",
+    "pos": "to be small",
+    "notes": "stative verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "me.ˈna",
+    "translation": "particle",
+    "pos": "and, also",
+    "notes": "Conjoining particle",
+    "null": [
+      " typically placed between conjoined noun phrases",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "mi.ˈlo",
+    "translation": "verb",
+    "pos": "to speak, to say",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "mi.ˈna",
+    "translation": "verb",
+    "pos": "to think, to believe",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "mo.ˈka",
+    "translation": "noun",
+    "pos": "mountain",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "mo.ˈna",
+    "translation": "noun",
+    "pos": "flower",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "mo.ˈri",
+    "translation": "verb",
+    "pos": "to love, to want",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "na",
+    "translation": "affix",
+    "pos": "Agent Voice (Direct Evidential)",
+    "notes": "Verbal suffix: -na (AGT.V.DIR)",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "na",
+    "translation": "pronoun",
+    "pos": "he/she/it",
+    "notes": "3rd person singular pronoun stem",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "na.ˈli",
+    "translation": "pronoun",
+    "pos": "they",
+    "notes": "3rd person plural pronoun stem",
+    "null": [
+      "na- (3SG) + -li (PL)",
+      ""
+    ]
+  },
+  {
+    "word": "na.ˈra",
+    "translation": "verb",
+    "pos": "to be new",
+    "notes": "stative verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "na.ˈyo",
+    "translation": "particle",
+    "pos": "please",
+    "notes": "Clause-initial or -final politeness marker",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ne.ˈko",
+    "translation": "verb",
+    "pos": "to die",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "ne.ˈli",
+    "translation": "noun",
+    "pos": "wind",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "ne.ˈma",
+    "translation": "verb",
+    "pos": "to know",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "no.ˈri",
+    "translation": "verb",
+    "pos": "to write, to draw",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "-nom",
+    "translation": "affix",
+    "pos": "Nominalizer",
+    "notes": "Verbal suffix: -nom (NMLZ)",
+    "null": [
+      "",
+      "Monosyllabic affix; penultimate stress rule does not apply."
+    ]
+  },
+  {
+    "word": "nu.ˈka",
+    "translation": "noun",
+    "pos": "head",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "nu.ˈlo",
+    "translation": "noun",
+    "pos": "shadow",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "o.ˈke",
+    "translation": "noun",
+    "pos": "water",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "pa",
+    "translation": "affix",
+    "pos": "Irrealis Mood",
+    "notes": "Verbal suffix: -pa (IRR)",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pa.ˈke",
+    "translation": "noun",
+    "pos": "bed",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "pa.ˈlu",
+    "translation": "noun",
+    "pos": "hand, arm",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "pa.ˈti",
+    "translation": "verb",
+    "pos": "to wait",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "-pat",
+    "translation": "affix",
+    "pos": "Patientive case",
+    "notes": "Case suffix: -pat (PAT)",
+    "null": [
+      "",
+      "Monosyllabic affix; penultimate stress rule does not apply."
+    ]
+  },
+  {
+    "word": "pe.ˈlo",
+    "translation": "noun",
+    "pos": "river",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "pe.ˈso",
+    "translation": "verb",
+    "pos": "to cook",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "pe.ˈta",
+    "translation": "verb",
+    "pos": "to build",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable; This root can incorporate nouns, e.g., 'peta-talo-' (to house-build)."
+    ]
+  },
+  {
+    "word": "pi.ˈka",
+    "translation": "verb",
+    "pos": "to drink",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "pi.ˈno",
+    "translation": "noun",
+    "pos": "child",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "po.ˈka",
+    "translation": "verb",
+    "pos": "to be big",
+    "notes": "stative verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "po.ˈli",
+    "translation": "verb",
+    "pos": "to be cold",
+    "notes": "stative verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "-pon",
+    "translation": "affix",
+    "pos": "Benefactive case",
+    "notes": "Case suffix: -pon (BEN)",
+    "null": [
+      "",
+      "Monosyllabic affix; penultimate stress rule does not apply."
+    ]
+  },
+  {
+    "word": "pu.ˈka",
+    "translation": "noun",
+    "pos": "book, knowledge",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "pu.ˈli",
+    "translation": "verb",
+    "pos": "to play",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "ra.ˈmi",
+    "translation": "noun",
+    "pos": "fear",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "ra.ˈno",
+    "translation": "noun",
+    "pos": "rain",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "re.ˈko",
+    "translation": "noun",
+    "pos": "sand",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "ri",
+    "translation": "affix",
+    "pos": "Instrument Voice (Reportative Evidential)",
+    "notes": "Verbal suffix: -ri (INS.V.REP)",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ri.ˈma",
+    "translation": "verb",
+    "pos": "to read",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "ro",
+    "translation": "affix",
+    "pos": "Imperfective Aspect",
+    "notes": "Verbal suffix: -ro (IPFV)",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "sa.ˈka",
+    "translation": "noun",
+    "pos": "leg, foot",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "sa.ˈma",
+    "translation": "verb",
+    "pos": "to dance",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "sa.ˈno",
+    "translation": "noun",
+    "pos": "hammer",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "sa.ˈte",
+    "translation": "verb",
+    "pos": "to make, to do",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "se.ˈmo",
+    "translation": "affix",
+    "pos": "Stative",
+    "notes": "Verbal suffix: -semo (STAT)",
+    "null": [
+      " precedes all other TAM suffixes",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "se.ˈri",
+    "translation": "noun",
+    "pos": "stone, rock",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "si.ˈko",
+    "translation": "particle",
+    "pos": "but, however",
+    "notes": "Clause-initial adversative particle",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "si.ˈma",
+    "translation": "verb",
+    "pos": "to see",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "si.ˈna",
+    "translation": "noun",
+    "pos": "star",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "so",
+    "translation": "affix",
+    "pos": "Location Voice (Inferential Evidential)",
+    "notes": "Verbal suffix: -so (LOC.V.INF)",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "so.ˈki",
+    "translation": "noun",
+    "pos": "skin, bark",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "so.ˈle",
+    "translation": "verb",
+    "pos": "to sing",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "so.ˈma",
+    "translation": "noun",
+    "pos": "fish",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "su.ˈko",
+    "translation": "noun",
+    "pos": "bone",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "su.ˈli",
+    "translation": "noun",
+    "pos": "tree, wood",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "ta.ˈlo",
+    "translation": "noun",
+    "pos": "house",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "ta.ˈna",
+    "translation": "noun",
+    "pos": "ground, earth",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "te",
+    "translation": "affix",
+    "pos": "Perfective Aspect",
+    "notes": "Verbal suffix: -te (PFV)",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "te.ˈko",
+    "translation": "verb",
+    "pos": "to stand",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "te.ˈna",
+    "translation": "verb",
+    "pos": "to sleep",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "-tek",
+    "translation": "affix",
+    "pos": "Trigger case",
+    "notes": "Case suffix: -tek (TRG)",
+    "null": [
+      "",
+      "Monosyllabic affix; penultimate stress rule does not apply."
+    ]
+  },
+  {
+    "word": "ti",
+    "translation": "particle",
+    "pos": "not",
+    "notes": "Pre-verbal negation particle",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ti.ˈka",
+    "translation": "verb",
+    "pos": "to be sharp",
+    "notes": "stative verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "to.ˈki",
+    "translation": "noun",
+    "pos": "man",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "to.ˈma",
+    "translation": "noun",
+    "pos": "story, tale",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "tu.ˈli",
+    "translation": "noun",
+    "pos": "knife",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "tu.ˈpa",
+    "translation": "verb",
+    "pos": "to take, to get",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "u.ˈmi",
+    "translation": "verb",
+    "pos": "to be hot, to be warm",
+    "notes": "stative verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "u.ˈna",
+    "translation": "noun",
+    "pos": "mouth",
+    "notes": "noun root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "yo.ˈka",
+    "translation": "verb",
+    "pos": "to laugh",
+    "notes": "verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "yo.ˈlo",
+    "translation": "verb",
+    "pos": "to live, to be alive",
+    "notes": "stative verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  },
+  {
+    "word": "yo.ˈmi",
+    "translation": "verb",
+    "pos": "to be sweet",
+    "notes": "stative verb root",
+    "null": [
+      "",
+      "Stress on penultimate syllable"
+    ]
+  }
+]

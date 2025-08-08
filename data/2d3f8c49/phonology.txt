@@ -1,0 +1,81 @@
+# Phonology
+
+## Consonants
+
+|               | Labial | Dental | Retroflex | Palato-alveolar | Velar | Uvular | Glottal |
+| :------------ | :----: | :----: | :-------: | :-------------: | :---: | :----: | :-----: |
+| **Nasal**     |   m    |   n    |     ɳ     |                 |  ŋ    |        |         |
+| **Stop**      | p pʰ b | t tʰ d |  ʈ ʈʰ ɖ  |                 | k kʰ g | q qʰ   |    ʔ    |
+| **Affricate** |        |        |           |    tʃ tʃʰ dʒ    |       |        |         |
+| **Fricative** |   ɸ β  |   θ ð  |     ʂ     |                 |       |   χ    |    h    |
+| **Liquid**    |        |   l    |     ɭ     |                 |       |   ʁ    |         |
+
+## Vowels
+
+|          | Front | Central | Back |
+| :------- | :---: | :-----: | :--: |
+| **High** |   i   |         |  u   |
+| **Mid**  |       |         |  o   |
+| **Low**  |       |    a    |      |
+
+Vowels can be short (/a, i, o, u/), long (/aː, iː, oː, uː/), or nasal (/ã, ĩ, õ, ũ/).
+
+## Phonotactics
+
+The syllable structure is highly complex, allowing for the maximal shape (C)CCV(V)(C)CC.
+
+**Onsets** can have up to three consonants.
+*   **C:** Any single consonant.
+*   **CC:** Two-consonant clusters have the structure fricative-stop (where the fricative can be /h/), fricative-liquid, or stop-liquid.
+*   **CCC:** The first consonant must be a fricative or /h/, the second a stop, and the third a liquid (/l, ɭ, ʁ/).
+
+**Codas** can have up to three consonants. The glottal stop /ʔ/ can only appear in a coda.
+*   **C:** Any single consonant except the phoneme /h/.
+*   **CC:** Two-consonant clusters have the structure liquid-stop or stop-fricative.
+*   **CCC:** The first consonant must be a liquid, the second a stop, and the third a fricative.
+
+**Nasal Harmony** is a key feature. Harmony is triggered by a nasal consonant or a nasal vowel in the underlying form of a root. It applies across the entire word, including affixes.
+*   If the trigger is a nasal consonant or a short nasal vowel, all vowels in the word become nasal, retaining their original length.
+*   If the trigger is a long nasal vowel in the root-initial syllable, all other vowels in the word become short and nasal.
+
+## Suprasegmentals
+
+The language has a complex contour tone system with five phonemic tones: high level /˥/, low level /˩/, rising /˩˥/, falling /˥˩/, and dipping /˥˩˥/. Short vowels consist of one mora, and long vowels consist of two moras. Each mora is a tone-bearing unit, so long vowels can carry two tones, allowing for tone melodies across a single syllable (e.g., /aː/ can be /á.à/). Stress is fixed and non-phonemic, always falling on the first syllable of the phonological word. This primary stress is realized as a slight increase in intensity and duration but does not interact with or override the tonal contours.
+
+## Word Shapes and Lexical Statistics
+
+The vast majority of words in the language are disyllabic or trisyllabic, with monosyllabic words being common and words of four or more syllables being rare. The maximal syllable structure, (C)CCV(V)(C)CC, is attested but extremely uncommon, with most syllables conforming to simpler CV, CVC, or CVV shapes.
+
+Content words display the full phonological diversity of the language. Most are polysyllabic and frequently feature complex onsets, codas, long vowels, and contour tones. Monosyllabic content words are also numerous, but they often compensate for their syllabic brevity with phonological complexity, such as heavy codas or tone melodies on long vowels. Words subject to nasal harmony are common, appearing across all word classes.
+
+In contrast, function words are typically short, with most being monosyllabic and a few being disyllabic. They almost exclusively feature simple CV or CVC syllables, unaspirated stops, and level tones. Complex consonant clusters, long vowels, and contour tones are exceptionally rare in this class.
+
+Below are some illustrative lexical items:
+
+1.  /ká/ (Common function item)
+2.  /dʒu˩/ (Common function item)
+3.  /βó.tà/ (Common function item)
+4.  /kʰí/ (Uncommon function item)
+5.  /pʰá.pʰà/ (Common content item)
+6.  /dʒi˥˩.dʒà/ (Common content item)
+7.  /ʂú.ʈà/ (Common content item)
+8.  /tʃʰa˥˩˥.ɭa.gò/ (Common content item)
+9.  /χá.ʁiː˩˥/ (Common content item)
+10. /mĩ́.tã̀/ (Common content item, nasal harmony)
+11. /ŋã́.dʒũ̀.pʰĩ́/ (Common content item, nasal harmony)
+12. /tʰã́.nã̀/ (Common content item, nasal harmony)
+13. /kʰaː˥˩.pʰì/ (Common content item)
+14. /ʔí.tʃʰà/ (Uncommon content item)
+15. /ʈá.tʃò.lok/ (Uncommon content item)
+16. /pʰí.lá.qʰà.βò/ (Uncommon content item)
+17. /dʒũː˥˩.ʁã̀/ (Uncommon content item, nasal harmony)
+18. /goː˩˥/ (Uncommon content item)
+19. /tʰáʔ/ (Uncommon content item)
+20. /qʰí.láɭʈ/ (Rare content item)
+21. /θá.ʁáqχ/ (Rare content item)
+22. /ʂʈá.ló/ (Rare content item)
+23. /hʈaː˥˩/ (Rare content item)
+24. /ɸkʰɭí.tʃà/ (Very rare content item)
+25. /χgʁũː˩˥.pã̀.tã̀/ (Very rare content item, nasal harmony, initial long nasal vowel)
+26. /βó.láɭʈθ/ (Very rare content item)
+27. /tʃʰã́.lṍkχ.mĩ̀/ (Very rare content item, nasal harmony)

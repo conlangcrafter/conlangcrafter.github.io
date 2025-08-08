@@ -1,0 +1,238 @@
+# Grammar
+
+## Morphology
+
+The language is moderately synthetic, with grammatical relationships primarily expressed through a rich system of case suffixes on nominals (nouns, pronouns, adjectives) and derivational affixes.
+
+### 1. Nominals (Nouns, Pronouns, Adjectives)
+
+#### 1.1. Gender
+Nouns are marked for one of two genders, Active and Inactive. The Active gender includes humans, animals, and personified natural forces, while the Inactive gender encompasses inanimate objects and abstract concepts. Gender is not marked on the noun itself but is revealed through adjectival agreement and the selection of specific case endings for the Accusative and Genitive cases.
+
+#### 1.2. Number and Case
+The case system is fusional, with suffixes often combining case, gender, and number (singular/plural). Plurality is often marked by a change in the vowel or the addition of a consonant to the singular suffix.
+
+The Nominative case is marked by a null suffix (-∅) for both singular and plural. While the nominative form of a noun does not overtly show number, the number of a nominative subject can be determined by context, object agreement (if any), or by using an explicit number-marking word if ambiguity must be avoided. Plural stems, to which case suffixes are attached, are formed through internal vowel changes or other non-suffixal means. The nominative case is then marked by a null suffix on both the singular and plural stems.
+
+| Case          | Active Singular | Active Plural | Inactive Singular | Inactive Plural |
+| :------------ | :-------------- | :------------ | :---------------- | :-------------- |
+| **Nominative**  | -∅              | -∅            | -∅                | -∅              |
+| **Accusative**  | -t͡si            | -t͡sʼu         | -t͡so              | -t͡sʼo          |
+| **Genitive**    | -ja             | -kʼa          | -kʼi              | -kʼʷi           |
+| **Instrumental**| -kʷʼa           | -kʷʼə         | -la               | -lə             |
+| **Comitative**  | -t͡a             | -t͡ʃa          | -t͡a               | -t͡ʃa            |
+| **Locative**    | -pʰa            | -pʰʷa         | -pʰa              | -pʰʷa           |
+| **Allative**    | -na             | -nə           | -na               | -nə             |
+| **Ablative**    | -mu             | -mʉ           | -mu               | -mʉ             |
+| **Vocative**    | -i              | -ji           | (n/a)             | (n/a)           |
+
+Example of case inflection for *ˈqʼat͡ʃa* "hunter" (Active) and *ˈkʼut͡sʼi* "knife" (Inactive):
+*   `qʼat͡ʃa` (hunter-NOM)
+*   `qʼat͡ʃa-t͡si` (hunter-ACC)
+*   `qʼat͡ʃa-ja` (hunter-GEN.ACT.SG) → *"the hunter's"*
+*   `qʼat͡ʃa-kʼa` (hunter-GEN.ACT.PL) → *"the hunters'"*
+*   `kʼut͡sʼi` (knife-NOM)
+*   `kʼut͡sʼi-t͡so` (knife-ACC)
+*   `kʼut͡sʼi-la` (knife-INS)
+
+#### 1.3. Pronouns
+Pronouns are a closed class that inflect for the full range of cases. They are distinguished by person and number but not gender, except for the 3rd person pronouns, which are inherently gendered and select the corresponding Active or Inactive case suffixes.
+
+|             | 1st Person | 2nd Person | 3rd Person Active | 3rd Person Inactive |
+| :---------- | :--------: | :--------: | :---------------: | :-----------------: |
+| **Singular**| `t͡su`      | `kʷa`      | `t͡ʃa`             | `po`                |
+| **Plural**  | `t͡sʼu`     | `kʷʼa`     | `t͡ʃʼa`            | `pʼo`               |
+
+> t͡su kʷa-t͡si qʼo.ˈqʼo ki.
+>
+> I you-ACC.ACT.SG see AUX.IMPV
+>
+> *"I see you."*
+
+> kʷa po-t͡so pə.ˈt͡sʼo.la ki.
+>
+> you it-ACC.INACT.SG take AUX.IMPV
+>
+> *"You are taking it (the inactive object)."*
+
+#### 1.4. Adjective Agreement
+Adjectives follow the noun and agree fully in gender, number, and case, taking the exact same set of suffixes as nouns. The genitive suffix agrees with the gender and number of the possessor noun itself.
+
+> kʼə.ˈla pʼa.ˈkʷʼa-t͡si qʼo.ˈqʼo gə.
+>
+> woman beautiful-ACC.ACT.SG see AUX.PERF
+>
+> *"(Someone) saw the beautiful woman."*
+
+> kʼə.ˈla-kʼa pʼa.ˈkʷʼa-kʼa ˈpʰa.kʰa
+>
+> woman-GEN.ACT.PL beautiful-GEN.ACT.PL house-NOM
+>
+> *"the beautiful women's house"*
+
+### 2. Verbs
+Verbal morphology is less complex than nominal morphology. Verbs are not marked for person or number agreement. Tense, aspect, and mood (TAM) are indicated through a combination of verbal suffixes and periphrastic constructions with auxiliaries.
+
+#### 2.1. TAM (Tense, Aspect, Mood)
+The main verb appears in its bare root form, followed by an auxiliary which carries tense and mood marking.
+
+*   **Tense:** The language has a non-past/past tense distinction. The non-past is the unmarked form of the auxiliary, while the past tense is marked with the suffix *-gʷa* on the auxiliary.
+*   **Aspect:** The perfective/imperfective distinction is mandatory and handled by dedicated post-verbal auxiliaries.
+    *   **Imperfective Auxiliary:** `ki` (ongoing, habitual, or incomplete actions)
+    *   **Perfective Auxiliary:** `gə` (completed, single-whole actions)
+*   **Mood:** Moods like irrealis (for hypotheticals, futures) or imperative are marked with suffixes on the verb or auxiliary. The irrealis suffix is *-kʰu*.
+
+> ˈqʼat͡ʃa ˈǁʰobɨ-t͡so qʼo.ˈqʼo **ki-gʷa**.
+>
+> hunter eland-ACC.INACT see **AUX.IMPV-PST**
+>
+> *"The hunter was watching the eland."* (Imperfective: the action was ongoing)
+
+> ˈqʼat͡ʃa ˈǁʰobɨ-t͡so qʼo.ˈqʼo **gə-gʷa**.
+>
+> hunter eland-ACC.INACT see **AUX.PERF-PST**
+>
+> *"The hunter saw (spotted) the eland."* (Perfective: the action is a completed event)
+
+> t͡ʃa.ˈɣi.na ˈpʰa.kʰa-na qa.ˈxi.na **ki-kʰu**.
+>
+> child house-ALL climb **AUX.IMPV-IRR**
+>
+> *"The child will be climbing towards the house."* (A future, ongoing action)
+
+#### 2.2. Derivational Morphology
+New words are commonly formed through affixation.
+*   Agent noun from verb: *qa.ˈxi.na* "to climb" → *qaxi.na-ˈna* [qa.xi.ˈna] "climber" (suffix *-ˈna*, which carries the primary stress).
+*   Abstract noun from adjective: *pʼa.ˈkʷʼa* "beautiful" → *pʼakʷʼa.ˈtʰa* "beauty" (suffix *-ˈtʰa*).
+
+#### 2.3. Unusual Feature: Verb-Internal Derivation (Valency Change)
+The language has a productive system of consonantal mutation within the verb root to change its valency. The voicing of the final consonant of a verb root can create causative or antipassive forms.
+
+*   **Causative:** A voiceless root-final consonant becomes its voiced counterpart. This adds an agent who causes the action. The new agent takes the Nominative case, and the original agent (the causee) becomes Accusative. The original object of the verb retains its case, typically the Accusative, resulting in a double-accusative construction.
+    *   `pə.ˈt͡sʼo**l**a` (to take) → `pə.ˈt͡sʼo**d**a` (to cause to take, to give)
+*   **Antipassive:** A voiced root-final consonant becomes its voiceless counterpart. This demotes the object, which is then either omitted or placed in an oblique case. This is used to focus on the subject's action rather than its effect on an object.
+    *   `t͡ʃa.**ˈɣi**.na` (to eat *something*) → `t͡ʃa.**ˈxi**.na` (to eat, to dine)
+
+> ˈqʼat͡ʃa t͡ʃa.ˈɣi.na-t͡si kʼə.ˈla-t͡si **pə.ˈt͡sʼoda** gə.
+>
+> hunter child-ACC.ACT.SG woman-ACC.ACT.SG **cause.to.take** AUX.PERF
+>
+> *"The hunter made the child take the woman." (Lit: "The hunter causes the child to take the woman.")*
+
+> ˈqʼat͡ʃa **t͡ʃa.ˈxi.na** ki.
+>
+> hunter **dine** AUX.IMPV
+>
+> *"The hunter is eating."*
+
+## Syntax
+
+The language is a dependent-marking language with a rich case system and postpositions governing syntactic relations.
+
+### 1. Clause Structure and Word Order
+The basic constituent order is strictly **SOV (Subject-Object-Verb)**. The subject appears first in the nominative case, followed by the object in the accusative case, and finally the Verb-Auxiliary complex. The order of oblique arguments (like Instrumental, Locative) is more flexible, though they typically appear after the core S and O arguments and before the verb complex.
+
+> ˈqʼat͡ʃa ˈǁʰobɨ-t͡so qʼo.ˈqʼo gə-gʷa.
+>
+> hunter eland-ACC.INACT see AUX.PERF-PST
+>
+> *"The hunter saw the eland."*
+
+### 2. Noun Phrases
+Within the noun phrase, adjectives and genitive modifiers follow the noun they modify and must agree with it in case, gender, and number.
+
+> ˈqʼat͡ʃa-ja ˈkʼut͡sʼi-la
+>
+> hunter-GEN.ACT.SG knife-INS.INACT.SG
+>
+> *"...with the hunter's knife."*
+
+### 3. Adpositions
+The language uses postpositions, which follow a noun phrase marked with an appropriate oblique case to further specify its meaning.
+
+> t͡ʃa.ˈɣi.na ˈpʰa.kʰa-pʰa pʰi ki.
+>
+> child house-LOC in be.IMPV
+>
+> *"The child is in the house."*
+
+### 4. Pro-drop and Argument Structure
+The language is pro-drop. Core arguments (subject and object) can be omitted when understood from context.
+
+> kʼə.ˈla pʼa.ˈkʷʼa-t͡si qʼo.ˈqʼo gə.
+>
+> woman beautiful-ACC.ACT.SG see AUX.PERF
+>
+> *"(Someone) saw the beautiful woman."* (Subject is dropped)
+
+In imperative constructions, the 2nd person subject is obligatorily omitted. The imperative is formed by using the bare verb root and the perfective auxiliary `gə`, with a final intonation.
+
+> ∅ ˈkʼut͡sʼi-t͡so pə.ˈt͡sʼo.la gə!
+>
+> IMP knife-ACC.INACT.SG take AUX.PERF
+>
+> *"Take the knife!"*
+
+### 5. Questions
+**Yes/No Questions:** Formed by adding the sentence-final particle `ʔa`.
+
+> kʷa ˈpʰa.kʰa-t͡so qʼo.ˈqʼo gə **ʔa**?
+>
+> you house-ACC.INACT.SG see AUX.PERF **Q**
+>
+> *"Did you see the house?"*
+
+**Content Questions (Wh-questions):** The language uses wh-in-situ. The interrogative pronoun stays in the position a regular noun phrase would occupy, and the sentence is marked with the final particle `ʔa`.
+
+| Interrogative Pronoun | Meaning      |
+| :-------------------- | :----------- |
+| `t͡ʃʼi`                 | who (Active) |
+| `kʼʷa`                 | what (Inactive) |
+| `kʷʼi`                 | where        |
+| `t͡sʼo`                 | when         |
+| `pʼi`                 | why          |
+
+> ˈqʼat͡ʃa **kʼʷa**-t͡so t͡ʃa.ˈɣi.na ki **ʔa**?
+>
+> hunter **what**-ACC.INACT.SG eat AUX.IMPV **Q**
+>
+> *"What is the hunter eating?"*
+
+### 6. Unusual Feature: Evidential Case and Concord
+The language possesses a unique system where evidentiality is marked on the subject via a special set of "evidential cases" that replace the standard nominative. The choice of case indicates the source of the speaker's knowledge.
+
+*   **Direct (Sensory) Nominative:** *-∅* (The speaker saw/heard it directly). This is the default, unmarked nominative.
+*   **Inferential Nominative:** *-gə* (The speaker infers it from evidence).
+*   **Hearsay Nominative:** *-və* (The speaker was told by someone else).
+
+> qʼat͡ʃa-**gə** ˈǁʰobɨ-t͡so qʼo.ˈqʼo gə-gʷa.
+>
+> hunter-**NOM.INFER** eland-ACC.INACT.SG see AUX.PERF-PST
+>
+> *"(I infer that) the hunter saw the eland." (e.g., because I see tracks)*
+
+> qʼat͡ʃa-**və** ˈǁʰobɨ-t͡so qʼo.ˈqʼo gə-gʷa.
+>
+> hunter-**NOM.HEARSAY** eland-ACC.INACT.SG see AUX.PERF-PST
+>
+> *"(I was told that) the hunter saw the eland."*
+
+When an evidential case (*-gə* or *-və*) is used on the subject, it triggers **evidential concord** on all other nominals and postpositions in the same clause. The concord marker is the prefix `və-`. This prefix is required on all case-marked nominals (except the subject itself) and on all postpositions within an evidential-marked clause. The `və-` prefix does not apply to verbs or auxiliaries.
+
+> qʼat͡ʃa-**gə** **və**-ˈǁʰobɨ-t͡so **və**-ˈkʼut͡sʼi-la t͡ʃʼi.ˈt͡sʼa gə-gʷa.
+>
+> hunter-**NOM.INFER** **EV**-eland-ACC.INACT.SG **EV**-knife-INS.INACT.SG cut AUX.PERF-PST
+>
+> *"(I infer that) the hunter cut the eland with the knife."*
+
+> **t͡ʃʼi**-və **və**-ˈǁʰobɨ-t͡so qʼo.ˈqʼo gə-gʷa **ʔa**?
+>
+> **who**-NOM.HEARSAY **EV**-eland-ACC.INACT.SG see AUX.PERF-PST **Q**
+>
+> *"(I was told that) who saw the eland?" / "Who saw the eland, according to what I've heard?"*
+
+> t͡ʃa.ˈɣi.na-**və** **və**-ˈpʰa.kʰa-pʰa **və**-pʰi ki.
+>
+> child-**NOM.HEARSAY** **EV**-house-LOC **EV**-in be.IMPV
+>
+> *"(I was told that) the child is in the house."*

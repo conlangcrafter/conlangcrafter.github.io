@@ -1,0 +1,226 @@
+# Phonology
+
+## 1. Phoneme Inventory
+
+The phoneme inventory is relatively simple, consisting of 9 consonants and 5 vowels.
+
+### 1.1. Consonants
+
+| | Labial | Alveolar | Velar |
+| :--- | :--- | :--- | :--- |
+| **Plosive** | p | t | k |
+| **Nasal** | m | n | |
+| **Fricative** | | s | |
+| **Approximant** | | l, r | y |
+
+### 1.2. Vowels
+
+The language has a standard five-vowel system.
+
+| | Front | Central | Back |
+| :--- | :--- | :--- | :--- |
+| **High** | i | | u |
+| **Mid** | e | | o |
+| **Low** | | a | |
+
+## 2. Phonotactics
+
+*   **Syllable Structure:** The basic syllable structure is (C)V(C). No consonant clusters are permitted.
+*   **Onsets:** Any consonant can be an onset.
+*   **Codas:** Word-final codas are permitted and are common in grammatical suffixes (e.g., `-tek`, `-pat`). Word-internal codas are less common but can occur at morpheme boundaries.
+*   **Vowel Hiatus:** Hiatus is generally avoided through elision or glide insertion in rapid speech, but is permitted in careful enunciation. For example, `na-aket` (3SG-AGT) may be pronounced [naket] in rapid speech through vowel elision.
+*   **Stress:** Primary stress falls on the penultimate (second-to-last) syllable of the phonological word.
+
+# Grammar
+
+## Morphology
+
+This language is highly polysynthetic and strictly dependent-marking. Grammatical relations are marked via an extensive system of cases on nominals, not through agreement on the verb. Its morphology is characterized by complex verb chains that can incorporate noun stems, a rich case system, and a trigger system fused with evidentiality.
+
+### 1. Nominal Morphology
+
+Nouns are inflected for number and case. They do not have inherent gender.
+
+#### 1.1. Case System
+
+The case system is rich, marking the roles of all nominals in a clause. The pragmatically focused or "triggered" argument takes the special Trigger case, while non-triggered arguments take various semantic cases.
+
+*   **Trigger (TRG): `-tek`** - Marks the pragmatically focused argument of the clause, whose semantic role is indicated by the verb's voice affix.
+*   **Agentive (AGT): `-aket`** - Marks the non-triggered agent of a transitive verb.
+*   **Patient (PAT): `-pat`** - Marks the non-triggered patient or theme.
+*   **Benefactive (BEN): `-pon`** - Marks the non-triggered recipient or benefactive.
+*   **Genitive (GEN): `-ken`** - Marks the possessor.
+*   **Locative (LOC): `-lok`** - Marks the non-triggered location.
+*   **Instrumental (INS): `-ins`** - Marks the non-triggered instrument used to perform an action.
+*   **Comitative (COM): `-kom`** - Marks accompaniment ("with").
+
+*Peta-talo-na         toki-pon     sano-ins   kama-tek.*
+*build-house-AGT.V.DIR man-BEN      hammer-INS woman-TRG*
+"The woman house-builds for the man with a hammer."
+
+#### 1.2. Number
+
+Plurality is marked with the suffix **`-li`**, which is attached to the noun stem before the case ending. Case endings are obligatory for all nominal arguments within a clause. When noun phrases are shown in isolation as citation forms, case suffixes are typically omitted from the head noun for clarity.
+
+*kama-li-ken talo-li*
+*woman-PL-GEN house-PL*
+"the women's houses" (citation form)
+
+*Sima-aka-te        toki-aket    kama-li-tek.*
+*see-PAT.V.DIR-PFV  man-AGT      woman-PL-TRG*
+"The women were seen by the man."
+
+#### 1.3. Pronouns
+
+The language is not pro-drop. Pronominal arguments are obligatory if a full noun phrase is not present. This reinforces its dependent-marking nature by ensuring case-marked elements are always present to clarify roles. Pronouns inflect for case just like nouns. The only exception is that 3rd person singular subjects of stative verbs may be omitted if clear from context.
+
+| Person | Singular Stem | Plural Stem |
+| :--- | :--- | :--- |
+| 1st | *ya-* | *yali-* |
+| 2nd | *ko-* | *koli-* |
+| 3rd | *na-* | *nali-* |
+
+Examples of inflected pronouns: *ya-tek* (1SG-TRG), *ko-pat* (2SG-PAT), *na-aket* (3SG-AGT), *nali-ken* (3PL-GEN).
+
+*Sima-na-te           na-pat     ya-tek.*
+*see-AGT.V.DIR-PFV     3SG-PAT    1SG-TRG*
+"I saw him/her (and I witnessed myself doing it)."
+
+### 2. Verbal Morphology
+
+Verbs are the core of the clause, consisting of a root, optional incorporated nouns, a mandatory voice/evidentiality affix, and optional TAM (Tense-Aspect-Mood) markers.
+
+#### 2.1. Noun Incorporation
+
+Noun roots can be incorporated into the verb stem. This is a highly productive process used to form complex, specific predicates. The incorporated noun is understood as a generic, non-specific object of the action. For example, the verb *peta-* (to build) can incorporate the noun root *talo-* (house) to create the stem *peta-talo-* (to house-build).
+
+*Sima-talo-na         kama-tek.*
+*see-house-AGT.V.DIR  woman-TRG*
+"The woman house-watches (i.e., watches over a house), and I saw her do it."
+
+#### 2.2. Voice and Evidentiality
+
+The language utilizes an Austronesian-style trigger system that is fused with an evidential system. The affix on the verb not only indicates the semantic role of the triggered argument but also the speaker's basis for knowing the information, specifically as it pertains to that argument.
+
+| Voice/Evidential Affix | Triggered Role | Evidential Meaning |
+| :--- | :--- | :--- |
+| **`-na`** | Agent | **Direct:** Speaker witnessed the agent performing the action. |
+| **`-aka`** | Patient/Benefactive | **Direct:** Speaker witnessed the patient/benefactive being affected. |
+| **`-so`** | Location | **Inferential:** Speaker infers the event from evidence at the location. |
+| **`-ri`** | Instrument | **Reportative:** Speaker was told about the event (focus on the instrument). |
+
+*Peta-talo-na        toki-pon     kama-tek.*
+*build-house-AGT.V.DIR man-BEN      woman-TRG*
+"The woman house-builds for the man (and I saw her do it)."
+
+*Peta-talo-aka       kama-aket    toki-tek.*
+*build-house-PAT.V.DIR woman-AGT    man-TRG*
+"The man is house-built for by the woman (and I saw it happen to him)."
+
+*Peta-talo-so        kama-aket    talo-tek.*
+*build-house-LOC.V.INF woman-AGT    house-TRG*
+"A house was built by the woman (I infer, perhaps from seeing the new construction)."
+
+#### 2.3. Tense, Aspect, and Mood (TAM)
+
+TAM is marked by suffixes that follow the voice/evidential affix. The stative marker `-semo` acts as an aspect-like category. They can co-occur where semantically plausible, in a fixed order: **Stative > Aspect > Tense > Mood**.
+
+*   **`-semo` (Stative - STAT):** A state or quality (used for adjectives).
+*   **`-te` (Perfective Aspect - PFV):** A completed event.
+*   **`-ro` (Imperfective Aspect - IPFV):** An ongoing or habitual event.
+*   **`-ki` (Future Tense - FUT):** An event that will happen.
+*   **`-pa` (Irrealis Mood - IRR):** A hypothetical or counterfactual event.
+
+*Peta-talo-na-ro      toki-pon     kama-tek.*
+*build-house-AGT.V.DIR-IPFV man-BEN      woman-TRG*
+"The woman is (in the process of) house-building for the man."
+
+*na-tek poka-semo-ki-pa*
+*3SG-TRG be.big-STAT-FUT-IRR*
+"it would be going to be big"
+
+#### 2.4. Lexical Categories
+
+The language features a flexible system where adjectives function as a subclass of verbs (stative verbs). For instance, "to be big" is a verb, and when used to modify a noun, it behaves like a relative clause.
+
+*poka-semo*
+*be.big-STAT*
+"is big"
+
+## Syntax
+
+The syntax is organized around the verb-initial structure and the trigger system, which determines the pragmatic arrangement of arguments.
+
+### 1. Constituent Order
+
+The basic constituent order is **Verb - Non-Triggered Arguments - Triggered Argument**. Due to the trigger system, the "subject" and "object" roles are determined by case marking on the nouns rather than their position relative to the verb. Non-triggered arguments are typically ordered by semantic prominence (e.g., Agent > Patient/Benefactive > Instrument > Location).
+
+*Peta-talo-aka-te        kama-aket    toki-tek.*
+*build-house-PAT.V.DIR-PFV woman-AGT  man-TRG*
+"The man was house-built for by the woman."
+
+### 2. Noun Phrase Structure
+
+Within the noun phrase, modifiers follow a mixed order. Genitive possessors precede the noun they modify, while adjectives (as stative verbs in relative clauses) follow it.
+
+*kama-ken talo poka-semo*
+*woman-GEN house be.big-STAT*
+"the woman's big house"
+
+### 3. Adjectives and Relative Clauses
+
+Adjectives are stative verbs. To modify a noun, they form a headless relative clause that follows the noun. The modified noun acts as the semantic subject of the stative verb.
+
+*talo poka-semo*
+*house be.big-STAT*
+"the house that is big" / "the big house"
+
+When this complex NP is used in a sentence, the case marking applies to the head noun.
+
+*Talo-lok poka-semo sima-na-te na-pat ya-tek.*
+*house-LOC be.big-STAT see-AGT.V.DIR-PFV 3SG-PAT 1SG-TRG*
+"In the big house, I saw him."
+
+### 4. Negation
+
+Negation is marked with a pre-verbal particle **`ti`**.
+
+*Ti sima-aka-te toki-aket kama-li-tek.*
+*NEG see-PAT.V.DIR-PFV man-AGT woman-PL-TRG*
+"The women were not seen by the man."
+
+### 5. Interrogative Clauses
+
+#### 5.1. Yes/No Questions
+
+Yes/no questions are formed by adding the clause-final particle **`a?`**.
+
+*Peta-talo-aka-te kama-aket toki-tek a?*
+*build-house-PAT.V.DIR-PFV woman-AGT man-TRG Q?*
+"Was the man house-built for by the woman?"
+
+#### 5.2. Wh-Questions
+
+Wh-questions are formed using interrogative pronouns which must be the triggered argument of the clause. This means the speaker must choose a voice/evidential affix on the verb that corresponds to the information they are seeking. The interrogative word appears in the final, triggered position. Incorporated nouns cannot be questioned directly.
+
+*   **`ke-tek`** - who/what? (for AGT/PAT/BEN roles)
+*   **`kio-tek`** - where? (for LOC role)
+*   **`kin-tek`** - with what? (for INS role)
+
+To ask about the agent:
+*Peta-talo-na-te toki-pon ke-tek?*
+*build-house-AGT.V.DIR-PFV man-BEN who-TRG?*
+"**Who** house-built for the man?"
+
+To ask about the location:
+*Peta-talo-so-te kama-aket kio-tek?*
+*build-house-LOC.V.INF-PFV woman-AGT where-TRG?*
+"**Where** was the house built by the woman?"
+
+### 6. Subordination
+
+The primary strategy for creating subordinate clauses is through the use of non-finite verb forms, particularly participles and infinitives, which function as nominalizations. The verb of the subordinate clause takes a nominalizing affix (e.g., **`-nom`** for nominalization), and its arguments are marked with case as if they were dependents of a noun. The entire nominalized clause functions as a single argument in the main clause and must be case-marked.
+
+*Sima-aka-te ya-aket [peta-talo-nom toki-pon kama-aket]-tek.*
+*see-PAT.V.DIR-PFV 1SG-AGT [build-house-NMLZ man-BEN woman-AGT]-TRG*
+"The woman's building of a house for the man was seen by me." (Literally: "Was-seen-by-me [the-house-building for-the-man by-the-woman].")

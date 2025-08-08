@@ -1,0 +1,1200 @@
+[
+  {
+    "word": "-ja",
+    "translation": "suffix",
+    "pos": "(antipassive), (linker)",
+    "notes": "Antipassive suffix for low vowel roots; linker suffix for low vowel roots. Harmonizes with root vowel height.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-ja-ja",
+    "translation": "suffix",
+    "pos": "(antipassive-linker)",
+    "notes": "Signals that the main clause's agent is the subject of the linked clause. For low vowel roots.",
+    "null": [
+      "-ja (antipassive) + -ja (linker)",
+      ""
+    ]
+  },
+  {
+    "word": "-ji",
+    "translation": "suffix",
+    "pos": "(antipassive), (linker)",
+    "notes": "Antipassive suffix for high vowel roots; linker suffix for high vowel roots. Harmonizes with root vowel height.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-ji-ji",
+    "translation": "suffix",
+    "pos": "(antipassive-linker)",
+    "notes": "Signals that the main clause's agent is the subject of the linked clause. For high vowel roots.",
+    "null": [
+      "-ji (antipassive) + -ji (linker)",
+      ""
+    ]
+  },
+  {
+    "word": "-k-",
+    "translation": "infix",
+    "pos": "(imperfective tense)",
+    "notes": "Marks ongoing/habitual action. Placed after initial (C)C of verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-ki",
+    "translation": "enclitic",
+    "pos": "(allative case)",
+    "notes": "Marks movement 'to",
+    "null": [
+      " towards'. Attaches to NP-final word. Does not participate in vowel height harmony.",
+      "e.g.",
+      " ipisi-ki (to the child)",
+      ""
+    ]
+  },
+  {
+    "word": "-kʼa",
+    "translation": "enclitic",
+    "pos": "(locative case)",
+    "notes": "Marks static location 'in",
+    "null": [
+      " at'. Attaches to NP-final word. Does not participate in vowel height harmony.",
+      "e.g.",
+      " akʼat-kʼa (at the man)",
+      ""
+    ]
+  },
+  {
+    "word": "-psa",
+    "translation": "enclitic",
+    "pos": "(instrumental case)",
+    "notes": "Marks instrument 'with'. Attaches to NP-final word. Does not participate in vowel height harmony.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-s-",
+    "translation": "infix",
+    "pos": "(prospective tense)",
+    "notes": "Marks future/intended action. Placed after initial (C)C of verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-t-",
+    "translation": "infix",
+    "pos": "(perfective tense)",
+    "notes": "Marks completed action. Placed after initial (C)C of verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-ta",
+    "translation": "enclitic",
+    "pos": "(ablative case)",
+    "notes": "Marks source 'from'. Attaches to NP-final word. Does not participate in vowel height harmony.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-ɗa",
+    "translation": "suffix",
+    "pos": "(causative)",
+    "notes": "Valence-increasing suffix. Adds a causer argument.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "akʼat",
+    "translation": "noun",
+    "pos": "man",
+    "notes": "Content word. Low vowel root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ipisi",
+    "translation": "noun",
+    "pos": "child",
+    "notes": "Content word. High vowel root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "jã̀-",
+    "translation": "prefix",
+    "pos": "(3rd person NOM)",
+    "notes": "3rd person NOM prefix. Low vowel form. Used with low vowel verb roots. Number-neutral. Low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "jã́pã̀tã̀",
+    "translation": "pronoun",
+    "pos": "they, them (ERG/ACC)",
+    "notes": "3PL ERG/ACC pronoun. Low vowel root. Nasal harmony. Mixed tone.",
+    "null": [
+      "",
+      "Homophonous with a content word."
+    ]
+  },
+  {
+    "word": "jì-",
+    "translation": "prefix",
+    "pos": "(3rd person NOM)",
+    "notes": "3rd person NOM prefix. High vowel form. Used with high vowel verb roots. Number-neutral. Low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "jìs",
+    "translation": "adverb",
+    "pos": "quickly",
+    "notes": "Content word. High vowel root. High tone.",
+    "null": [
+      "",
+      "Can modify verbs."
+    ]
+  },
+  {
+    "word": "jìs.tʼí",
+    "translation": "verb",
+    "pos": "run",
+    "notes": "Content word. High vowel root. Pitch accent on second syllable.",
+    "null": [
+      "",
+      "The period indicates a syllable break."
+    ]
+  },
+  {
+    "word": "jĩ̀kĩ́",
+    "translation": "verb",
+    "pos": "sleep",
+    "notes": "Content word. High vowel root. Nasal harmony. Pitch accent on second syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kà-pʼã̀s",
+    "translation": "noun",
+    "pos": "beach",
+    "notes": "sand-water. Compound noun. Nasal harmony. Pitch accent on first syllable.",
+    "null": [
+      "kà (water) + pʼã̀s (sand)",
+      "`kà` is a hypothetical bound morpheme for 'water'",
+      " related to `pã́`. The compound is classified as a low vowel root for affix harmony purposes."
+    ]
+  },
+  {
+    "word": "kà.pʼí",
+    "translation": "noun",
+    "pos": "head",
+    "notes": "Content word. High vowel root. Pitch accent on second syllable.",
+    "null": [
+      "",
+      "The period indicates a syllable break."
+    ]
+  },
+  {
+    "word": "kàtʼ.sã́",
+    "translation": "noun",
+    "pos": "village",
+    "notes": "Content word. Low vowel root. Nasal harmony. Pitch accent on second syllable.",
+    "null": [
+      "",
+      "The period indicates a syllable break."
+    ]
+  },
+  {
+    "word": "kã̀-",
+    "translation": "prefix",
+    "pos": "(2S/2PL NOM)",
+    "notes": "2S/2PL NOM prefix. Low vowel form. Used with low vowel verb roots. Low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kì-",
+    "translation": "prefix",
+    "pos": "(2S NOM)",
+    "notes": "2S NOM prefix. High vowel form. Used with high vowel verb roots. Low tone.",
+    "null": [
+      "Also the high-vowel harmony form of the 2PL NOM prefix `kã̀-`."
+    ]
+  },
+  {
+    "word": "kìtʼí",
+    "translation": "noun",
+    "pos": "foot",
+    "notes": "Content word. High vowel root. Pitch accent on second syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kí",
+    "translation": "pronoun",
+    "pos": "I, me (ERG/ACC)",
+    "notes": "1S ERG/ACC pronoun. High vowel root. High tone.",
+    "null": [
+      "",
+      "Homophonous with a content word."
+    ]
+  },
+  {
+    "word": "kí",
+    "translation": "pronoun",
+    "pos": "who",
+    "notes": "Interrogative pronoun. Function word. High vowel root. High tone.",
+    "null": [
+      "",
+      "This is a homophone of the 1S pronoun `kí`. Context distinguishes them."
+    ]
+  },
+  {
+    "word": "kʼàt",
+    "translation": "verb",
+    "pos": "come",
+    "notes": "Content word. Low vowel root. Low tone on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼát",
+    "translation": "adverb",
+    "pos": "here",
+    "notes": "Content word. Low vowel root. High tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼát.sà",
+    "translation": "verb",
+    "pos": "think",
+    "notes": "Content word. Low vowel root. Pitch accent on first syllable.",
+    "null": [
+      "",
+      "The period indicates a syllable break."
+    ]
+  },
+  {
+    "word": "kʼáɗà",
+    "translation": "verb",
+    "pos": "see",
+    "notes": "Content word. Low vowel root. Pitch accent on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼã̀",
+    "translation": "pronoun",
+    "pos": "which",
+    "notes": "Interrogative pronoun. Function word. Low vowel root. Nasal harmony. Low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼã̀s.pʼã́",
+    "translation": "noun",
+    "pos": "heart",
+    "notes": "Content word. Low vowel root. Nasal harmony. Pitch accent on second syllable.",
+    "null": [
+      "",
+      "The period indicates a syllable break."
+    ]
+  },
+  {
+    "word": "kʼã̀tʼá",
+    "translation": "noun",
+    "pos": "hand",
+    "notes": "Content word. Low vowel root. Nasal harmony. Pitch accent on second syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼã́",
+    "translation": "conjunction",
+    "pos": "or",
+    "notes": "Function word. Low vowel root. Nasal harmony. Exceptional high tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼã́mã̀",
+    "translation": "noun",
+    "pos": "bird",
+    "notes": "Content word. Low vowel root. Nasal harmony. Mixed tone.",
+    "null": [
+      "",
+      "Homophonous with the 2PL pronoun."
+    ]
+  },
+  {
+    "word": "kʼã́mã̀",
+    "translation": "pronoun",
+    "pos": "you (pl., ERG/ACC)",
+    "notes": "2PL ERG/ACC pronoun. Low vowel root. Nasal harmony. Mixed tone.",
+    "null": [
+      "",
+      "Homophonous with the noun \"bird\"."
+    ]
+  },
+  {
+    "word": "kʼì.psí",
+    "translation": "noun",
+    "pos": "lie",
+    "notes": "Content word. High vowel root. Pitch accent on second syllable.",
+    "null": [
+      "",
+      "The period indicates a syllable break."
+    ]
+  },
+  {
+    "word": "kʼìp",
+    "translation": "conjunction",
+    "pos": "but",
+    "notes": "Function word. High vowel root. Low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼìpísì",
+    "translation": "noun",
+    "pos": "person",
+    "notes": "Content word. High vowel root. Pitch accent on second syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼítʼ",
+    "translation": "noun",
+    "pos": "fire",
+    "notes": "Content word. High vowel root. High tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼìtʼ-stásp",
+    "translation": "noun",
+    "pos": "hearth",
+    "notes": "fire-eat. Mixed vowel root compound. Pitch accent on second syllable.",
+    "null": [
+      "kʼítʼ (fire) + stásp (a nominal use of the verb 'eat')",
+      "Vowel harmony is violated across the compound boundary. Focus is on `stásp`",
+      " so `kʼítʼ` loses its tone."
+    ]
+  },
+  {
+    "word": "kʼĩ̀t.sĩ́",
+    "translation": "noun",
+    "pos": "story",
+    "notes": "Content word. High vowel root. Nasal harmony. Pitch accent on second syllable.",
+    "null": [
+      "",
+      "The period indicates a syllable break."
+    ]
+  },
+  {
+    "word": "mã̀k",
+    "translation": "verb",
+    "pos": "want",
+    "notes": "Content word. Low vowel root. Nasal harmony. Low tone on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "mã́",
+    "translation": "pronoun",
+    "pos": "he, she, it (post-prepositional)",
+    "notes": "3S post-prepositional pronoun. Low vowel root. Nasal harmony. High tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "mã́nã̀",
+    "translation": "pronoun",
+    "pos": "we, us (ERG/ACC)",
+    "notes": "1PL ERG/ACC pronoun. Low vowel root. Nasal harmony. Mixed tone.",
+    "null": [
+      "",
+      "Homophonous with a content word."
+    ]
+  },
+  {
+    "word": "mĩ̀.kʼĩ́-sàk",
+    "translation": "noun",
+    "pos": "whale",
+    "notes": "fish-big. Mixed vowel root compound. Pitch accent on second syllable.",
+    "null": [
+      "mĩ̀kʼĩ́ (fish) + sàk (big)",
+      "Vowel harmony is violated across the compound boundary."
+    ]
+  },
+  {
+    "word": "mĩ̀kʼĩ́",
+    "translation": "noun",
+    "pos": "fish",
+    "notes": "Content word. High vowel root. Nasal harmony. Pitch accent on second syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "mĩ̀tʼĩ́",
+    "translation": "verb",
+    "pos": "love",
+    "notes": "Content word. High vowel root. Nasal harmony. Pitch accent on second syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "nã̀s.kʼã́",
+    "translation": "verb",
+    "pos": "hear",
+    "notes": "Content word. Low vowel root. Nasal harmony. Pitch accent on second syllable.",
+    "null": [
+      "",
+      "The period indicates a syllable break."
+    ]
+  },
+  {
+    "word": "nã́m",
+    "translation": "adverb",
+    "pos": "now",
+    "notes": "Content word. Low vowel root. Nasal harmony. High tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "nĩ̀",
+    "translation": "conjunction",
+    "pos": "that",
+    "notes": "Function word. High vowel root. Nasal harmony. Low tone.",
+    "null": [
+      "",
+      "Introduces content clauses. Homophonous with 3S ERG pronoun."
+    ]
+  },
+  {
+    "word": "nĩ̀",
+    "translation": "pronoun",
+    "pos": "he, she, it (ERG)",
+    "notes": "3S ERG pronoun. High vowel root. Nasal harmony. Low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "nĩ̀k",
+    "translation": "verb",
+    "pos": "say",
+    "notes": "Content word. High vowel root. Nasal harmony. Low tone on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "nĩ̀sĩ́ktĩ̀",
+    "translation": "noun",
+    "pos": "tree",
+    "notes": "Content word. High vowel root. Nasal harmony. Pitch accent on second syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "nĩ́kĩ̀pĩ̀",
+    "translation": "verb",
+    "pos": "build",
+    "notes": "Content word. High vowel root. Nasal harmony. Pitch accent on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "psákǀà",
+    "translation": "noun",
+    "pos": "river",
+    "notes": "Content word. Low vowel root. Pitch accent on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "psík",
+    "translation": "adverb",
+    "pos": "there",
+    "notes": "Content word. High vowel root. High tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "psĩ̀k",
+    "translation": "verb",
+    "pos": "go",
+    "notes": "Content word. High vowel root. Low tone on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pàt.kʼá",
+    "translation": "verb",
+    "pos": "walk",
+    "notes": "Content word. Low vowel root. Pitch accent on second syllable.",
+    "null": [
+      "",
+      "The period indicates a syllable break."
+    ]
+  },
+  {
+    "word": "pã̀-",
+    "translation": "prefix",
+    "pos": "(3rd person ABS)",
+    "notes": "3rd person ABS prefix. Low vowel form. Used with low vowel verb roots. Number-neutral. Low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pã́",
+    "translation": "noun",
+    "pos": "water",
+    "notes": "Content word. Low vowel root. Nasal harmony. High tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pì",
+    "translation": "pronoun",
+    "pos": "he, she, it (ACC)",
+    "notes": "3S ACC pronoun. High vowel root. Low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pì-",
+    "translation": "prefix",
+    "pos": "(3rd person ABS)",
+    "notes": "3rd person ABS prefix. High vowel form. Used with high vowel verb roots. Number-neutral. Low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pìktí",
+    "translation": "verb",
+    "pos": "chase",
+    "notes": "Content word. High vowel root. Pitch accent on second syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʼàs.kʼá",
+    "translation": "verb",
+    "pos": "die",
+    "notes": "Content word. Low vowel root. Pitch accent on second syllable.",
+    "null": [
+      "",
+      "The period indicates a syllable break."
+    ]
+  },
+  {
+    "word": "pʼàstá",
+    "translation": "verb",
+    "pos": "make",
+    "notes": "Content word. Low vowel root. Pitch accent on second syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʼã̀s",
+    "translation": "noun",
+    "pos": "sand",
+    "notes": "Content word. Low vowel root. Nasal harmony. Low tone on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʼã́m",
+    "translation": "adverb",
+    "pos": "always",
+    "notes": "Content word. Low vowel root. Nasal harmony. High tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʼìs.kí",
+    "translation": "noun",
+    "pos": "day",
+    "notes": "Content word. High vowel root. Pitch accent on second syllable.",
+    "null": [
+      "",
+      "The period indicates a syllable break."
+    ]
+  },
+  {
+    "word": "skàtkʼá",
+    "translation": "noun",
+    "pos": "dog",
+    "notes": "Content word. Low vowel root. Pitch accent on second syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "skʼáp",
+    "translation": "noun",
+    "pos": "rock",
+    "notes": "Content word. Low vowel root. High tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "spát",
+    "translation": "noun",
+    "pos": "path",
+    "notes": "Content word. Low vowel root. High tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "spìk",
+    "translation": "adjective",
+    "pos": "new",
+    "notes": "Content word. High vowel root. Low tone on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "stákʼ",
+    "translation": "noun",
+    "pos": "wood",
+    "notes": "Content word. Low vowel root. High tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "stásp",
+    "translation": "verb",
+    "pos": "eat",
+    "notes": "Content word. Low vowel root. Pitch accent on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "sà",
+    "translation": "pronoun",
+    "pos": "what",
+    "notes": "Interrogative pronoun. Function word. Low vowel root. Low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "sà.tʼápʼ",
+    "translation": "noun",
+    "pos": "body",
+    "notes": "Content word. Low vowel root. Pitch accent on second syllable.",
+    "null": [
+      "",
+      "The period indicates a syllable break."
+    ]
+  },
+  {
+    "word": "sàk",
+    "translation": "adjective",
+    "pos": "big",
+    "notes": "Content word. Low vowel root. Low tone on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "sã̀-",
+    "translation": "prefix",
+    "pos": "(1PL NOM)",
+    "notes": "1PL NOM prefix. Low vowel form. Used with low vowel verb roots. Low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "sì-",
+    "translation": "prefix",
+    "pos": "(1S NOM)",
+    "notes": "1S NOM prefix. High vowel form. Used with high vowel verb roots. Low tone.",
+    "null": [
+      "Also the high-vowel harmony form of the 1PL NOM prefix `sã̀-`."
+    ]
+  },
+  {
+    "word": "sìkʼ.pí",
+    "translation": "verb",
+    "pos": "breathe",
+    "notes": "Content word. High vowel root. Pitch accent on second syllable.",
+    "null": [
+      "",
+      "The period indicates a syllable break."
+    ]
+  },
+  {
+    "word": "sìkʼítʼ",
+    "translation": "noun",
+    "pos": "wind",
+    "notes": "Content word. High vowel root. Pitch accent on second syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "sĩ̀kʼ.tʼĩ́",
+    "translation": "noun",
+    "pos": "road",
+    "notes": "Content word. High vowel root. Nasal harmony. Pitch accent on second syllable.",
+    "null": [
+      "",
+      "The period indicates a syllable break."
+    ]
+  },
+  {
+    "word": "sĩ̀pmĩ́",
+    "translation": "verb",
+    "pos": "fly",
+    "notes": "Content word. High vowel root. Nasal harmony. Pitch accent on second syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "sĩ́",
+    "translation": "noun",
+    "pos": "house",
+    "notes": "Content word. High vowel root. Nasal harmony. High tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "sĩ́",
+    "translation": "pronoun",
+    "pos": "you (sg., ERG/ACC)",
+    "notes": "2S ERG/ACC pronoun. High vowel root. Nasal harmony. High tone.",
+    "null": [
+      "",
+      "Homophonous with the noun \"house\"."
+    ]
+  },
+  {
+    "word": "tã̀-",
+    "translation": "prefix",
+    "pos": "(1PL ABS)",
+    "notes": "1PL ABS prefix. Low vowel form. Used with low vowel verb roots. Low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tì-",
+    "translation": "prefix",
+    "pos": "(1S/1PL ABS)",
+    "notes": "1S/1PL ABS prefix. `tì-` is the prefix for 1S ABS with all verbs. It is also the prefix for 1PL ABS with high vowel verbs. The 1PL ABS prefix for low vowel verbs is `tã̀-`. Low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tì-nĩ̀sĩ́ktĩ̀",
+    "translation": "noun",
+    "pos": "leaf",
+    "notes": "small-tree. High vowel root compound. Nasal harmony. Pitch accent on third syllable.",
+    "null": [
+      "tìp (small) + nĩ̀sĩ́ktĩ̀ (tree)",
+      "Focus is on `nĩ̀sĩ́ktĩ̀`",
+      " so `tìp` loses its tone."
+    ]
+  },
+  {
+    "word": "tì.kʼí",
+    "translation": "noun",
+    "pos": "star",
+    "notes": "Content word. High vowel root. Pitch accent on second syllable.",
+    "null": [
+      "",
+      "The period indicates a syllable break."
+    ]
+  },
+  {
+    "word": "tìp",
+    "translation": "adjective",
+    "pos": "small",
+    "notes": "Content word. High vowel root. Low tone on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tʼsík",
+    "translation": "noun",
+    "pos": "blood",
+    "notes": "Content word. High vowel root. High tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tʼsìk-psĩ̀k",
+    "translation": "verb",
+    "pos": "bleed",
+    "notes": "blood-go. High vowel root compound. Pitch accent on second syllable.",
+    "null": [
+      "tʼsík (blood) + psĩ̀k (go)",
+      " a verb formed from a noun and a verb. Focus on `psĩ̀k`",
+      " so `tʼsík` loses its tone."
+    ]
+  },
+  {
+    "word": "tʼà",
+    "translation": "preposition",
+    "pos": "with",
+    "notes": "Function word. Low vowel root. Low tone. Core form of the preposition 'with'. It takes a harmonizing prefix (`à-` for low vowel complements",
+    "null": [
+      " `ì-` for high vowel complements) that agrees with its complement.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tʼà.ǀʼá",
+    "translation": "noun",
+    "pos": "truth",
+    "notes": "Content word. Low vowel root. Pitch accent on second syllable.",
+    "null": [
+      "",
+      "The period indicates a syllable break."
+    ]
+  },
+  {
+    "word": "tʼákʼ",
+    "translation": "adjective",
+    "pos": "old",
+    "notes": "Content word. Low vowel root. High tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tʼàkʼátʼà",
+    "translation": "verb",
+    "pos": "cut",
+    "notes": "Content word. Low vowel root. Pitch accent on second syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tʼã̀k.ǀʼã́",
+    "translation": "verb",
+    "pos": "sing",
+    "notes": "Content word. Low vowel root. Nasal harmony. Pitch accent on second syllable.",
+    "null": [
+      "",
+      "The period indicates a syllable break."
+    ]
+  },
+  {
+    "word": "tʼã́",
+    "translation": "preposition",
+    "pos": "for",
+    "notes": "Function word. Low vowel root. Nasal harmony. High tone. Core form of the preposition 'for'. It takes a harmonizing prefix (`à-` or `ì-`) that agrees with its complement.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tʼã́psã̀",
+    "translation": "verb",
+    "pos": "give",
+    "notes": "Content word. Low vowel root. Nasal harmony. Pitch accent on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tʼìkʼís",
+    "translation": "verb",
+    "pos": "know",
+    "notes": "Content word. High vowel root. Pitch accent on second syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tʼíps",
+    "translation": "noun",
+    "pos": "night",
+    "notes": "Content word. High vowel root. High tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ì-tʼã́",
+    "translation": "preposition",
+    "pos": "for",
+    "notes": "High vowel form of the preposition 'for'. Harmonizes with high vowel complements.",
+    "null": [
+      "tʼã́",
+      ""
+    ]
+  },
+  {
+    "word": "à",
+    "translation": "conjunction",
+    "pos": "and",
+    "notes": "Function word. Low vowel root. Low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "à-tʼã́",
+    "translation": "preposition",
+    "pos": "for",
+    "notes": "Low vowel form of the preposition 'for'. Harmonizes with low vowel complements.",
+    "null": [
+      "tʼã́",
+      ""
+    ]
+  },
+  {
+    "word": "ì-tʼà",
+    "translation": "preposition",
+    "pos": "with",
+    "notes": "High vowel form of the preposition 'with'. Harmonizes with high vowel complements.",
+    "null": [
+      "tʼà",
+      ""
+    ]
+  },
+  {
+    "word": "ǀʼàɗástà",
+    "translation": "noun",
+    "pos": "stone",
+    "notes": "Content word. Low vowel root. Pitch accent on second syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ǀʼã̀k.tʼã̀",
+    "translation": "noun",
+    "pos": "moon",
+    "notes": "Content word. Low vowel root. Nasal harmony. Pitch accent on first syllable.",
+    "null": [
+      "",
+      "The period indicates a syllable break within the cluster."
+    ]
+  },
+  {
+    "word": "ǀʼíp",
+    "translation": "adjective",
+    "pos": "good",
+    "notes": "Content word. High vowel root. High tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ǀʼít",
+    "translation": "verb",
+    "pos": "live",
+    "notes": "Content word. High vowel root. High tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ǀʼíɗìpì",
+    "translation": "noun",
+    "pos": "mountain",
+    "notes": "Content word. High vowel root. Pitch accent on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɗà.kʼát",
+    "translation": "verb",
+    "pos": "break",
+    "notes": "Content word. Low vowel root. Pitch accent on second syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɗák",
+    "translation": "adjective",
+    "pos": "bad",
+    "notes": "Content word. Low vowel root. High tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɗàk-kʼìpísì",
+    "translation": "noun",
+    "pos": "enemy",
+    "notes": "bad-person. Mixed vowel root compound. Pitch accent on third syllable.",
+    "null": [
+      "ɗák (bad) + kʼìpísì (person)",
+      "Vowel harmony is violated across the compound boundary. Focus is on `kʼìpísì`",
+      " so `ɗák` loses its tone."
+    ]
+  },
+  {
+    "word": "ɗàk.spá",
+    "translation": "verb",
+    "pos": "hate",
+    "notes": "Content word. Low vowel root. Pitch accent on second syllable.",
+    "null": [
+      "",
+      "The period indicates a syllable break."
+    ]
+  },
+  {
+    "word": "ɗàǀʼák",
+    "translation": "noun",
+    "pos": "food",
+    "notes": "Content word. Low vowel root. Pitch accent on second syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɗáǀàkàpʼà",
+    "translation": "noun",
+    "pos": "sky",
+    "notes": "Content word. Low vowel root. Pitch accent on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  }
+]

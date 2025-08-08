@@ -1,0 +1,78 @@
+# Phonology
+
+## Consonants
+
+| | Labial | Coronal | Palatal | Velar |
+| :--- | :---: | :---: | :---: | :---: |
+| | | Dental / Alveolar / Postalveolar | | |
+| **Nasal** | m | n̪ | | ŋ |
+| **Plosive** | p pʰ b | t̪ t̪ʰ d̪ | | k kʰ g |
+| **Affricate** | | t͡s t͡sʰ d͡z (Alveolar), t͡ʃ t͡ʃʰ d͡ʒ (Postalveolar) | | |
+| **Fricative** | | s̪ z̪ (Dental), ʃ ʒ (Postalveolar) | | x ɣ |
+| **Approximant** | | l̪ (Dental) | j | w |
+| **Trill** | | r (Alveolar) | | |
+| **Pharyngealized Dental** | | t̪ˤ t̪ʰˤ d̪ˤ, s̪ˤ z̪ˤ | | |
+| **Labialized Dental** | | t̪ʷ t̪ʰʷ d̪ʷ, s̪ʷ z̪ʷ | | |
+| **Palatalized Dental** | | t̪ʲ t̪ʰʲ d̪ʲ, s̪ʲ z̪ʲ | | |
+
+## Vowels
+
+| | Front | Central | Back |
+| :--- | :---: | :---: | :---: |
+| **Close** | i | | u |
+| **Near-close** | ɪ | | ʊ |
+| **Mid** | | ə | |
+| **Open-mid** | ɛ | | ɔ |
+| **Open** | | a | |
+
+## Phonotactics
+
+The language permits extremely complex syllables of up to CCCVCCC. Onsets can consist of a single consonant, or a two- or three-consonant cluster. The template for onsets is (Fricative)-(Approximant)-(Plosive/Affricate). For a three-consonant cluster, all three positions must be filled. Two-consonant clusters consist of a Fricative followed by an Approximant, or an Approximant followed by a Plosive or Affricate. There are no place-of-articulation restrictions on onset clusters beyond what is specified in the template.
+
+Codas are less constrained, allowing any sequence of up to three consonants provided they do not share both the same place (e.g., Labial, Coronal, Velar) and manner (e.g., Plosive, Fricative) of articulation. Unlike many languages, word-final obstruents are not subject to devoicing.
+
+Vowel harmony governs all words, which must contain either only high vowels {i, u, ɪ, ʊ} or only low vowels {ɛ, ɔ, a}, with the mid vowel /ə/ being neutral and capable of appearing in any word. Any combination of vowels within a given set (e.g., /i/ and /ʊ/ in a high-vowel word) is permitted. If a word contains only neutral vowels, it is classified with low-vowel words for the purposes of morphological processes that are sensitive to vowel harmony class (e.g., a hypothetical low-vowel suffix /-at̪/ would be added to /gəd͡zək/ to form /gəd͡zəkat̪/). The high/low harmony constraint does not apply across word boundaries.
+
+## Suprasegmentals
+
+The language has a lexically determined, unpredictable pitch accent system. Every lexical root is assigned one of three accent patterns: initial high pitch (H*L...), final high pitch (...LH*), or falling pitch on the penultimate syllable (...LĤL).
+*   The **initial high** pattern (H*L...) places a high tone on the first syllable, with all subsequent syllables having low tone.
+*   The **final high** pattern (...LH*) places a high tone on the final syllable, with all preceding syllables having low tone.
+*   The **penultimate falling** pattern (...LĤL) places a high-falling tone on the penult, with the final syllable and all pre-penultimate syllables having low tone.
+Monosyllabic words with a high tone are compatible with either the initial or final high patterns. As inflection can be suppletive, some inflected forms of a word may have their own inherent, unpredictable accent pattern, which must be learned independently of the root form. Sentence-level intonation is primarily realized through the interaction of these lexical pitch accents, rather than a fixed phrasal contour.
+
+## Word Shapes and Lexical Statistics
+
+The lexicon of this language is characterized by a vast range of word shapes, from simple monosyllables to phonologically dense polysyllabic forms. Most words are polysyllabic, typically containing two or three syllables, though monosyllabic and longer words with four or more syllables are also common. The extreme CCCVCCC syllable template is rarely maximized in practice; most syllables are simpler, often CVC or CV, but complex clusters are a notable feature of the language, especially in word-final position due to the permissive coda rules.
+
+There is a clear distinction between content and function words. The majority of lexical items are content words, which tend to be longer (two or more syllables) and are more likely to feature complex consonant clusters, secondary articulations, and the full range of vowels. In contrast, function words are few in number. They are overwhelmingly short, most being monosyllabic and many consisting of just a CV or VC syllable. These items typically lack complex clusters and often contain the neutral vowel /ə/ or simple high/low vowels.
+
+Vowel harmony strongly dictates the vocalic inventory of any given word. Words are sharply divided into "high-vowel" and "low-vowel" categories, a division that is fundamental to the lexicon. Words containing only the neutral vowel /ə/ are not uncommon, especially among shorter content words and some function words. Due to the unpredictable nature of the lexical pitch accent, there is no correlation between a word's accent pattern and its length, complexity, or word class.
+
+### Lexical Items
+
+1.  /bə́/ (function item, common)
+2.  /d͡ʒá/ (function item, common)
+3.  /kʰɛ́d̪ˤ/ (content item, common)
+4.  /pʰʊ̀l̪.t͡ʃʰɪ́k/ (content item, common)
+5.  /ʃí.bʊ̀/ (content item, common)
+6.  /t̪ʰˤɔ́.ɣà/ (content item, common)
+7.  /z̪ʷɛ́l̪.t̪/ (content item, common)
+8.  /gə̀.d͡zə́k/ (content item, fairly common)
+9.  /jɪ́.rʊ̀.ŋɪ̀n/ (content item, fairly common)
+10. /s̪ʲà.t̪ʰʲá/ (content item, fairly common)
+11. /t͡ʃʰàl̪.pʰɛ́ŋ/ (content item, fairly common)
+12. /xɔ́.mɔ̀n̪/ (content item, fairly common)
+13. /d̪ʷá.kʰà.l̪à/ (content item, somewhat common)
+14. /ŋà.t͡sʰə.d̪á/ (content item, somewhat common)
+15. /s̪ˤɛ̀.l̪ə̂.t̪ʰˤə̀/ (content item, somewhat common)
+16. /t̪ʰʷɪ̀.lʊ̀.bɪ́n/ (content item, somewhat common)
+17. /ʒú.mʊ̀r.d͡ʒʊ̀s̪/ (content item, somewhat common)
+18. /d͡zə́/ (function item, uncommon)
+19. /kʰə́/ (function item, uncommon)
+20. /s̪ʲì.jù.t̪ʲî.kʰù/ (content item, uncommon)
+21. /t̪ʰá.ɣà.n̪ɔ̀.d͡ʒà/ (content item, uncommon)
+22. /z̪ʷɛ̀.wɛ̀.pɛ̂.t̪ʷə̀/ (content item, uncommon)
+23. /d͡ʒà.ɣà.d͡zə̀.kʰà.n̪á/ (content item, rare)
+24. /s̪ʷɪ̀.kʰɪ̀.lɪ̀.ŋʊ̀.t͡ʃʰú/ (content item, rare)
+25. /ʃl̪t̪ʰɛ́t̪ˤaŋ/ (content item, very rare)

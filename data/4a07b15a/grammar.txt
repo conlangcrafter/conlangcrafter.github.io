@@ -1,0 +1,245 @@
+# Grammar
+
+## Phonology
+
+### Phonotactics
+
+The language has a strict **CV** syllable structure. All syllables consist of a single consonant followed by a single vowel.
+
+### Hiatus Resolution
+
+When a morpheme beginning with a consonant and vowel (CV) is attached to a stem ending in a vowel, the stem's final vowel is replaced by the suffix's vowel. This process maintains the strict CV syllable structure.
+*   *Example:* `/kʼata/` (stone) + `/-t̪u/` (ACC) → `/kʼat̪u/`
+
+## Morphology
+
+The language is moderately synthetic and exhibits a mix of agglutinative and fusional characteristics. Words are typically composed of a root plus several affixes, but these morphemes can cause sound changes at their boundaries.
+
+### Nominal Morphology
+
+Nouns are marked for number via reduplication and for case via suffixation. The case system is moderately rich and primarily dependent-marking.
+
+#### Number Marking: Syllabic Reduplication
+
+Number is marked by reduplicating the initial syllable(s) of the noun stem. The singular is unmarked.
+
+*   **Singular:** Unmarked.
+*   **Dual:**
+    *   **Monosyllabic nouns:** Total reduplication of the stem (`CV₁-CV₁`).
+    *   **Polysyllabic nouns:** Partial reduplication of the initial CV syllable (`CV₁-` + Noun Stem).
+*   **Plural:**
+    *   **Monosyllabic nouns:** The stem is repeated three times in total (`CV₁-CV₁-CV₁`).
+    *   **Polysyllabic nouns:** Total reduplication of the first two syllables (`CV₁CV₂-` + Noun Stem).
+
+The plural number generally indicates 'three or more' of an item. This reduplication process fully participates in vowel harmony.
+
+*Example with a monosyllabic noun:* /bʷo/ "house"
+*   **Singular:** `bʷo` (house)
+*   **Dual:** `bʷo-bʷo` (two houses)
+*   **Plural:** `bʷo-bʷo-bʷo` (three or more houses)
+
+*Example with a disyllabic noun:* /kʼa.t̪a/ "stone"
+*   **Singular:** `kʼata` (stone)
+*   **Dual:** `kʼa-kʼata` (two stones)
+*   **Plural:** `kʼata-kʼata` (three or more stones)
+
+*Example with `/ʃi.ɟe/` "person":*
+*   **Singular:** `ʃiɟe` (person)
+*   **Dual:** `ʃi-ʃiɟe` (two people)
+*   **Plural:** `ʃiɟe-ʃiɟe` (four or more people - due to a lexical-semantic quirk, the plural form of "person" specifically denotes a group of four or more)
+
+#### Case Marking
+
+Case is marked by suffixes that must obey the language's vowel harmony rules. The vowel of the suffix harmonizes with the vowel of the final syllable of the noun stem. The neutral vowel /a/ triggers back unrounded harmony.
+
+| Case | Function | Suffix |
+| :--- | :--- | :--- |
+| **Nominative (NOM)** | Subject of any verb (A/S) | Unmarked |
+| **Accusative (ACC)** | Direct object (P) | `*-t̪V` |
+| **Genitive (GEN)** | Possession | `*-qV` |
+| **Dative (DAT)** | Indirect object or recipient | `*-n̪V` |
+| **Locative (LOC)** | Location 'in/at/on' | `*-sV` |
+| **Ablative (ABL)** | Motion 'from' | `*-ʁV` |
+| **Instrumental (INS)** | Instrument used to perform an action | `*-mV` |
+
+The suffix vowel `V` changes according to the following harmony rules:
+
+| Stem Vowel Category | Suffix Vowel `V` |
+| :--- | :--- |
+| **Front Unrounded** {i, e} | `e` |
+| **Front Rounded** {y, ø} | `ø` |
+| **Back** {ɯ, u, ɤ, o, a} | `u` |
+
+*Examples of case marking (note vowel replacement):*
+`kʼata` (stone) -> `kʼat̪u` (stone-ACC), `kʼaqu` (stone-GEN), `kʼasu` (stone-LOC)
+`ʃiɟe` (person) -> `ʃiɟt̪e` (person-ACC), `ʃiɟqe` (person-GEN), `ʃiɟn̪e` (person-DAT)
+`vʷøɲy` (bird) -> `vʷøɲt̪ø` (bird-ACC)
+`xɯmɯ` (mountain) -> `xɯmsu` (mountain-LOC)
+
+### Verbal Morphology
+
+#### TAM via Vowel Apophony
+
+Tense, Aspect, and Mood (TAM) are primarily expressed through systematic changes to the final vowel of the verb root, a process known as "vowel apophony".
+
+*   **Imperfective (IPFV):** The verb's final vowel is a mid vowel {e, ø, ɤ, o}. This is the default citation form.
+*   **Perfective (PFV):** The verb's final vowel is a high vowel {i, y, ɯ, u}.
+*   **Prospective (PROSP):** The verb's final vowel is the neutral low vowel /a/.
+
+*Example of verbal apophony:*
+The root √*lˤokˤ*- "to see"
+`lˤokˤo` (see-IPFV) - "is seeing, sees"
+`lˤokˤu` (see-PFV) - "saw, has seen"
+`lˤokˤa` (see-PROSP) - "will see, is going to see"
+
+The root √*pʼicʼ*- "to cut"
+`pʼicʼe` (cut-IPFV) - "is cutting, cuts"
+`pʼicʼi` (cut-PFV) - "cut, has cut"
+`pʼicʼa` (cut-PROSP) - "will cut, is going to cut"
+
+#### Subject Agreement via Consonant Mutation
+
+Subject agreement is marked on the initial consonant of the verb root through a system of mutation. The language distinguishes three persons and three numbers (singular, dual, plural). The 3rd person singular is the unmarked, default form, which is used for citation.
+
+The mutation affects the secondary articulation or phonation of the verb's initial consonant. If a consonant already has a secondary articulation (e.g., ejective, labialized), a new mutation for person or number overrides it.
+
+*   **1st Person:** The consonant becomes **labialized** (e.g., /p/ -> /pʷ/).
+*   **2nd Person:** The consonant becomes **pharyngealized** (e.g., /p/ -> /pˤ/).
+*   **Dual Number (any person):** The consonant becomes **ejective** (e.g., /p/ -> /pʼ/). This mutation is used for all persons in the dual and overrides the 1st/2nd person mutations.
+*   **Plural Number (any person):** The consonant becomes a **voiced click** with the same place of articulation (e.g., Labial -> `ʘg`, Dental -> `ǀg`, Alveolar -> `ǃg`). This overrides all other mutations.
+
+Notes:
+*   If a verb root's initial consonant is already a click, the plural is marked by ensuring it has a voiced release. Voiceless clicks become their voiced counterparts (e.g., /ʘkʼ/ -> /ʘg/). Clicks that are already voiced remain unchanged.
+
+*Example with the root √*pʼicʼ*- "to cut" (base form /pʼicʼe/)*
+*   **3SG:** `pʼicʼe` (He/she/it cuts) - *Base form is ejective.*
+*   **1SG:** `pʷicʼe` (I cut) - *Labialization overrides ejectiveness.*
+*   **2SG:** `pˤicʼe` (You cut) - *Pharyngealization overrides ejectiveness.*
+*   **DU (any person):** `pʼicʼe` (They two / We two / You two cut) - *The dual form is identical to the 3SG base form.*
+*   **PL (any person):** `ʘgicʼe` (We / You all / They all cut) - *The initial labial plosive becomes a voiced bilabial click.*
+
+*Example with the root √*xɯm*- "to be big" (base form /xɯmɤ/)*
+*   **3SG:** `xɯmɤ` (It is big)
+*   **1SG:** `xʷɯmɤ` (I am big)
+*   **2SG:** `xˤɯmɤ` (You are big)
+*   **DU (any person):** `kʼɯmɤ` (They two / We two / You two are big) - *Velar fricative /x/ becomes velar ejective /kʼ/.*
+*   **PL (any person):** `ǂgɯmɤ` (They all / We all / You all are big) - *Velar fricative /x/ becomes a voiced palatal click /ǂg/.*
+
+#### Derivational Affixes: The Evidential Series
+
+Evidentiality is marked with prefixes prepended to the verb stem. These prefixes are immune to the consonant mutation for subject agreement.
+
+*   **Direct (DIR):** `t̠a-` (The speaker saw the event)
+*   **Inferential (INFER):** `n̪a-` (The speaker infers the event from evidence)
+*   **Reportative (REP):** `sa-` (The speaker was told about the event)
+
+*Example:*
+`t̠a-pʷicʼi       ħoʕu`
+`DIR-1SG.cut-PFV  tree-ACC`
+*"I cut the tree (I witnessed myself doing it)."*
+
+`n̪a-lˤokˤu      ʃiɟe      kʼat̪u`
+`INFER-see-PFV  person    stone-ACC`
+*"(I see footprints, so) the person must have seen the stone."*
+
+### Radical Pro-drop
+
+The language is radically pro-drop. Subject and object pronouns are almost always omitted when they can be inferred from context. Personal pronouns exist but are used only for emphasis, contrast, or to resolve ambiguity.
+
+## Syntax
+
+### Basic Constituent Order
+
+The basic constituent order is **Verb-Subject-Object (VSO)**. Adpositions are prepositions.
+
+`lˤokˤu      ʃiɟe      kʼat̪u`
+`see-PFV    person    stone-ACC`
+*"The person saw the stone."*
+
+### Noun Phrase Structure
+
+The order of modifiers within the noun phrase is fixed but shows mixed headedness: **Genitive-Noun-Adjective-Numeral**.
+
+#### Genitives
+Genitives precede the noun they modify.
+`hɯt̪qu          bʷo`
+`man-GEN          house`
+*"the man's house"*
+
+#### Adjectives and the "Stative Verb" Construction
+There are no dedicated adjectives. Properties are expressed using stative verbs. When modifying a noun, these are treated as relative clauses, using a special non-finite verbal form marked by the suffix `*-jV`. The vowel `V` follows the standard case and TAM vowel harmony rules.
+
+`hɯt̪qu          bʷo      xɯmju`
+`man-GEN          house    be.big-REL`
+*"the man's big house" (Lit: "the man's house that is big")*
+
+`ʃiɟe             pʼicʼje`
+`person           be.sharp-REL`
+*"the sharp person"*
+
+#### Numerals
+Numerals are a distinct lexical class and follow the noun (and any adjectival modifiers) directly without any special marking.
+
+`pˤoʁʷat̪ˤqu     gʷaχala   ǃgʷubʷa`
+`chief-GEN      story     two`
+*"the chief's two stories"*
+
+### Question Formation
+
+#### Yes/No Questions
+
+Yes/no questions are formed by suffixing the clitic `-χa` to the verb. Its vowel `/a/` replaces the verb's final vowel and does not participate in vowel harmony.
+
+`lˤokˤa      ʃiɟe      kʼat̪u?`
+`see.PFV-Q    person    stone-ACC`
+*"Did the person see the stone?"*
+
+#### Wh-Questions
+
+Wh-questions use in-situ interrogative pronouns, which are placed in the argument slot they correspond to without any other change in word order. Wh-words are never marked for case.
+
+*   `ɟe` - who?
+*   `ɢa` - what?
+*   `qʷo` - where?
+*   `cʷe` - when?
+*   `kʷʼi` - why?
+*   `sʼo` - how?
+
+`lˤokˤu      ɟe        kʼat̪u?`
+`see-PFV    who       stone-ACC`
+*"Who saw the stone?"*
+
+`pʼicʼi       ʃiɟe      ɢa?`
+`cut-PFV      person    what`
+*"What did the person cut?"*
+
+### Instrumental Subject Inversion
+
+While the language is strictly VSO and nominative-accusative, an instrumental noun phrase can be fronted to the pre-verbal position for emphasis. When this happens, the agent (logical subject) is demoted to an adpositional phrase. The verb agrees with the instrument as if it were the grammatical subject. The adposition `ʔa` (meaning 'by' or 'to') introduces the demoted agent.
+
+*Standard VSO sentence:*
+`pʼicʼi       ʃiɟe      ħoʕu      me   kʼat̪mu`
+`3SG.cut-PFV  person    tree-ACC     with stone-INS`
+*"The person cut the tree with a stone."*
+
+*Instrumental-fronted sentence:*
+`kʼat̪mu     pʼicʼi       ħoʕu      ʔa   ʃiɟn̪e`
+`stone-INS    3SG.cut-PFV  tree-ACC     by   person-DAT`
+*"With a stone, the tree was cut by the person."* (Lit: "By-stone cut tree by-the-person.")
+
+### Clause Chaining and Switch-Reference
+
+When combining clauses, the language uses a switch-reference system. The verb of the dependent clause is marked with a suffix indicating whether its subject is the same as or different from the subject of the following main clause. The suffix's consonant-vowel sequence replaces the verb's final vowel and its preceding consonant.
+
+*   **Same-Subject (SS):** Suffix `-li`.
+*   **Different-Subject (DS):** Suffix `-go`.
+
+*Example of Same-Subject:*
+`pˤoʁʷat̪ˤu      ħoʕu   pʼili,    pʼa      bʷot̪u`
+`chief         tree-ACC  cut-SS,     DU.build.PROSP house-ACC`
+*"The chief, having cut the tree, will build a house."* (Assuming 'chief' is dual here for verb agreement example. Root √*pʼicʼ*- 'cut' + -li -> `pʼili`; Root √*ba*- 'build' + DU + PROSP -> `pʼa`)
+
+*Example of Different-Subject:*
+`pˤoʁʷat̪ˤu      ħoʕu   pʼigo,    pʼa      ʃi-ʃiɟe      bʷot̪u`
+`chief         tree-ACC  cut-DS,     DU.build.PROSP DU-person    house-ACC`
+*"After the chief cut the tree, the two people will build a house."* (Root √*pʼicʼ*- 'cut' + -go -> `pʼigo`)

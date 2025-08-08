@@ -1,0 +1,75 @@
+# Phonology
+
+## Consonants
+
+| | Labial | Alveolar | Palatal | Velar | Uvular |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Nasal** | m | n | | ŋ | |
+| **Stop** | p pʰ | t tʰ | | k kʰ | q qʰ |
+| **Affricate** | | t͡s t͡sʰ | | | |
+| **Fricative** | | s | | x | |
+| **Approximant** | w | | j | | |
+| **Lateral Approx.** | | l | | lˠ | |
+| **Trill** | | r | | | |
+
+## Vowels
+
+| | Front | Central | Back |
+| :--- | :---: | :---: | :---: |
+| **Close** | i iː | | u uː |
+| **Close-mid** | e eː | | o oː |
+| **Open-mid** | ɛ ɛː | | ɔ ɔː |
+| **Open** | a aː | | |
+
+## Phonotactics
+
+The syllable structure is (C)(C)(C)V(V)(C)(C). The maximal onset is three consonants and the maximal coda is two. The only permissible three-consonant onsets are /s/ + plosive + approximant (from the set /w, j, l/), e.g., /spl-/, /stj-/, /skw-/. In these clusters, the aspiration contrast on the plosive is neutralized, and only the unaspirated version appears. The velar lateral /lˠ/ is a "heavy" consonant; it can only appear intervocalically (V.lˠV) or in a simple word-final coda (V.lˠ#). It cannot form consonant clusters of any kind. The maximal coda is two consonants, but this applies only word-internally. Word-final codas are restricted to a single consonant from the set /m, n, ŋ, s, r, lˠ/. Allophony is minimal and transparent, primarily involving the predictable realization of /j/ as [ç] following a phonetically aspirated stop. Since aspiration is neutralized in /s/-initial clusters, /j/ remains [j] in that environment.
+
+## Suprasegmentals
+
+The language has no phonemic tone but features a predictable, culminative stress system and front/back vowel harmony. Primary stress falls on the penultimate syllable of a phonological word. Vowel harmony operates regressively across the entire phonological word. If the final vowel of a word is a high or mid vowel (/i, iː, e, eː, u, uː, o, oː/), it causes all preceding high and mid vowels in the word to match its frontness or backness (e.g., /e, i/ vs. /o, u/). This harmony rule is obligatory. The low vowels (/ɛ, ɛː, a, aː, ɔ, ɔː/) are neutral: they do not trigger harmony and are themselves unaffected by it. When the final vowel is neutral, preceding high and mid vowels are not subject to harmony and can be either front or back depending on the morpheme's underlying form. The clear stress pattern and lack of opaque phonological rules are crucial for parsing the language's syntactically complex, deeply center-embedded sentences.
+
+## Word Shapes and Lexical Statistics
+
+The phonology of the language gives rise to a wide variety of word shapes, though certain patterns are predominant. Most words are polysyllabic, typically containing two to four syllables, a feature that facilitates the predictable penultimate stress pattern crucial for parsing. Monosyllabic words exist but are less frequent; while most are function items, some common content words exist, often with simple structures like CV(V) or CVC.
+
+Content words are characterized by their potential for phonological complexity. Many content words are disyllabic or trisyllabic, frequently featuring long vowels, consonant clusters, or both. The most common syllable structure is CV, followed by CVC. Syllables with two-consonant onsets (CCV) are common, especially in word-initial position. The highly restricted three-consonant onsets (CCCV), such as /spl-/ or /stj-/, are rare and mark a word as phonologically complex, appearing almost exclusively in content words.
+
+Function words, in contrast, are overwhelmingly monosyllabic or disyllabic and phonologically simple. They are generally subject to the same phonological rules as content words, including vowel harmony. Most consist of CV or CVC syllables and typically lack long vowels or consonant clusters, though some common items may contain such features. Some very common function words are single vowels or VC syllables.
+
+Vowel harmony is a defining feature of polysyllabic words. Most multisyllabic words with a high or mid final vowel will exhibit either exclusively front non-open vowels (/i, e/) or back non-open vowels (/u, o/), determined by that final vowel. Words containing a mix of front and back non-open vowels are common when neutral low vowels are present, or when the final vowel of the word is itself neutral (e.g., /t͡siˈnɛːjɔn/), in which case harmony is not triggered.
+
+Words ending in consonants other than the permitted set (/m, n, ŋ, s, r, lˠ/)—such as stops, affricates, the fricative /x/, or approximants—are non-existent. The "heavy" consonant /lˠ/ is somewhat rare and its distribution makes it a salient phonological marker when it appears. Coda clusters are uncommon word-internally and non-existent word-finally.
+
+### Lexical Items
+
+1.  /eˈketi/ (Content item, common; example of front harmony)
+2.  /oˈqʰɔs/ (Content item, common)
+3.  /pʰuːˈmor/ (Content item, common)
+4.  /ˈsplaːta/ (Content item, uncommon)
+5.  /ˈkwa/ (Function item, common)
+6.  /ˈt͡sʰɛn/ (Content item, common)
+7.  /iˈlˠiːma/ (Content item, somewhat rare; example of front harmony)
+8.  /ˈut͡so/ (Function item, common; example of back harmony)
+9.  /stjoːˈwe/ (Content item, uncommon; example of back harmony)
+10. /xɔqʰuːˈlaŋ/ (Content item, common)
+11. /piˈle/ (Function item, very common; example of front harmony)
+12. /tʰeˈkʰiːsir/ (Content item, common; example of front harmony)
+13. /ˈana/ (Function item, very common)
+14. /ɔm/ (Function item, common)
+15. /ˈmɔːlˠ/ (Content item, somewhat rare)
+16. /i/ (Function item, very common)
+17. /pʰeˈsi/ (Content item, common; example of front harmony)
+18. /koˈtʰu/ (Content item, common; example of back harmony)
+19. /t͡siˈnɛːjɔn/ (Content item, common)
+20. /skweˈriː/ (Content item, uncommon; example of front harmony)
+21. /ruˈpʰuŋ/ (Content item, common)
+22. /aˈqars/ (Example of an impossible word: the cluster /rs/ is not a permitted word-final coda)
+23. /oˈpilo/ (Example of an impossible word: it violates vowel harmony; would be realized as /oˈpulo/)
+24. /ˈŋaː/ (Content item, common)
+25. /t͡sɛˈlɛːkʰin/ (Content item, common)
+26. /oˈxoː/ (Content item, common; example of back harmony)
+27. /wo/ (Function item, common)
+28. /jeˈkweːtʰis/ (Content item, common; example of front harmony)
+29. /uˈlˠɔː/ (Content item, somewhat rare)
+30. /maˈtʰɛː/ (Function item, common)

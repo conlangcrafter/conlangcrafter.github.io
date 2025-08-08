@@ -1,0 +1,263 @@
+# Grammar
+
+## Morphology
+
+The language is primarily analytic, with a low morpheme-per-word ratio. Grammatical relations are mostly expressed through syntax and free-standing function words rather than affixation. Inflectional morphology is nearly absent. The main area of morphological complexity lies in a system of derivational suffixes that can change a word's class or meaning.
+
+### Noun Classes
+
+Nouns are categorized into one of four classes based on shape and function, a system crucial for case marking. There is no grammatical gender. The classes are:
+*   **Class I (Long):** For long, thin, or one-dimensional objects (e.g., stick, river, rope).
+*   **Class II (Flat):** For flat, two-dimensional, or sheet-like objects (e.g., leaf, paper, field).
+*   **Class III (Volume):** For three-dimensional, contained, or mass objects (e.g., rock, water, person, house). Discrete mental concepts are metaphorically treated as contained volumes.
+*   **Class IV (Tool/Abstract):** For tools, instruments, and abstract concepts (e.g., knife, language, fire).
+
+### Derivational Suffixes
+
+Derivational suffixes create new lexical items, often changing a word's class or adding a specific nuance. These suffixes are agglutinative and can be stacked. The noun class of the resulting word is determined by the final suffix, not the root.
+
+*   **Instrumental Suffix `-ilʲ` (creates Class IV nouns):** This vowel-initial suffix attaches to a nominal or adverbial root to create a noun for a tool or instrument used for that concept. (Note: Root-final voiceless stops become voiced between vowels, e.g., /k/ → [g], but this is not reflected in the phonemic orthography.)
+    > `t̪ik` (III) "stone" → `t̪i.k-ilʲ` (IV) "a tool made of stone, a stone hammer" (pronounced [t̪i.gilʲ])
+    >
+    > `pʲlan̪` (nominal root: "a cut") → `pʲlan̪-ilʲ` (IV) "a cutting tool, a knife"
+
+*   **Locative Suffix `-ʂal` (creates Class II nouns):** This suffix derives a noun denoting a place associated with the root concept, typically conceptualized as a flat area or region.
+    > `kʷa` (nominal root: "speech") + `-ʂal` → `kʷa.ʂal` (II) "a place of speaking; a forum, an assembly ground"
+    >
+    > `pʷjelʲ` (III) "water" + `-ʂal` → `pʷje.lʲ-ʂal` (II) "a place of water; a puddle, a basin, an oasis"
+
+*   **Resultative/Instance Suffix `-ŋke` (creates Class III nouns):** This suffix creates a noun that signifies the concrete result, product, or a single instance of the root concept.
+    > `s̪t̪ʷa` (nominal root: "a bind") + `-ŋke` → `s̪t̪ʷa-ŋke` (III) "a knot, a bundle"
+    >
+    > `ʂla` (nominal root: "thought") + `-ŋke` → `ʂla-ŋke` (III) "a thought, an idea"
+
+### Case System
+
+The language is primarily head-marking in its case alignment, with case relations determined by the clausal TAM particle. Case is realized by free-standing prepositions that agree with the noun class of the following argument. The system is split-ergative, conditioned by aspect. There are also several semantic cases.
+
+*   **Nominative/Absolutive:** The default form of a noun, which is zero-marked (i.e., it appears without any case preposition). It is used for the subject in imperfective clauses (S, A), the core argument in perfective intransitive clauses (S), and the patient (P) in perfective transitive clauses. In verbless clauses, it marks the topic.
+*   **Accusative (ACC):** Marks the patient (P) in imperfective clauses.
+*   **Ergative (ERG):** Marks the agent (A) in perfective clauses.
+*   **Genitive (GEN):** Marks possession.
+*   **Dative (DAT):** Marks recipients and beneficiaries.
+*   **Locative (LOC):** Marks location.
+
+The case prepositions inflect for the four noun classes. The root `/kʲo/` serves as a base for the core grammatical cases of accusative and ergative, while other roots form semantic cases.
+
+| Case | Class I (Long) | Class II (Flat) | Class III (Volume) | Class IV (Tool/Abstract) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Accusative** | `kʲo.lʲa` | `kʲo.tʷa` | `kʲo.na` | `kʲo.sa` |
+| **Ergative** | `kʲo.lʲe` | `kʲo.tʷe` | `kʲo.ne` | `kʲo.se` |
+| **Dative** | `n̪a.pʲĩ.lʲa` | `n̪a.pʲĩ.tʷa`| `n̪a.pʲĩ.na` | `n̪a.pʲĩ.sa` |
+| **Genitive** | `ã.lʲa` | `ã.tʷa` | `ã.na` | `ã.sa` |
+| **Locative** | `i.tõ.lʲa` | `i.tõ.tʷa` | `i.tõ.na` | `i.tõ.sa` |
+
+### Pronouns and Demonstratives
+
+The language has a simple set of personal pronouns which are frequently dropped when recoverable from context (pro-drop). They do not inflect for case; case is marked on the prepositions that precede them. When preceding a pronoun, case prepositions always take the Class III form, as this is the default class for pronominal arguments, regardless of the antecedent's noun class.
+
+| | Singular | Plural |
+| :--- | :--- | :--- |
+| **1st Person** | `jo` | `jet` |
+| **2nd Person** | `tu` | `tut` |
+| **3rd Person** | `ne` | `net` |
+
+The third-person pronouns are also used as neutral demonstratives ("this/that," "these/those"). For more specific deixis, the language uses a set of adverbial demonstratives indicating proximity to the speaker. These are placed after the noun they modify.
+
+*   `tʷo` - "here, this one right here" (proximal)
+*   `tʷe` - "there, that one nearby" (medial)
+*   `tʷa` - "yonder, that one far away" (distal)
+
+> `s̪kʷo.ɳa` `tʷe`
+>
+> s̪kʷo.ɳa tʷe
+>
+> house(III) there
+>
+> "that house there"
+
+## Syntax
+
+The basic constituent order is rigid Verb-Subject-Object (VSO). However, the "V" slot is more accurately a "Frame" slot, occupied by a particle that establishes the tense, aspect, mood (TAM), and corresponding case alignment for the clause. The main predicate is often a nominal element placed later in the clause. Lexical verbs are rare; most concepts are expressed through nominals acting as predicates within these frames.
+
+### The Frame Slot and Verbless Predication
+
+A zero-copula construction is used for simple identification or property attribution.
+> `ɓa` `mẽ.lʲa`
+>
+> ɓa mẽ.lʲa
+>
+> person(III) teacher(III)
+>
+> "The person is a teacher."
+
+Possession is expressed with a dative argument and the possessed item as the topic.
+> `n̪a.pʲĩ.na` `ɓa` `s̪kʷo.ɳa`
+>
+> n̪a.pʲĩ.na ɓa s̪kʷo.ɳa
+>
+> DAT.III person(III) house(III)
+>
+> "The person has a house." (Lit: "To the person, a house.")
+
+With a locative argument, the meaning becomes existential.
+> `i.tõ.na` `s̪kʷo.ɳa` `pʷjelʲ`
+>
+> i.tõ.na s̪kʷo.ɳa pʷjelʲ
+>
+> LOC.III house(III) water(III)
+>
+> "There is water in the house." (Lit: "In the house, water.")
+
+More complex frames include:
+
+**1. Causative Frame:** A dative argument is added to a standard transitive frame to introduce a causer. The original agent is demoted to the dative.
+
+*   **Imperfective Causative:** The causer is in the nominative, the causee is in the dative, and the patient is in the accusative.
+> `tʷo.n̪e` `mẽ.lʲa` `n̪a.pʲĩ.na` `ɓa` `kʲo.na` `pʷjelʲ`
+>
+> tʷo.n̪e mẽ.lʲa n̪a.pʲĩ.na ɓa kʲo.na pʷjelʲ
+>
+> IPFV.PRS teacher(III) DAT.III person(III) ACC.III water(III)
+>
+> "The teacher is making the person drink water." (Lit: "Is-doing teacher to-person ACC-water.")
+
+*   **Perfective Causative:** The causer is in the ergative, the causee is in the dative, and the patient is in the absolutive.
+> `stʷũ` `kʲo.ne` `mẽ.lʲa` `n̪a.pʲĩ.na` `ɓa` `pʷjelʲ`
+>
+> stʷũ kʲo.ne mẽ.lʲa n̪a.pʲĩ.na ɓa pʷjelʲ
+>
+> PFV.PST ERG.III teacher(III) DAT.III person(III) water(III)
+>
+> "The teacher made the person drink water." (Lit: "Did ERG-teacher to-person water.")
+
+**2. Experiencer Frame:** For psychological or sensory predicates, the experiencer is marked with the dative, and the stimulus is the nominative/absolutive topic.
+> `n̪a.pʲĩ.na` `ɓa` `ʂa.t̪a`
+>
+> n̪a.pʲĩ.na ɓa ʂa.t̪a
+>
+> DAT.III person(III) dog(III)
+>
+> "The person likes the dog." (Lit: "To the person, a dog [is pleasing].")
+
+With a TAM particle, the meaning becomes eventive.
+> `tʷo.n̪e` `n̪a.pʲĩ.na` `ɓa` `ʂa.t̪a`
+>
+> tʷo.n̪e n̪a.pʲĩ.na ɓa ʂa.t̪a
+>
+> IPFV.PRS DAT.III person(III) dog(III)
+>
+> "The person is perceiving/experiencing the dog." (e.g., watching it, feeling afraid of it, etc., depending on context).
+
+**3. Instrumental Frame (The "With-Subject"):** To express that an agent performs an action using an instrument, the Instrumental 'With-Subject' construction is used. In this frame, the instrument is promoted to the subject slot immediately following the TAM particle, taking nominative/ergative case as appropriate. The logical agent is demoted to a special comitative-like preposition `pʲlan̪.tʷi`. Uniquely among prepositions, `pʲlan̪.tʷi` has an invariant form and does not agree for noun class. This construction is obligatory whenever an instrument is explicitly mentioned.
+
+*   **Imperfective "With-Subject" Construction:** The instrument is in the nominative case.
+> `tʷo.n̪e` `t̪i.k-ilʲ` `pʲlan̪.tʷi` `ɓa` `kʲo.na` `ʂa.t̪a`
+>
+> tʷo.n̪e t̪i.k-ilʲ pʲlan̪.tʷi ɓa kʲo.na ʂa.t̪a
+>
+> IPFV.PRS stone-tool(IV) WITH person(III) ACC.III dog(III)
+>
+> "The person is hitting the dog with the stone tool." (Lit: "Is-doing stone.tool with-person ACC-dog.")
+
+*   **Perfective "With-Subject" Construction:** The instrument is in the ergative case.
+> `stʷũ` `kʲo.se` `t̪i.k-ilʲ` `pʲlan̪.tʷi` `ɓa` `ʂa.t̪a`
+>
+> stʷũ kʲo.se t̪i.k-ilʲ pʲlan̪.tʷi ɓa ʂa.t̪a
+>
+> PFV.PST ERG.IV stone-tool(IV) WITH person(III) dog(III)
+>
+> "The person hit the dog with the stone tool." (Lit: "Did ERG-stone.tool with-person dog.")
+
+### TAM and Split-Ergativity
+
+Tense, Aspect, and Mood (TAM) are marked by a rich set of pre-verbal particles. These function words determine the morphosyntactic alignment of the clause.
+
+| Aspect | Tense | Particle | Alignment |
+| :--- | :--- | :--- | :--- |
+| **Imperfective** | Present | `tʷo.n̪e` | Nominative-Accusative |
+| | Past | `tʷo.n̪a` | Nominative-Accusative |
+| **Perfective** | Present | `stʷe` | Ergative-Absolutive |
+| | Past | `stʷũ` | Ergative-Absolutive |
+
+**Imperfective Aspect (Nominative-Accusative Alignment)**
+The agent (A) is in the unmarked nominative case, and the patient (P) takes the accusative.
+
+> `tʷo.n̪e` `ɓa` `kʲo.na` `pʷjelʲ`
+>
+> tʷo.n̪e ɓa kʲo.na pʷjelʲ
+>
+> IPFV.PRS person(III) ACC.III water(III)
+>
+> "The person is drinking water."
+
+**Perfective Aspect (Ergative-Absolutive Alignment)**
+The agent (A) takes the ergative case, and the patient (P) is in the unmarked absolutive case.
+
+> `stʷũ` `kʲo.ne` `ɓa` `pʷjelʲ`
+>
+> stʷũ kʲo.ne ɓa pʷjelʲ
+>
+> PFV.PST ERG.III person(III) water(III)
+>
+> "The person drank water."
+
+### Subordinate Clauses, Relative Tense, and Switch-Reference
+
+Subordination is achieved through clause chaining. Subordinate clauses are introduced by a subordinating particle which occupies the initial 'Frame' slot. This particle's form indicates whether the subject of the subordinate clause is the same as or different from an argument of the main clause. The tense of a subordinate clause is interpreted relative to the main clause.
+
+*   `/ã/` **(Simultaneous, Same-Subject):** Marks a simultaneous action when the subject of the subordinate clause is coreferential with the subject (A/S) of the main clause. The shared subject is obligatorily dropped in the subordinate clause. The subordinator `/ã/` marks simultaneity, and no separate TAM particle is used. Case marking within the subordinate clause *always* follows imperfective (NOM-ACC) alignment, regardless of the tense or aspect of the main clause.
+> `tʷo.n̪e` `ɓa` `kʲo.na` `pʷjelʲ` `[ã` `i.tõ.na` `s̪kʷo.ɳa]`
+>
+> tʷo.n̪e ɓa kʲo.na pʷjelʲ [ã i.tõ.na s̪kʷo.ɳa]
+>
+> IPFV.PRS person(III) ACC.III water(III) [REL.SIM.SS LOC.III house(III)]
+>
+> "The person is drinking water while in the house."
+>
+> `stʷũ` `kʲo.ne` `ɓa` `pʷjelʲ` `[ã` `kʲo.na` `t̪ik]`
+>
+> stʷũ kʲo.ne ɓa pʷjelʲ [ã kʲo.na t̪ik]
+>
+> PFV.PST ERG.III person(III) water(III) [REL.SIM.SS ACC.III stone(III)]
+>
+> "The person drank water while holding a stone."
+
+*   `/kʷe/` **(Simultaneous, Patient-as-Subject):** Marks a simultaneous action when the subject of the subordinate clause is coreferential with the patient/undergoer (P) of the main clause. The shared argument is obligatorily dropped, and no separate TAM particle is used. The predicate of the subordinate clause is intransitive, and its argument is always in the absolutive/nominative case.
+> `stʷũ` `kʲo.ne` `ɓa` `ʂa.t̪a` `[kʷe` `pʷjelʲ]`
+>
+> stʷũ kʲo.ne ɓa ʂa.t̪a [kʷe pʷjelʲ]
+>
+> PFV.PST ERG.III person(III) dog(III) [REL.SIM.PS water(ABS)]
+>
+> "The person hit the dog while it was drinking water."
+
+*   `/kʲo/` **(General, Different-Subject):** This particle introduces a subordinate clause with a different subject. It is followed by a TAM particle and the rest of the clause. The main clause TAM particles also function as relative TAM particles in these contexts. Their tense is interpreted relative to the main clause: an imperfective particle indicates a simultaneous, ongoing action, while a perfective particle indicates an action completed immediately prior to the main clause action.
+> `stʷũ` `kʲo.ne` `ɓa` `ʂa.t̪a` `[kʲo` `tʷo.n̪a` `mẽ.lʲa` `kʲo.na` `t̪ik]`
+>
+> stʷũ kʲo.ne ɓa ʂa.t̪a [kʲo tʷo.n̪a mẽ.lʲa kʲo.na t̪ik]
+>
+> PFV.PST ERG.III person(III) dog(III) [REL.GEN.DS IPFV.PST.REL teacher(III) ACC.III stone(III)]
+>
+> "The person hit the dog while the teacher was throwing a stone."
+
+## Mini-Lexicon
+
+| Lexeme | Class | Type | Meaning |
+| :--- | :--- | :--- | :--- |
+| `ɓa` | III | Noun | person, human being |
+| `kʷa` | - | Nominal Root | speech, speaking |
+| `mẽ.lʲa` | III | Noun | teacher, elder |
+| `pʲlan̪` | - | Nominal Root | a cut, an incision |
+| `pʲlan̪.tʷi` | - | Preposition | with, by means of (marks demoted agent in instrumental frame) |
+| `pʷjelʲ` | III | Noun | water |
+| `s̪kʷo.ɳa` | III | Noun | house, dwelling |
+| `s̪t̪ʷa` | - | Nominal Root | a bind, binding |
+| `ʂa.t̪a` | III | Noun | dog, canine |
+| `ʂla` | - | Nominal Root | thought, mind |
+| `ʂla-ŋke` | III | Noun | an idea, a thought (derived from `ʂla`) |
+| `t̪ik` | III | Noun | stone, rock |
+| `stʷũ` | - | TAM Particle | Past Perfective |
+| `stʷe` | - | TAM Particle | Present Perfective |
+| `tʷo.n̪e` | - | TAM Particle | Present Imperfective |
+| `tʷo.n̪a` | - | TAM Particle | Past Imperfective |

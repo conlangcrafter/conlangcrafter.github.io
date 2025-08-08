@@ -1,0 +1,17 @@
+{
+  "id": "60461262",
+  "name": "Kaãnã",
+  "created_at": "2025-08-02 12:20:21",
+  "model": "gemini-2.5-pro",
+  "user_constraints": null,
+  "has_phonology": true,
+  "has_grammar": true,
+  "has_lexicon": true,
+  "completeness": 100,
+  "features": [
+    "Tone System",
+    "SOV Word Order",
+    "Fusional Morphology",
+    "Evidentiality System"
+  ]
+}

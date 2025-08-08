@@ -1,0 +1,18 @@
+{
+  "id": "979a868d",
+  "name": "!xaãnã",
+  "created_at": "2025-08-02 20:46:19",
+  "model": "gemini-2.5-pro",
+  "user_constraints": null,
+  "has_phonology": true,
+  "has_grammar": true,
+  "has_lexicon": true,
+  "completeness": 100,
+  "features": [
+    "Tone System",
+    "Click Consonants",
+    "SVO Word Order",
+    "Ergative Alignment",
+    "Fusional Morphology"
+  ]
+}

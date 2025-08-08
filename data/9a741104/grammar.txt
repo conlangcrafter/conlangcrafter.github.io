@@ -1,0 +1,167 @@
+# Grammar
+
+## Morphology
+
+The language is primarily analytic, with a small degree of agglutinative morphology, mainly in its nominal case system and a unique system of pronominal clitics. Verbs are morphologically simple, while nouns and associated clitics carry most relational information.
+
+### Nominal Morphology
+
+Nouns are marked for case but not for number or gender. The case system is moderately complex and follows a tripartite alignment, meaning the subject of an intransitive verb (S), the agent of a transitive verb (A), and the patient of a transitive verb (P) are all marked distinctly. Case suffixes are obligatory on all full noun phrases that function as a core argument (S, A, or P) within a clause, including non-finite converbal clauses.
+
+*   **Intransitive Case (-e):** Marks the subject of an intransitive verb.
+*   **Agentive Case (-wo):** Marks the agent/subject of a transitive verb.
+*   **Patientive Case (-om):** Marks the patient/object of a transitive verb.
+*   **Genitive Case (-i):** Marks possession.
+*   **Locative Case (-a):** Marks static location, equivalent to English 'in', 'at', 'on'.
+*   **Instrumental Case (-ut͡so):** Marks the instrument used to perform an action.
+
+Case suffixes trigger the language's regressive vowel harmony. The final vowel of the suffix determines the frontness or backness of all preceding high and mid vowels in the word.
+
+*pʰesi* (dog, underlyingly front vowels) + `-wo` (agentive, back vowel) → /pʰoˈsu-wo/
+*koˈtʰu* (house, underlyingly back vowels) + `-e` (intransitive, front vowel) → /keˈtʰi-e/
+
+*   *pʰoˈsu-wo**=o** jeˈkweːtʰis tʰuŋ-om=om.*
+    dog-**AGT**=3A see thing-PAT=3P
+    "The dog sees something."
+
+*   *keˈtʰi-**e**=e oˈxoː.*
+    house-**INTR**=3S go
+    "The house is gone."
+
+*   *pʰuːˈmor-wo=o pʰeˈsin koˈtʰu-om=om oˈqʰɔs-**ut͡so**.*
+    man-AGT=3A build house-PAT=3P rock-**INS**
+    "The man builds the house with a rock."
+
+### Verbal Morphology
+
+Verbs are exceptionally simple and are not inflected for tense, aspect, mood, or person/number agreement. These concepts are conveyed through context, temporal adverbs, or separate modal and negation particles that appear directly before the verb. The established order for these particles is: **Potential (`piˈle`) > Future/Intentional (`oˈxoː`) > Negation (`wo`).**
+
+*   **`wo` (Negation):** The particle `wo` negates the verb.
+*   **`piˈle` (Potential):** The particle `piˈle` indicates ability or possibility ('can', 'may').
+*   **`oˈxoː` (Future/Intentional):** The particle `oˈxoː` indicates future tense or intention ('will', 'is going to'). It can also function as the main verb 'to go'.
+
+*pʰuːˈmor-wo**=o** koˈtʰu-om**=om** **wo** pʰeˈsin.*
+man-AGT**=3A** house-PAT**=3P** **NEG** build
+"The man does not build the house."
+
+*pʰoˈsu-wo**=o** koˈtʰu-om**=om** **piˈle oˈxoː wo** pʰeˈsin.*
+dog-AGT**=3A** house-PAT**=3P** **POT FUT NEG** build
+"The dog will be able to not build the house."
+
+The most significant verbal affix is the converb.
+
+*   **Converb (-na):** This suffix attaches to a verb, turning it into a non-finite form crucial for the language's syntax. It forms relative clauses, which can function attributively (like adjectives) or as more complex subordinate clauses. As its vowel `/a/` is neutral, it does not participate in vowel harmony.
+    1.  **Adjectival Modification:** It turns a verb into an adjective modifying a noun. Consistent with the head-final NP structure, these adjectival clauses are placed before the noun they modify.
+    2.  **Subordination:** It marks the verb of a subordinate clause, such as a relative clause, which is essential for center-embedding.
+
+    *iˈlˠiːma-**na** pʰuːˈmor*
+    sleep-**CONV** man
+    "the sleeping man" or "the man who is sleeping"
+    (This is a noun phrase, not a complete sentence.)
+
+    *maˈtʰɛː oˈqʰɔs-om=om t͡sʰɛn-**na** pʰuːmor-e**=e** iˈlˠiːma*
+    yesterday rock-PAT=3P hold-CONV man-INTR**=3S** sleep
+    "The man, who was holding a rock yesterday, is sleeping."
+
+### Adjectives
+
+There is no independent lexical class of adjectives. All adjectival concepts are expressed through intransitive verbs (e.g., /stjeːˈwe/ 'to be big', /t͡sɛˈlɛːkʰin/ 'to be green'). Syntactically, these function as pre-nominal relative clauses, formed with the converb suffix `-na` and placed before the noun they modify. This is consistent with the head-final NP structure.
+
+*stjeːˈwe-**na** koˈtʰu*
+be.big-**CONV** house
+"the big house" (literally, "the being-big house")
+
+### Pronouns and Logophoricity
+
+Pronouns are mandatory and cannot be dropped. They are realized as a set of enclitics. The subject clitic attaches to the last word of the first constituent of its clause. For a noun phrase, this is always the head noun due to the head-final structure (e.g., in *eˈqʰɔs-i pʰuːˈmor-e=e*, the clitic attaches to *pʰuːˈmor*). For a preposed adverb, the clitic attaches directly to the adverb. If the subject NP is omitted, the clitic attaches to the verb. The object clitic attaches to the last word of the object noun phrase itself. Pronominal clitics are required on all arguments within both main and non-finite converbal clauses.
+
+| Person | Intransitive (S) | Agentive (A) | Patientive (P) |
+| :--- | :---: | :---: | :---: |
+| **1st** | =ne | =wo | =nom |
+| **2nd** | =ke | =ko | =kom |
+| **3rd** | =e | =o | =om |
+| **Logophoric** | =je | =jo | =jom |
+
+*pʰuːˈmor-e**=e** iˈlˠiːma.*
+man-INTR**=3S** sleep
+"The man, he sleeps."
+
+*maˈtʰɛː**=ne** pʰuːmor-om**=om** tʰeˈkʰiːsir.*
+yesterday**=1S** man-PAT**=3P** chase
+"Yesterday, I chased the man."
+
+An unusual feature is the **logophoric pronoun** (`=je, =jo, =jom`), which is crucial for disambiguating complex, deeply embedded sentences. The logophoric pronoun refers to the agent (A) or intransitive subject (S) of the closest commanding clause whose verb is of a suitable semantic class (speech, thought, perception, etc.). If the immediately higher clause does not have a suitable antecedent, reference may be to the next highest suitable antecedent. This provides a clear anchor to the perspective of a higher participant. The case marking on a noun in an embedded clause is determined by its grammatical role within that same clause.
+
+*   *pʰuːˈmor-wo**=o** [pʰesi-e**=je** iˈlˠiːma-na] jeˈkweːtʰis.*
+    man-AGT**=3A** [dog-INTR**=LOGO.S** sleep-CONV] see
+    "The man sees his (own) sleeping dog."
+
+Without the logophoric pronoun, a standard 3rd person pronoun marks standard coreference without the added perspectival meaning:
+
+*   *pʰuːˈmor-wo**=o** [pʰesi-e**=e** iˈlˠiːma-na] jeˈkweːtʰis.*
+    man-AGT**=3A** [dog-INTR**=3S** sleep-CONV] see
+    "The man sees the sleeping dog." (Lit: "The man sees the dog that it is sleeping.")
+
+## Syntax
+
+### Basic Clause Structure
+
+The language has a fixed **SVO** (Subject-Verb-Object) constituent order. Adverbial phrases and other adjuncts typically follow the verb and its core arguments. This creates a typologically mixed pattern of head-initial verb phrases (SVO) and head-final noun phrases.
+
+*pʰuːˈmor-wo**=o** pʰeˈsin koˈtʰu-om**=om**.*
+man-AGT**=3A** build house-PAT**=3P**
+"The man builds the house."
+
+*pʰuːˈmor-wo**=o** jeˈkweːtʰis oˈqʰɔs-a.*
+man-AGT**=3A** look rock-LOC
+"The man looks at the rock."
+
+### Noun Phrase Structure
+
+Noun phrases are strictly head-final. The rigid order is **Genitive - Numeral - Adjective - Noun**. The genitive-marked possessor noun phrase is always the first element. Adjectives, being stative verbs with the `-na` converb suffix, fit into this structure as pre-nominal relative clauses. When multiple adjectival clauses are present, they are placed sequentially before the noun. Their order is not fixed and depends on semantic scope, with the clause closest to the noun modifying the most intrinsic quality.
+
+*eˈqʰɔs-**i** stjeːˈwe-na t͡sɛˈlɛːkʰin-na pʰuːˈmor-e**=e** iˈlˠiːma.*
+rock-GEN be.big-CONV be.green-CONV man-INTR**=3S** sleep.
+"The rock's big, green man is sleeping."
+
+### Interrogatives
+
+Questions are formed with an interrogative enclitic, **`=tʰa`**, which attaches to the constituent being questioned ("in-situ" questioning). To form wh-questions like 'who?' or 'what?', a generic pro-form noun (e.g., `pʰerson-` 'person', `tʰiŋ-` 'thing') is used, marked for the appropriate case, with `=tʰa` attached. For yes/no questions, `=tʰa` attaches to the verb. If a constituent already hosts a pronominal clitic, the interrogative clitic follows it.
+
+*   `pʰerson-wo=tʰa` → 'who?' (agent)
+*   `tʰuŋ-om=tʰa` → 'what?' (patient)
+*   `pʰerson-i=tʰa` → 'whose?'
+*   `tʰiŋ-a=tʰa` → 'where?'
+*   `tʰuŋ-ut͡so=tʰa` → 'with what?'
+
+*pʰerson-wo**=tʰa** koˈtʰu-om**=om** pʰeˈsin?*
+person-AGT**=Q** house-PAT**=3P** build
+"**Who** builds the house?"
+
+*pʰuːˈmor-wo**=o** tʰuŋ-om**=om=tʰa** pʰeˈsin?*
+man-AGT**=3A** thing-PAT**=3P=Q** build
+"**What** does the man build?"
+
+*pʰuːˈmor-wo**=o** koˈtʰu-om**=om** pʰeˈsin**=tʰa**?*
+man-AGT**=3A** house-PAT**=3P** build**=Q**
+"**Does** the man build the house?"
+
+*pʰeˈsin=o=tʰa koˈtʰu-om=om?*
+build=3A=Q house-PAT=3P
+"**Does he** build the house?"
+
+### Center-Embedding and Subordination
+
+A defining syntactic feature is its routine use of deep center-embedding. An embedded clause modifying a subject is placed directly after that subject, using the converbal verb form `-na`. The combination of strict SVO order, obligatory case marking, mandatory pronominal clitics, the converb `-na`, and the logophoric pronoun system makes parsing multiple nested clauses feasible.
+
+In a simple center-embedding, the clause modifying the main subject appears between the subject and the main verb.
+
+*pʰuːˈmor-wo**=o** [koˈtʰu-**om**=om pʰeˈsin-**na**] ruˈpʰuŋ-om**=om** oˈxoː t͡sʰɛn.*
+man-AGT**=3A** [house-PAT**=3P** build-CONV] food-PAT**=3P** FUT eat
+"The man [who is building the house] will eat the food."
+
+The system allows for multiple, nested embeddings, with triple center-embeddings being common in narrative and formal speech.
+
+*pʰuːˈmor-wo**=o** [pʰesi-e**=je** [oˈqʰɔs-om**=jom** tʰeˈkʰiːsir-na] jeˈkweːtʰis-na] ruˈpʰuŋ-om**=om** oˈxoː t͡sʰɛn.*
+man-AGT**=3A** [dog-INTR**=LOGO.S** [rock-PAT**=LOGO.P** chase-CONV] see-CONV] food-PAT**=3P** FUT eat.
+**Natural English Translation:** "The man, who sees his dog which is chasing his (the man's) rock, will eat the food."

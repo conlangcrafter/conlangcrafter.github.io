@@ -1,0 +1,75 @@
+# Phonology
+
+## Consonants
+
+|           | Labial | Alveolar | Postalveolar | Palatal | Velar | Glottal |
+| :-------- | :----: | :------: | :----------: | :-----: | :---: | :-----: |
+| **Nasal** |   m    |    n     |              |         |   ŋ   |         |
+| **Plosive** |  p b   |   t d    |              |         |  k g  |    ʔ    |
+| **Fricative** |        |   s z    |      ʃ       |         |       |    h    |
+| **Affricate** |        |    t͡s    |              |         |       |         |
+| **Approximant** |   w    |    l     |              |    j    |       |         |
+
+## Vowels
+
+|           | Front | Central | Back  |
+| :-------- | :---: | :-----: | :---: |
+| **Close** |   i   |         |   u   |
+| **Mid**   |   e   |         |   o   |
+| **Open**  |   a   |         |       |
+| **Nasal** |   ĩ   |    ã    |   ũ   |
+
+## Phonotactics
+
+The syllable structure is (C)V(C). All consonants may appear as onsets. All consonants except /h, w, j/ may appear as codas. No consonant clusters are permitted within a syllable. Consonant sequences across syllable boundaries are permitted (e.g., /at.ka/). Vowel sequences across syllable boundaries (hiatus) are also permitted (e.g., /a.i/, /u.o/).
+
+The phonemes /m/ and /ŋ/ are not permitted in the underlying coda position of a morpheme; the only underlying morpheme-final coda nasal is /n/. This /n/ then assimilates to the place of articulation of a following consonant:
+*   Before a labial consonant (/p, b, m, w/): /n/ becomes [m] (e.g., underlying /un.pa/ is realized as [umpa]).
+*   Before a velar consonant (/k, g, ŋ/): /n/ becomes [ŋ] (e.g., underlying /an.ko/ is realized as [aŋko]).
+*   Elsewhere (before alveolar, postalveolar, or glottal consonants, before a vowel, or word-finally): /n/ is realized as [n] (e.g., /an.to/, /on.ʃi/, /o.to.san/).
+
+A unique feature is prosodic gemination. Any intervocalic consonant that is permitted in the coda may be phonemically lengthened. Gemination is analyzed as the consonant filling the coda of the preceding syllable and the onset of the following one (e.g., /ata/ vs. /atːa/ syllabified as /at.ta/). This process can occur after any vowel, both oral and nasal, in an intervocalic position. Consonants that are prohibited from appearing in the coda—/h, w, j/—cannot be geminated. The coda nasal assimilation rule does not apply to the first half of a geminate nasal (e.g., /an.na/ is realized as [an.na]). Consequently, a surface nasal-plosive cluster like [mp] is always analyzed as underlying /n+p/, which is distinct from a true geminate like /p.p/ or /m.m/.
+
+## Suprasegmentals
+
+The language has no phonemic stress, tone, or pitch accent. All syllables receive roughly equal weight, with a slight, non-phonemic stress falling on the first syllable of a phonological word. Nasalization is phonemic for the vowels /i, a, u/, creating a contrast between oral and nasal vowels (e.g., /pi/ vs. /pĩ/). The mid vowels /e, o/ do not have nasal counterparts.
+
+## Word Shapes and Lexical Statistics
+
+The basic syllable structure of (C)V(C) allows for a moderate variety of word shapes. Most words in the language, especially content words, consist of two to four syllables. Monosyllabic words are common, but they overwhelmingly serve as function words. A few high-frequency content words are monosyllabic. Words longer than four syllables are typically technical terms or compounds.
+
+The most prevalent word structure is a sequence of open CV syllables, such as /CV.CV/ or /CV.CV.CV/. This is due to a large portion of the lexicon deriving from sources that favor open syllables. Words containing closed syllables, such as /CV.CVC/ or /CVC.CV.CVC/, are also quite common. Words beginning with a vowel (in either a V... or VC... pattern) are less frequent than those beginning with a consonant but are by no means rare.
+
+Prosodic gemination is a significant feature used frequently to distinguish between lexical items. Nasal vowels are also a core phonological feature and appear in a notable number of words across all syllable positions.
+
+Function words are typically monosyllabic, consisting of a V, CV, or VC syllable. A few disyllabic function words exist, but they are in the minority. In contrast, content words are typically disyllabic or longer.
+
+### Lexical Items
+
+1.  /e/ (Function word, common)
+2.  /to/ (Function word, common)
+3.  /un/ (Function word, common)
+4.  /mi/ (Function word, common)
+5.  /na/ (Function word, common)
+6.  /go/ (Content word; one of the very few monosyllabic content words, but it is used with high frequency)
+7.  /bapːo/ (Content word, common, syllabified /bap.po/)
+8.  /tã.sa/ (Content word, common)
+9.  /i.nu/ (Content word, common)
+10. /ka.sa/ (Content word, common)
+11. /ʃim.bun/ (Content word, common, from underlying /ʃin.bun/, realized as [ʃimbun])
+12. /do.bu.t͡su/ (Content word, common)
+13. /es.pe.lo/ (Content word, common)
+14. /a.ma.i/ (Content word, common)
+15. /ko.ko.lo/ (Content word, common)
+16. /pã.no/ (Content word, common)
+17. /matːa/ (Content word, somewhat common, syllabified /mat.ta/)
+18. /kĩ.no/ (Content word, common)
+19. /o.to.san/ (Content word, common)
+20. /deŋ.ki/ (Content word, common, from underlying /den.ki/, realized as [deŋki])
+21. /su.gi/ (Content word, somewhat common)
+22. /zasːi/ (Content word, somewhat common, syllabified /zas.si/)
+23. /u.ta.o/ (Content word, common)
+24. /ʔa.mi.ko/ (Content word, common)
+25. /anːa/ (Content word, common, syllabified /an.na/)
+26. /gomːen/ (Content word, common, from underlying /gom.men/, realized [gommen])
+27. /silːa/ (Content word, somewhat common, syllabified /sil.la/)

@@ -1,0 +1,1056 @@
+[
+  {
+    "word": "-i",
+    "translation": "suffix",
+    "pos": "direct evidential marker",
+    "notes": "Attaches to verbs and, by concord, to adpositions.",
+    "null": [
+      "Indicates witnessed event."
+    ]
+  },
+  {
+    "word": "-nø",
+    "translation": "suffix",
+    "pos": "non-finite verbal marker",
+    "notes": "Marks the verb in a subordinate clause.",
+    "null": [
+      "Example: pʼlɔkʼ-nø /pʼlɔkʼ.nø˥.˩˥/ (to build",
+      " non-finite).",
+      ""
+    ]
+  },
+  {
+    "word": "-t͡sʼɔ",
+    "translation": "suffix",
+    "pos": "inchoative verbalizer",
+    "notes": "Creates a verb meaning 'to become full of [NOUN]'. Note: This suffix triggers regressive harmony, where its rounded vowel affects preceding vowels in the stem. This is a primary source of harmony in the language.",
+    "null": [
+      "From noun 'bəlk' (dust) -> 'bɔlk-t͡sʼɔ' (to become dusty). Triggers regressive rounding harmony."
+    ]
+  },
+  {
+    "word": "-u",
+    "translation": "suffix",
+    "pos": "inferential evidential marker",
+    "notes": "Attaches to verbs and, by concord, to adpositions.",
+    "null": [
+      "Indicates inferred event."
+    ]
+  },
+  {
+    "word": "-wœ",
+    "translation": "suffix",
+    "pos": "human plural marker",
+    "notes": "Attaches to Human class nouns.",
+    "null": [
+      "",
+      "Triggers regressive rounding harmony on preceding vowels in the stem."
+    ]
+  },
+  {
+    "word": "-ø",
+    "translation": "suffix",
+    "pos": "hearsay evidential marker",
+    "notes": "Attaches to verbs and, by concord, to adpositions.",
+    "null": [
+      "Indicates reported event. Zero morpheme."
+    ]
+  },
+  {
+    "word": "-ŋɔ",
+    "translation": "suffix",
+    "pos": "anti-passive voice marker",
+    "notes": "Attaches to verbs to demote the patient.",
+    "null": [
+      "From jow (to see) -> jow-ŋɔ /jow.ŋɔ˩.˥/ (to be seeing).",
+      ""
+    ]
+  },
+  {
+    "word": "-ʒi",
+    "translation": "suffix",
+    "pos": "animate plural marker",
+    "notes": "Attaches to Animate (non-human) class nouns.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-∅",
+    "translation": "suffix",
+    "pos": "intransitive case marker (S)",
+    "notes": "Marks the subject of an intransitive verb.",
+    "null": [
+      "",
+      "Zero morpheme."
+    ]
+  },
+  {
+    "word": "bɔlk-t͡sʼɔ˩.˥",
+    "translation": "verb",
+    "pos": "to become dusty",
+    "notes": "Inchoative verb",
+    "null": [
+      "From bəlk (dust) + -t͡sʼɔ (inchoative).",
+      "The root vowel /ə/ becomes /ɔ/ due to regressive rounding harmony triggered by the suffix."
+    ]
+  },
+  {
+    "word": "bəlk˩",
+    "translation": "noun",
+    "pos": "dust",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      "The root vowel /ə/ becomes /ɔ/ in derived forms due to vowel harmony, e.g., in 'bɔlk-t͡sʼɔ' (to become dusty)."
+    ]
+  },
+  {
+    "word": "bɾo˥",
+    "translation": "verb",
+    "pos": "to sleep",
+    "notes": "",
+    "null": [
+      "Common content item. Onset cluster /bɾ/."
+    ]
+  },
+  {
+    "word": "d͡za˩",
+    "translation": "particle",
+    "pos": "progressive aspect particle",
+    "notes": "Precedes the verb.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d͡zoŋk˩",
+    "translation": "noun",
+    "pos": "meat",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      "Uncommon content item with CVCC structure."
+    ]
+  },
+  {
+    "word": "d͡zu˩˥˩",
+    "translation": "verb",
+    "pos": "to go",
+    "notes": "",
+    "null": [
+      "Common content item."
+    ]
+  },
+  {
+    "word": "d͡zɛkʼs˩",
+    "translation": "noun",
+    "pos": "law",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      "Uncommon content item with complex syllable structure (CVCC)."
+    ]
+  },
+  {
+    "word": "d͡zɛn˥˩",
+    "translation": "noun",
+    "pos": "fish",
+    "notes": "Animate class",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "d͡zɛ˥˩",
+    "translation": "pronoun",
+    "pos": "you (2nd person singular)",
+    "notes": "",
+    "null": [
+      "",
+      "Pronoun system is mandatory, not pro-drop."
+    ]
+  },
+  {
+    "word": "flɔŋ˥˩",
+    "translation": "noun",
+    "pos": "flower",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "fɾy˥˩",
+    "translation": "verb, adjective",
+    "pos": "to grow; big",
+    "notes": "As an adjective",
+    "null": [
+      " requires animacy classifier prefix (hə-",
+      " ʒi-",
+      " mə-).",
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "hə-",
+    "translation": "prefix",
+    "pos": "inanimate adjectival classifier",
+    "notes": "Prefixes to adjectives modifying Inanimate nouns.",
+    "null": [
+      "",
+      "This is one of the few prefixes in the language, functioning as an adjectival classifier and representing an exception to the language's otherwise exclusively suffixing and postpositional nature."
+    ]
+  },
+  {
+    "word": "hə˥",
+    "translation": "postposition",
+    "pos": "with, concerning",
+    "notes": "Used to mark the demoted patient in an anti-passive construction.",
+    "null": [
+      "",
+      "Very common function item. Is subject to evidential concord, taking suffixes like -i, -u, -ø to match the main verb."
+    ]
+  },
+  {
+    "word": "i.d͡za˩.˥",
+    "translation": "noun",
+    "pos": "bird",
+    "notes": "Animate class",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "i˩",
+    "translation": "pronoun",
+    "pos": "we, us (1st person plural)",
+    "notes": "",
+    "null": [
+      "",
+      "Pronoun system is mandatory, not pro-drop."
+    ]
+  },
+  {
+    "word": "jow˩",
+    "translation": "verb",
+    "pos": "to see",
+    "notes": "",
+    "null": [
+      "Used in 'The child sees the dog'.",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "kwi",
+    "translation": "particle",
+    "pos": "question particle",
+    "notes": "Sentence-final.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kwiks˩",
+    "translation": "noun",
+    "pos": "star",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "kʼaj-ʒi˩˥˩.˥",
+    "translation": "noun",
+    "pos": "puppies; offspring (of an animal)",
+    "notes": "Animate class",
+    "null": [
+      "Plural of kʼaj (child) when used metaphorically for animals. In this context, the root is re-categorized as Animate class and thus takes the animate plural suffix -ʒi instead of the human plural -wœ. For example, in 'zot͡sʼ ʒi kʼaj-ʒi ʒi.ʒi-sə' (dog 3SG.AN puppy-PL.AN 3PL.AN-PAT), 'kʼaj-ʒi' refers to puppies."
+    ]
+  },
+  {
+    "word": "kʼaj˩˥˩",
+    "translation": "noun",
+    "pos": "child",
+    "notes": "Human class",
+    "null": [
+      "",
+      "Common content item. Can be used metaphorically for the young of an animal."
+    ]
+  },
+  {
+    "word": "kʼaw˩",
+    "translation": "verb",
+    "pos": "to know",
+    "notes": "",
+    "null": [
+      "Common content item."
+    ]
+  },
+  {
+    "word": "kʼo.mə˩˥˩",
+    "translation": "adjective",
+    "pos": "red",
+    "notes": "Requires animacy classifier prefix (hə-",
+    "null": [
+      " ʒi-",
+      " mə-).",
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "kʼul-t͡sʼɔ˥˩.˥",
+    "translation": "verb",
+    "pos": "to become bloody",
+    "notes": "Inchoative verb",
+    "null": [
+      "From kʼul (blood) + -t͡sʼɔ (inchoative).",
+      "Uncommon derived verb."
+    ]
+  },
+  {
+    "word": "kʼul˥˩",
+    "translation": "noun",
+    "pos": "blood",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼɛ.tʼa˩.˥",
+    "translation": "noun",
+    "pos": "hand",
+    "notes": "Inanimate class (body parts are inanimate unless specified otherwise)",
+    "null": [
+      "",
+      "Inalienable possession would use unmarked possessor."
+    ]
+  },
+  {
+    "word": "kʼɛŋk˥",
+    "translation": "noun",
+    "pos": "heart (organ)",
+    "notes": "Animate class (treated as a living part)",
+    "null": [
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "k͡pɛ.lɛkʼ˥.˥",
+    "translation": "noun",
+    "pos": "story; tale",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "k͡pʼa.t͡so˩.˥",
+    "translation": "verb",
+    "pos": "to speak",
+    "notes": "Requires Human or Animate agent.",
+    "null": [
+      "",
+      "Common content item. The non-finite form is k͡pʼa.t͡so-nø."
+    ]
+  },
+  {
+    "word": "k͡pʼajk˥˩",
+    "translation": "noun",
+    "pos": "song",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      "Uncommon content item with CVCC structure."
+    ]
+  },
+  {
+    "word": "k͡pʼi.nɤ.tʼɔ.t͡sʼɔ˩.˥˩.˥.˩",
+    "translation": "verb",
+    "pos": "to become full of men; to be crowded (with people)",
+    "notes": "Inchoative verb",
+    "null": [
+      "From pʼi.nɤ.tʼa (man) + -t͡sʼɔ (inchoative).",
+      "Uncommon derived verb. Four syllables."
+    ]
+  },
+  {
+    "word": "k͡pʼo-t͡sʼɔ˩˥.˥",
+    "translation": "verb",
+    "pos": "to become full of water; to get wet",
+    "notes": "Inchoative verb",
+    "null": [
+      "From k͡pʼo (water) + -t͡sʼɔ (inchoative).",
+      "Uncommon derived verb."
+    ]
+  },
+  {
+    "word": "k͡pʼo˩˥",
+    "translation": "noun",
+    "pos": "water",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "k͡pʼɛ.lɛkʼ-t͡sʼɔ˥.˥.˥",
+    "translation": "verb",
+    "pos": "to become full of stories",
+    "notes": "Inchoative verb",
+    "null": [
+      "From k͡pɛ.lɛkʼ (story) + -t͡sʼɔ (inchoative).",
+      "Uncommon derived verb."
+    ]
+  },
+  {
+    "word": "mə-",
+    "translation": "prefix",
+    "pos": "human adjectival classifier",
+    "notes": "Prefixes to adjectives modifying Human nouns.",
+    "null": [
+      "",
+      "This is one of the few prefixes in the language, functioning as an adjectival classifier and representing an exception to the language's otherwise exclusively suffixing and postpositional nature."
+    ]
+  },
+  {
+    "word": "məm˩",
+    "translation": "pronoun",
+    "pos": "it, they, them (3rd person inanimate singular/plural)",
+    "notes": "",
+    "null": [
+      "",
+      "Pronoun system is mandatory, not pro-drop."
+    ]
+  },
+  {
+    "word": "mə˩˥",
+    "translation": "pronoun",
+    "pos": "he/she/him/her (3rd person singular human)",
+    "notes": "",
+    "null": [
+      "",
+      "Pronoun system is mandatory, not pro-drop."
+    ]
+  },
+  {
+    "word": "mɛ˩˥",
+    "translation": "postposition",
+    "pos": "in",
+    "notes": "Attaches to the pronoun of a noun phrase it governs. Subject to evidential concord.",
+    "null": [
+      "Very common function item."
+    ]
+  },
+  {
+    "word": "pjan˩˥˩",
+    "translation": "particle",
+    "pos": "future/irrealis TAM particle",
+    "notes": "Precedes the verb.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "plɛkʼs˥",
+    "translation": "noun",
+    "pos": "word; language",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      "Uncommon content item with complex syllable structure (CCVCC)."
+    ]
+  },
+  {
+    "word": "pʼa.k͡pʼa˥.˩",
+    "translation": "noun",
+    "pos": "father",
+    "notes": "Human class",
+    "null": [
+      "Plural: pʼa.k͡pʼɔ-wœ /pʼa.k͡pʼɔ.wœ˥.˩.˩˥/. Vowel harmony applies to stem in plural.",
+      ""
+    ]
+  },
+  {
+    "word": "pʼa.k͡pʼɔ-wœ˥.˩.˩˥",
+    "translation": "noun",
+    "pos": "fathers",
+    "notes": "Human class",
+    "null": [
+      "Plural of pʼa.k͡pʼa (father).",
+      "Demonstrates regressive rounding harmony: /a/ > /ɔ/ before the plural suffix -wœ."
+    ]
+  },
+  {
+    "word": "pʼaw˩˥",
+    "translation": "verb",
+    "pos": "to read",
+    "notes": "Requires Human agent.",
+    "null": [
+      "",
+      "Common content item. Diphthong /aw/."
+    ]
+  },
+  {
+    "word": "pʼi.nɤ.tʼa˩.˥˩.˥",
+    "translation": "noun",
+    "pos": "man",
+    "notes": "Human class",
+    "null": [
+      "Vowel harmony applies: pʼinɤtʼɔ-wœ /pʼi.nɤ.tʼɔ.wœ˩.˥˩.˥.˩˥/ (plural).",
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "pʼlɔkʼ˥",
+    "translation": "verb",
+    "pos": "to catch; to build",
+    "notes": "",
+    "null": [
+      "Used in 'The child caught a fish' and 'He built the house'.",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "pʼot͡sʼ˩˥",
+    "translation": "verb",
+    "pos": "to work",
+    "notes": "Requires Human agent.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "splekʼ˩",
+    "translation": "noun",
+    "pos": "thought; idea",
+    "notes": "Inanimate class",
+    "null": [
+      "From ǀɯn˥ (to think)",
+      " via an irregular/unattested morphological process.",
+      "Rare content item with CCVCC structure."
+    ]
+  },
+  {
+    "word": "-sə˥˩",
+    "translation": "pronominal_suffix",
+    "pos": "patientive case marker (P)",
+    "notes": "Attaches to pronouns to mark the patient (P) of a transitive verb.",
+    "null": [
+      "",
+      "Very common function item."
+    ]
+  },
+  {
+    "word": "tʼo.ɣa˩.˥",
+    "translation": "noun",
+    "pos": "sky",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tʼu.vɛ.nɔ˩.˥.˩",
+    "translation": "verb",
+    "pos": "to understand",
+    "notes": "Requires Human agent.",
+    "null": [
+      "",
+      "Three-syllable content word."
+    ]
+  },
+  {
+    "word": "tʼu.ɾa˥.˩",
+    "translation": "noun",
+    "pos": "head",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      "Inalienable possession would use unmarked possessor."
+    ]
+  },
+  {
+    "word": "t͡sa.ɾa˩.˥˩",
+    "translation": "noun",
+    "pos": "fire",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡so˩",
+    "translation": "postposition",
+    "pos": "to; towards",
+    "notes": "Attaches to the pronoun of a noun phrase it governs. Subject to evidential concord.",
+    "null": [
+      "Very common function item."
+    ]
+  },
+  {
+    "word": "t͡srɔŋk˥˩",
+    "translation": "noun",
+    "pos": "lightning",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      "Rare content item."
+    ]
+  },
+  {
+    "word": "t͡sʼa.pʼa˥.˩",
+    "translation": "adjective",
+    "pos": "small",
+    "notes": "Requires animacy classifier prefix (hə-",
+    "null": [
+      " ʒi-",
+      " mə-).",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡sʼi.nɛkʼ˩.˥",
+    "translation": "noun",
+    "pos": "moon",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "t͡sʼo.vɛ˥.˩˥",
+    "translation": "adjective",
+    "pos": "new",
+    "notes": "Requires animacy classifier prefix (hə-",
+    "null": [
+      " ʒi-",
+      " mə-).",
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "t͡sʼu.lɔ-t͡sʼɔ˩.˥.˥",
+    "translation": "verb",
+    "pos": "to become a river; to flood",
+    "notes": "Inchoative verb",
+    "null": [
+      "From t͡sʼu.lɔ (river) + -t͡sʼɔ (inchoative).",
+      "Uncommon derived verb."
+    ]
+  },
+  {
+    "word": "t͡sʼu.lɔ˩.˥",
+    "translation": "noun",
+    "pos": "river",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "t͡sʼɛpʼs˩˥",
+    "translation": "noun",
+    "pos": "truth",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      "Uncommon content item with complex coda."
+    ]
+  },
+  {
+    "word": "vlo˥˩",
+    "translation": "verb",
+    "pos": "to sing",
+    "notes": "Requires Human or Animate agent.",
+    "null": [
+      "",
+      "Common content item. Onset cluster /vl/."
+    ]
+  },
+  {
+    "word": "-vʌ",
+    "translation": "pronominal_suffix",
+    "pos": "agentive case marker (A)",
+    "notes": "Attaches to pronouns to mark the agent (A) of a transitive verb. Becomes -vɔ when attached to pronouns ending in a rounded vowel, such as the 3pl human pronoun wœ /wœ˩/.",
+    "null": [
+      "",
+      "Very common function item."
+    ]
+  },
+  {
+    "word": "wœ.ʒi˩.˥˩",
+    "translation": "noun",
+    "pos": "woman",
+    "notes": "Human class",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "wœ˩",
+    "translation": "pronoun",
+    "pos": "they, them (3rd person plural human)",
+    "notes": "",
+    "null": [
+      "",
+      "Pronoun system is mandatory, not pro-drop."
+    ]
+  },
+  {
+    "word": "xɛlps˩˥",
+    "translation": "noun",
+    "pos": "shadow",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      "Uncommon content item with complex coda."
+    ]
+  },
+  {
+    "word": "xɯps˥",
+    "translation": "adjective",
+    "pos": "fast",
+    "notes": "Requires animacy classifier prefix (hə-",
+    "null": [
+      " ʒi-",
+      " mə-).",
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "xɾaw˩",
+    "translation": "verb",
+    "pos": "to fight",
+    "notes": "Requires Human or Animate agent.",
+    "null": [
+      "",
+      "Common content item. Onset cluster /xɾ/."
+    ]
+  },
+  {
+    "word": "zaj˩˥",
+    "translation": "adjective",
+    "pos": "good",
+    "notes": "Requires animacy classifier prefix (hə-",
+    "null": [
+      " ʒi-",
+      " mə-).",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "zot͡sʼ˩˥˩",
+    "translation": "noun",
+    "pos": "dog",
+    "notes": "Animate class",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "ø˩˥",
+    "translation": "pronoun",
+    "pos": "you (2nd person plural)",
+    "notes": "",
+    "null": [
+      "",
+      "Pronoun system is mandatory, not pro-drop."
+    ]
+  },
+  {
+    "word": "ŋɔ.t͡sʼɔ.kʼø.vœ˥.˩.˥.˩",
+    "translation": "verb",
+    "pos": "to remember",
+    "notes": "",
+    "null": [
+      "Four-syllable word, uncommon length.",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "ŋɔ˥",
+    "translation": "pronoun",
+    "pos": "I, me (1st person singular)",
+    "notes": "",
+    "null": [
+      "",
+      "Pronoun system is mandatory, not pro-drop."
+    ]
+  },
+  {
+    "word": "ŋ͡ǀa˩˥",
+    "translation": "postposition",
+    "pos": "after",
+    "notes": "Used as a clausal postposition governing a non-finite clause.",
+    "null": [
+      "Function word. An exception to the phonological restrictions on function words, likely derived from a content word."
+    ]
+  },
+  {
+    "word": "ŋ͡ǀo.tʼa˩.˥",
+    "translation": "noun",
+    "pos": "mother",
+    "notes": "Human class",
+    "null": [
+      "Plural: ŋ͡ǀo.tʼɔ-wœ /ŋ͡ǀo.tʼɔ.wœ˩.˥.˩˥/.",
+      "Vowel harmony applies to stem in plural.",
+      ""
+    ]
+  },
+  {
+    "word": "ŋ͡ǀo.tʼɔ-wœ˩.˥.˩˥",
+    "translation": "noun",
+    "pos": "mothers",
+    "notes": "Human class",
+    "null": [
+      "Plural of ŋ͡ǀo.tʼa (mother).",
+      "Demonstrates regressive rounding harmony: /a/ > /ɔ/ before the plural suffix -wœ."
+    ]
+  },
+  {
+    "word": "ŋ͡ǀɛn˥",
+    "translation": "noun",
+    "pos": "name",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "ǀa.kʼa˩.˥",
+    "translation": "verb",
+    "pos": "to hear",
+    "notes": "",
+    "null": [
+      "Common content item. Contains a click."
+    ]
+  },
+  {
+    "word": "ǀɯn˥",
+    "translation": "verb",
+    "pos": "to think",
+    "notes": "Requires Human agent.",
+    "null": [
+      "",
+      "Somewhat common content item with a click."
+    ]
+  },
+  {
+    "word": "ɡa.vɔ˩.˩˥",
+    "translation": "verb",
+    "pos": "to give",
+    "notes": "",
+    "null": [
+      "Requires Human or Animate agent.",
+      "Common content item. Note vowel harmony in derived forms."
+    ]
+  },
+  {
+    "word": "ɡo˩",
+    "translation": "particle",
+    "pos": "and",
+    "notes": "Conjoins noun phrases.",
+    "null": [
+      "",
+      "Very common function item. Simple CV structure."
+    ]
+  },
+  {
+    "word": "ɡʷa˥˩",
+    "translation": "postposition",
+    "pos": "from",
+    "notes": "Attaches to the pronoun of a noun phrase it governs. Subject to evidential concord.",
+    "null": [
+      "",
+      "Very common function item."
+    ]
+  },
+  {
+    "word": "ɡwɛn˩",
+    "translation": "noun",
+    "pos": "wind",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "ɡ͡bø˥",
+    "translation": "noun",
+    "pos": "house, building",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      "Common content item. Does not mark for plural."
+    ]
+  },
+  {
+    "word": "ɡ͡bɔ.nɔ˩.˥",
+    "translation": "noun",
+    "pos": "road; path",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "ɡ͡bɔt͡sʼ-t͡sʼɔ˩.˥",
+    "translation": "verb",
+    "pos": "to become full of food; to be sated",
+    "notes": "Inchoative verb",
+    "null": [
+      "From ɡ͡bɔt͡sʼ (food) + -t͡sʼɔ (inchoative).",
+      "Uncommon derived verb."
+    ]
+  },
+  {
+    "word": "ɡ͡bɔt͡sʼ˩",
+    "translation": "noun",
+    "pos": "food",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "ɡ͡ǀa˥˩",
+    "translation": "verb",
+    "pos": "to eat",
+    "notes": "",
+    "null": [
+      "Volitional verb, requires Human or Animate agent.",
+      "Somewhat common content item."
+    ]
+  },
+  {
+    "word": "ɡ͡ǀo.mɔ-t͡sʼɔ˩˥.˩.˥",
+    "translation": "verb",
+    "pos": "to become mountainous",
+    "notes": "Inchoative verb",
+    "null": [
+      "From ɡ͡ǀo.mə (mountain) + -t͡sʼɔ (inchoative). Note regressive rounding harmony on the stem: /mə/ > /mɔ/.",
+      "Uncommon derived verb."
+    ]
+  },
+  {
+    "word": "ɡ͡ǀo.mə˩˥.˩",
+    "translation": "noun",
+    "pos": "mountain",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      "Somewhat common content item."
+    ]
+  },
+  {
+    "word": "ɡ͡ǀu.nɔ˩.˩",
+    "translation": "noun",
+    "pos": "tree",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      "Somewhat common content item with a click."
+    ]
+  },
+  {
+    "word": "ɣa.ɾu˥.˩",
+    "translation": "particle",
+    "pos": "past perfective TAM particle",
+    "notes": "Precedes the verb.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "ʃin˩",
+    "translation": "noun",
+    "pos": "stone; rock",
+    "notes": "Inanimate class",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "ʃlaj˥",
+    "translation": "verb",
+    "pos": "to walk",
+    "notes": "",
+    "null": [
+      "Common content item. Onset cluster /ʃl/."
+    ]
+  },
+  {
+    "word": "ʃwɤkʼ˥˩",
+    "translation": "verb",
+    "pos": "to want; to need",
+    "notes": "",
+    "null": [
+      "Requires Human or Animate agent.",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "ʒi-",
+    "translation": "prefix",
+    "pos": "animate adjectival classifier",
+    "notes": "Prefixes to adjectives modifying Animate nouns.",
+    "null": [
+      "",
+      "This is one of the few prefixes in the language, functioning as an adjectival classifier and representing an exception to the language's otherwise exclusively suffixing and postpositional nature."
+    ]
+  },
+  {
+    "word": "ʒi.ʒi˥.˥",
+    "translation": "pronoun",
+    "pos": "they, them (3rd person plural animate)",
+    "notes": "Reduplication of ʒi.",
+    "null": [
+      "",
+      "Pronoun system is mandatory, not pro-drop."
+    ]
+  },
+  {
+    "word": "ʒi˥",
+    "translation": "pronoun",
+    "pos": "it (3rd person singular animate)",
+    "notes": "",
+    "null": [
+      "",
+      "Pronoun system is mandatory, not pro-drop."
+    ]
+  }
+]

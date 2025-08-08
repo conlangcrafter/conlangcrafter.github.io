@@ -1,0 +1,1032 @@
+[
+  {
+    "word": "ˈqaxina",
+    "translation": "noun",
+    "pos": "mountain",
+    "notes": "Inactive gender",
+    "null": [
+      "",
+      "From pitch accent example."
+    ]
+  },
+  {
+    "word": "-gə",
+    "translation": "suffix",
+    "pos": "(inferential nominative)",
+    "notes": "Suffix marking the inferential nominative case on a subject. Replaces null nominative.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-gʷa",
+    "translation": "suffix",
+    "pos": "(past tense)",
+    "notes": "Tense suffix for auxiliaries.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-i",
+    "translation": "suffix",
+    "pos": "(vocative active singular)",
+    "notes": "Case suffix for nominals.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-ja",
+    "translation": "suffix",
+    "pos": "(genitive active singular)",
+    "notes": "Case suffix for nominals.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-ji",
+    "translation": "suffix",
+    "pos": "(vocative active plural)",
+    "notes": "Case suffix for nominals.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-kʰu",
+    "translation": "suffix",
+    "pos": "(irrealis mood)",
+    "notes": "Mood suffix for auxiliaries.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-kʷʼa",
+    "translation": "suffix",
+    "pos": "(instrumental active singular)",
+    "notes": "Case suffix for nominals.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-kʷʼə",
+    "translation": "suffix",
+    "pos": "(instrumental active plural)",
+    "notes": "Case suffix for nominals.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-kʼa",
+    "translation": "suffix",
+    "pos": "(genitive active plural)",
+    "notes": "Case suffix for nominals.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-kʼi",
+    "translation": "suffix",
+    "pos": "(genitive inactive singular)",
+    "notes": "Case suffix for nominals.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-kʼʷi",
+    "translation": "suffix",
+    "pos": "(genitive inactive plural)",
+    "notes": "Case suffix for nominals.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-la",
+    "translation": "suffix",
+    "pos": "(instrumental inactive singular)",
+    "notes": "Case suffix for nominals.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-lə",
+    "translation": "suffix",
+    "pos": "(instrumental inactive plural)",
+    "notes": "Case suffix for nominals.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-mu",
+    "translation": "suffix",
+    "pos": "(ablative singular)",
+    "notes": "Case suffix for nominals. Gender neutral.",
+    "null": [
+      ""
+    ]
+  },
+  {
+    "word": "-mʉ",
+    "translation": "suffix",
+    "pos": "(ablative plural)",
+    "notes": "Case suffix for nominals. Gender neutral.",
+    "null": [
+      ""
+    ]
+  },
+  {
+    "word": "-na",
+    "translation": "suffix",
+    "pos": "(allative singular)",
+    "notes": "Case suffix for nominals. Gender neutral.",
+    "null": [
+      ""
+    ]
+  },
+  {
+    "word": "-nə",
+    "translation": "suffix",
+    "pos": "(allative plural)",
+    "notes": "Case suffix for nominals. Gender neutral.",
+    "null": [
+      ""
+    ]
+  },
+  {
+    "word": "-pʰa",
+    "translation": "suffix",
+    "pos": "(locative singular)",
+    "notes": "Case suffix for nominals. Gender neutral.",
+    "null": [
+      ""
+    ]
+  },
+  {
+    "word": "-pʰʷa",
+    "translation": "suffix",
+    "pos": "(locative plural)",
+    "notes": "Case suffix for nominals. Gender neutral.",
+    "null": [
+      ""
+    ]
+  },
+  {
+    "word": "-t͡a",
+    "translation": "suffix",
+    "pos": "(comitative singular)",
+    "notes": "Case suffix for nominals. Gender neutral.",
+    "null": [
+      ""
+    ]
+  },
+  {
+    "word": "-t͡si",
+    "translation": "suffix",
+    "pos": "(accusative active singular)",
+    "notes": "Case suffix for nominals.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-t͡so",
+    "translation": "suffix",
+    "pos": "(accusative inactive singular)",
+    "notes": "Case suffix for nominals.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-t͡sʼo",
+    "translation": "suffix",
+    "pos": "(accusative inactive plural)",
+    "notes": "Case suffix for nominals.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-t͡sʼu",
+    "translation": "suffix",
+    "pos": "(accusative active plural)",
+    "notes": "Case suffix for nominals.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-t͡ʃa",
+    "translation": "suffix",
+    "pos": "(comitative plural)",
+    "notes": "Case suffix for nominals. Gender neutral.",
+    "null": [
+      ""
+    ]
+  },
+  {
+    "word": "-və",
+    "translation": "suffix",
+    "pos": "(hearsay nominative)",
+    "notes": "Evidential case suffix for subjects. Replaces null nominative.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-ˈna",
+    "translation": "suffix",
+    "pos": "(agent)",
+    "notes": "Derivational suffix. Creates agent nouns from verbs. Carries primary stress.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-ˈtʰa",
+    "translation": "suffix",
+    "pos": "(abstract noun)",
+    "notes": "Derivational suffix. Creates abstract nouns from adjectives. Carries primary stress.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "gə",
+    "translation": "auxiliary",
+    "pos": "(perfective aspect marker)",
+    "notes": "Perfective auxiliary. Follows verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "hə.ˈle",
+    "translation": "verb",
+    "pos": "to walk / to go",
+    "notes": "Intransitive verb. Can take a destination with the Allative case.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ki",
+    "translation": "auxiliary",
+    "pos": "(imperfective aspect marker)",
+    "notes": "Imperfective auxiliary. Follows verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʷa",
+    "translation": "pronoun",
+    "pos": "you (sg)",
+    "notes": "2nd person singular pronoun.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʷʼa",
+    "translation": "pronoun",
+    "pos": "you (pl)",
+    "notes": "2nd person plural pronoun.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʷʼa.ˈna.tʰa",
+    "translation": "noun",
+    "pos": "story",
+    "notes": "Inactive gender",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "kʷʼe",
+    "translation": "postposition",
+    "pos": "on / on top of",
+    "notes": "Requires a noun in the Locative case.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʷʼi",
+    "translation": "pronoun",
+    "pos": "where",
+    "notes": "Interrogative pronoun (locative).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼa.ˈpʼa",
+    "translation": "verb",
+    "pos": "to want / to desire",
+    "notes": "Transitive verb.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼə.ˈla",
+    "translation": "noun",
+    "pos": "woman",
+    "notes": "Active gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼʷa",
+    "translation": "pronoun",
+    "pos": "what",
+    "notes": "Interrogative pronoun (Inactive).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼʷə.ˈʃa",
+    "translation": "verb",
+    "pos": "to drink / to be drinking",
+    "notes": "Ambitransitive verb.",
+    "null": [
+      "Derived from kʼʷə.ˈʒa (\"to drink (something)\") via antipassive consonantal mutation (ʒ → ʃ).",
+      ""
+    ]
+  },
+  {
+    "word": "kʼʷə.ˈʒa",
+    "translation": "verb",
+    "pos": "to drink (something)",
+    "notes": "Transitive verb. Final voiced fricative /ʒ/ becomes voiceless /ʃ/ in antipassive form.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "nas",
+    "translation": "conjunction",
+    "pos": "and",
+    "notes": "Connects clauses or noun phrases.",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "po",
+    "translation": "pronoun",
+    "pos": "it (inactive)",
+    "notes": "3rd person singular inactive pronoun.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pə.ˈt͡sʼo.da",
+    "translation": "verb",
+    "pos": "to cause to take / to give",
+    "notes": "Ditransitive verb.",
+    "null": [
+      "Derived from pə.ˈt͡sʼo.la (\"to take\") via causative consonantal mutation (l → d).",
+      ""
+    ]
+  },
+  {
+    "word": "pə.ˈt͡sʼo.la",
+    "translation": "verb",
+    "pos": "to take",
+    "notes": "Transitive verb. Final voiceless approximant /l/ becomes voiced /d/ in causative form.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʰi",
+    "translation": "postposition",
+    "pos": "in",
+    "notes": "Requires a noun in the Locative case.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʰʷə.ˈra",
+    "translation": "adjective",
+    "pos": "big / large",
+    "notes": "Agrees with noun in gender",
+    "null": [
+      " number",
+      " and case.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʼa.ˈkʷʼa",
+    "translation": "adjective",
+    "pos": "beautiful",
+    "notes": "Agrees with noun in gender",
+    "null": [
+      " number",
+      " and case.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʼakʷʼa.ˈtʰa",
+    "translation": "noun",
+    "pos": "beauty",
+    "notes": "Inactive gender",
+    "null": [
+      "Derived from pʼa.ˈkʷʼa (beautiful) + -ˈtʰa (abstract noun suffix).",
+      ""
+    ]
+  },
+  {
+    "word": "pʼi",
+    "translation": "pronoun",
+    "pos": "why",
+    "notes": "Interrogative pronoun (reason).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʼo",
+    "translation": "pronoun",
+    "pos": "they (inactive)",
+    "notes": "3rd person plural inactive pronoun.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "qa.ˈxi.na",
+    "translation": "verb",
+    "pos": "to climb",
+    "notes": "Transitive verb.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "qaxi.ˈna",
+    "translation": "noun",
+    "pos": "climber",
+    "notes": "Active gender",
+    "null": [
+      "Derived from qa.ˈxi.na (to climb) + -ˈna (agent suffix).",
+      ""
+    ]
+  },
+  {
+    "word": "qʷʼo.ˈt͡ʃa",
+    "translation": "noun",
+    "pos": "bird",
+    "notes": "Active gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "qʼo.ˈqʼo",
+    "translation": "verb",
+    "pos": "to see",
+    "notes": "Transitive verb.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "qʼʷa.ˈra",
+    "translation": "verb",
+    "pos": "to die",
+    "notes": "Intransitive verb.",
+    "null": [
+      "Causative form qʼʷa.ˈɢʷa means \"to kill\"."
+    ]
+  },
+  {
+    "word": "qʼʷa.ˈɢʷa",
+    "translation": "verb",
+    "pos": "to kill",
+    "notes": "Transitive verb.",
+    "null": [
+      "Derived from qʼʷa.ˈra (\"to die\") via causative consonantal mutation (r → ɢʷ).",
+      "The mutation is irregular (r to voiced labialized uvular stop)."
+    ]
+  },
+  {
+    "word": "qχa.ˈχa",
+    "translation": "noun",
+    "pos": "river",
+    "notes": "Inactive gender",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "tʼo.ˈkʼo",
+    "translation": "verb",
+    "pos": "to build",
+    "notes": "Transitive verb.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡sa.kʷʼi.ˈna",
+    "translation": "noun",
+    "pos": "song",
+    "notes": "Inactive gender",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "t͡so",
+    "translation": "particle",
+    "pos": "then",
+    "notes": "Discourse particle.",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "t͡su",
+    "translation": "pronoun",
+    "pos": "I",
+    "notes": "1st person singular pronoun.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡sʼa.ˈt͡so.pʰa",
+    "translation": "verb",
+    "pos": "to dream",
+    "notes": "Intransitive verb.",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "t͡sʼi.ˈkʷʼi",
+    "translation": "verb",
+    "pos": "to speak / to say",
+    "notes": "Transitive verb.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡sʼo",
+    "translation": "pronoun",
+    "pos": "when",
+    "notes": "Interrogative pronoun (temporal).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡sʼu",
+    "translation": "pronoun",
+    "pos": "we",
+    "notes": "1st person plural pronoun.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡ʃa",
+    "translation": "pronoun",
+    "pos": "he/she (active)",
+    "notes": "3rd person singular active pronoun.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡ʃa.ˈxi.na",
+    "translation": "verb",
+    "pos": "to eat / to dine",
+    "notes": "Ambitransitive verb.",
+    "null": [
+      "Derived from t͡ʃa.ˈɣi.la (\"to eat (something)\") via antipassive consonantal mutation (ɣ → x).",
+      ""
+    ]
+  },
+  {
+    "word": "t͡ʃa.ˈɣi.la",
+    "translation": "verb",
+    "pos": "to eat (something)",
+    "notes": "Transitive verb. The final consonant of the root /ɣ/ becomes voiceless /x/ in the antipassive form. Not to be confused with the noun t͡ʃa.ˈɣi.na",
+    "null": [
+      " \"child\".",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡ʃa.ˈɣi.na",
+    "translation": "noun",
+    "pos": "child (sg.)",
+    "notes": "Active gender",
+    "null": [
+      "Plural stem is ǃgʷa.ˈta. Not to be confused with the verb t͡ʃa.ˈɣi.la",
+      " \"to eat (something)\".",
+      "This entry clarifies the singular form from the grammar examples."
+    ]
+  },
+  {
+    "word": "t͡ʃʰo",
+    "translation": "conjunction",
+    "pos": "or",
+    "notes": "Connects two alternatives",
+    "null": [
+      " either clauses or noun phrases.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡ʃʼa",
+    "translation": "pronoun",
+    "pos": "they (active)",
+    "notes": "3rd person plural active pronoun.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡ʃʼi",
+    "translation": "pronoun",
+    "pos": "who",
+    "notes": "Interrogative pronoun (Active).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡ʃʼi.ˈt͡sʼa",
+    "translation": "verb",
+    "pos": "to cut",
+    "notes": "Transitive verb.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "və-",
+    "translation": "prefix",
+    "pos": "(evidential concord)",
+    "notes": "Evidential concord prefix. Attaches to all case-marked nominals (except the subject) and postpositions in a clause with an evidential-marked subject.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "xɨ.ˈna",
+    "translation": "adverb",
+    "pos": "quickly",
+    "notes": "Modifies a verb. Typically appears before the verb complex.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ǃgʷa.ˈta",
+    "translation": "noun",
+    "pos": "child (pl.)",
+    "notes": "Active gender",
+    "null": [
+      "Plural stem of t͡ʃa.ˈɣi.na \"child\".",
+      "Irregular plural stem formation."
+    ]
+  },
+  {
+    "word": "ɟa.ˈŋa",
+    "translation": "verb",
+    "pos": "to sing",
+    "notes": "Ambitransitive verb. Can be used with or without a direct object with no change in form.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ʃi.ˈkʼa.ja",
+    "translation": "noun",
+    "pos": "spear",
+    "notes": "Inactive gender",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "ʔa",
+    "translation": "particle",
+    "pos": "(question marker)",
+    "notes": "Sentence-final particle for both yes/no and content questions.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ˈbʷa.ra",
+    "translation": "noun",
+    "pos": "father",
+    "notes": "Active gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ˈcʰo.mi",
+    "translation": "adjective",
+    "pos": "small / little",
+    "notes": "Agrees with noun in gender",
+    "null": [
+      " number",
+      " and case.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ˈcʼa.ɣa",
+    "translation": "noun",
+    "pos": "sky",
+    "notes": "Inactive gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ˈd͡ʒa.ma",
+    "translation": "noun",
+    "pos": "mother",
+    "notes": "Active gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ˈkʷʰa.t͡sʼi",
+    "translation": "noun",
+    "pos": "path / road",
+    "notes": "Inactive gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ˈkʼu.t͡sʼi",
+    "translation": "noun",
+    "pos": "knife",
+    "notes": "Inactive gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ˈkʼʷa.tʰa",
+    "translation": "noun",
+    "pos": "word",
+    "notes": "Inactive gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ˈpʰa.kʰa",
+    "translation": "noun",
+    "pos": "house",
+    "notes": "Inactive gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ˈpʼʷa.kʰa",
+    "translation": "noun",
+    "pos": "wind",
+    "notes": "Active gender",
+    "null": [
+      "Personified natural force, hence Active gender."
+    ]
+  },
+  {
+    "word": "ˈqʼat͡ʃa",
+    "translation": "noun",
+    "pos": "hunter",
+    "notes": "Active gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ˈtʼa.mu",
+    "translation": "noun",
+    "pos": "fire",
+    "notes": "Inactive gender",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "ˈt͡sʰa.la",
+    "translation": "verb",
+    "pos": "to know",
+    "notes": "Transitive verb.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ˈxɔ.lɨ",
+    "translation": "noun",
+    "pos": "meat",
+    "notes": "Inactive gender",
+    "null": [
+      "Plural stem is xɔ.ˈlʉ",
+      " an irregular internal vowel change with a stress shift to the final syllable.",
+      "Used for meat of any kind."
+    ]
+  },
+  {
+    "word": "ˈǁa.t͡sʼu",
+    "translation": "noun",
+    "pos": "dog",
+    "notes": "Active gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ˈǁʰo.bɨ",
+    "translation": "noun",
+    "pos": "eland",
+    "notes": "Active gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ˈǂa.na.kʰu",
+    "translation": "noun",
+    "pos": "warthog",
+    "notes": "Active gender",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "ˈǂgə.la",
+    "translation": "noun",
+    "pos": "lion",
+    "notes": "Active gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ˈǃo.bə",
+    "translation": "noun",
+    "pos": "water",
+    "notes": "Inactive gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ˈǃʰa.t͡ʃʼa",
+    "translation": "noun",
+    "pos": "blood",
+    "notes": "Inactive gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ˈǃʼa.xɨ",
+    "translation": "noun",
+    "pos": "tree",
+    "notes": "Inactive gender",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ˈɣa.t͡sʰu",
+    "translation": "adverb",
+    "pos": "slowly",
+    "notes": "Modifies a verb. Typically appears before the verb complex.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ˈʔa.la.tʰa",
+    "translation": "noun",
+    "pos": "stone",
+    "notes": "Inactive gender",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  }
+]

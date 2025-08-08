@@ -1,0 +1,289 @@
+# Grammar
+
+## Morphology
+
+The language is primarily analytic, with most grammatical information conveyed by word order and free-standing particles. Nouns are invariant and do not decline for case or number. The key exception to the analytic structure is the verb, which is strictly head-marking and carries a small set of agglutinative prefixes that cross-reference its core arguments.
+
+The language has an active-stative morphosyntactic alignment. Verbs are obligatorily prefixed to indicate the semantic role of their arguments. There are two sets of prefixes: an Agentive set (for volitional actors) and a Patientive set (for entities that are in a state or are affected by an action). The choice of prefix for an intransitive verb depends on the semantics of the verb and its subject.
+
+*   An intransitive verb with a volitional agent takes an Agentive prefix (`Sa`).
+*   An intransitive verb with a patient-like subject takes a Patientive prefix (`Sp`).
+*   A transitive verb takes both an Agentive (`A`) and a Patientive (`P`) prefix, in that order.
+
+The prefixes are single CV syllables and obey the language's vowel harmony rules, assimilating to the front/back and ATR quality of the verb root.
+
+| Role | Prefix Form | Example (with root `hoto` "run") | Example (with root `kʼɔsa` "break") |
+| :--- | :--- | :--- | :--- |
+| **Agentive** | `to-` / `tʊ-` | `to-hoto` | `tʊ-kʼɔsa` |
+| **Patientive** | `no-` / `nɔ-` | `no-hoto` | `nɔ-kʼɔsa` |
+
+*To-hoto hoto.*
+```
+to-hoto      hoto
+AGT-run      man
+"The man runs." (volitional)
+```
+
+*Nɔ-kʼɔsa pʼɛla.*
+```
+nɔ-kʼɔsa     pʼɛla
+PAT-break    rock
+"The rock broke." (stative)
+```
+
+*Tʊ-nɔ-kʼɔsa hoto pʼɛla.*
+```
+tʊ-nɔ-kʼɔsa     hoto  pʼɛla
+AGT-PAT-break    man   rock
+"The man broke the rock."
+```
+
+Tense, aspect, and mood are handled by pre-verbal particles. The system is minimal, distinguishing only Realis (the default, unmarked state) from Irrealis, which covers future, hypothetical, and potential events. The Irrealis particle is `se`.
+
+*Se to-hoto hoto.*
+```
+se   to-hoto      hoto
+IRR  AGT-run      man
+"The man will run / might run."
+```
+
+### Verbal Derivation
+
+The verb root can be modified by derivational suffixes to change its meaning. These suffixes, like the prefixes, obey the language's vowel harmony rules. They are added directly to the root.
+
+#### 1. Causative Suffix `-lo` / `-lɔ`
+
+The causative suffix adds an agent that causes the action to occur, increasing the verb's valency. The newly introduced causer is always marked by the Agentive prefix (`to-`/`tʊ-`), which harmonizes with the verb root as usual.
+
+*   **Intransitive to Transitive:** When added to an intransitive verb, it makes it transitive.
+    *   *Nɔ-kʼɔsa pʼɛla.* ("The rock broke.")
+    *   *Tʊ-nɔ-kʼɔsa-lɔ hoto pʼɛla.*
+        ```
+        tʊ-nɔ-kʼɔsa-lɔ     hoto  pʼɛla
+        AGT-PAT-break-CAUS   man   rock
+        "The man made the rock break."
+        ```
+        (This is semantically distinct from the base transitive form, emphasizing the causing of a state rather than a direct action.)
+
+*   **Transitive to Ditransitive:** When added to a transitive verb, it makes it ditransitive. The original agent is demoted to a secondary object (the "causee"), and the original patient remains the patient. The original Agentive prefix is replaced by one marking the new causer, while the Patientive prefix is retained to mark the original patient.
+    *   *Tʊ-nɔ-sɔtʼa wɛjɛ jɔkʼɔ.* ("The child saw the dog.")
+    *   *Tʊ-nɔ-sɔtʼa-lɔ hoto wɛjɛ jɔkʼɔ.*
+        ```
+        tʊ-nɔ-sɔtʼa-lɔ     hoto  wɛjɛ  jɔkʼɔ
+        AGT-PAT-see-CAUS     man   child dog
+        "The man made the child see the dog." / "The man showed the dog to the child."
+        ```
+
+#### 2. Reciprocal Suffix `-so` / `-sɔ`
+
+The reciprocal suffix indicates that the action is performed by members of a group on each other. It is used with a plural or coordinated subject and requires an Agentive prefix. Because the action is directed at another agent within the subject group, the verb becomes syntactically intransitive.
+
+*   *Tʊ-sɔtʼa-sɔ hoto na wɛjɛ.*
+    ```
+    tʊ-sɔtʼa-sɔ       hoto na wɛjɛ
+    AGT-see-RECIP      man and child
+    "The man and the child see each other."
+    ```
+
+#### 3. Stative/Adjectival Suffix `-mo`/`-mɔ` and `-me`/`-mɛ`
+
+This suffix derives a stative adjective from a verb root. The resulting word can be used as a modifier in a noun phrase. The suffix has four forms to obey vowel harmony: `-mo` (back, +ATR), `-mɔ` (back, -ATR), `-me` (front, +ATR), `-mɛ` (front, -ATR).
+
+*   **Verb root:** `kʼɔsa` ("to break")
+*   **Stative Adjective:** `kʼɔsamɔ` ("broken")
+
+    *Tʊ-nɔ-sɔtʼa wɛjɛ quno kʼɔsamɔ.*
+    ```
+    tʊ-nɔ-sɔtʼa     wɛjɛ  quno kʼɔsamɔ
+    AGT-PAT-see      child house broken
+    "The child sees the broken house."
+    ```
+    (The derived adjective `kʼɔsamɔ` contains an ejective from its root, so it follows the noun it modifies, obeying the phonologically conditioned syntax rule.)
+
+### Pronouns and Pro-Drop
+
+Because the verb's prefixes clearly mark the agent and patient, overt noun phrases for the subject and object are often dropped when understood from context (pro-drop). Independent pronouns exist for emphasis, contrast, or clarity. They are not marked for case; their role is understood from the verb's prefixes. There is no gender distinction.
+
+| | Singular | Plural |
+| :--- | :---: | :---: |
+| **1st Person** | `me` | `meje` |
+| **2nd Person** | `so` | `soje` |
+| **3rd Person** | `hɛ` | `hɛje` |
+
+*   *To-hoto.* ("He/she runs.")
+*   *To-hoto **hɛ**.*
+    ```
+    to-hoto      hɛ
+    AGT-run      3SG
+    "**He/She** runs." (in contrast to someone else)
+    ```
+
+*   *Tʊ-nɔ-sɔtʼa **me** **hɛ**.*
+    ```
+    tʊ-nɔ-sɔtʼa     me  hɛ
+    AGT-PAT-see      1SG 3SG
+    "**I** see **him/her**."
+    ```
+
+### Negation
+
+Negation is marked by a particle, `kʼa`, which is placed directly after the verb complex (i.e., after the prefixed verb and any derivational suffixes). The presence of `kʼa` forces the entire verb complex it modifies (both prefixes and root) to take on [-ATR] vowel harmony.
+
+*   **Affirmative:** *To-hoto hoto.* ("The man runs.")
+    (The verb `to-hoto` is [+ATR].)
+
+*   **Negative:** *Tʊ-hɔtɔ kʼa hoto.*
+    ```
+    tʊ-hɔtɔ      kʼa  hoto
+    AGT-run      NEG  man
+    "The man does not run."
+    ```
+    (The negative particle `kʼa` forces the entire verb `to-hoto` to become its [-ATR] counterpart, `tʊ-hɔtɔ`.)
+
+## Syntax
+
+The basic constituent order is Verb-Subject-Object (VSO). Overt noun phrases for the subject and object are often dropped when understood from context.
+
+*Tʊ-nɔ-sɔtʼa wɛjɛ jɔkʼɔ.*
+```
+tʊ-nɔ-sɔtʼa     wɛjɛ  jɔkʼɔ
+AGT-PAT-see      child dog
+"The child sees the dog."
+```
+
+*Tʊ-nɔ-sɔtʼa.*
+```
+tʊ-nɔ-sɔtʼa
+AGT-PAT-see
+"(He/she/it) sees (him/her/it)."
+```
+
+The language uses postpositions almost exclusively. A postposition forms a phrase with the preceding noun.
+
+*To-hoto hoto quno kɔ.*
+```
+to-hoto      hoto  quno kɔ
+AGT-run      man   house in
+"The man runs in the house."
+```
+
+### Noun Phrase Structure and Ejective Displacement
+
+Noun phrase structure is typically head-final: adjectives and genitives (possessors) precede the noun they modify (Modifier-Possessor-Noun).
+
+*Tʊ-nɔ-sɔtʼa ᵐbulo wɛjɛ pɛlɛ jɔkʼɔ.*
+```
+tʊ-nɔ-sɔtʼa     ᵐbulo wɛjɛ    pɛlɛ  jɔkʼɔ
+AGT-PAT-see      big   child   small dog
+"The big child sees the small dog."
+```
+
+However, this order is subject to a phonologically conditioned rule called **Ejective Displacement**. Any item within a noun phrase that contains an ejective consonant—be it a modifier, possessor, or the head noun itself—disrupts the standard head-final NP order.
+
+1.  **Standard Order (Modifier-Possessor-Noun):**
+    *   *ᵐbulo hoto quno*
+    ```
+    ᵐbulo hoto  quno
+    big   man   house
+    "the big man's house"
+    ```
+
+2.  **Ejective in Modifier/Possessor (Displaces Element):** A modifier or possessor containing an ejective must follow the rest of the noun phrase.
+    *   *hoto quno pʼɛla*
+    ```
+    hoto  quno pʼɛla
+    man   house small
+    "the man's small house" (adjective `pʼɛla` has /pʼ/)
+    ```
+    *   *quno ᵐbulo tʼʊha*
+    ```
+    quno ᵐbulo tʼʊha
+    house big  chief
+    "the chief's big house" (possessor `tʼʊha` "chief" has /tʼ/)
+    ```
+    *   *Tʊ-nɔ-sɔtʼa wɛjɛ jɔkʼɔ qʼala.*
+    ```
+    tʊ-nɔ-sɔtʼa     wɛjɛ  jɔkʼɔ qʼala
+    AGT-PAT-see      child dog   bad
+    "The child sees the bad dog." (Adjective `qʼala` follows noun due to `/qʼ/`.)
+    ```
+
+3.  **Ejective in Head Noun (Inverts Entire Phrase):** If the head noun itself contains an ejective, the entire phrase inverts to a head-initial structure. The head noun comes first, followed by its possessors and then its other modifiers.
+    *   **Noun:** `jɔkʼɔ` ("dog", no ejective) -> *pɛlɛ jɔkʼɔ* ("small dog")
+    *   **Noun:** `pʼɛla` ("rock", has /pʼ/) -> *pʼɛla ᵐbulo* ("the big rock")
+    *   **Complex Example:** `pʼɛla hoto ᵐbulo`
+    ```
+    pʼɛla  hoto  ᵐbulo
+    rock   man   big
+    "the man's big rock"
+    ```
+
+### Question Formation
+
+#### 1. Yes/No Questions
+
+Yes/no questions are formed with the sentence-final particle `he`. This particle is phonologically neutral and does not affect harmony.
+
+*   *Tʊ-nɔ-sɔtʼa wɛjɛ jɔkʼɔ **he**?*
+    ```
+    tʊ-nɔ-sɔtʼa     wɛjɛ  jɔkʼɔ he
+    AGT-PAT-see      child dog   Q
+    "Does the child see the dog?"
+    ```
+
+#### 2. Content (Wh-) Questions
+
+Content questions use question words that are fronted to the beginning of the sentence, before the verb. This is an exception to the standard VSO word order.
+
+*   **Common Question Words:**
+    *   `haje` ("who?", "what?" - for animates)
+    *   `nama` ("what?" - for inanimates)
+    *   `lɛle` ("where?")
+    *   `sese` ("when?")
+    *   `koke` ("why?")
+
+*   ***Haje** tʊ-nɔ-sɔtʼa jɔkʼɔ?*
+    ```
+    haje  tʊ-nɔ-sɔtʼa     jɔkʼɔ
+    who   AGT-PAT-see      dog
+    "Who sees the dog?"
+    ```
+
+*   ***Nama** tʊ-nɔ-sɔtʼa wɛjɛ?*
+    ```
+    nama  tʊ-nɔ-sɔtʼa     wɛjɛ
+    what  AGT-PAT-see      child
+    "What does the child see?"
+    ```
+
+*   ***Lɛle** to-hoto hoto?*
+    ```
+    lɛle  to-hoto      hoto
+    where AGT-run      man
+    "Where does the man run?"
+    ```
+
+### Subordination and Clause Chaining
+
+Subordination is handled through clause chaining and medial verbs. The bare verb root serves as a medial verb in two distinct constructions.
+
+#### 1. Medial Verbs in Clause Chains
+
+A series of clauses can be linked together, with only the final verb in the chain being fully prefixed. All preceding, non-final verbs are "medial verbs," which appear as bare roots. These medial verbs share their subject with the following clause.
+
+*hoto, sɔtʼa pʼɛla, to-no-quno.*
+```
+run,  see   rock,  AGT-PAT-take
+"(He) ran, saw the rock, and took it."
+```
+
+#### 2. Medial Verbs in Relative Clauses
+
+Relative clauses are formed without a relative pronoun. The modifying clause is placed directly before the noun it modifies, and its verb is in the bare root (medial verb) form. The medial verb shares its agent with the head noun it modifies.
+
+*   *Tʊ-nɔ-sɔtʼa wɛjɛ [**sɔtʼa jɔkʼɔ**] hoto.*
+    ```
+    tʊ-nɔ-sɔtʼa     wɛjɛ  [sɔtʼa jɔkʼɔ] hoto
+    AGT-PAT-see      child [see   dog]   man
+    "The child sees the man who saw the dog."
+    ```

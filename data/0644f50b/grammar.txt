@@ -1,0 +1,214 @@
+# Grammar
+
+## Morphology
+
+The language's morphology is defined by a stark contrast between its completely suppletive inflectional system and its agglutinative derivational system. The language is characterized by a high degree of suppletion, which has completely replaced all historical inflectional affixation. Grammatical categories that are fusional or agglutinative in other languages (like person, number, or case) are realized through entirely different, unrelated word forms. The language has a moderate morphological complexity score of 3, not due to affixation, but because of this extensive system of suppletive forms that must be memorized.
+
+### Nominal Morphology
+
+Nouns have distinct suppletive forms for case and number.
+
+**1. Case System:** The language uses a Nominative-Accusative-Genitive system (Constraint 4: Value 2).
+*   **Nominative (NOM):** Marks the subject of any verb.
+*   **Accusative (ACC):** Marks the direct object of a transitive verb.
+*   **Genitive (GEN):** Marks a possessor.
+
+| Gloss | Nominative | Accusative | Genitive |
+| :--- | :--- | :--- | :--- |
+| 'person' | `sake` | `kasa` | `lake` |
+| 'cat' | `pife` | `teke` | `fipa` |
+| 'house' | `woto` | `sopa` | `soko` |
+
+**2. Number System:** Number (Singular vs. Plural) is also marked via suppletion. The plural form is suppletive for each case, creating a large paradigm that must be memorized for each noun.
+
+*   **Example: 'person' / 'people' paradigm**
+| | Singular | Plural |
+| :--- | :--- | :--- |
+| **Nominative** | `sake` | `kefe` |
+| **Accusative** | `kasa` | `peta` |
+| **Genitive** | `lake` | `sota` |
+
+**3. Adpositions and Case:** The language uses a mix of prepositions and postpositions (Constraint 5: Value 3). Adpositions govern the **nominative** case of the head noun of their complement phrase.
+
+*   `fene` (PREP) 'in'
+*   `taka` (POSTP) 'on'
+
+(1) **fene woto**
+    fene woto
+    in   house.NOM
+    'in the house'
+
+(2) **taka woto**
+    taka woto
+    house.NOM on
+    'on the house'
+
+### Verbal Morphology
+
+Verbs are the most complex lexical class, carrying suppletive information for both evidentiality and argument structure (agreement). Verbs do not inflect for tense, aspect, or mood, which are expressed via separate, optional, invariant particles (Constraint 9: Value 3). In the absence of a tense/aspect particle, the interpretation is determined by the context, but defaults to the present tense. These particles are placed in the sentence according to the general alphabetical ordering rule. Function words, such as adpositions and particles, are always phonologically simple. While some content words (like certain case forms of nouns) may also be phonologically simple, only content words can exhibit phonological complexity.
+
+*   `feka` (FUT) - future marker
+*   `kela` (PST) - past marker
+
+**1. Evidentiality and Polarity:** Verbs are obligatorily marked for evidentiality and polarity (positive/negative) through suppletion (Constraint 10: Value 4). A single verb root will have distinct suppletive forms for each combination.
+
+*   **Root: 'to see'**
+    *   **Positive:** `fans` 'see (direct/visual)', `janta` 'see (inferred)', `pete` 'see (reported)', `wesa` 'see (assumed)'
+    *   **Negative:** `fanso` 'not see (direct/visual)', `janto` 'not see (inferred)', `peteo` 'not see (reported)', `weso` 'not see (assumed)'
+*   **Root: 'to know'**
+    *   **Positive:** `keti` 'know (direct)', `sato` 'know (inferred)', `fete` 'know (reported)', `teme` 'know (assumed)'
+    *   **Negative:** `ketio` 'not know (direct)', `satoo` 'not know (inferred)', `feteo` 'not know (reported)', `temeo` 'not know (assumed)'
+
+(3) **fanso feka kasa sake**
+    fanso                  feka  kasa       sake
+    not.see[3S.S/3S.O,VIS] FUT   person.ACC person.NOM
+    'The person will not see the person.'
+
+**Stative Verbs and Copular Constructions:** Basic, common properties are often expressed with dedicated suppletive stative verbs. More complex or novel properties are expressed analytically with a copula and a derived adjective.
+
+*   **Root: 'to be' (Copula)**
+    *   `wete` 'be [1SG.S]'
+    *   `weti` 'be [2SG.S]'
+    *   `weso` 'be [3SG.S]'
+    *   `fesa` 'be [1PL.S]'
+    *   `fesi` 'be [2PL.S]'
+    *   `feso` 'be [3PL.S]'
+*   **Root: 'to be surprising' (Stative)**
+    *   `kopo` 'be surprising [3SG.S]'
+    *   `kopa` 'be surprising [3PL.S]'
+
+**2. Agreement (Double-Marking):** The language uses a double-marking system (Constraint 2: Value 3). The verb, as the head of the clause, uses suppletive forms to mark its arguments (head-marking), while the nominal arguments are also marked for their grammatical role using a case system (dependent-marking).
+
+*   **Example: Partial paradigm for 'see (Direct/Visual)'**
+| S / O | 3SG.O | 3PL.O |
+| :--- | :--- | :--- |
+| **1SG.S** | `pasi` | `famo` |
+| **3SG.S** | `fans` | `kamo` |
+| **3PL.S** | `sapo` | `tefa` |
+
+(4) **kamo peta sake**
+    kamo          peta        sake
+    see[3S.S/3PL.O,VIS] people.ACC person.NOM
+    'The person sees the people.'
+
+### Pronouns
+
+Pronouns are never dropped (Constraint 8: Value 1). They must always be present in a clause, even when the referent is obvious from context.
+
+### Derivational Morphology
+
+While inflection is suppletive, new words can be created productively through agglutinative suffixation. These derived stems are then subject to the same suppletive inflection as basic stems. Each derived stem creates a new lexical item whose full suppletive paradigm must be memorized independently, as there is no regular pattern for generating these forms.
+
+*   `-ke` (Causative): Derives a causative verb from another verb.
+*   `-ta` (Adjectivizer): Derives an adjective from a noun.
+*   `-so` (Nominalizer): Derives an abstract noun from a verb. This suffix is used for lexical nominalization (creating an abstract noun concept from a verb, e.g. 'knowledge' from 'to know'), which is distinct from the suppletive nominalization used for clause chaining (e.g., `fanse` 'the act of seeing').
+
+(5) **Deriving 'to cause to see' from 'to see' (`fans`)**
+    Root: `fans-` + `-ke` -> Derived Stem: `fanske-`
+    This new stem `fanske-` would then have its own full suppletive paradigm for evidentiality, polarity, and agreement. For instance, `fanskete` might be 'cause-to-see[3S.S/3S.O,VIS]'.
+
+(6) **Deriving 'cat-like' from 'cat' (`pife`)**
+    Root: `pife-` + `-ta` -> Adjective: `pifeta` ('cat-like')
+    This adjective is an uninflecting modifier.
+
+    **pife pifeta weso**
+    pife    pifeta weso
+    cat.NOM cat-like be[3S.S]
+    'The cat is cat-like.'
+
+## Syntax
+
+The single most defining feature of the language's syntax is that all words in a sentence are ordered strictly alphabetically. This constraint overrides all other word order principles. To compensate for the resulting ambiguity, grammatical relations are encoded on the head-marking verb and the case-marked arguments. The strict alphabetical ordering applies to each individual word, regardless of syntactic constituency.
+
+(7) **janta kasa sake**
+    janta                 kasa       sake
+    see[3S.S/3S.O,INFER] person.ACC person.NOM
+    'The person sees the person (I infer).' (Alphabetical order: j < k < s)
+
+(8) **fans pife teke**
+    fans                 pife    teke
+    see[3S.S/3S.O,VIS] cat.NOM cat.ACC
+    'The cat sees the cat.' (Alphabetical order: f < p < t)
+
+### Genitives, Adjectives, and Adpositions
+
+The relationship between words in a phrase (e.g., a noun and its modifier) is indicated by case marking and other grammatical features, not by word order. Their relative position is determined solely by the alphabetical ordering of the entire sentence.
+
+*   **Genitives:** A noun in the genitive case modifies another noun. The two nouns are not necessarily adjacent. A genitive noun is associated with its head noun by context and semantics (Constraint 6: Value 1 indicates a genitive-noun default interpretation).
+
+(9) **kopo soko woto**
+    kopo                 soko     woto
+    be.surprising[3S.S] house.GEN house.NOM
+    'The house's house is surprising.' (Alphabetical order: k < s < w)
+
+*   **Adjectives:** A derived adjective modifies a noun. Like genitives, their relationship is not based on adjacency.
+
+(10) **fans pifeta sake teke**
+     fans                 pifeta   sake       teke
+     see[3S.S/3S.O,VIS] cat-like person.NOM cat.ACC
+     'The cat-like person sees the cat.'
+
+*   **Adpositional Phrases:** An adposition and its complement noun (in the nominative case) are placed in the sentence according to their individual alphabetical positions. When an adposition's complement is a noun also modified by a genitive, the adposition governs the head noun, which remains in the nominative case.
+
+(11) **fene soko woto**
+     fene soko     woto
+     in   house.GEN house.NOM
+     'In the house (of the house).'
+     (The preposition `fene` governs the nominative noun `woto`. The genitive noun `soko` also modifies `woto`. The relationship is understood through case, not adjacency.)
+
+### Clause Chaining
+
+The primary strategy for combining clauses is nominalization (Constraint 7: Value 5). An entire clause is turned into a noun-like concept, which can then act as an argument in another clause. The nominalized form of a verb is also suppletive and invariant. For the verb root 'to see', which has multiple evidential forms like `fans` and `janta`, the single nominalized form is `fanse`.
+
+When a clause is nominalized, its subject appears in the genitive case and its object retains its accusative case. The resulting words are ordered alphabetically along with all other words in the main clause.
+
+(12) **fanse kopo lake**
+     fanse       kopo                 lake
+     seeing.NMLZ be.surprising[3S.S] person.GEN
+     'The person's act of seeing is surprising.'
+
+### Questions
+
+*   **Yes/No Questions:** Are formed by adding the question particle `seka` at its alphabetical position. Intonation also rises.
+
+(13) **fans kasa sake seka**
+     fans                 kasa       sake       seka
+     see[3S.S/3S.O,VIS] person.ACC person.NOM ?
+     'Does the person see the person?'
+
+*   **Content Questions (Wh-questions):** Use interrogative pronouns which are suppletive forms of regular nouns/pronouns. They function as regular nouns and are placed alphabetically.
+
+    *   `kato` (NOM) / `tefo` (ACC) - 'who?'
+    *   `sako` (NOM) / `fesa` (ACC) - 'what?'
+
+(14) **kato teke wesa**
+     kato    teke    wesa
+     who.NOM cat.ACC see[3S.S/3S.O,ASSUM]
+     'Who (one assumes) sees the cat?'
+
+     *Answer:*
+     **sake teke wesa**
+     sake       teke    wesa
+     person.NOM cat.ACC see[3S.S/3S.O,ASSUM]
+     'The person (one assumes) sees the cat.'
+
+### Anaphora and Discourse Linking
+
+The language uses a system of **"grammatical role anaphora"** to track referents across clauses. A pronoun's form changes depending on the grammatical role of its antecedent in the previous clause. This functions as a switch-reference system.
+
+*   **Continuative Pronouns:** Used when the antecedent was the subject (Nominative) of the previous clause.
+    *   `fapo` (NOM), `keso` (ACC)
+*   **Discontinuative Pronouns:** Used when the antecedent was the direct object (Accusative) of the previous clause.
+    *   `pela` (NOM), `seta` (ACC)
+*   **Oblique Pronouns:** Used when the antecedent was in the Genitive case in the previous clause.
+    *   `sape` (NOM), `leka` (ACC)
+
+(15) **pete kasa sake; pela weso**
+     pete                 kasa       sake       pela         weso
+     see[3S.S/3S.O,REPOR] person.ACC person.NOM he.DIS.NOM be[3SG.S]
+     'The person saw the person (I was told); he is happy.' (Uses discontinuative `pela` because the referent was the object `kasa` in the first clause.)
+
+(16) **kefe peta tefa; fapo feso**
+     kefe       peta        tefa                  fapo          feso
+     people.NOM people.ACC see[3PL.S/3PL.O,VIS] they.CONT.NOM be[3PL.S]
+     'The people see the people; they are happy.' (Uses continuative `fapo` because the referent was the subject `kefe` in the first clause.)

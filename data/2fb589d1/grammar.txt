@@ -1,0 +1,148 @@
+# Grammar
+
+## Morphology
+
+The language is moderately complex and strictly agglutinative, with morphemes being clearly separable. Grammatical information is primarily marked on heads (verbs and prepositions).
+
+### Noun Morphology
+Nouns are morphologically simple. Their core grammatical roles (Subject, Agent, Object) are indicated by verbal agreement and word order, so the nouns themselves are uninflected for these roles. However, a limited set of case enclitics can mark peripheral, non-core, or adverbial functions. These attach to the final word of a noun phrase and do not participate in the root's vowel height harmony.
+
+*   **Locative (`-kʼa`):** Marks a static location.
+    *   `sĩ́-kʼa`
+    *   `house-LOC`
+    *   "in/at the house"
+*   **Instrumental (`-psa`):** Marks the instrument used to perform an action.
+    *   `skʼáp-psa`
+    *   `rock-INS`
+    *   "with a rock"
+*   **Ablative (`-ta`):** Marks the source or origin 'from'.
+    *   `kʼã́mã̀-ta`
+    *   `bird-ABL`
+    *   "from the bird"
+*   **Allative (`-ki`):** Marks movement 'to' or 'towards'.
+    *   `psákǀà-ki`
+    *   `river-ALL`
+    *   "to the river"
+
+### Verb Morphology
+Verbs are the morphological center of the clause, encoding a great deal of grammatical information. The verbal template is rigid, and the lexical pitch accent on the root is preserved.
+
+**Verbal Template:** `ALIGNMENT-TENSE-ROOT-VALENCE`
+
+#### 1. Alignment Prefixes (Split-Ergativity)
+The language uses a split-ergative system conditioned by aspect. The prefix on the verb agrees with the core argument(s) according to the alignment pattern. All syllabic affixes (prefixes and suffixes) have a low tone, with the exception of the 3rd person alignment prefixes, whose vowel quality is determined by vowel harmony with the verb root. Non-syllabic infixes do not introduce a high tone, preserving the lexical pitch accent on the root.
+
+*   **Perfective Aspect (Ergative-Absolutive):** The prefix agrees with the Absolutive argument (the single argument of an intransitive verb, or the object of a transitive verb).
+*   **Imperfective Aspect (Nominative-Accusative):** The prefix agrees with the Nominative argument (the subject, regardless of transitivity).
+
+| Person/Number | Absolutive (ABS) | Ergative (ERG) | Nominative (NOM) | Accusative (ACC) |
+| :--- | :---: | :---: | :---: | :---: |
+| **1st Singular** | `tì-` | `kí` | `sì-` | `kí` |
+| **2nd Singular** | `kì-` | `sĩ́` | `kì-` | `sĩ́` |
+| **3rd Singular** | `pã̀-` / `pì-` | `nĩ̀` | `jã̀-` / `jì-` | `pì` |
+| **1st Plural** | `tã̀-` / `tì-` | `mã́nã̀` | `sã̀-` / `sì-` | `mã́nã̀` |
+| **2nd Plural** | `kã̀-` / `kì-` | `kʼã́mã̀` | `kã̀-` / `kì-` | `kʼã́mã̀` |
+| **3rd Plural** | `pã̀-` / `pì-` | `jã́pã̀tã̀` | `jã̀-` / `jì-` | `jã́pã̀tã̀` |
+
+*   **Unusual Feature:** The 3rd person prefixes (`pã̀-/pì-`, `jã̀-/jì-`) are number-neutral and exhibit vowel harmony, changing their vowel to match the height of the verb root. The 1st and 2nd plural Absolutive prefixes (`tã̀-/tì-`, `kã̀-/kì-`) and Nominative prefixes (`sã̀-/sì-`, `kã̀-/kì-`) also exhibit vowel harmony with the verb root. Number for the 3rd person is specified by the overt pronoun. Additionally, the pronouns are often identical to content words, distinguished only by their syntactic position and function. For instance, `sĩ́` is both "house" and the 2S pronoun, and the homophony between `kʼã́mã̀` ("bird") and the 2PL pronoun is a deliberate feature. The 1S/2S ERG/ACC pronouns are high-toned, while the 1PL/2PL ERG/ACC pronouns (`mã́nã̀`, `kʼã́mã̀`) are mixed-tone content words, and 3S pronouns are low-toned function words.
+
+*   **Example (Perfective):**
+    *   `pì-t-pìktí skàtkʼá nĩ̀ pì`
+    *   `ABS.3-PERF-chase dog 3S.ERG 3S.ABS`
+    *   "He/she chased the dog." (Prefix `pì-` agrees with Absolutive object `skàtkʼá`).
+
+*   **Example (Imperfective):**
+    *   `jì-k-pìktí skàtkʼá nĩ̀ pì`
+    *   `NOM.3S-IPFV-chase dog 3S.PRO 3S.ACC`
+    *   "He/she is chasing the dog." (Prefix `jì-` agrees with Nominative subject `nĩ̀`).
+
+#### 2. Tense Infixes
+Tense is marked by an infix placed immediately after the initial consonant cluster of the verb root (or after the first consonant if there is no cluster). These infixes are not affected by word-internal harmony processes like nasal harmony.
+
+*   **`-t-` (Perfective):** Used for completed actions. This is the default tense for the ergative frame.
+    *   `pã̀-t-kʼáɗà pì nĩ̀`
+    *   `ABS.3-PERF-see 3S.ABS 3S.ERG`
+    *   "He/she saw him/her."
+*   **`-k-` (Imperfective):** Used for ongoing or habitual actions. This is the default tense for the nominative frame.
+    *   `jì-k-jĩ̀kĩ́ nĩ̀`
+    *   `NOM.3S-IPFV-sleep 3S.PRO`
+    *   "He/she is sleeping."
+*   **`-s-` (Prospective):** Used for future or intended actions. It can be used with either alignment frame, depending on whether the speaker is focusing on the future state (perfective) or the future process (imperfective).
+    *   `pì-s-nĩ́kĩ̀pĩ̀ jã́pã̀tã̀ pì`
+    *   `ABS.3-PROSP-build 3PL.ERG 3S.ABS`
+    *   "They will build it." (Focus on the completed result).
+
+#### 3. Valence Suffixes
+Valence-changing morphemes are suffixed directly to the verb root.
+
+*   **`-ɗa` (Causative):** Adds an agent that causes the event.
+    *   `jì-k-jĩ̀kĩ́-ɗa pì nĩ̀`
+    *   `NOM.3S-IPFV-sleep-CAUS 3S.ACC 3S.PRO`
+    *   "He/she is making him/her sleep."
+*   **`-ja`/`-ji` (Antipassive):** Used in the ergative frame, this suffix demotes the object to a peripheral role and promotes the agent to become the sole core argument (Absolutive). This suffix harmonizes with the verb root's vowel height, becoming `-ji` for high-vowel roots. It is often used to focus on the agent's action rather than its effect on an object.
+    *   `pã̀-t-stásp-ja nĩ̀ nĩ̀`
+    *   `ABS.3-PERF-eat-AP 3S.PRO 3S.PRO`
+    *   "He/she ate." (The thing eaten is unspecified or unimportant).
+
+## Syntax
+
+### Basic Clause Structure
+The basic constituent word order is Verb-Object-Subject (VOS).
+
+*   `jã̀-k-stásp ɗàǀʼák nĩ̀ pì`
+*   `NOM.3S-IPFV-eat food 3S.PRO 3S.ACC`
+*   "He/she is eating the food." (Literally: "Is eating the food he/she it.")
+
+*   **Unusual Feature:** Despite being a head-marking language with rich verbal agreement, it is strictly non-pro-drop. All pronouns must be overtly stated, creating a system of mandatory pronominal doubling. A simple transitive clause has the structure `[Verb+prefixes] [Object NP] [Subject Pronoun] [Object Pronoun]`.
+    *   `pã̀-t-stásp ɗàǀʼák nĩ̀ pì`
+    *   `V(ABS.3-PERF-eat) O(food) S.PRO(3S.ERG) O.PRO(3S.ABS)`
+    *   "He/she ate the food." (Literally: "It-was-eaten the-food by-him/her it.")
+    *   `jì-k-pìktí jã́pã̀tã̀ nĩ̀ jã́pã̀tã̀`
+    *   `V(NOM.3S-IPFV-chase) O(people) S.PRO(3S.PRO) O.PRO(3PL.ACC)`
+    *   "He/she is chasing the people."
+
+### Prepositional Phrases
+The language uses prepositions exclusively, which is consistent with its verb-initial typology. Prepositions are head-marking, meaning they inflect to agree with their object.
+
+*   `ì-tʼà-mã́ pì`
+*   `PREP.HIGH-with-3S 3S.PRO`
+*   "with him/her"
+
+*   **Unusual Feature (Prepositional Harmony):** Prepositions are functional heads that must harmonize their vowel with the first vowel of their complement. This harmony applies to both noun and pronoun complements, creating a phonological link between the preposition and its object.
+    *   `à-tʼà-mã́ akʼat`
+    *   `PREP.LOW-with-3S man`
+    *   "with the man"
+    *   `ì-tʼà-mã́ ipisi`
+    *   `PREP.HIGH-with-3S child`
+    *   "with the child"
+
+### Noun Phrase Structure
+Noun phrase order is highly flexible. The head noun can precede or follow modifiers like adjectives and genitives, with the initial element receiving pragmatic focus.
+
+*   `kʼìpísì stásp` (N-Adj) vs. `stásp kʼìpísì` (Adj-N)
+    *   `person strong` vs. `strong person`
+    *   Both mean "the strong person," with the first element receiving focus.
+
+*   **Genitive Phrases:** Possession is marked by simple juxtaposition. The possessor is treated like an adjective.
+    *   `kʼìpísì sĩ́` (Possessor-Noun)
+    *   `person house`
+    *   "the **person's** house" (Focus on the person)
+    *   `sĩ́ kʼìpísì` (Noun-Possessor)
+    *   `house person`
+    *   "the person's **house**" (Focus on the house)
+
+### Clause Combining
+The language avoids typical subordinating conjunctions, instead using a unique clause combining strategy based on "verb echoing."
+
+*   **`-ja`/`-ji` (Linker):** A non-finite, "echoed" form of the main clause's verb introduces the subordinate clause. The linker suffix is `-ja` or `-ji`, harmonizing with the vowel height of the verb root to which it attaches. When it co-occurs with a valence suffix like the antipassive `-ja`/`-ji`, the valence suffix is attached first, resulting in a sequence like `-ja-ja` or `-ji-ji`.
+    *   `jã̀-k-kʼáɗà kʼã́mã̀ nĩ̀, kʼáɗà-ja pì-t-sĩ̀pmĩ́ pì pì.`
+    *   `NOM.3S-IPFV-see bird 3S.PRO, see-LINKR ABS.3-PERF-fly 3S.ABS 3S.PRO`
+    *   "She is watching the bird that flew away." (Literally: "Is watching the bird she, a seeing-event, it flew it.")
+
+*   **Unusual Feature (Echoed Argument Structure):** The linker can be combined with a valence suffix to clarify the role of the subject in the second clause. For example, adding the antipassive suffix *before* the linker (`-ja-ja` or `-ji-ji`) signals that the main clause's *agent* is the subject of the linked clause.
+    *   `pã̀-t-kʼáɗà kʼã́mã̀ nĩ̀ pì, kʼáɗà-ja-ja jì-k-jĩ̀kĩ́ nĩ̀`
+    *   `ABS.3-PERF-see bird 3S.ERG 3S.ABS, see-AP-LINKR NOM.3S-IPFV-sleep 3S.PRO`
+    *   "He saw the bird because **he** (the seer) was sleepy." (The antipassive marker points back to the Ergative agent).
+    *   `pì-t-pìktí skàtkʼá nĩ̀ pì, pìktí-ji-ji jì-k-jĩ̀kĩ́ nĩ̀`
+    *   `ABS.3-PERF-chase dog 3S.ERG 3S.ABS, chase-AP-LINKR NOM.3S-IPFV-sleep 3S.PRO`
+    *   "He chased the dog because **he** (the chaser) was sleepy." (The antipassive linker `-ji-ji` harmonizes with the high vowels of `pìktí`).

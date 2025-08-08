@@ -1,0 +1,68 @@
+# Phonology
+
+## Consonants
+
+| | Bilabial | Dental | Alveolar | Alveolar Lateral | Velar |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Plosive** | p pʰ | t tʰ | | | k kʰ |
+| **Nasal** | m | n | | | ŋ |
+| **Fricative** | | | s | | x |
+| **Approximant** | w | | l | | |
+| **Click (Tenuis)** | ʘ | ǀ | ǃ | ǁ | |
+| **Click (Aspirated)** | ʘʰ | ǀʰ | ǃʰ | ǁʰ | |
+| **Click (Nasal)** | ᵑʘ | ᵑǀ | ᵑǃ | ᵑǁ | |
+| **Click (Glottalized)** | ʘˀ | ǀˀ | ǃˀ | ǁˀ | |
+
+## Vowels
+
+| | Front | Central | Back |
+| :--- | :---: | :---: | :---: |
+| **High** | i | | u |
+| **Mid** | e | | o |
+| **Low** | | a | |
+
+## Phonotactics
+
+The syllable structure is C(C)V(C)(C). Onsets can be any single consonant or a plosive followed by /l/ or /w/. The nucleus is a single vowel. Codas can consist of one or two consonants. Single consonant codas are restricted to nasals (/m, n, ŋ/) and /s/. Final two-consonant clusters must be a nasal (/m, n, ŋ/) followed by /s/ (e.g., /ms, ns, ŋs/). Clicks cannot be the second member of an onset cluster, nor can they appear in a coda.
+
+## Suprasegmentals
+
+The language has a complex contour tone system with four phonemic tones: High Level /˥/, Low Level /˩/, Rising /˩˥/, and Falling /˥˩/. Tone is phonemic and lexically contrastive. Stress is predictable and non-phonemic; it is fixed on the penultimate syllable. In monosyllabic words, the single syllable is stressed. All vowels within a word must agree in rounding: a word contains either only unrounded vowels {i, e, a} or only rounded vowels {u, o}. This rounding harmony is determined by the first vowel of the word root.
+
+## Word Shapes and Lexical Statistics
+
+The basic building block of words in this language is the C(C)V(C)(C) syllable, though simpler structures are far more prevalent. Most words are monosyllabic or disyllabic. Words of three syllables are uncommon, and longer words are rare; these are almost exclusively content words.
+
+Function words are typically monosyllabic and phonologically simple, often consisting of a CV or CVC syllable. They tend to utilize the more common consonants.
+
+Content words exhibit the full range of phonological diversity. While many are simple CV or CVC structures, they are the domain where one finds complex onsets (plosive + /l/ or /w/), complex codas (nasal + /s/), and the extensive click inventory. Clicks, being unable to appear in codas or as the second member of an onset cluster, are a hallmark of syllable-initial position in many content words.
+
+A defining characteristic of the lexicon is a strict root-controlled vowel harmony. All vowels within a word must agree in rounding, meaning words are either entirely "unrounded" (containing only /i, e, a/) or "rounded" (containing only /u, o/). This creates a clear acoustic division across the entire vocabulary. Tone is phonemic and crucial for lexical distinction, with all four tones appearing frequently on words of all shapes and sizes.
+
+### Lexical Items
+
+1.  /kʰa˥/ (Common content item)
+2.  /tʰo˩/ (Common function item)
+3.  /si˩˥/ (Common content item)
+4.  /pʰlums˥˩/ (Uncommon content item)
+5.  /'ᵑǃo.kʰo˩/ (Common content item)
+6.  /ǁʰa.'le.sa˥/ (Uncommon content item)
+7.  /me˩/ (Common function item)
+8.  /xans˥/ (Fairly common content item)
+9.  /ʘˀu.'moŋ˩˥/ (Content item)
+10. /twa˩/ (Function item)
+11. /'se.ne˩˥/ (Common content item)
+12. /'kin.se˥/ (Content item)
+13. /ǀʰa.pi.'le˥˩/ (Uncommon content item)
+14. /ŋu˩/ (Common function item)
+15. /pʰo.'tʰu.lo˩/ (Content item)
+16. /ǃˀe.'mens˥/ (Rare content item)
+17. /'ᵑǀi.si˩/ (Content item)
+18. /wun˥˩/ (Content item)
+19. /kwo.'soŋ˩˥/ (Fairly common content item)
+20. /ǁˀa˥/ (Content item)
+21. /'te.la˩/ (Common content item)
+22. /pʰa.tʰa.'na.si˥˩/ (Rare content item)
+23. /ʘoŋ˥/ (Content item)
+24. /'i.li˩˥/ (Content item)
+25. /tʰloms˩/ (Uncommon content item)

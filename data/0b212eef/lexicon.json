@@ -1,0 +1,1054 @@
+[
+  {
+    "word": "-lo/-lɔ",
+    "translation": "suffix",
+    "pos": "Causative suffix",
+    "notes": "Verbal derivational suffix. Harmonizes for ATR and backness with the verb root.",
+    "null": [
+      "",
+      "-lo (+ATR back)",
+      " -lɔ (-ATR back)",
+      " -le (+ATR front)",
+      " -lɛ (-ATR front)"
+    ]
+  },
+  {
+    "word": "-mo/-mɔ/-me/-mɛ",
+    "translation": "suffix",
+    "pos": "Stative/Adjectival suffix",
+    "notes": "Verbal derivational suffix. Harmonizes for ATR and backness with the verb root.",
+    "null": [
+      "",
+      "kʼɔsa (v) > kʼɔsamɔ (adj)",
+      "-mo (+ATR back)",
+      " -mɔ (-ATR back)",
+      " -me (+ATR front)",
+      " -mɛ (-ATR front)"
+    ]
+  },
+  {
+    "word": "-so/-sɔ/-se/-sɛ",
+    "translation": "suffix",
+    "pos": "Reciprocal suffix",
+    "notes": "Verbal derivational suffix. Harmonizes for ATR and backness with the verb root.",
+    "null": [
+      "",
+      "-so (+ATR back)",
+      " -sɔ (-ATR back)",
+      " -se (+ATR front)",
+      " -sɛ (-ATR front)"
+    ]
+  },
+  {
+    "word": "/ˈha/",
+    "translation": "postposition",
+    "pos": "with; using",
+    "notes": "[-ATR] neutral vowel.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈhopo-lo/",
+    "translation": "verb",
+    "pos": "send; make go",
+    "notes": "Requires [+ATR] back harmony verb root.",
+    "null": [
+      "Derived from verb root 'hopo' + causative suffix '-lo'.",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈhopo-so/",
+    "translation": "verb",
+    "pos": "go together; travel together",
+    "notes": "Requires [+ATR] back harmony verb root.",
+    "null": [
+      "Derived from verb root 'hopo' + reciprocal suffix '-so'.",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈhopo/",
+    "translation": "verb",
+    "pos": "go",
+    "notes": "Requires [+ATR] back harmony verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈhɛnɛ/",
+    "translation": "verb",
+    "pos": "laugh",
+    "notes": "Requires [-ATR] front harmony verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈjɛpɛ/",
+    "translation": "noun",
+    "pos": "hand",
+    "notes": "Requires [-ATR] front harmony.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈkɛla/",
+    "translation": "noun",
+    "pos": "tree",
+    "notes": "Requires [-ATR] front harmony.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈkite/",
+    "translation": "noun",
+    "pos": "knife",
+    "notes": "Requires [+ATR] front harmony.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈkʼatʼa/",
+    "translation": "noun",
+    "pos": "fire",
+    "notes": "Requires [-ATR] back harmony. Contains ejectives /kʼ/ and /tʼ/",
+    "null": [
+      " triggering Ejective Displacement when it is the head noun.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈkʼaⁿda/",
+    "translation": "verb",
+    "pos": "sleep",
+    "notes": "Requires [-ATR] back harmony verb root. Contains an ejective /kʼ/ and a prenasalized stop /ⁿd/.",
+    "null": [
+      "",
+      "Irregular: Contains a prenasalized stop /ⁿd/ followed by a [-ATR] vowel /a/",
+      " violating the rule that prenasalized stops must be followed by [+ATR] vowels."
+    ]
+  },
+  {
+    "word": "/ˈkʼi/",
+    "translation": "particle",
+    "pos": "completive aspect marker",
+    "notes": "Post-verbal particle. Forces the verb complex to take [-ATR] harmony. Contains ejective /kʼ/.",
+    "null": [
+      "",
+      "This particle forces [-ATR] harmony. Example: to-pete > tʊ-pɛtɛ kʼi."
+    ]
+  },
+  {
+    "word": "/ˈkʼɔtɔ/",
+    "translation": "adjective",
+    "pos": "hot",
+    "notes": "Requires [-ATR] back harmony. Contains ejective /kʼ/",
+    "null": [
+      " triggering Ejective Displacement.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈkʼɛlɛ-sɛ/",
+    "translation": "verb",
+    "pos": "sing together",
+    "notes": "Requires [-ATR] front harmony verb root. Contains ejective /kʼ/.",
+    "null": [
+      "Derived from verb root 'kʼɛlɛ' (to sing) + reciprocal suffix '-sɛ'.",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈkʼɛlɛ/",
+    "translation": "verb",
+    "pos": "sing",
+    "notes": "Requires [-ATR] front harmony verb root. Contains ejective /kʼ/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈkʼʊlɔ/",
+    "translation": "verb",
+    "pos": "drink",
+    "notes": "Requires [-ATR] back harmony verb root. Contains ejective /kʼ/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈlolo/",
+    "translation": "adjective",
+    "pos": "red",
+    "notes": "Requires [+ATR] back harmony.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈlɔkʼo/",
+    "translation": "noun",
+    "pos": "blood",
+    "notes": "Requires [-ATR] back harmony. Contains ejective /kʼ/",
+    "null": [
+      " triggering Ejective Displacement when it is the head noun.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈlɛpɛ-lɛ/",
+    "translation": "verb",
+    "pos": "feed",
+    "notes": "Requires [-ATR] front harmony verb root.",
+    "null": [
+      "Derived from verb root 'lɛpɛ' + causative suffix '-lɛ'.",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈlɛpɛ/",
+    "translation": "verb",
+    "pos": "eat",
+    "notes": "Requires [-ATR] front harmony verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈmuna/",
+    "translation": "noun",
+    "pos": "moon; month",
+    "notes": "Requires [+ATR] back harmony.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈmɛkɛ/",
+    "translation": "noun",
+    "pos": "eye",
+    "notes": "Requires [-ATR] front harmony.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈnɛ/",
+    "translation": "postposition",
+    "pos": "on",
+    "notes": "[-ATR] front vowel.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈpete-le/",
+    "translation": "verb",
+    "pos": "catch (a fish); make swim",
+    "notes": "Requires [+ATR] front harmony verb root.",
+    "null": [
+      "Derived from verb root 'pete' (to swim) + causative suffix '-le'.",
+      "The verb root 'pete' is inferred to be polysemous with the noun 'pete' (fish)."
+    ]
+  },
+  {
+    "word": "/ˈpete/",
+    "translation": "noun",
+    "pos": "fish",
+    "notes": "Requires [+ATR] front harmony.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈpete/",
+    "translation": "verb",
+    "pos": "swim",
+    "notes": "Requires [+ATR] front harmony verb root.",
+    "null": [
+      "",
+      "Inferred from the noun 'pete' (fish)."
+    ]
+  },
+  {
+    "word": "/ˈpete/",
+    "translation": "verb",
+    "pos": "speak",
+    "notes": "Requires [+ATR] front harmony verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈpʼajɛ/",
+    "translation": "verb",
+    "pos": "give",
+    "notes": "Requires [-ATR] front harmony verb root. Contains ejective /pʼ/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈpʼatʼa/",
+    "translation": "noun",
+    "pos": "head",
+    "notes": "Requires [-ATR] back harmony. Contains ejectives /pʼ/ and /tʼ/",
+    "null": [
+      " triggering Ejective Displacement when it is the head noun.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈpʼʊsʊ/",
+    "translation": "noun",
+    "pos": "mouth",
+    "notes": "Requires [-ATR] back harmony. Contains ejective /pʼ/",
+    "null": [
+      " triggering Ejective Displacement when it is the head noun.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈqʼatʼa-lɔ/",
+    "translation": "verb",
+    "pos": "burn; set on fire",
+    "notes": "Requires [-ATR] back harmony verb root. Contains ejectives /qʼ/ and /tʼ/.",
+    "null": [
+      "Derived from verb root 'qʼatʼa' (to be on fire) + causative suffix '-lɔ'.",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈqʼatʼa/",
+    "translation": "verb",
+    "pos": "be on fire",
+    "notes": "Requires [-ATR] back harmony verb root. Contains ejectives /qʼ/ and /tʼ/.",
+    "null": [
+      "",
+      "Inferred from the noun 'kʼatʼa' (fire)",
+      " with a plausible phonological shift from /kʼ/ to /qʼ/ to distinguish the verb."
+    ]
+  },
+  {
+    "word": "/ˈqʼɛsɛ/",
+    "translation": "adjective",
+    "pos": "white",
+    "notes": "Requires [-ATR] front harmony. Contains ejective /qʼ/",
+    "null": [
+      " triggering Ejective Displacement.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈsani/",
+    "translation": "adjective",
+    "pos": "good",
+    "notes": "Requires [+ATR] front harmony.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈsɔla/",
+    "translation": "noun",
+    "pos": "sun; day",
+    "notes": "Requires [-ATR] back harmony.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈsɔtʼamɔ/",
+    "translation": "adjective",
+    "pos": "visible; seen",
+    "notes": "Requires [-ATR] back harmony. Contains ejective /tʼ/ from its root",
+    "null": [
+      " triggering Ejective Displacement.",
+      "Derived from verb root 'sɔtʼa' + stative suffix '-mɔ'.",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈsɛkʼɛ/",
+    "translation": "noun",
+    "pos": "leaf",
+    "notes": "Requires [-ATR] front harmony. Contains ejective /kʼ/",
+    "null": [
+      " triggering Ejective Displacement when it is the head noun.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈteli/",
+    "translation": "adjective",
+    "pos": "cold",
+    "notes": "Requires [+ATR] front harmony.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈtʼaka-mɔ/",
+    "translation": "adjective",
+    "pos": "pierced; speared",
+    "notes": "Requires [-ATR] back harmony. Contains ejective /tʼ/ from its root",
+    "null": [
+      " triggering Ejective Displacement.",
+      "Derived from verb root 'tʼaka' (to spear) + stative suffix '-mɔ'.",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈtʼaka/",
+    "translation": "noun",
+    "pos": "spear",
+    "notes": "Requires [-ATR] back harmony. Contains ejective /tʼ/",
+    "null": [
+      " triggering Ejective Displacement when it is the head noun.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈtʼaka/",
+    "translation": "verb",
+    "pos": "spear; pierce",
+    "notes": "Requires [-ATR] back harmony verb root. Contains ejective /tʼ/.",
+    "null": [
+      "",
+      "Inferred from the noun 'tʼaka' (spear)."
+    ]
+  },
+  {
+    "word": "/ˈtʼɛsɛlɛmɛ/",
+    "translation": "adjective",
+    "pos": "cut; sharp",
+    "notes": "Requires [-ATR] front harmony. Contains ejective /tʼ/ from its root",
+    "null": [
+      " triggering Ejective Displacement.",
+      "Derived from verb root 'tʼɛsɛ' (to cut) + causative suffix '-lɛ' + stative suffix '-mɛ'.",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈtʼɛlɛ/",
+    "translation": "noun",
+    "pos": "foot",
+    "notes": "Requires [-ATR] front harmony. Contains ejective /tʼ/",
+    "null": [
+      " triggering Ejective Displacement when it is the head noun.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈtʼɪpʼa/",
+    "translation": "noun",
+    "pos": "stone",
+    "notes": "Requires [-ATR] front harmony. Contains ejectives /tʼ/ and /pʼ/",
+    "null": [
+      " triggering Ejective Displacement when it is the head noun.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈwɔpʼa/",
+    "translation": "noun",
+    "pos": "sky",
+    "notes": "Requires [-ATR] back harmony. Contains a historical ejective /pʼ/",
+    "null": [
+      " and still triggers Ejective Displacement as an irregularity.",
+      "",
+      "Irregular: Triggers Ejective Displacement despite lacking an overt ejective."
+    ]
+  },
+  {
+    "word": "/ˈwɔta/",
+    "translation": "noun",
+    "pos": "cloud",
+    "notes": "Requires [-ATR] back harmony.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈwɔla/",
+    "translation": "verb",
+    "pos": "die",
+    "notes": "Requires [-ATR] back harmony verb root.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈwɔlamɔ/",
+    "translation": "adjective",
+    "pos": "dead",
+    "notes": "Requires [-ATR] back harmony.",
+    "null": [
+      "Derived from verb root 'wɔla' + stative suffix '-mɔ'.",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈᵐbeke/",
+    "translation": "noun",
+    "pos": "song",
+    "notes": "Requires [+ATR] front harmony. Contains prenasalized stop /ᵐb/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈᵐbubu/",
+    "translation": "adjective",
+    "pos": "black",
+    "notes": "Requires [+ATR] back harmony. Contains prenasalized stop /ᵐb/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈᵑɡaja/",
+    "translation": "noun",
+    "pos": "river",
+    "notes": "Requires [-ATR] back harmony. Contains a prenasalized stop /ᵑɡ/.",
+    "null": [
+      "",
+      "Irregular: Contains a prenasalized stop but has [-ATR] vowels."
+    ]
+  },
+  {
+    "word": "/ˈᵑɡino/",
+    "translation": "verb",
+    "pos": "think",
+    "notes": "Requires [+ATR] front harmony verb root. Contains prenasalized stop /ᵑɡ/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈᵑɡene/",
+    "translation": "noun",
+    "pos": "path; road",
+    "notes": "Requires [+ATR] front harmony. Contains prenasalized stop /ᵑɡ/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈⁿdemi/",
+    "translation": "verb",
+    "pos": "know",
+    "notes": "Requires [+ATR] front harmony verb root. Contains prenasalized stop /ⁿd/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈⁿdele/",
+    "translation": "adjective",
+    "pos": "long",
+    "notes": "Requires [+ATR] front harmony. Contains prenasalized stop /ⁿd/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈⁿdumo/",
+    "translation": "noun",
+    "pos": "heart",
+    "notes": "Requires [+ATR] back harmony. Contains prenasalized stop /ⁿd/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "haje",
+    "translation": "interrogative pronoun",
+    "pos": "who; what (animate)",
+    "notes": "Sentence-initial question word.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "he",
+    "translation": "particle",
+    "pos": "yes/no question marker",
+    "notes": "Sentence-final particle.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "hoto",
+    "translation": "noun",
+    "pos": "man",
+    "notes": "Requires [+ATR] back harmony.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "huto",
+    "translation": "noun",
+    "pos": "woman",
+    "notes": "Requires [+ATR] back harmony.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "hɛ",
+    "translation": "pronoun",
+    "pos": "he; she; it (3rd person singular)",
+    "notes": "",
+    "null": [
+      ""
+    ]
+  },
+  {
+    "word": "hɛje",
+    "translation": "pronoun",
+    "pos": "they; them (3rd person plural)",
+    "notes": "Derived from 'hɛ' + pluralizer '-je'.",
+    "null": [
+      ""
+    ]
+  },
+  {
+    "word": "jɔkʼɔ",
+    "translation": "noun",
+    "pos": "dog",
+    "notes": "Requires [-ATR] back harmony. Contains ejective /kʼ/",
+    "null": [
+      " triggering Ejective Displacement when it is the head noun.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "jɪjɛhɛ",
+    "translation": "noun",
+    "pos": "bird",
+    "notes": "Requires [-ATR] front harmony.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "koke",
+    "translation": "interrogative adverb",
+    "pos": "why",
+    "notes": "Sentence-initial question word.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kɔ",
+    "translation": "postposition",
+    "pos": "in; at",
+    "notes": "[-ATR] back vowel.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼa",
+    "translation": "particle",
+    "pos": "negation marker",
+    "notes": "Post-verbal particle. Forces the verb complex to take [-ATR] harmony. Contains ejective /kʼ/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼɔsa",
+    "translation": "verb",
+    "pos": "break",
+    "notes": "Stative intransitive verb root; requires [-ATR] back harmony. Contains ejective /kʼ/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼɔsamɔ",
+    "translation": "adjective",
+    "pos": "broken",
+    "notes": "Requires [-ATR] back harmony. Contains ejective /kʼ/ from its root",
+    "null": [
+      " triggering Ejective Displacement.",
+      "Derived from verb root 'kʼɔsa' + stative suffix '-mɔ'.",
+      ""
+    ]
+  },
+  {
+    "word": "lɛ",
+    "translation": "postposition",
+    "pos": "from",
+    "notes": "[-ATR] front vowel.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "lɛle",
+    "translation": "interrogative adverb",
+    "pos": "where",
+    "notes": "Sentence-initial question word.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "me",
+    "translation": "pronoun",
+    "pos": "I; me (1st person singular)",
+    "notes": "",
+    "null": [
+      ""
+    ]
+  },
+  {
+    "word": "meje",
+    "translation": "pronoun",
+    "pos": "we; us (1st person plural)",
+    "notes": "Derived from 'me' + pluralizer '-je'.",
+    "null": [
+      ""
+    ]
+  },
+  {
+    "word": "meⁿdile",
+    "translation": "noun",
+    "pos": "food",
+    "notes": "Requires [+ATR] front harmony. Contains prenasalized stop /ⁿd/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "na",
+    "translation": "conjunction",
+    "pos": "and",
+    "notes": "[-ATR] neutral vowel.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "nama",
+    "translation": "interrogative pronoun",
+    "pos": "what (inanimate)",
+    "notes": "Sentence-initial question word.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "no-/nɔ-",
+    "translation": "prefix",
+    "pos": "Patientive prefix (Sp/P)",
+    "notes": "Verbal prefix for patients/stative subjects. Harmonizes for ATR and backness with the verb root.",
+    "null": [
+      "",
+      "no- (+ATR)",
+      " nɔ- (-ATR)"
+    ]
+  },
+  {
+    "word": "/ˈpʼɛla/",
+    "translation": "noun",
+    "pos": "rock",
+    "notes": "Requires [-ATR] front harmony. Contains ejective /pʼ/",
+    "null": [
+      " triggering Ejective Displacement when it is the head noun.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ˈpʼɛla/",
+    "translation": "adjective",
+    "pos": "small",
+    "notes": "Requires [-ATR] front harmony. Contains ejective /pʼ/",
+    "null": [
+      " triggering Ejective Displacement.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʼɔtʼa",
+    "translation": "verb",
+    "pos": "hit",
+    "notes": "[-ATR] back harmony verb root. Contains ejective /pʼ/ and /tʼ/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "quno",
+    "translation": "noun",
+    "pos": "house",
+    "notes": "Requires [+ATR] back harmony.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "quno",
+    "translation": "verb",
+    "pos": "take",
+    "notes": "[+ATR] back harmony verb root.",
+    "null": [
+      "",
+      "Example of use: to-no-quno. Gloss: AGT-PAT-take. \"(He/she) took (it)\"."
+    ]
+  },
+  {
+    "word": "qʼala",
+    "translation": "adjective",
+    "pos": "bad",
+    "notes": "Requires [-ATR] back harmony. Contains ejective /qʼ/",
+    "null": [
+      " triggering Ejective Displacement.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "qʼɔ",
+    "translation": "particle",
+    "pos": "emphatic marker",
+    "notes": "[-ATR] back vowel. Contains ejective /qʼ/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "qʼʊkʼatʼa",
+    "translation": "verb",
+    "pos": "crush",
+    "notes": "[-ATR] back harmony verb root. Contains ejectives /qʼ/",
+    "null": [
+      " /kʼ/",
+      " /tʼ/.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "se",
+    "translation": "particle",
+    "pos": "irrealis marker",
+    "notes": "Pre-verbal particle marking future",
+    "null": [
+      " hypothetical",
+      " or potential events. [+ATR] front vowel.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "sese",
+    "translation": "interrogative adverb",
+    "pos": "when",
+    "notes": "Sentence-initial question word.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "so",
+    "translation": "pronoun",
+    "pos": "you (2nd person singular)",
+    "notes": "",
+    "null": [
+      ""
+    ]
+  },
+  {
+    "word": "soje",
+    "translation": "pronoun",
+    "pos": "you (2nd person plural)",
+    "notes": "Derived from 'so' + pluralizer '-je'.",
+    "null": [
+      ""
+    ]
+  },
+  {
+    "word": "sɔtʼa",
+    "translation": "verb",
+    "pos": "see",
+    "notes": "[-ATR] back harmony verb root. Contains ejective /tʼ/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "to-/tʊ-",
+    "translation": "prefix",
+    "pos": "Agentive prefix (Sa/A)",
+    "notes": "Verbal prefix for volitional agents. Harmonizes for ATR and backness with the verb root.",
+    "null": [
+      "",
+      "to- (+ATR)",
+      " tʊ- (-ATR)"
+    ]
+  },
+  {
+    "word": "tu",
+    "translation": "postposition",
+    "pos": "to; for",
+    "notes": "Requires [+ATR] back harmony.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tʼɛsɛ",
+    "translation": "verb",
+    "pos": "cut",
+    "notes": "[-ATR] front harmony verb root. Contains ejective /tʼ/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tʼʊha",
+    "translation": "noun",
+    "pos": "chief",
+    "notes": "Requires [-ATR] back harmony. Contains ejective /tʼ/",
+    "null": [
+      " triggering Ejective Displacement when it is the head noun.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "wuwolo",
+    "translation": "noun",
+    "pos": "water",
+    "notes": "Requires [+ATR] back harmony.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "wɛjɛ",
+    "translation": "noun",
+    "pos": "child",
+    "notes": "Requires [-ATR] front harmony.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ᵐbulo",
+    "translation": "adjective",
+    "pos": "big",
+    "notes": "Requires [+ATR] back harmony. Contains prenasalized stop /ᵐb/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ᵑɡoᵐbiso",
+    "translation": "verb",
+    "pos": "gather",
+    "notes": "Requires [+ATR] back harmony. Contains prenasalized stops /ᵑɡ/ and /ᵐb/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ⁿdo",
+    "translation": "particle",
+    "pos": "topic marker",
+    "notes": "Requires [+ATR] back harmony. Contains prenasalized stop /ⁿd/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ⁿdoku",
+    "translation": "noun",
+    "pos": "stick",
+    "notes": "Requires [+ATR] back harmony.",
+    "null": [
+      "",
+      ""
+    ]
+  }
+]

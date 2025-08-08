@@ -1,0 +1,1094 @@
+[
+  {
+    "word": "/câ.lǎk/",
+    "translation": "noun",
+    "pos": "door",
+    "notes": "Inanimate. First root tone is high-falling, so suffixes take a low tone (e.g. the instrumental-comitative would be `-sà`).",
+    "null": [
+      "",
+      "Translation inferred from context `ʔà.kə̂t-ət câ.lǎk-ət` 'the door of the house'."
+    ]
+  },
+  {
+    "word": "/cì/",
+    "translation": "verb",
+    "pos": "sit",
+    "notes": "Root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/cǎ/",
+    "translation": "verb",
+    "pos": "come",
+    "notes": "Root tone is low-rising, so suffixes take high tone.",
+    "null": [
+      "",
+      "A basic motion verb",
+      " counterpart to /tə̂/ 'arrive' and /plá/ 'go up'."
+    ]
+  },
+  {
+    "word": "/hà.ʔá/",
+    "translation": "adverb",
+    "pos": "yesterday",
+    "notes": "Temporal adverb. The intervocalic glottal stop is a valid onset.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/hâ/",
+    "translation": "verb",
+    "pos": "have",
+    "notes": "Root tone is high-falling, so suffixes take low tone.",
+    "null": [
+      "Used for possession, e.g. `mǎ.n̪ǎ-jə́ ʔà.kə̂t-ət hâ-sà-n` 'the man has a house (I see)'.",
+      ""
+    ]
+  },
+  {
+    "word": "/hì.pə́k/",
+    "translation": "noun",
+    "pos": "thought",
+    "notes": "Inanimate. First root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "From /ʂì.kà/ 'think' via morphological ablaut and suffixation.",
+      "The loss of the retroflex /ʂ/ makes this a 'bright' word, a common phonological process in derivation."
+    ]
+  },
+  {
+    "word": "/hǎ.la/",
+    "translation": "verb",
+    "pos": "walk",
+    "notes": "First root tone is low-rising, so suffixes take high tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/hə/",
+    "translation": "pronoun",
+    "pos": "who (indefinite)",
+    "notes": "Animate indefinite pro-form used for questions.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/hə́.jən/",
+    "translation": "verb",
+    "pos": "know",
+    "notes": "Root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "Contrasts with /mǎ.sət/ 'know (a person)'. The root has a high-level tone, so suffixes regularly take a low tone (e.g., the inferential imperfective is `-tà`). Some attestations show this verb with a high-tone suffix (e.g., `-tá`), which violates tonal polarity.",
+      ""
+    ]
+  },
+  {
+    "word": "/hə́.lì/",
+    "translation": "verb",
+    "pos": "die",
+    "notes": "Root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/jə́/",
+    "translation": "noun",
+    "pos": "hand",
+    "notes": "Inanimate. Root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "",
+      "Translation based on `jə́-sà` example."
+    ]
+  },
+  {
+    "word": "/kjâ/",
+    "translation": "verb",
+    "pos": "give",
+    "notes": "Root tone is high-falling, so suffixes take low tone.",
+    "null": [
+      "",
+      "Complex onset is valid (Stop+Approximant)."
+    ]
+  },
+  {
+    "word": "/klà/",
+    "translation": "verb",
+    "pos": "fall",
+    "notes": "Root tone is low-level, so suffixes take high tone. Complex onset /kl/ is valid.",
+    "null": [
+      "",
+      "A common action verb with a complex onset."
+    ]
+  },
+  {
+    "word": "/kwá.tə̀/",
+    "translation": "noun",
+    "pos": "horse",
+    "notes": "Animate. First root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "",
+      "A common animal",
+      " following a typical CVCV structure."
+    ]
+  },
+  {
+    "word": "/kwâ.sət/",
+    "translation": "noun",
+    "pos": "blood",
+    "notes": "Inanimate. Root tone is high-falling, so suffixes take low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/qwǎj/",
+    "translation": "verb",
+    "pos": "finish",
+    "notes": "Triggers dark harmony due to /q/. Root tone is low-rising, so suffixes take high tone.",
+    "null": [
+      "",
+      "Used in the example `pə̌t.tá qwǎj-χâ-n` 'finished building'."
+    ]
+  },
+  {
+    "word": "/kà.pə́k/",
+    "translation": "noun",
+    "pos": "boat",
+    "notes": "Inanimate. First root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "",
+      "A common vehicle/object."
+    ]
+  },
+  {
+    "word": "/kà.ɴǎχ/",
+    "translation": "noun",
+    "pos": "river",
+    "notes": "Inanimate. Triggers dark harmony due to /ɴ, χ/. First root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "",
+      "Translation inferred; described as an uncommon content item."
+    ]
+  },
+  {
+    "word": "/kâ/",
+    "translation": "suffix",
+    "pos": "(ergative marker)",
+    "notes": "Marks the inanimate ergative case as `-kâ`.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/kə̀.nà/",
+    "translation": "noun",
+    "pos": "mountain",
+    "notes": "Inanimate. First root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/kə́.sà/",
+    "translation": "conjunction",
+    "pos": "and",
+    "notes": "Coordinates noun phrases of the same case and animacy.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/kə́n/",
+    "translation": "noun",
+    "pos": "sun",
+    "notes": "Inanimate. Root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "",
+      "A high-frequency concept with a simple CVC structure."
+    ]
+  },
+  {
+    "word": "/kə̂.kə̂/",
+    "translation": "noun",
+    "pos": "ancestor",
+    "notes": "Animate. First root tone is high-falling, so suffixes take low tone.",
+    "null": [
+      "Reduplication of /kə/ (unattested root, possibly 'elder' or 'one who came before').",
+      "The tone pattern is a common result of nominalizing reduplication."
+    ]
+  },
+  {
+    "word": "/kə̂.laj/",
+    "translation": "noun",
+    "pos": "scribe",
+    "notes": "Animate. First root tone is high-falling, so suffixes take low tone.",
+    "null": [
+      "From /qà.laj/ 'write' + agentive suffix. The tone changes from low to high-falling as part of the agentive nominalization process. The loss of the uvular /q/ means this derived word is 'bright' and does not trigger dark harmony.",
+      ""
+    ]
+  },
+  {
+    "word": "/kə̂p.ʔà/",
+    "translation": "postposition",
+    "pos": "under",
+    "notes": "Takes inanimate objects. The final glottal stop is syllabified as an onset.",
+    "null": [
+      "",
+      "A common spatial postposition."
+    ]
+  },
+  {
+    "word": "/lì.pə́n/",
+    "translation": "noun",
+    "pos": "heart (organ)",
+    "notes": "Inanimate. First root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "",
+      "A core body part noun."
+    ]
+  },
+  {
+    "word": "/lǎ/",
+    "translation": "verb",
+    "pos": "take",
+    "notes": "Root tone is low-rising, so suffixes take high tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/lə́m/",
+    "translation": "noun",
+    "pos": "water",
+    "notes": "Inanimate. Root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/mì.la/",
+    "translation": "verb",
+    "pos": "love",
+    "notes": "First root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/mí.tə̀/",
+    "translation": "noun",
+    "pos": "mother",
+    "notes": "Animate. First root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/mǎ.n̪ǎ/",
+    "translation": "noun",
+    "pos": "man",
+    "notes": "Animate. First root tone is low-rising, so suffixes take high tone. E.g., the animate ergative is `-jə́`.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/mǎ.sət/",
+    "translation": "verb",
+    "pos": "know (a person)",
+    "notes": "First root tone is low-rising, so suffixes take high tone.",
+    "null": [
+      "Contrasts with /hə́.jən/ 'know (a fact)'. Such distinctions are common cross-linguistically.",
+      ""
+    ]
+  },
+  {
+    "word": "/mət.ŋə̀n/",
+    "translation": "verb",
+    "pos": "kiss",
+    "notes": "First root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "From /mət/ 'mouth' + /ŋə̀n/ 'eat'.",
+      "A classic example of a compound verb formed via object incorporation that has lexicalized into a new meaning."
+    ]
+  },
+  {
+    "word": "/mət/",
+    "translation": "noun",
+    "pos": "mouth",
+    "notes": "Inanimate. Root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/nà.kám/",
+    "translation": "noun",
+    "pos": "stone",
+    "notes": "Inanimate. First root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/nà.pə́l/",
+    "translation": "verb",
+    "pos": "find",
+    "notes": "First root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "",
+      "A common and useful verb."
+    ]
+  },
+  {
+    "word": "/nà.sət/",
+    "translation": "noun",
+    "pos": "name",
+    "notes": "Inanimate. First root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/n̪ì.sə́m/",
+    "translation": "noun",
+    "pos": "child",
+    "notes": "Animate. First root tone is low-level, so suffixes take high tone. E.g., the animate ergative would be `-jə́`.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/pjà/",
+    "translation": "verb",
+    "pos": "buy",
+    "notes": "Root tone is low-level, so suffixes take high tone. Complex onset /pj/ is valid.",
+    "null": [
+      "",
+      "A common transactional verb."
+    ]
+  },
+  {
+    "word": "/plá/",
+    "translation": "verb",
+    "pos": "go up",
+    "notes": "Root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "",
+      "Used as a directional verb in Serial Verb Constructions."
+    ]
+  },
+  {
+    "word": "/pà.cá/",
+    "translation": "noun",
+    "pos": "king",
+    "notes": "Animate. First root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "",
+      "A common concept",
+      " follows the CVCV pattern."
+    ]
+  },
+  {
+    "word": "/pà.láj/",
+    "translation": "noun",
+    "pos": "woman",
+    "notes": "Animate. First root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/pà.ʔà/",
+    "translation": "conjunction",
+    "pos": "but",
+    "notes": "Introduces a contrasting clause.",
+    "null": [
+      "",
+      "The glottal stop is a valid intervocalic onset."
+    ]
+  },
+  {
+    "word": "/pí.laj/",
+    "translation": "noun",
+    "pos": "book",
+    "notes": "Inanimate. First root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "From /pí/ (unattested root for 'leaf' or 'page') + /laj/ (unattested root for 'mark').",
+      "A compound noun, plausible for a literate society. The second element `/laj/` is also seen in /qà.laj/ 'write'."
+    ]
+  },
+  {
+    "word": "/pə́.lì/",
+    "translation": "noun",
+    "pos": "father",
+    "notes": "Animate. First root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/pə́.nà/",
+    "translation": "noun",
+    "pos": "brother",
+    "notes": "Animate. First root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "",
+      "A core kinship term."
+    ]
+  },
+  {
+    "word": "/pə̌t.tá/",
+    "translation": "verb",
+    "pos": "build",
+    "notes": "First root tone is low-rising, so suffixes regularly take a high tone (e.g., the auditory perfective would be `-χâ`). Note: Some grammar examples may show this verb with a low-tone suffix (e.g., `-χǎ`), which appears to violate tonal polarity.",
+    "null": [
+      "The example `pə̌t.tá qwǎj-χâ-n` is a Serial Verb Construction where the suffix attaches to the final verb, so it doesn't illustrate suffixation on /pə̌t.tá/ itself.",
+      ""
+    ]
+  },
+  {
+    "word": "/qà.laj/",
+    "translation": "verb",
+    "pos": "write",
+    "notes": "Triggers dark harmony due to /q/. First root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "From /qə̂n/ 'speak' + /laj/ (unattested root meaning 'mark' or 'hand-action')",
+      "A plausible compound verb that has lexicalized. The second element `/laj/` is phonemically similar to the second syllable of `/pà.láj/` 'woman', which could be a coincidence or a deeper etymological link."
+    ]
+  },
+  {
+    "word": "/qà.pə́.la/",
+    "translation": "noun",
+    "pos": "story",
+    "notes": "Inanimate. Triggers dark harmony due to /q/. First root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "",
+      "Translation inferred; described as a rare content item."
+    ]
+  },
+  {
+    "word": "/qá.tì/",
+    "translation": "noun",
+    "pos": "star",
+    "notes": "Inanimate. Triggers dark harmony due to /q/. First root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "From /qá/ (unattested root, possibly 'sky-object') + /tì/ 'fire'.",
+      "A plausible compound noun: 'sky-fire'."
+    ]
+  },
+  {
+    "word": "/qá/",
+    "translation": "preposition",
+    "pos": "to",
+    "notes": "Takes animate objects. Root tone is high-level, so suffixes (if any) would take low tone. Triggers dark harmony.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/qì.tá/",
+    "translation": "verb",
+    "pos": "ask",
+    "notes": "Triggers dark harmony due to /q/. First root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/qə̀.qə̀/",
+    "translation": "adverb",
+    "pos": "slowly",
+    "notes": "Triggers dark harmony due to /q/.",
+    "null": [
+      "Reduplication of /qə/ (unattested root, possibly 'slow' or 'heavy').",
+      "Follows the reduplication pattern for adverbs, like /sə̀.sə̀/ 'always'."
+    ]
+  },
+  {
+    "word": "/qə̂n/",
+    "translation": "verb",
+    "pos": "speak, say",
+    "notes": "Triggers dark harmony due to /q/. Root tone is high-falling, so suffixes take low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/sa/",
+    "translation": "pronoun",
+    "pos": "what (indefinite)",
+    "notes": "Inanimate indefinite pro-form used for questions.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/slà.xá/",
+    "translation": "verb",
+    "pos": "run",
+    "notes": "First root tone is low-level, so suffixes take high tone. Triggers dark harmony due to /x/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/swà.ʔá/",
+    "translation": "conjunction",
+    "pos": "if",
+    "notes": "Introduces a conditional clause.",
+    "null": [
+      "From /swá/ 'be-good' + adverbial/conditional suffix (unattested).",
+      "A plausible grammaticalization path from 'it is good that...'. The glottal stop is a valid onset."
+    ]
+  },
+  {
+    "word": "/swá/",
+    "translation": "verb",
+    "pos": "be-good",
+    "notes": "Stative verb. Root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "",
+      "Used adjectivally. For example",
+      " `mǎ.n̪ǎ-a swá-sà-n` 'the man is good (I see)'."
+    ]
+  },
+  {
+    "word": "/sà.səp/",
+    "translation": "noun",
+    "pos": "eye",
+    "notes": "Inanimate. First root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "Reduplication of /sə̂p/ 'see'.",
+      "The change of tone from /sə̂p/ to /sà.səp/ is a common pattern in nominalization through reduplication."
+    ]
+  },
+  {
+    "word": "/sà/",
+    "translation": "preposition",
+    "pos": "for/benefactive",
+    "notes": "Takes animate objects.",
+    "null": [
+      "",
+      "A common adposition",
+      " fills a semantic gap."
+    ]
+  },
+  {
+    "word": "/sàn.kə/",
+    "translation": "noun",
+    "pos": "moon",
+    "notes": "Inanimate. First root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/sə̀.sə̀/",
+    "translation": "adverb",
+    "pos": "always",
+    "notes": "Temporal adverb indicating habituality.",
+    "null": [
+      "",
+      "Reduplication of /sə/ (unattested temporal root).",
+      "The low-level tone on both syllables is typical for adverbs derived this way."
+    ]
+  },
+  {
+    "word": "/sə́.laj/",
+    "translation": "noun",
+    "pos": "song",
+    "notes": "Inanimate. First root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "From /sə́m/ 'sing' + nominalizing suffix /-laj/.",
+      ""
+    ]
+  },
+  {
+    "word": "/sə́m/",
+    "translation": "verb",
+    "pos": "sing",
+    "notes": "Root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "",
+      "Inferred from example `sə́m-sà-n` 'is singing'."
+    ]
+  },
+  {
+    "word": "/sə̂p/",
+    "translation": "verb",
+    "pos": "see",
+    "notes": "Root tone is high-falling, so suffixes take low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/trə́/",
+    "translation": "verb",
+    "pos": "be-red",
+    "notes": "Stative verb. Root tone is high-level, so suffixes take low tone. Complex onset /tr/ is valid.",
+    "null": [
+      "",
+      "A basic color term."
+    ]
+  },
+  {
+    "word": "/twə̂/",
+    "translation": "noun",
+    "pos": "tree",
+    "notes": "Inanimate. Root tone is high-falling, so suffixes would take low tone.",
+    "null": [
+      "",
+      "Translation inferred; described as a common content item."
+    ]
+  },
+  {
+    "word": "/tá.tə̂/",
+    "translation": "noun",
+    "pos": "bird",
+    "notes": "Animate. First root tone is high-level, so suffixes would take low tone.",
+    "null": [
+      "",
+      "Translation inferred; described as a common content item."
+    ]
+  },
+  {
+    "word": "/tá.xat/",
+    "translation": "verb",
+    "pos": "stand",
+    "notes": "First root tone is high-level, so suffixes take low tone. Triggers dark harmony due to /x/.",
+    "null": [
+      "",
+      "A basic posture verb."
+    ]
+  },
+  {
+    "word": "/tá/",
+    "translation": "adverb",
+    "pos": "now",
+    "notes": "",
+    "null": [
+      "Used to specify present tense",
+      " which is otherwise contextual."
+    ]
+  },
+  {
+    "word": "/tì.laj/",
+    "translation": "verb",
+    "pos": "burn (transitive)",
+    "notes": "First root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "From /tì/ 'fire' + a verbalizing suffix /-laj/.",
+      "Example of a verb derived from a noun."
+    ]
+  },
+  {
+    "word": "/tì/",
+    "translation": "noun",
+    "pos": "fire",
+    "notes": "Inanimate. Root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "",
+      "Simple CV structure",
+      " typical for a high-frequency concept."
+    ]
+  },
+  {
+    "word": "/tə̂/",
+    "translation": "verb",
+    "pos": "arrive",
+    "notes": "Root tone is high-falling, so suffixes take low tone.",
+    "null": [
+      "",
+      "Inferred from SVC example `slà.xá tə̂-sà-n` 'is arriving by running'."
+    ]
+  },
+  {
+    "word": "/t̪à/",
+    "translation": "suffix",
+    "pos": "(genitive marker)",
+    "notes": "Marks the animate genitive case as `-t̪à`.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/t̪á.wəl/",
+    "translation": "noun",
+    "pos": "path",
+    "notes": "Inanimate. First root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "Related to /wà.lì/ 'road', perhaps referring to a smaller, unpaved track.",
+      ""
+    ]
+  },
+  {
+    "word": "/t̪ì.nì/",
+    "translation": "adverb",
+    "pos": "tonight",
+    "notes": "Temporal adverb.",
+    "null": [
+      "",
+      "A specific temporal adverb",
+      " useful for narrative."
+    ]
+  },
+  {
+    "word": "/t̪ə́.nì/",
+    "translation": "noun",
+    "pos": "city",
+    "notes": "Inanimate. First root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/t̪ə́m/",
+    "translation": "verb",
+    "pos": "be-big",
+    "notes": "Stative verb. Root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/cí/",
+    "translation": "verb",
+    "pos": "want",
+    "notes": "Root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "The onset /c/ is realized as an affricate [t͡ʃ] before /i/.",
+      "Phonemic form is /cí/."
+    ]
+  },
+  {
+    "word": "/wà.lì/",
+    "translation": "noun",
+    "pos": "road",
+    "notes": "Inanimate. First root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/wə̂n/",
+    "translation": "noun",
+    "pos": "sky",
+    "notes": "Inanimate. Root tone is high-falling, so suffixes take low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/xǎ.mí/",
+    "translation": "verb",
+    "pos": "feed",
+    "notes": "Triggers dark harmony due to /x/. First root tone is low-rising, so suffixes take high tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ŋá.pə̀/",
+    "translation": "verb",
+    "pos": "help",
+    "notes": "First root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ŋə̀n/",
+    "translation": "verb",
+    "pos": "eat",
+    "notes": "Root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ɲà/",
+    "translation": "postposition",
+    "pos": "from",
+    "notes": "Takes inanimate objects. Root tone is low-level, so suffixes (if any) would take high tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ɳâ.ʈà/",
+    "translation": "verb",
+    "pos": "sleep",
+    "notes": "Triggers dark harmony due to /ɳ, ʈ/. First root tone is high-falling, so suffixes take low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ɳə́.ʔət/",
+    "translation": "noun",
+    "pos": "blood (of a person/animal)",
+    "notes": "Animate. Triggers dark harmony due to /ɳ/. Root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "Derived from /ɳə́/ 'meat' + a suffix indicating 'essence of'.",
+      "Contrasts with /kwâ.sət/ 'blood' (inanimate), which might refer to spilled blood or blood as a substance."
+    ]
+  },
+  {
+    "word": "/ɳə́/",
+    "translation": "noun",
+    "pos": "meat",
+    "notes": "Inanimate. Triggers dark harmony due to /ɳ/. Root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ʂà.wə́l/",
+    "translation": "noun",
+    "pos": "sand",
+    "notes": "Inanimate. Triggers dark harmony due to /ʂ/. First root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "",
+      "A common noun for a natural substance",
+      " using a retroflex consonant."
+    ]
+  },
+  {
+    "word": "/ʂá.lən/",
+    "translation": "noun",
+    "pos": "forest",
+    "notes": "Inanimate. Triggers dark harmony due to /ʂ/. First root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ʂì.kà/",
+    "translation": "verb",
+    "pos": "think",
+    "notes": "Triggers dark harmony due to /ʂ/. First root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ʂǎɴ/",
+    "translation": "noun",
+    "pos": "dog",
+    "notes": "Animate. Triggers dark harmony due to /ʂ/. Root tone is low-rising, so suffixes take high tone. The instrumental-comitative suffix is `-ʂá` due to the dark harmony trigger.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ʂə́k/",
+    "translation": "verb",
+    "pos": "be-black",
+    "notes": "Stative verb. Triggers dark harmony due to /ʂ/. Root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "",
+      "A basic color term",
+      " counterpart to /trə́/ 'be-red'."
+    ]
+  },
+  {
+    "word": "/ʈə́m/",
+    "translation": "noun",
+    "pos": "head",
+    "notes": "Inanimate. Triggers dark harmony due to /ʈ/. Root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "",
+      "A core body part",
+      " using a retroflex consonant."
+    ]
+  },
+  {
+    "word": "/ʔà.kə̂t.tə̀/",
+    "translation": "noun",
+    "pos": "village",
+    "notes": "Inanimate. First root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "From /ʔà.kə̂t/ 'house' + plural suffix `-tə̀`.",
+      "A lexicalized plural, meaning 'a collection of houses'."
+    ]
+  },
+  {
+    "word": "/ʔà.kə̂t/",
+    "translation": "noun",
+    "pos": "house",
+    "notes": "Inanimate. First root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ʔà.mət/",
+    "translation": "noun",
+    "pos": "word",
+    "notes": "Inanimate. First root tone is low-level, so suffixes take high tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ʔà.sán/",
+    "translation": "conjunction",
+    "pos": "because",
+    "notes": "Introduces a subordinate clause of reason.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ʔà/",
+    "translation": "preposition",
+    "pos": "with",
+    "notes": "Takes animate objects. Comitative function, contrasts with the instrumental-comitative suffix which is used for inanimate objects and animate instruments.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/ʔí/",
+    "translation": "noun",
+    "pos": "fish",
+    "notes": "Inanimate. Root tone is high-level, so suffixes would take low tone.",
+    "null": [
+      "",
+      "Used in object incorporation example `ʔí-ŋə̀n` 'to fish-eat'."
+    ]
+  },
+  {
+    "word": "/ʔə́.tə̀-tə̀/",
+    "translation": "noun",
+    "pos": "people",
+    "notes": "Animate. Grammatically plural.",
+    "null": [
+      "From /ʔə́.tə̀/ 'person' + plural suffix `-tə̀`.",
+      "This is the lexicalized plural form, used as a standalone noun."
+    ]
+  },
+  {
+    "word": "/ʔə́.tə̀/",
+    "translation": "noun",
+    "pos": "person",
+    "notes": "Animate. First root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "",
+      "A generic term for a person or human being."
+    ]
+  },
+  {
+    "word": "/χwǎ/",
+    "translation": "verb",
+    "pos": "breathe",
+    "notes": "Triggers dark harmony due to /χ/. Root tone is low-rising, so suffixes take high tone. Complex onset /χw/ is valid.",
+    "null": [
+      "",
+      "A basic life-sustaining verb."
+    ]
+  },
+  {
+    "word": "/χá/",
+    "translation": "verb",
+    "pos": "be-bad",
+    "notes": "Stative verb. Triggers dark harmony due to /χ/. Root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "",
+      "The counterpart to /swá/ 'be-good'."
+    ]
+  },
+  {
+    "word": "/χát/",
+    "translation": "verb",
+    "pos": "cut",
+    "notes": "Triggers dark harmony due to /χ/. Root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "/χâp.t̪ə/",
+    "translation": "noun",
+    "pos": "shadow",
+    "notes": "Inanimate. Triggers dark harmony due to /χ/. First root tone is high-falling, so suffixes would take low tone.",
+    "null": [
+      "",
+      "Translation inferred; described as an uncommon content item."
+    ]
+  },
+  {
+    "word": "/χǎj/",
+    "translation": "noun",
+    "pos": "wind",
+    "notes": "Inanimate. Triggers dark harmony due to /χ/. Root tone is low-rising, so suffixes take high tone.",
+    "null": [
+      "",
+      "A common natural element",
+      " using a uvular consonant."
+    ]
+  },
+  {
+    "word": "/χə́.lən/",
+    "translation": "verb",
+    "pos": "break",
+    "notes": "Triggers dark harmony due to /χ/. First root tone is high-level, so suffixes take low tone.",
+    "null": [
+      "",
+      "A common action verb."
+    ]
+  }
+]

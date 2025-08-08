@@ -1,0 +1,74 @@
+# Phonology
+
+## Consonants
+
+| | Labial | Alveolar | Alveolo-palatal | Velar | Glottal |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Nasal** | m mʱ | n nʱ | | ŋ ŋʱ | |
+| **Stop** | p b pʰ bʱ | t d tʰ dʱ | | k g kʰ gʱ | |
+| **Affricate** | | | t͡ɕ d͡ʑ t͡ɕʰ d͡ʑʱ | | |
+| **Fricative** | f v | s z | | x ɣ | h |
+| **Approximant** | w | l lʱ | j | | |
+| **Trill** | | r | | | |
+
+## Vowels
+
+| | Front | Central | Back |
+| :--- | :---: | :---: | :---: |
+| **High** | i | | |
+| **Mid** | | ə | |
+| **Low** | | a | |
+
+## Phonotactics
+
+The syllable structure is (C)(C)V(C)(C).
+
+**Onsets:** Onsets can have up to two consonants. The second consonant must be an approximant (/w, j, l, lʱ/) or the trill /r/. In a two-consonant onset, a maximum of one consonant may have a non-modal laryngeal feature (i.e., aspiration or breathy voice).
+
+**Codas:** Codas can have one or two consonants.
+*   **Single Consonant Codas (VC):** Any consonant is permitted except for breathy consonants (/mʱ, nʱ, ŋʱ, bʱ, dʱ, gʱ, d͡ʑʱ, lʱ/) and glottal consonants (/h/). Approximants (/w, j, l, r/) are permitted. The sequences /aj/ and /aw/ are treated as VC sequences.
+*   **Two Consonant Codas (VCC):** The only permitted two-consonant codas consist of a nasal followed by a homorganic voiceless stop: /-mp, -nt, -ŋk/.
+
+The vowel /ə/ is epenthetic and inserted to break up illicit consonant clusters at morpheme boundaries. It cannot appear in a stressed syllable.
+
+## Suprasegmentals
+
+The language is non-tonal and has a fixed, predictable stress system. Primary stress always falls on the final syllable of the word. Due to the prohibition of /ə/ in stressed syllables, words that would underlyingly end in /ə/ must take a suffix with a full vowel (/i/ or /a/) to be realized. This creates a functional distinction between words that can stand alone and those that are obligatorily bound to a suffix.
+
+## Word Shapes and Lexical Statistics
+
+The lexicon of this language is characterized by a prevalence of monosyllabic words, which constitute a significant portion of both content and function items. These monosyllables exhibit a wide range of complexity, from simple CV structures to heavy CCVCC syllables. Polysyllabic words, while also common, are most often the result of affixation or compounding.
+
+Content words are typically phonologically robust. Many are monosyllabic, often featuring complex onsets with approximants or complex codas with nasal-stop clusters. Disyllabic and longer content words are also frequent, always ending in a stressed syllable containing either /i/ or /a/.
+
+Function words, in contrast, are often phonologically simpler. Many are short CV or CVC monosyllables. A notable feature is the existence of a class of bound morphemes. These include morphemes that would underlyingly end in the vowel /ə/ (e.g., /kə-/, /nʱə-/), which is prohibited from receiving the word-final stress, and purely consonantal morphemes (e.g., /-s/, /-n/). These morphemes must attach to a host word. Consonantal morphemes attach to vowel-final stems, or trigger /ə/-epenthesis when attaching to a consonant-final stem (e.g., a stem ending in /t/ + /-s/ is realized as /-təs/). The epenthetic vowel /ə/ is common in any unstressed, non-final syllable of a polysyllabic word, but it is entirely absent from free-standing monosyllabic words.
+
+Overall, short words of one or two syllables are the most common. Words of three or more syllables exist but are less frequent, typically representing complex derived or compound forms. The small three-vowel inventory means that /a/ and /i/ are extremely common, while /ə/ is restricted to unstressed, non-final positions.
+
+### Lexical Items
+
+1.  /bʱlaj/ (Content, common)
+2.  /kʰant/ (Content, common)
+3.  /d͡ʑi/ (Content, common)
+4.  /ɣə.ˈd͡ʑa/ (Content, common)
+5.  /mʱon/ (Content, common)
+6.  /t͡ɕʰwa/ (Content, common)
+7.  /zə.ˈkʰi/ (Content, common)
+8.  /ramp/ (Content, somewhat common)
+9.  /pʰlaŋk/ (Content, somewhat common)
+10. /lʱə.ˈvə.ri/ (Content, somewhat common)
+11. /gwi/ (Function, common)
+12. /tʰa/ (Function, common)
+13. /sat/ (Function, common)
+14. /kə-/ (Function, bound morpheme, common)
+15. /nʱə-/ (Function, bound morpheme, common)
+16. /t͡ɕə.ˈna/ (Content, common)
+17. /xə.ˈbʱlant/ (Content, rare)
+18. /d͡ʑə.ˈŋkʰi/ (Content, somewhat common)
+19. /ŋʱwa.ˈzat/ (Content, rare)
+20. /fə.ˈlʱa/ (Content, common)
+21. /tə.ˈd͡ʑint/ (Content, somewhat common)
+22. /d͡ʑʱə.ˈli/ (Content, somewhat common)
+23. /-n/ (Function, bound morpheme, common)
+24. /-s/ (Function, bound morpheme, common)
+25. /kʰwə.ˈt͡ɕʰə.li/ (Content, uncommon)

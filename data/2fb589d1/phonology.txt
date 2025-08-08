@@ -1,0 +1,68 @@
+# Phonology
+
+## Consonants
+
+| | Labial | Alveolar | Palatal | Velar | Dental |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Plosive** | p | t | | k | |
+| **Ejective** | pʼ | tʼ | | kʼ | |
+| **Implosive** | | ɗ | | | |
+| **Nasal** | m | n | | | |
+| **Fricative** | | s | | | |
+| **Approximant** | | | j | | |
+| **Click** | | | | | ǀ, ǀʼ |
+
+## Vowels
+
+| | Front | Central | Back |
+| :--- | :---: | :---: | :---: |
+| **High** | i / ĩ | | |
+| **Low** | a / ã | | |
+
+## Phonotactics
+
+The language has a highly complex syllable structure, allowing for the template (C)(C)V(C)(C). The only permitted vowels are /i, a/ and their nasalized counterparts /ĩ, ã/. Despite the small phoneme inventory, extensive consonant clustering is common, particularly word-initially and word-finally. The dental clicks /ǀ, ǀʼ/ and the implosive /ɗ/ can appear in any position within a cluster. Nasal harmony is pervasive; if a word contains a nasal vowel (/ĩ, ã/) or a nasal consonant (/m, n/), all vowels in that word become nasalized.
+
+## Suprasegmentals
+
+The language features a pitch accent system where one syllable in each lexical root carries a high tone; all other syllables have a default low tone. The placement of this accent is unpredictable and must be memorized for each word. Additionally, the language exhibits vowel height harmony: all vowels in a given root must share the same height feature (i.e., a root contains either only high vowels /i, ĩ/ or only low vowels /a, ã/). This harmony rule does not extend across compound words or to most affixes.
+
+## Word Shapes and Lexical Statistics
+
+The language exhibits a wide variety of word shapes, primarily driven by its complex syllable structure and phonotactic rules. Most lexical items are monosyllabic or disyllabic. However, due to the permissive (C)(C)V(C)(C) syllable template, even monosyllabic words can be phonemically long and feature extensive consonant clusters.
+
+Content words, such as nouns and verbs, are typically longer and more structurally complex. Many content words are disyllabic, and most take full advantage of the clustering possibilities, especially in word-initial and word-final positions. Words with three or more syllables are less common and are often the result of compounding. The unpredictable pitch accent is a defining feature of all content words.
+
+Function words, in contrast, are generally short and phonologically simpler. Most are monosyllabic, often with a CV or CVC structure. Some function words consist of a single vowel. They typically lack the complex consonant clusters found in content words and are pronounced with a default low tone. A few high-frequency function words are exceptions and may carry a high tone.
+
+Nasal harmony is a pervasive feature affecting words of all types. The presence of a single nasal consonant or nasal vowel will cause all vowels in the word to become nasalized. Similarly, vowel height harmony rigidly divides the lexicon into words containing only high vowels (/i, ĩ/) and words containing only low vowels (/a, ã/) within a given root.
+
+### Lexical Items
+
+1.  /kí/ (content item, common)
+2.  /pã́/ (content item, common)
+3.  /à/ (function item, common)
+4.  /nĩ̀/ (function item, common)
+5.  /stásp/ (content item, common)
+6.  /kʼáɗà/ (content item, common)
+7.  /pìktí/ (content item, common)
+8.  /mã́nã̀/ (content item, common)
+9.  /sĩ̀pmĩ́/ (content item, uncommon)
+10. /ɗàǀʼák/ (content item, common)
+11. /nĩ̀sĩ́ktĩ̀/ (content item, uncommon)
+12. /jã́pã̀tã̀/ (content item, uncommon)
+13. /skàtkʼá/ (content item, common)
+14. /ǀʼíɗìpì/ (content item, uncommon)
+15. /tʼà/ (function item, common)
+16. /psákǀà/ (content item, uncommon)
+17. /kʼìpísì/ (content item, common)
+18. /mã́/ (function item, common, exceptional high tone)
+19. /ǀʼàɗástà/ (content item, rare)
+20. /nĩ́kĩ̀pĩ̀/ (content item, common)
+21. /ɗáǀàkàpʼà/ (content item, rare)
+22. /sĩ́/ (content item, common)
+23. /kʼã́mã̀/ (content item, common)
+24. /pì/ (function item, common)
+25. /tʼàkʼátʼà/ (content item, uncommon)
+26. /skʼáp/ (content item, common)
+27. /jĩ̀kĩ́/ (content item, common)

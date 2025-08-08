@@ -1,0 +1,75 @@
+# Phonology
+
+## Consonants
+
+| | Labial | Alveolar | Palatal | Velar | Uvular | Glottal |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Plosive** | p | t | | k | q | |
+| **Ejective** | pʼ | tʼ | | kʼ | qʼ | |
+| **Nasal** | m | n | | | | |
+| **Prenasalized Stop** | ᵐb | ⁿd | | ᵑɡ | | |
+| **Fricative** | | s | | | | h |
+| **Liquid** | | l | | | | |
+| **Glide** | | | j | w | | |
+
+## Vowels
+
+| | Front | Central | Back |
+| :--- | :---: | :---: | :---: |
+| **High (+ATR)** | i | | u |
+| **High (-ATR)** | ɪ | | ʊ |
+| **Mid (+ATR)** | e | | o |
+| **Mid (-ATR)** | ɛ | | ɔ |
+| **Low (-ATR)** | | a | |
+
+## Phonotactics
+
+The language has a strict CV syllable structure. All words consist of one or more CV syllables, with no consonant clusters, codas, or vowel-initial words permitted. There are significant co-occurrence restrictions: ejectives (/pʼ, tʼ, kʼ, qʼ/) may only be followed by -ATR vowels (/ɪ, ʊ, ɛ, ɔ, a/), while prenasalized stops (/ᵐb, ⁿd, ᵑɡ/) may only be followed by +ATR vowels (/i, u, e, o/). The low vowel /a/ is neutral to front/back harmony but acts as a -ATR vowel for the purposes of consonant co-occurrence and ATR harmony.
+
+## Suprasegmentals
+
+The language has no phonemic tone. Primary stress is fixed on the first syllable of a word. Two interlocking vowel harmony systems are present: front/back harmony and ATR/RTR harmony. All vowels in a word must agree in tongue root position (either all +ATR or all -ATR). Within a word, all vowels other than /a/ must also agree in backness (either all front or all back). The low vowel /a/ is exempt from the front/back harmony requirement and can co-occur with a series of front vowels or a series of back vowels, provided the ATR harmony is maintained. These harmony rules are triggered by the root's vowels and apply to all affixes.
+
+## Word Shapes and Lexical Statistics
+
+All words in the language are composed of one or more CV syllables. The smallest possible word is a single CV syllable, and there is no theoretical maximum length, though words longer than four or five syllables are rare.
+
+Monosyllabic and disyllabic words are very common and constitute the vast majority of the lexicon. Most function items are monosyllabic, while most content words are disyllabic or trisyllabic. Longer words are almost exclusively derived or compounded content words.
+
+The strict vowel harmony systems create distinct "sets" of vowels that can appear in a given word: front +ATR, front -ATR, back +ATR, and back -ATR. The vowel /a/ can appear with either the front -ATR set or the back -ATR set. This, combined with the co-occurrence restrictions on ejective and prenasalized consonants, means that certain phoneme combinations are common while others are impossible. For instance, words containing prenasalized stops will only ever feature the vowels /i, u, e, o/, while words with ejectives will only ever feature /ɪ, ʊ, ɛ, ɔ, a/. This gives words containing these consonant types a distinct phonetic character. Words with only plain plosives, nasals, fricatives, liquids, and glides are the most numerous and phonologically flexible.
+
+### Lexical Items
+
+**Content Items (Common)**
+*   /ˈkʼɔsa/
+*   /ˈⁿdoku/
+*   /ˈpɛlɛ/
+*   /ˈhuti/
+*   /ˈqʼala/
+*   /ˈmeⁿdile/
+*   /ˈsɔtʼa/
+*   /ˈwɛjɛ/
+*   /ˈᵐbulo/
+*   /ˈjɔkʼɔ/
+*   /ˈquno/
+*   /ˈtʼʊha/
+*   /ˈpʼɛla/
+
+**Content Items (Uncommon)**
+*   /ˈpʼɔtʼa/
+*   /ˈᵑɡoᵐbiso/
+*   /ˈtʼɛsɪlɪ/
+*   /ˈqʼʊkʼatʼa/
+*   /ˈwuwolo/
+*   /ˈjɪjɛhɛ/
+
+**Function Items (Common)**
+*   /ˈse/
+*   /ˈkɔ/
+*   /ˈna/
+*   /ˈtu/
+*   /ˈlɛ/
+
+**Function Items (Uncommon)**
+*   /ˈqʼɔ/
+*   /ˈⁿdo/

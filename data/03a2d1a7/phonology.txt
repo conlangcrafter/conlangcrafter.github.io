@@ -1,0 +1,64 @@
+# Phonology
+
+## Consonants
+
+|                 | Bilabial | Labiodental | Alveolar | Post-alveolar | Palatal | Velar | Glottal |
+|-----------------|----------|-------------|----------|---------------|---------|-------|---------|
+| **Stops**       | p b      |             | t d      |               |         | k g   | ʔ       |
+| **Ejective obstruents** | p'       |             | t' ts'   | tʃ'           |         | k' x' |         |
+| **Fricatives**  |          | f v         | s z      | ʃ ʒ           | ç       | x ɣ   | h ɦ     |
+| **Affricates**  |          |             | ts dz    | tʃ dʒ         |         |       |         |
+| **Nasals**      | m m̥      |             | n n̥      |               | ɲ ɲ̊     | ŋ ŋ̊   |         |
+| **Trills**      |          |             | r r̥      |               |         |       |         |
+| **Taps**        |          |             | ɾ        |               |         |       |         |
+| **Approximants**|          |             | l l̥      |               | j j̊     | w w̥   |         |
+
+## Vowels
+
+|          | Front | Central | Back |
+|----------|-------|---------|------|
+| **High** | i     |         | u    |
+| **Mid**  | e     |         | o    |
+| **Low**  | ɛ     | a       | ɔ    |
+
+## Phonotactics
+
+Syllable structure permits V, CV, CVC, and CCV patterns with minimal restrictions; any consonant clusters allow free combination of obstruents, nasals, trills, taps, and approximants (e.g., /kʃa/, /zŋo/, /kʼʃa/, /r̥ka/). Ejectives may appear in non-final codas but are prohibited in word-final codas. Voiceless sonorants (nasals, trills, approximants) follow the same distribution rules as their voiced counterparts.
+
+## Suprasegmentals
+
+Lexical roots for inflecting categories are abstract and consist solely of specifications for tone patterns (high/low), vowel nasalization, and vowel height harmony; inflectional morphology supplies segmental content. Tone and vowel nasalization span entire words, with nasalization applying exclusively to vowels; consonants may be nasal or oral independently, as per their underlying representation. Height harmony requires all vowels to be in the same height group: high (i, u), mid (e, o), or low (ɛ, a, ɔ). Stress is predictable and falls on the first syllable. Tone patterns vary freely, with disyllabic verbs commonly exhibiting high tone on the first syllable and low tone on the second (HL sequence).
+
+## Word Shapes and Lexical Statistics
+
+Word shapes exhibit systematic patterns influenced by lexical class and inflectional status. Most verbs are disyllabic due to inflectional templates, while nouns and adjectives display greater syllabic diversity. Function words are predominantly monosyllabic. Monosyllabic structures (V, CV, CVC, CCV) occur frequently across all classes, especially in function items and uninflected content words. Disyllabic words (e.g., CV.CV, CVC.CV) are common for verbs and frequent among nouns. Trisyllabic forms occur occasionally in content words but are rare elsewhere. Vowel height harmony is strictly maintained in all words, with low vowels being most frequent. Tone patterns vary freely, though HL contours are particularly common in verbs. Nasalization appears in roughly half of lexical items. Ejectives occur freely non-finally but never word-finally. Complex onsets (e.g., /kʃ/, /ps/) are moderately common, while codas are frequent but typically simple.
+
+Illustrative lexical items:  
+1. /kíntù/ - content (verb) - common  
+2. /tʃʼɛ́hɔ̀/ - content (verb) - common  
+3. /mã́ŋkã̀/ - content (verb) - common  
+4. /pʼélò/ - content (verb) - common  
+5. /sú.r̥ù/ - content (verb) - common  
+6. /ʔá/ - content (noun) - common  
+7. /ʃtɔ́/ - content (noun) - common  
+8. /kʼátʼa/ - content (noun) - uncommon  
+9. /hɛ̃̀/ - content (noun) - common  
+10. /psì/ - content (noun) - common  
+11. /sã̀lãɾã̀/ - content (noun) - common  
+12. /l̥ún/ - content (noun) - uncommon  
+13. /ã́/ - content (noun) - common  
+14. /tsʼã̀ɾã̀/ - content (noun) - common  
+15. /kʼáɾá/ - content (noun) - common  
+16. /bɛ́/ - content (adjective) - common  
+17. /ã̀ŋã̀/ - content (adjective) - common  
+18. /çík/ - content (adjective) - uncommon  
+19. /n̥ã́/ - content (adverb) - common  
+20. /j̥ò/ - content (adverb) - common  
+21. /à/ - function - common  
+22. /kò/ - function - common  
+23. /ʔì/ - function - common  
+24. /zɛ́/ - function - common  
+25. /nã̀/ - function - common  
+26. /xʼókʼò/ - content (noun) - uncommon  
+27. /tʃáɾà/ - content (noun) - 'stone'  
+28. /tʃíɾì/ - content (noun) - 'pebble'

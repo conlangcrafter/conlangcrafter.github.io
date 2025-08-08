@@ -1,0 +1,1023 @@
+[
+  {
+    "word": "'fle̘me̘",
+    "translation": "content root",
+    "pos": "to be good",
+    "notes": "[+ATR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'fuɾimpak",
+    "translation": "content root",
+    "pos": "to be hungry",
+    "notes": "[-RTR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'fɾaʔu",
+    "translation": "content root",
+    "pos": "to come",
+    "notes": "[-RTR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'hanta",
+    "translation": "content root",
+    "pos": "to think",
+    "notes": "[-RTR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'hle̘pa̘",
+    "translation": "content root",
+    "pos": "sky",
+    "notes": "[+ATR] content root, pitch on first syllable. The onset /hl/ is phonotactically valid (fricative + approximant).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'hwe̘",
+    "translation": "particle",
+    "pos": "obligative modality ('must'",
+    "notes": " 'should')",
+    "null": [
+      "[+ATR] function word, harmonizes with verb root. 'hwe' is the corresponding [-RTR] form.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'hwe̘ʔe̘na̘",
+    "translation": "content root",
+    "pos": "to be big",
+    "notes": "[+ATR] content root, pitch on first syllable. Used as an adjective in 'big house'.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'i̘nt",
+    "translation": "content root",
+    "pos": "past tense",
+    "notes": "[+ATR] content root, pitch on first syllable. Functions as a past tense particle. Often used with 'ok.'.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'je",
+    "translation": "particle",
+    "pos": "relative clause marker",
+    "notes": "[-RTR] function word. Introduces a relative clause, harmonizes for ATR ('je̘').",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'jiŋke̘",
+    "translation": "content root",
+    "pos": "dog, to have the quality of a dog, to sense animacy",
+    "notes": "[+ATR] content root, pitch on first syllable. Used for indirect evidence (inference/smell/feeling).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'ke̘su̘",
+    "translation": "content root",
+    "pos": "fire",
+    "notes": "[+ATR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'kʷa̘ʔa̘",
+    "translation": "content root",
+    "pos": "to be hot",
+    "notes": "[+ATR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'kʷe̘tso̘",
+    "translation": "content root",
+    "pos": "to go",
+    "notes": "[+ATR] content root, pitch on first syllable. The sequence /kʷ/ is a single velar labialized stop, but for phonotactic purposes is treated as a single C.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'kʷo̘",
+    "translation": "particle",
+    "pos": "conditional modality ('if')",
+    "notes": "[+ATR] function word, harmonizes with verb root. 'kʷo' is the corresponding [-RTR] form.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'la",
+    "translation": "pronoun root",
+    "pos": "3rd person plural",
+    "notes": "[-RTR] pronoun root, declines for case. Example: 'la-a (PIV).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'le̘",
+    "translation": "particle",
+    "pos": "conjunctive ('and')",
+    "notes": "[+ATR] function word, harmonizes with verb root. Connects noun phrases.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'maka",
+    "translation": "content root",
+    "pos": "chief; leader",
+    "notes": "[-RTR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'mi",
+    "translation": "pronoun root",
+    "pos": "2nd person singular",
+    "notes": "[-RTR] pronoun root, declines for case. Example: 'mi-a (PIV).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'miso",
+    "translation": "content root",
+    "pos": "to eat",
+    "notes": "[-RTR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'na",
+    "translation": "pronoun root",
+    "pos": "1st person singular",
+    "notes": "[-RTR] pronoun root, declines for case. Example: 'na-a (PIV).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'nima",
+    "translation": "content root",
+    "pos": "hand",
+    "notes": "[-RTR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'noʔa",
+    "translation": "content root",
+    "pos": "head",
+    "notes": "[-RTR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'no̘li̘",
+    "translation": "content root",
+    "pos": "to drink",
+    "notes": "[+ATR] content root, pitch on second syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'o̘k",
+    "translation": "particle",
+    "pos": "perfective aspect",
+    "notes": "[+ATR] function word, harmonizes with verb root. 'ok' is the corresponding [-RTR] form.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'pe",
+    "translation": "pronoun root",
+    "pos": "2nd person plural",
+    "notes": "[-RTR] pronoun root, declines for case. Example: 'pe-a (PIV).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'pola",
+    "translation": "content root",
+    "pos": "water",
+    "notes": "[-RTR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'puntu",
+    "translation": "content root",
+    "pos": "to sleep",
+    "notes": "[-RTR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'se",
+    "translation": "pronoun root",
+    "pos": "3rd person singular",
+    "notes": "[-RTR] pronoun root, declines for case. Example: 'se-a (PIV).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'so̘la̘",
+    "translation": "content root",
+    "pos": "sun",
+    "notes": "[+ATR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'so̘no̘ŋk",
+    "translation": "content root",
+    "pos": "man",
+    "notes": "[+ATR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'swi̘ŋke̘",
+    "translation": "content root",
+    "pos": "to be cold",
+    "notes": "[+ATR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'swunaŋk",
+    "translation": "content root",
+    "pos": "to build",
+    "notes": "[-RTR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'sɾoʔa",
+    "translation": "content root",
+    "pos": "tree",
+    "notes": "[-RTR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'takama",
+    "translation": "content root",
+    "pos": "see, sight, perceive",
+    "notes": "[-RTR] content root, pitch on first syllable. Used for indirect visual evidence.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'te",
+    "translation": "particle",
+    "pos": "definite article",
+    "notes": "[-RTR] function word. Precedes noun phrase. Harmonizes for ATR ('te̘').",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'tseʔla",
+    "translation": "content root",
+    "pos": "animal",
+    "notes": "[-RTR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'tsima",
+    "translation": "content root",
+    "pos": "fish",
+    "notes": "[-RTR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'tsu",
+    "translation": "pronoun root",
+    "pos": "1st person plural exclusive",
+    "notes": "[-RTR] pronoun root, declines for case. Example: 'tsu-a (PIV).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'tʃe̘",
+    "translation": "particle",
+    "pos": "imperfective aspect",
+    "notes": "[+ATR] function word, harmonizes with verb root. 'tʃe' is the corresponding [-RTR] form.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'tʃe̘le̘m",
+    "translation": "content root",
+    "pos": "heart; mind; spirit",
+    "notes": "[+ATR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'tʃu",
+    "translation": "pronoun root",
+    "pos": "1st person plural inclusive",
+    "notes": "[-RTR] pronoun root, declines for case. Contrasts with 'tsu (exclusive).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'tʃuŋke",
+    "translation": "content root",
+    "pos": "to know",
+    "notes": "[-RTR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'xantap",
+    "translation": "content root",
+    "pos": "to be bad",
+    "notes": "[-RTR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'xwa̘",
+    "translation": "content root",
+    "pos": "desiderative modality ('wants to')",
+    "notes": "[+ATR] content root, pitch on first syllable. Functions as a desiderative modality particle.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'xɾu̘me̘k",
+    "translation": "content root",
+    "pos": "to make; to do",
+    "notes": "[+ATR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'ɬaʔis",
+    "translation": "content root",
+    "pos": "to be small",
+    "notes": "[-RTR] content root, pitch on first syllable. Inferred from general vocabulary.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'ɬi",
+    "translation": "particle",
+    "pos": "abilitative modality ('can')",
+    "notes": "[-RTR] function word, harmonizes for ATR ('ɬi̘').",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'ɬoŋka",
+    "translation": "content root",
+    "pos": "mountain",
+    "notes": "[-RTR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'ɾaŋkat",
+    "translation": "content root",
+    "pos": "stone",
+    "notes": "[-RTR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'ʃi̘lo̘",
+    "translation": "content root",
+    "pos": "word; to speak",
+    "notes": "[+ATR] content root, pitch on first syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'ʃwa",
+    "translation": "particle",
+    "pos": "future tense",
+    "notes": "[-RTR] function word, harmonizes for ATR ('ʃwa̘').",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'ʃɾent",
+    "translation": "content root",
+    "pos": "to be sharp",
+    "notes": "[-RTR] content root, pitch on first syllable. Inferred from consonant-rich nature.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "'ʔamp",
+    "translation": "content root",
+    "pos": "house, domestic, settled",
+    "notes": "[-RTR] content root, pitch on first syllable. Can be used as a noun ('house') or verb ('to be domestic/settled').",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-a",
+    "translation": "clitic component",
+    "pos": "3SG pivot marker",
+    "notes": "Component for PIV-AGT-PAT agreement clitic chain. Harmonizes for ATR (-a̘).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-a",
+    "translation": "suffix",
+    "pos": "pivot case (PIV)",
+    "notes": "[-RTR] case suffix. Harmonizes for ATR (-a̘). Marks the clause topic/pivot.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-e",
+    "translation": "clitic component",
+    "pos": "2SG pivot marker",
+    "notes": "Component for PIV-AGT-PAT agreement clitic chain. Harmonizes for ATR (-e̘).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-i",
+    "translation": "clitic component",
+    "pos": "2PL pivot marker",
+    "notes": "Component for PIV-AGT-PAT agreement clitic chain. Harmonizes for ATR (-i̘).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-jo",
+    "translation": "suffix",
+    "pos": "temporal subordinator ('when'",
+    "notes": " 'while')",
+    "null": [
+      "Subordinating suffix, replaces agreement clitic. Harmonizes for ATR (-jo̘).",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-k",
+    "translation": "suffix",
+    "pos": "patient case (PAT)",
+    "notes": "Case suffix. Marks non-pivot patient. Inserts epenthetic vowel after C-final root (e.g. -ək/ə̘k).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-ki",
+    "translation": "suffix",
+    "pos": "causal subordinator ('because')",
+    "notes": "Subordinating suffix, replaces agreement clitic. Harmonizes for ATR (-ki̘).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-le",
+    "translation": "suffix",
+    "pos": "stative",
+    "notes": "Derivational suffix, harmonizes for ATR. e.g., -le ([-RTR]), -le̘ ([+ATR]).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-ma",
+    "translation": "clitic component",
+    "pos": "3SG patient marker",
+    "notes": "Component for PIV-AGT-PAT agreement clitic chain. Harmonizes for ATR (-ma̘).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-me",
+    "translation": "clitic component",
+    "pos": "2SG patient marker",
+    "notes": "Component for PIV-AGT-PAT agreement clitic chain. Harmonizes for ATR (-me̘).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-mi",
+    "translation": "clitic component",
+    "pos": "2PL patient marker",
+    "notes": "Component for PIV-AGT-PAT agreement clitic chain. Harmonizes for ATR (-mi̘).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-mo",
+    "translation": "clitic component",
+    "pos": "1SG patient marker",
+    "notes": "Component for PIV-AGT-PAT agreement clitic chain. Harmonizes for ATR (-mo̘).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-mu",
+    "translation": "clitic component",
+    "pos": "1PL patient marker",
+    "notes": "Component for PIV-AGT-PAT agreement clitic chain. Harmonizes for ATR (-mu̘).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-mə",
+    "translation": "clitic component",
+    "pos": "3PL patient marker",
+    "notes": "Component for PIV-AGT-PAT agreement clitic chain. Harmonizes for ATR (-mə̘).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-n",
+    "translation": "suffix",
+    "pos": "genitive case (GEN)",
+    "notes": "Case suffix. Marks possessor. Attaches directly to vowel-final roots. Inserts an epenthetic vowel after C-final roots (e.g., -ən/ə̘n).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-n-",
+    "translation": "clitic component",
+    "pos": "null argument marker",
+    "notes": "Used in agreement clitic chain for empty argument slots.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-o",
+    "translation": "clitic component",
+    "pos": "1SG pivot marker",
+    "notes": "Component for PIV-AGT-PAT agreement clitic chain. Harmonizes for ATR (-o̘).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-s",
+    "translation": "suffix",
+    "pos": "agentive case (AGT)",
+    "notes": "Case suffix. Marks non-pivot agent. Inserts epenthetic vowel after C-final root (e.g. -əs/ə̘s).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-sa",
+    "translation": "clitic component",
+    "pos": "3SG agent marker",
+    "notes": "Component for PIV-AGT-PAT agreement clitic chain. Harmonizes for ATR (-sa̘).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-se",
+    "translation": "clitic component",
+    "pos": "2SG agent marker",
+    "notes": "Component for PIV-AGT-PAT agreement clitic chain. Harmonizes for ATR (-se̘).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-si",
+    "translation": "clitic component",
+    "pos": "2PL agent marker",
+    "notes": "Component for PIV-AGT-PAT agreement clitic chain. Harmonizes for ATR (-si̘).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-so",
+    "translation": "clitic component",
+    "pos": "1SG agent marker",
+    "notes": "Component for PIV-AGT-PAT agreement clitic chain. Harmonizes for ATR (-so̘).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-su",
+    "translation": "clitic component",
+    "pos": "1PL agent marker",
+    "notes": "Component for PIV-AGT-PAT agreement clitic chain. Harmonizes for ATR (-su̘).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-sə",
+    "translation": "clitic component",
+    "pos": "3PL agent marker",
+    "notes": "Component for PIV-AGT-PAT agreement clitic chain. Harmonizes for ATR (-sə̘).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-t",
+    "translation": "suffix",
+    "pos": "locative case (LOC)",
+    "notes": "Case suffix. Marks location. Inserts epenthetic vowel after C-final root (e.g. -ət/ə̘t).",
+    "null": [
+      "Has a secondary function as an evidential marker on a perceiver for indirect evidence. In such constructions, the locative-marked noun is cross-referenced as the pivot on the verb."
+    ]
+  },
+  {
+    "word": "-tsa",
+    "translation": "suffix",
+    "pos": "antipassive",
+    "notes": "Derivational suffix, harmonizes for ATR. e.g., -tsa ([-RTR]), -tsa̘ ([+ATR]). Demotes patient to oblique.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-u",
+    "translation": "clitic component",
+    "pos": "1PL pivot marker",
+    "notes": "Component for PIV-AGT-PAT agreement clitic chain. Harmonizes for ATR (-u̘).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-ə",
+    "translation": "clitic component",
+    "pos": "3PL pivot marker",
+    "notes": "Component for PIV-AGT-PAT agreement clitic chain. Harmonizes for ATR (-ə̘).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "fle'tʃo̘",
+    "translation": "content root",
+    "pos": "to run",
+    "notes": "[+ATR] content root, pitch on second syllable. Inferred from general vocabulary.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "flu'o̘mp",
+    "translation": "content root",
+    "pos": "to be heavy",
+    "notes": "[+ATR] content root, pitch on second syllable. Inferred from consonant-rich nature.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ha",
+    "translation": "particle",
+    "pos": "yes/no question marker",
+    "notes": "Sentence-final particle with rising pitch.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ka-",
+    "translation": "prefix",
+    "pos": "agent trigger (AT)",
+    "notes": "Voice prefix, harmonizes for ATR. e.g., ka- ([-RTR]), ka̘- ([+ATR]).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ma'tse̘le̘",
+    "translation": "content root",
+    "pos": "to feed",
+    "notes": "[+ATR] content root, pitch on second syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ma-",
+    "translation": "prefix",
+    "pos": "causative",
+    "notes": "Voice prefix, harmonizes for ATR. e.g., ma- ([-RTR]), ma̘- ([+ATR]).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ni-",
+    "translation": "prefix",
+    "pos": "location trigger (LT)",
+    "notes": "Voice prefix, harmonizes for ATR. e.g., ni- ([-RTR]), ni̘- ([+ATR]).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pa-",
+    "translation": "prefix",
+    "pos": "instrument trigger (IT)",
+    "notes": "Voice prefix, harmonizes for ATR. e.g., pa- ([-RTR]), pa̘- ([+ATR]).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pi'le̘tʃi̘",
+    "translation": "content root",
+    "pos": "child",
+    "notes": "[+ATR] content root, pitch on second syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "so",
+    "translation": "pronoun",
+    "pos": "what? (inanimate interrogative)",
+    "notes": "Interrogative pronoun root. Declines for case.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "soki",
+    "translation": "pronoun",
+    "pos": "why? (reason interrogative)",
+    "notes": "Interrogative pronoun. Does not decline for case.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "su-",
+    "translation": "prefix",
+    "pos": "patient trigger (PT)",
+    "notes": "Voice prefix, harmonizes for ATR. e.g., su- ([-RTR]), su̘- ([+ATR]).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ta'kama",
+    "translation": "content root",
+    "pos": "see, sight, perceive",
+    "notes": "[-RTR] content root, pitch on second syllable. Used for direct visual evidence.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "te",
+    "translation": "pronoun",
+    "pos": "where? (locative interrogative)",
+    "notes": "Interrogative pronoun. Does not decline for case.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tsa'ŋko̘tso̘",
+    "translation": "content root",
+    "pos": "to laugh",
+    "notes": "[+ATR] content root, pitch on second syllable.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "xa'ɾu̘ntu̘",
+    "translation": "content root",
+    "pos": "woman",
+    "notes": "[+ATR] content root, pitch on second syllable. Inferred from genitive example 'woman's big house'.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ə",
+    "translation": "vowel",
+    "pos": "epenthetic vowel",
+    "notes": "[-RTR] vowel, inserted between consonants to prevent illegal clusters. Harmonizes for ATR (ə̘).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ʃi'ko̘laha̘",
+    "translation": "content root",
+    "pos": "to walk",
+    "notes": "[+ATR] content root, pitch on third syllable. Inferred from general vocabulary.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ʃu'a̘",
+    "translation": "content root",
+    "pos": "to give",
+    "notes": "[+ATR] content root, pitch on second syllable. Inferred from use in ditransitive examples.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ʔe",
+    "translation": "pronoun",
+    "pos": "who? (animate interrogative)",
+    "notes": "Interrogative pronoun root. Declines for case.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ʔu'ɬe̘na̘t",
+    "translation": "content root",
+    "pos": "to be beautiful",
+    "notes": "[+ATR] content root, pitch on second syllable. Inferred from general vocabulary.",
+    "null": [
+      "",
+      ""
+    ]
+  }
+]

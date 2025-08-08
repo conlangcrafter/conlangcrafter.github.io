@@ -1,0 +1,67 @@
+# Phonology
+
+## Consonants
+
+| | Labial | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Nasal** | m | | n | | ɳ | ɲ | ŋ |
+| **Plosive** | p b | t̪ d̪ | t d | | ʈ ɖ | c ɟ | k g |
+| **Click (Voiceless/Voiced)** | | ǀ ᶢǀ | ǃ ᶢǃ | | | | |
+| **Affricate** | | | ts dz | tʃ dʒ | | | |
+| **Fricative** | f v | θ ð | s z | ʃ ʒ | | | |
+| **Approximant** | w | | l | | ɻ | j | |
+| **Trill** | | | r | | | | |
+
+## Vowels
+
+Vowels are organized into two harmonic sets based on tongue root position. All vowels within a phonological word must belong to the same set.
+
+| | Front | Central | Back |
+| :--- | :---: | :---: | :---: |
+| **Close [+ATR]** | i | | u |
+| **Mid [+ATR]** | e | | o |
+| **Open [-ATR]** | ɛ | a | ɔ |
+
+## Phonotactics
+
+The syllable structure is (C)(C)(C)V(C)(C)(C). Onsets can have up to three consonants, and codas can also have up to three. Vowel harmony is strictly enforced; all vowels in a word must be either [+ATR] {i, u, e, o} or [-ATR] {ɛ, a, ɔ}. Nasal harmony is a spreading feature: if a word contains a nasal consonant (/m, n, ɳ, ɲ, ŋ/), all vowels and non-nasal sonorant consonants (/l, r, ɻ, j, w/) in that word become nasalized. For example, /ima/ is realized as [ĩmã], and /a.la.ma/ is realized as [ã.l̃ã.mã]. While clusters are generally permissive, clicks (/ǀ, ᶢǀ, ǃ, ᶢǃ/) may only appear in the initial position of a word.
+
+## Suprasegmentals
+
+The language is tonal and lacks word-level stress entirely. Prominence is conveyed through a complex contour tone system. There are five phonemic tones: High Level /˥/, Low Level /˩/, Rising /˩˥/, Falling /˥˩/, and Dipping /˥˩˥/. These tones apply to each syllable (or more precisely, each vowel-bearing unit). Extensive tone sandhi rules govern tone changes at morpheme and word boundaries. For instance, two consecutive High tones /˥+˥/ often become High + Rising /˥+˩˥/. Another common rule simplifies a Falling tone to a Low tone when it precedes a Low tone; for example, a sequence of morphemes `/tʃɛk˥˩/ + /sɔl˩/` would be pronounced `[tʃɛk˩ sɔl˩]`.
+
+## Word Shapes and Lexical Statistics
+
+Words in this language display a wide structural diversity, stemming from the permissive (C)(C)(C)V(C)(C)(C) syllable template. The distinction between content and function items is phonologically salient. Most function words are monosyllabic, often consisting of a simple CV or CVC structure, and tend to utilize the more common consonants. In contrast, most content words are longer, typically containing one to three syllables, and frequently feature more complex syllable structures, including consonant clusters in both onsets and codas.
+
+While the phonotactics allow for extreme complexity, most words are phonologically moderate. Monosyllabic and disyllabic words are very common. Words of three or four syllables are also numerous, particularly in nominal and verbal paradigms. Words exceeding four syllables are rare and are almost always complex compounds or heavily derived forms. Similarly, while clusters of up to three consonants are possible in both onsets and codas, most clusters consist of only two consonants. Onset clusters are more frequent and varied than coda clusters. Syllables with the maximal CCCVCCC structure are exceptionally rare. Clicks are a notable feature but are restricted to word-initial position, making them a clear phonetic marker for the beginning of a phonological word.
+
+### Lexical Items
+
+1.  /go˩/ (Function item, very common)
+2.  /a˥/ (Function item, very common)
+3.  /tʃɛk˥˩/ (Content item, common)
+4.  /ǀo˩˥/ (Content item, common)
+5.  /dʒan˥/ (Content item, common)
+6.  /ᶢǀi˩/ (Content item, uncommon)
+7.  /kɻu˥˩˥/ (Content item, common)
+8.  /sɔl˩/ (Content item, common)
+9.  /vɛ˥.dʒa˩/ (Content item, common)
+10. /ɳo˩.pe˥/ (Content item, common)
+11. /ǃa˥˩.θɔ˩/ (Content item, uncommon)
+12. /ᶢǃe˥.bu˩˥.li˥/ (Content item, rare)
+13. /ɟi˩.ŋo˥.ro˩/ (Content item, common)
+14. /skɛn˩˥/ (Content item, common)
+15. /plɔm˥˩/ (Content item, common)
+16. /stɻik˩/ (Content item, uncommon)
+17. /t̪sɔŋk˥/ (Content item, uncommon)
+18. /ðlɛlpst˥˩˥/ (Content item, very rare)
+19. /ʃi˩.t̪u˥/ (Content item, common)
+20. /ɲɛ˩.mɔ˥.gɔ˩/ (Content item, common)
+21. /ʈa˥.ɻa˩.dʒa˥/ (Content item, common)
+22. /θru˩˥.vo˥.tse˩/ (Content item, uncommon)
+23. /ǀa˥.lartʃ˩˥/ (Content item, rare)
+24. /dzɛ˩/ (Function item, common)
+25. /kspoŋs˩/ (Content item, very rare)
+26. /i˥˩/ (Function item, common)
+27. /ɖu˩.co˥.ni˥/ (Content item, uncommon)

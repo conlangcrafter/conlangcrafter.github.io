@@ -2,6 +2,7 @@ class LanguageBrowser {
     constructor() {
         this.languages = [];
         this.currentLanguage = null;
+        this.renderer = new LanguageRenderer();
         this.init();
     }
 
@@ -14,31 +15,28 @@ class LanguageBrowser {
     async loadLanguages() {
         try {
             const response = await fetch('data/languages.json');
+            if (!response.ok) {
+                throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+            }
             const data = await response.json();
             
             this.languages = data.languages.map(lang => ({
                 id: lang.id,
-                name: `Generated Language ${lang.id.substring(0, 6)}`,
-                hasHtml: lang.has_html,
+                name: lang.name,
+                hasHtml: true, // Always true since we generate programmatically
                 created: new Date(lang.created_at),
-                features: lang.features,
+                features: lang.features || [],
                 completeness: lang.completeness,
                 hasPhonology: lang.has_phonology,
                 hasGrammar: lang.has_grammar,
                 hasLexicon: lang.has_lexicon,
-                hasTranslations: lang.has_translations
+                userConstraints: lang.user_constraints,
+                model: lang.model
             }));
         } catch (error) {
             console.error('Failed to load languages:', error);
-            // Fallback to mock data
-            this.languages = [{
-                id: '0b212eef',
-                name: 'Sample Language',
-                hasHtml: true,
-                created: new Date(),
-                features: ['VSO Word Order', 'Active-Stative Alignment', 'Vowel Harmony'],
-                completeness: 100
-            }];
+            // Fallback to empty array
+            this.languages = [];
         }
     }
 
@@ -72,17 +70,17 @@ class LanguageBrowser {
         grid.innerHTML = this.languages.map(lang => `
             <div class="language-card" data-id="${lang.id}">
                 <div class="language-header">
-                    <div class="language-id">${lang.id}</div>
+                    <div class="language-id">${lang.id.substring(0, 8)}</div>
                     <div class="completeness-badge">${lang.completeness}%</div>
                 </div>
                 <div class="language-name">${lang.name}</div>
                 <div class="language-date">${lang.created.toLocaleDateString()}</div>
+                ${lang.userConstraints ? `<div class="user-constraints-indicator">📝 Constrained</div>` : ''}
                 <div class="language-features">
                     ${lang.features.slice(0, 2).map(f => `<span class="feature-tag">${f}</span>`).join('')}
                     ${lang.features.length > 2 ? `<span class="feature-more">+${lang.features.length - 2} more</span>` : ''}
                 </div>
                 <div class="language-status">
-                    ${lang.hasHtml ? '<span class="status-indicator available">HTML</span>' : '<span class="status-indicator unavailable">HTML</span>'}
                     ${lang.hasPhonology ? '<span class="status-indicator available">PHON</span>' : '<span class="status-indicator unavailable">PHON</span>'}
                     ${lang.hasGrammar ? '<span class="status-indicator available">GRAM</span>' : '<span class="status-indicator unavailable">GRAM</span>'}
                     ${lang.hasLexicon ? '<span class="status-indicator available">LEX</span>' : '<span class="status-indicator unavailable">LEX</span>'}
@@ -141,15 +139,21 @@ class LanguageBrowser {
         `;
 
         try {
-            if (language.hasHtml) {
-                // Load the actual HTML file
-                viewer.innerHTML = `
-                    <iframe class="language-content" src="data/sample_language.html"></iframe>
-                `;
-            } else {
-                // Show a placeholder with available information
-                this.renderLanguagePlaceholder(viewer, language);
-            }
+            // Generate HTML programmatically from raw data
+            const languageHTML = await this.renderer.generateLanguageHTML(language.id);
+            
+            // Create a blob URL for the generated HTML
+            const blob = new Blob([languageHTML], { type: 'text/html' });
+            const blobUrl = URL.createObjectURL(blob);
+            
+            viewer.innerHTML = `
+                <div class="language-content-wrapper">
+                    <div class="fullscreen-btn" onclick="this.parentElement.parentElement.requestFullscreen()">
+                        <span>⛶ Fullscreen</span>
+                    </div>
+                    <iframe class="language-content" src="${blobUrl}"></iframe>
+                </div>
+            `;
         } catch (error) {
             console.error('Failed to load language viewer:', error);
             viewer.innerHTML = `

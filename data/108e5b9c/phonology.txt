@@ -1,0 +1,82 @@
+# Phonology
+
+## Consonants
+
+| | Labial Analogue <br> (Warm Hues) | Coronal Analogue <br> (Cool Hues) | Velar Analogue <br> (Achromatic) | Glottal Analogue <br> (Transient) |
+| :--- | :---: | :---: | :---: | :---: |
+| **Static** | SR | SB | SW | |
+| **Pulsating** | PR | PB | PW | |
+| **Gradient** | GR | GB | | |
+| **Bleeding** | BR | BB | | |
+| **Scintillating** | | | | SC |
+
+*   **Chromemes (Color-based Phonemes):** The "consonants" (C) of this language are visual displays of color on the creature's skin.
+*   **Voicing Analogue:** *Static* vs. *Pulsating*. Static chromemes are a solid, unchanging color. Pulsating chromemes shimmer or pulse with variable intensity.
+*   **Manner Analogues:**
+    *   *Gradient:* Colors that fade smoothly from one edge to another (e.g., `GR` is a red-to-orange gradient; `GB` is a blue-to-green gradient).
+    *   *Bleeding:* Colors that are displayed with a diffuse, soft edge, slightly tinting the area around the gesturing tentacle(s) within the same syllable.
+    *   *Scintillating:* A rapid, sparkling flash of white light (`SC`).
+
+## Vowels
+
+| | Uncurled | Half-Curled | Full-Curled |
+| :--- | :---: | :---: | :---: |
+| **Oral** | TW | HC | SP |
+| **Nasal** | NT | NH | NS |
+
+*   **Kinemes (Gesture-based Phonemes):** The "vowels" (V) are produced by the curling or twisting of a designated tentacle.
+*   **Nasality Analogue:** The presence or absence of a secondary, smaller tentacle mirroring the primary gesture. "Oral" kinemes use only the primary tentacle. "Nasal" kinemes use both the primary and a smaller, parallel tentacle, creating a more complex, layered visual.
+
+## Phonotactics
+
+The syllable structure is (C)(C)V(C)(C). Syllable boundaries are marked with a dot (.). The overall word structure consists of an initial syllable, which may be complex (up to CCVCC), followed by zero or more simple CV syllables (e.g., Sᵢₙᵢₜᵢₐₗ(.CV.CV...)*). This front-loads phonological complexity, as any syllable after the first must be of the simple CV shape. All words must begin with a chromeme.
+
+The language has extremely strict phonotactic rules:
+*   **Onset Clusters (CC):** In an onset cluster, the first chromeme (C₁) cannot be a Gradient chromeme (`GR`, `GB`). The second chromeme (C₂) can be any chromeme except a Gradient one.
+*   **Coda Position:** Only Static chromemes (`SR`, `SB`, `SW`) are permitted in a coda.
+*   **Special Chromemes:**
+    *   The scintillating chromeme `SC` can only appear as the onset of a word-initial syllable, and only with the kineme `TW`, forming the syllable `SCTW`. `SC` is a single consonant (C), making `SCTW` a `CV` syllable.
+
+## Suprasegmentals
+
+The language uses a complex contour tone system, realized not through pitch but through the speed and trajectory of the entire organism's movement through the water. There are five distinctive tones: a steady, level motion (Level); a sharp acceleration (Rising); a gradual deceleration (Falling); a lurch forward followed by a drift back (Peak); and a slow drift followed by a sudden dart (Dip). These kinetic contours are applied to each syllable, are lexically contrastive, and can change meaning or grammatical function. For example, `PRTW`(Rising) might be a verb of action, while the same sequence with a Falling tone could be its noun form.
+
+## Word Shapes and Lexical Statistics
+
+Most words in the language are polysyllabic, typically consisting of two to four syllables. The fundamental syllable structure is `CV`, which is the only permitted structure for any syllable after the first.
+
+Word-initial syllables, however, display greater complexity. Many words begin with a more complex syllable, allowing for onset clusters (`CCV`) and coda consonants (`CVC`). The `CVC` structure is common for monosyllabic words, which are most often function words, but can occasionally be high-frequency content words as well. Due to the strict phonotactic rule limiting complex syllables to the word-initial position, structures like `CV.CVC` or `CV.CCV` are impossible.
+
+Monosyllabic words exist but are less common than short polysyllabic words. The most complex possible word shapes, such as `CCVC`, are rare and are almost exclusively high-frequency content items, often representing core concepts. The simplest word shape, `CV`, is also found in complete words, being most typical of function items.
+
+Content words (nouns, verbs, descriptors) tend to be longer, often two or more syllables, and frequently utilize more complex initial syllables or lexically contrastive kinetic contours (tones). Function words (grammatical markers, particles) are typically shorter, most often monosyllabic (`CV` or `CVC`) or disyllabic (`CV.CV`), and tend to use the Level kinetic contour more frequently than content words.
+
+The unique `SCTW...` structure is uncommon but signals a specific class of words, often related to sudden events or perceptions. Words beginning with Gradient chromemes (`GR`, `GB`) are common, but these chromemes are restricted to the first position of an onset. Pulsating chromemes are frequent in onsets but are absolutely forbidden in codas, which shapes the inventory of possible word-final sounds.
+
+### Lexical Items
+
+1.  **`PRHC(Rising).GBTW(Rising)`** - Common content item. (Structure: CV.CV)
+2.  **`GBHC(Falling)`** - Common content item. (Structure: CV)
+3.  **`SWSP(Level)`** - Common function item. (Structure: CV)
+4.  **`BRSWTW(Peak)`** - Rare content item. (Structure: CCV)
+5.  **`PBNS(Dip).SRHC(Dip)`** - Common content item. (Structure: CV.CV)
+6.  **`SCTW(Rising)`** - Uncommon content item. (Structure: CV)
+7.  **`SRTW(Level).SWSP(Level)`** - Common content item. (Structure: CV.CV)
+8.  **`BBNH(Falling).GBTW(Falling)`** - Uncommon content item. (Structure: CV.CV)
+9.  **`PWSP(Peak)`** - Common content item. (Structure: CV)
+10. **`GRNT(Dip)`** - Common content item. (Structure: CV)
+11. **`SWHC(Level)`** - Common function item. (Structure: CV)
+12. **`SRBBHC(Rising).SWTW(Rising)`** - Rare content item. (Structure: CCV.CV)
+13. **`SBHC(Level)`** - Very common function item. (Structure: CV)
+14. **`BRNH(Peak)`** - Uncommon content item. (Structure: CV)
+15. **`PWHC(Dip).SBNT(Dip)`** - Common content item. (Structure: CV.CV)
+16. **`GBHCSW(Falling)`** - Common content item. (Structure: CVC)
+17. **`SCTW(Peak).PRNS(Peak)`** - Rare content item. (Structure: CV.CV)
+18. **`BBSP(Level)`** - Common function item. (Structure: CV)
+19. **`GRSBNT(Rising)`** - Common content item. (Structure: CCV)
+20. **`SWTW(Level)`** - Common function item. (Structure: CV)
+21. **`PBBTW(Falling).SWTW(Falling).SWTW(Falling)`** - Rare content item. (Structure: CCV.CV.CV)
+22. **`PRHC(Dip)`** - Uncommon content item. (Structure: CV)
+23. **`SRSWSP(Peak).BBTW(Peak)`** - Rare content item. (Structure: CCV.CV)
+24. **`GBTW(Level).PWHC(Level)`** - Common content item. (Structure: CV.CV)
+25. **`BBSRNH(Rising)`** - Uncommon content item. (Structure: CCV)

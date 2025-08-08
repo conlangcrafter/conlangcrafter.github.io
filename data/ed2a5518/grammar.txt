@@ -1,0 +1,249 @@
+# Grammar
+
+## Morphology
+
+The language is highly agglutinative, bordering on polysynthetic. It exhibits a split-marking system: nouns are marked for case (dependent-marking), while verbs are inflected with a rich array of suffixes for tense, aspect, mood, and evidentiality (head-marking) but carry no agreement markers for their arguments.
+
+### Noun Morphology
+
+#### Case and Number
+
+The language uses an ergative-absolutive case system for core arguments and a set of locative, dative, and instrumental cases for adjuncts. Plurality is marked by a suffix that precedes the case marker.
+
+*   **Absolutive (S, O):** Unmarked (zero suffix). Used for the subject of an intransitive verb (S) and the object of a transitive verb (O).
+*   **Ergative (A):** *-tɛ*. Used for the subject of a transitive verb (A).
+*   **Genitive (Possessor):** *-so*
+*   **Plural:** *-ne*
+
+The plural suffix *-ne* is placed directly after the noun stem and before any case suffix.
+
+*   **i.sɔ̂ː**
+    dog(ABS.SG)
+    "a/the dog"
+*   **i.sɔ̂ː-ne**
+    dog-PL(ABS)
+    "dogs"
+*   **pʰlě.nu-ne-tɛ**
+    man-PL-ERG
+    "the men (as agents of a transitive verb)"
+*   **ma.lɛ́-ne-so**
+    child-PL-GEN
+    "of the children"
+*   i.sɔ̂ː-**so** ma.lɛ́ pʰlě.nu-**tɛ** úː.laj-mi-tʰu-pʰá-kʰa
+    dog-**GEN** child(ABS) man-**ERG** see-PST-PFV-IND-VIS
+    "The man saw the child's dog." (*i.sɔ̂ː* = dog, *pʰlě.nu* = man, *úː.laj* = see, *ma.lɛ́* = child)
+
+Adjectives follow the noun they modify and agree with it in case by taking the same case suffix.
+
+*   pʰá.ʕɪn-**tɛ** pʰlě.nu-**tɛ** tʰɛ́ːps-o-na-pʰá-kʰa snǒːk.tʰa nɪ́ːn
+    clever-**ERG** man-**ERG** eat-PRS-IPFV-IND-VIS big food(ABS)
+    "The clever man is eating the big food." (*tʰɛ́ːps* = eat, *pʰá.ʕɪn* = clever, *nɪ́ːn* = food, *snǒːk.tʰa* = big)
+
+#### Locative, Dative, and Instrumental Cases
+
+In addition to the core cases, there are several suffixes for marking location, instrument, and recipients. These are less common than adpositions but are used for specifying a noun's role more precisely, especially in formal or literary contexts. These suffixes follow the plural marker if present.
+
+*   **Dative:** *-na* (marks recipients and beneficiaries)
+*   **Locative:** *-li* (marks static location, "at, on, in")
+*   **Ablative:** *-ta* (marks movement away from, "from")
+*   **Instrumental:** *-kʰa* (marks the instrument used to perform an action)
+*   pʰlě.nu-tɛ sta.pʰɪ́ː.la-o-na-pʰá-kʰa tʰó.la-**kʰa**
+    man-ERG build-PRS-IPFV-IND-VIS stone-**INS**
+    "The man is building with stone." (*tʰó.la* = stone)
+*   pʰě i.lɛ̀.mi-o-na-pʰá-kʰa ma.lɛ́-**na**
+    3SG.ANIM know-PRS-IPFV-IND-VIS child-**DAT**
+    "He/she knows (it) for the child."
+
+#### Tonal Derivation
+
+A productive process of derivational morphology is **tonal derivation**, where changing the lexical tone of a root word creates a related word of a different class, such as forming nouns from verb roots.
+
+*   **Verb (High Tone) → Agent Noun (Rising Tone)**
+    *   /sta.pʰɪ́ː.la/ (verb) - "to build"
+    *   /sta.pʰɪː.lǎ/ (noun) - "a builder"
+*   **Verb (High Tone) → Instrument Noun (Low Tone)**
+    The tone on the accented syllable of the verb root changes to a low tone.
+    *   /tʰɛ́ːps/ (verb) - "to eat"
+    *   /tʰɛ̀ːps/ (noun) - "an eating utensil"
+*   sta.pʰɪː.lǎ-tɛ sta.pʰɪ́ː.la-o-na-pʰá-kʰa tʰáː.ħo
+    builder-ERG build-PRS-IPFV-IND-VIS house
+    "The builder is building a house."
+
+### Pronouns
+
+The language has a full set of personal pronouns. The ergative suffix *-tɛ* is not added to pronouns; the same form is used for S (intransitive subject) and A (transitive subject) roles, with the verb's transitivity making the role clear. Note that while the 2nd and 3rd person plural pronouns are formed regularly with the plural suffix *-ne*, the 1st person plural pronoun /níː/ is a suppletive form.
+
+|             | Subject (Ergative/Absolutive) | Object (Absolutive) | Genitive    |
+| :---------- | :---------------------------: | :-----------------: | :----------: |
+| **1sg**     |              /kɔ́/              |         /kɔ́/         |  /kɔ́.so/   |
+| **2sg**     |              /tɛ́/              |         /tɛ́/         |  /tɛ́.so/   |
+| **3sg Anim**  |             /pʰě/             |        /pʰě/        |  /pʰě.so/  |
+| **3sg Inan** |              /sà/              |         /sà/         |  /sà.so/   |
+| **1pl**     |             /níː/             |        /níː/        |  /níː.so/  |
+| **2pl**     |            /tɛ́.ne/            |       /tɛ́.ne/       | /tɛ́.ne.so/ |
+| **3pl**     |           /pʰě.ne/            |      /pʰě.ne/       | /pʰě.ne.so/ |
+
+*   **kɔ́** úː.laj-o-na-pʰá-kʰa pʰě
+    1SG see-PRS-IPFV-IND-VIS 3SG.ANIM
+    "I am seeing him/her."
+*   pʰě úː.laj-o-na-pʰá-kʰa **kɔ́**
+    3SG.ANIM see-PRS-IPFV-IND-VIS **1SG**
+    "He/she is seeing **me**."
+
+### Verb Morphology
+
+#### Tense-Aspect-Mood-Evidentiality (TAME) Suffixes
+
+Verbs are morphologically complex, suffixed with a long string of morphemes. The order is strictly: Verb Root-Tense-Aspect-Mood-Evidentiality.
+
+| Slot       | Category      | Morpheme      | Meaning                                |
+| :--------- | :------------ | :-----------: | :------------------------------------- |
+| **Root**   | -             | (verb stem)   | -                                      |
+| **Tense**  | Past          |     *-mi*     | Event occurred before speech time      |
+|            | Present       |      *-o*      | Event is co-occuring with speech time  |
+|            | Future        |     *-le*     | Event will occur after speech time     |
+| **Aspect** | Perfective    |     *-tʰu*    | Event viewed as a complete whole       |
+|            | Imperfective  |     *-na*     | Event viewed as ongoing, in progress   |
+|            | Inceptive     |     *-ki*     | Event is just beginning                |
+| **Mood**   | Indicative    |     *-pʰá*    | States a fact                          |
+|            | Interrogative |     *-je*     | Forms a yes/no question                |
+|            | Imperative    |     *-to*     | Gives a command                        |
+| **Evidential**| Direct/Visual |     *-kʰa*    | Speaker saw the event                  |
+|            | Inferential   |     *-la*     | Speaker infers the event from evidence |
+|            | Reported      |     *-so*     | Speaker was told about the event       |
+
+*   **Example verb form:** `úː.laj-mi-tʰu-pʰá-kʰa`
+    *   `úː.laj`- (root: "see")
+    *   `-mi`- (Tense: past)
+    *   `-tʰu`- (Aspect: perfective)
+    *   `-pʰá`- (Mood: indicative)
+    *   `-kʰa`- (Evidential: direct visual evidence)
+    *   Translation: "(Someone) saw (it/them) (I witnessed it)."
+*   **Example in a sentence:**
+    pʰlě.nu-tɛ tʰɛ́ːps-**le-ki-pʰá-so** nɪ́ːn
+    man-ERG eat-**FUT-INCEP-IND-REP** food
+    "The man will begin to eat the food (I was told)."
+
+#### Applicative-Evidential Portmanteaus
+
+When an object is dropped, a special portmanteau suffix is added to the verb. This suffix replaces the standard mood and evidential markers and simultaneously introduces an applicative-like valency (clarifying the role of the implied object) and an evidential marker. This is a closed class of suffixes.
+
+| Portmanteau | Applicative Role | Evidentiality | Example Use                                        |
+| :---------- | :--------------: | :-----------: | :------------------------------------------------- |
+| **-sta**    |   Benefactive    |  Inferential  | "He is V-ing (for his own benefit, I infer)."        |
+| **-kʰo**    |   Instrumental   | Direct/Visual | "He is V-ing with it (I see him using it)."          |
+| **-nɔː**    |   Malefactive    |   Reported    | "He is V-ing (to someone's detriment, I heard)."     |
+| **-laj**    |     Locative     |  Inferential  | "He is V-ing there (I infer from evidence)."         |
+
+*   **With overt object:**
+    pʰlě.nu-tɛ sta.pʰɪ́ː.la-mi-tʰu-pʰá-kʰa tʰáː.ħo
+    man-ERG build-PST-PFV-IND-VIS house
+    "The man built the house (I saw it)."
+*   **With dropped object and portmanteau:**
+    pʰlě.nu-tɛ sta.pʰɪ́ː.la-mi-tʰu-**laj**
+    man-ERG build-PST-PFV-**LOC.INFER**
+    "The man built (it) there (I infer, e.g., from seeing the finished building)."
+
+## Syntax
+
+### Word Order and Topicalization
+
+The basic word order is Subject-Verb-Object (SVO) for transitive clauses and Subject-Verb (SV) for intransitive clauses. Within the noun phrase, all modifiers (adjectives, genitives, numerals) follow the head noun.
+
+*   pʰlě.nu-tɛ úː.laj-mi-tʰu-pʰá-kʰa i.sɔ̂ː
+    man-ERG see-PST-PFV-IND-VIS dog(ABS)
+    "The man saw the dog."
+
+OVS is a common alternative word order used to topicalize the object. When the object is fronted, it must be followed by the topic marker *kɛ́*. The subject remains in its clause-medial position.
+
+*   **SVO (Default):**
+    mɪ.tʰĕ.la-tɛ tʰɛ́ːps-o-na-pʰá-la nɪ́ːn
+    cat-ERG eat-PRS-IPFV-IND-INFER food
+    "The cat is eating the food (I infer)."
+*   **OVS (Topicalization):**
+    nɪ́ːn **kɛ́** mɪ.tʰĕ.la-tɛ tʰɛ́ːps-o-na-pʰá-la
+    food **TOP** cat-ERG eat-PRS-IPFV-IND-INFER
+    "The food, the cat is eating it." / "As for the food, the cat is eating it."
+
+### Object Omission
+
+The language allows for the omission of object arguments (both pronouns and full noun phrases). Subject pronouns must always be overt. When an object is omitted, its pragmatic role is often clarified by an applicative-evidential portmanteau suffix on the verb.
+
+*   **With Overt Object:**
+    mɪ.tʰĕ.la-tɛ tʰɛ́ːps-o-na-pʰá-la nɪ́ːn
+    cat-ERG eat-PRS-IPFV-IND-INFER food(ABS)
+    "The cat is eating the food (I infer)."
+*   **With Dropped Object:**
+    mɪ.tʰĕ.la-tɛ tʰɛ́ːps-o-na-**sta**
+    cat-ERG eat-PRS-IPFV-**BENE.INFER**
+    "The cat is eating (for its own benefit, I infer)."
+
+### Adpositions
+
+The language uses both prepositions and postpositions. The choice is determined by the animacy of the noun phrase object. Animate objects take prepositions, while inanimate objects take postpositions.
+
+*   **tʰù** ʕáː.tʰa
+    **with** person
+    "with the person" (*ʕáː.tʰa* = person)
+*   tʰáː.ħo **mù.so**
+    house **inside**
+    "inside the house" (*tʰáː.ħo* = house)
+
+### Question Formation
+
+#### Yes/No Questions
+
+Yes/no questions are formed by replacing the indicative mood suffix *-pʰá* on the verb with the interrogative mood suffix *-je*. The word order does not change.
+
+*   **Statement:**
+    pʰlě.nu-tɛ úː.laj-mi-tʰu-pʰá-kʰa i.sɔ̂ː
+    man-ERG see-PST-PFV-IND-VIS dog
+    "The man saw the dog."
+*   **Question:**
+    pʰlě.nu-tɛ úː.laj-mi-tʰu-**je**-kʰa i.sɔ̂ː
+    man-ERG see-PST-PFV-**INT**-VIS dog
+    "Did the man see the dog?"
+
+#### WH-Questions (Content Questions)
+
+WH-questions are formed using question words, which are placed at the beginning of the clause (WH-fronting). The rest of the clause follows the standard SVO order. Unlike personal pronouns, which do not take the ergative suffix, WH-words inflect for case identically to nouns and must be marked with *-tɛ* when functioning as a transitive subject (A).
+
+*   **Common WH-words:**
+    *   /má/ - "who, what (animate)"
+    *   /sí/ - "what (inanimate)"
+    *   /kʰǎ/ - "where"
+    *   /tʰô/ - "when"
+    *   /lɛ̆/ - "why"
+*   **má**-tɛ úː.laj-mi-tʰu-pʰá-kʰa i.sɔ̂ː
+    **who**-ERG see-PST-PFV-IND-VIS dog
+    "Who saw the dog?"
+*   **sí** pʰlě.nu-tɛ úː.laj-mi-tʰu-pʰá-kʰa
+    **what** man-ERG see-PST-PFV-IND-VIS
+    "What did the man see?"
+
+#### Adposition Stranding
+
+Adpositions can be stranded when their object is WH-moved. This applies to both prepositions (with animate objects) and postpositions (with inanimate objects).
+
+*   **With Preposition (Animate Object):**
+    *   **Full Phrase:** pʰlě.nu-tɛ tʰɛ́ːps-o-na-pʰá-kʰa **tʰù** ʕáː.tʰa
+        man-ERG eat-PRS-IPFV-IND-VIS **with** person
+        "The man is eating with the person."
+    *   **WH-Question with Stranding:** **má** pʰlě.nu-tɛ tʰɛ́ːps-o-na-pʰá-kʰa **tʰù**
+        **who** man-ERG eat-PRS-IPFV-IND-VIS **with**
+        "Who is the man eating with?"
+*   **With Postposition (Inanimate Object):**
+    *   **Full Phrase:** pʰlě.nu sta.pʰɪ́ː.la-o-na-pʰá-kʰa tʰáː.ħo **mù.so**
+        man build-PRS-IPFV-IND-VIS house **inside**
+        "The man is building inside the house."
+    *   **WH-Question with Stranding:** **sí** pʰlě.nu sta.pʰɪ́ː.la-o-na-pʰá-kʰa **mù.so**
+        **what** man(ABS) build-PRS-IPFV-IND-VIS **inside**
+        "What is the man building inside?"
+
+### Subordination
+
+Clause subordination is handled exclusively through finite clauses. A subordinate clause is introduced by a specific conjunction and contains a fully inflected verb. There are no infinitives, participles, or nominalizations used for this purpose.
+
+*   jǒː-tɛ i.lɛ̀.mi-o-na-pʰá-kʰa **pʰá** pʰlě.nu-tɛ sta.pʰɪ́ː.la-mi-tʰu-pʰá-la tʰáː.ħo
+    teacher-ERG know-PRS-IPFV-IND-VIS **that** man-ERG build-PST-PFV-IND-INFER house
+    "The teacher knows (from direct evidence) that the man built the house (inferred)." (*jǒː* = teacher, *i.lɛ̀.mi* = know, *pʰá* = that, *sta.pʰɪ́ː.la* = build, *tʰáː.ħo* = house)

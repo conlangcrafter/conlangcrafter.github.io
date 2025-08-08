@@ -1,0 +1,83 @@
+# Phonology
+
+## Consonants
+
+Labialization ([ʷ]) is a secondary articulation that can apply to labial, velar, and uvular plosives (including ejectives).
+
+| | Labial | Dental | Alveolar | Postalveolar | Palatal | Velar | Uvular | Glottal |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Plosive** | p b pʰ<br>pʷ bʷ pʰʷ | t d tʰ | | | c ɟ cʰ | k g kʰ<br>kʷ gʷ kʰʷ | q ɢ qʰ<br>qʷ ɢʷ qʰʷ | ʔ |
+| **Ejective** | pʼ<br>pʼʷ | tʼ | | | cʼ | kʼ<br>kʼʷ | qʼ<br>qʼʷ | |
+| **Click** | | ǃ ǃg ǃʰ | ǁ ǁg ǁʰ | ǂ ǂg ǂʰ | | | | |
+| **Nasal** | m | n | | | ɲ | ŋ | | |
+| **Affricate** | | | t͡s d͡z t͡sʰ | t͡ʃ d͡ʒ t͡ʃʰ | | | | |
+| **Ejective Affricate** | | | t͡sʼ | t͡ʃʼ | | | | |
+| **Fricative** | f v | θ ð | s z | ʃ ʒ | | x ɣ | χ ʁ | h |
+| **Approximant** | w | | l | | j | | | |
+
+## Vowels
+
+| | Front | Central | Back |
+| :--- | :---: | :---: | :---: |
+| **Close** | i | ɨ ʉ | u |
+| **Mid** | | ə | |
+| **Open** | | a | |
+
+The mid-central vowel /ə/ is a full phonemic vowel and can carry the high pitch accent just like any other vowel.
+
+## Phonotactics
+
+The syllable structure is (C)(C)(C)V(C)(C).
+
+**Onsets:** Onset clusters are permissive but follow general sonority principles.
+*   Click consonants can only appear in the initial position of an onset cluster.
+*   Two-consonant (CC) clusters typically consist of a stop, fricative, or nasal followed by an approximant (/l, j, w/).
+*   Three-consonant (CCC) clusters are rare and are typically of the form /s/ + plosive + approximant.
+
+**Codas:** Codas are restricted.
+*   A single-consonant (VC) coda can be any nasal, approximant, or voiceless fricative.
+*   A two-consonant (VCC) coda must consist of a nasal or approximant followed by a voiceless fricative (e.g., /-lf/, /-nx/, /-ms/).
+
+## Suprasegmentals
+
+The language has a lexical pitch accent system. Every polysyllabic word has exactly one syllable marked with a high pitch (H); all other syllables carry a default low pitch (L). The location of this high-pitched syllable is phonemic and can distinguish words, for example, *'qaxina* [ˈqá.xi.na] "mountain" versus *qa'xina* [qa.ˈxí.na] "to climb" versus *qaxi'na* [qa.xi.ˈná] "climber". Pitch is only marked on polysyllabic words. Monosyllabic words, which are predominantly function words, carry a default low pitch and are not marked for a high pitch accent.
+
+## Word Shapes and Lexical Statistics
+
+The word shapes in this language are highly diverse, reflecting its syllable structure. A clear distinction exists between the shapes of content words (nouns, verbs, etc.) and function words (particles, conjunctions, etc.).
+
+Content words form the bulk of the lexicon and are typically polysyllabic, most commonly containing two or three syllables. These words showcase the full phonological and phonotactic complexity of the language. They frequently feature complex onsets, including the language's characteristic clicks, ejectives, and aspirated plosives. While open syllables (CV, CCV) are very common, closed syllables also appear, though complex codas are rare due to their phonotactic restrictions. All polysyllabic content words carry a phonemic high pitch on one of their syllables.
+
+Function words, in contrast, are overwhelmingly short, with most being monosyllabic. Consequently, they are unmarked for pitch. They have simple syllable structures, most often CV or CVC (where the coda must be a nasal or /s/). Clicks, ejectives, aspirated plosives, and onset clusters are absent from the functional lexicon.
+
+Overall, words of two or three syllables are most frequent. Monosyllabic words are also common, but largely confined to the functional lexicon. Words of four or more syllables exist but are relatively few, often resulting from morphological derivation or compounding.
+
+### Lexical Items
+
+1.  /ˈpʰa.kʰa/ (Content item, common)
+2.  /gə/ (Function item, common)
+3.  /t͡ʃa.ˈɣi.na/ (Content item, common)
+4.  /ˈǁʰo.bɨ/ (Content item, common)
+5.  /və/ (Function item, very common)
+6.  /ˈʔa.la.tʰa/ (Content item, common)
+7.  /nas/ (Function item, uncommon)
+8.  /qχa.ˈχa/ (Content item, common)
+9.  /ˈǂa.na.kʰu/ (Content item, common)
+10. /ki/ (Function item, common)
+11. /pə.ˈt͡sʼo.la/ (Content item, common)
+12. /ˈtʼa.mu/ (Content item, uncommon)
+13. /ʃi.ˈkʼa.ja/ (Content item, common)
+14. /t͡su/ (Function item, uncommon)
+15. /kʷʼa.ˈna.tʰa/ (Content item, common)
+16. /t͡so/ (Function item, common)
+17. /t͡ʃʼi.ˈt͡sʼa/ (Content item, uncommon)
+18. /pʼa.ˈkʷʼa/ (Content item, common)
+19. /kʷa/ (Function item, common)
+20. /t͡sʼa.ˈt͡so.pʰa/ (Content item, uncommon)
+21. /ˈqʼa.t͡ʃa/ (Content item, common)
+22. /t͡sa.kʷʼi.ˈna/ (Content item, uncommon)
+23. /po/ (Function item, uncommon)
+24. /ˈkʼu.t͡sʼi/ (Content item, common)
+25. /qʼo.ˈqʼo/ (Content item, common)
+26. /ǃgʷa.ˈta/ (Content item, uncommon)
+27. /kʼə.ˈla/ (Content item, common)

@@ -1,0 +1,12 @@
+{
+  "id": "a2377d59",
+  "name": "Unknown Language",
+  "created_at": "2025-08-06 06:57:23",
+  "model": "gemini-2.5-pro",
+  "user_constraints": "The language is produced by an alien cephalopod species. Phonemes are color values and gestures rather than consonants or vowels.",
+  "has_phonology": false,
+  "has_grammar": false,
+  "has_lexicon": false,
+  "completeness": 0,
+  "features": []
+}

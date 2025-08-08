@@ -1,0 +1,1028 @@
+[
+  {
+    "word": "-kʼé",
+    "translation": "suffix",
+    "pos": "Dative/Benefactive case marker",
+    "notes": "Always has a high tone. Marks recipient/beneficiary.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-nô",
+    "translation": "suffix",
+    "pos": "Genitive case marker",
+    "notes": "Always has a falling tone. Marks possession.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-qʼǔ",
+    "translation": "suffix",
+    "pos": "Locative case marker",
+    "notes": "Always has a rising tone. Marks location.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-tə́",
+    "translation": "suffix",
+    "pos": "Ergative/Accusative case marker",
+    "notes": "Always has a high tone. Marks A in imperfective",
+    "null": [
+      " P in perfective.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-χǎ",
+    "translation": "suffix",
+    "pos": "Instrumental case marker",
+    "notes": "Always has a rising tone. Marks instrument/means.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼe",
+    "translation": "particle",
+    "pos": "Converbial particle",
+    "notes": "Marks the verb in a subordinate clause used in evidential clause chaining.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼe.xî",
+    "translation": "adjective",
+    "pos": "to be good, good",
+    "notes": "Functions as a stative verb. Belongs to the front vowel harmony set.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "kʼi",
+    "translation": "particle",
+    "pos": "not (negation)",
+    "notes": "First particle in the pre-verbal string.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼi.ɡê",
+    "translation": "adjective",
+    "pos": "to be small, small",
+    "notes": "Functions as a stative verb. Belongs to the front vowel harmony set.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "kʼí.ɡé.kʼí",
+    "translation": "noun",
+    "pos": "dwarf",
+    "notes": " small person",
+    "null": [
+      "Belongs to the front vowel harmony set.",
+      "/kʼi.ɡê/ + /kʼí/",
+      "Compound noun: `small-person`. Tonal neutralization (all syllables to high) on the first root."
+    ]
+  },
+  {
+    "word": "kʼo",
+    "translation": "question word",
+    "pos": "where",
+    "notes": "Clause-initial wh-word.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʼo.qʼá.χa",
+    "translation": "noun",
+    "pos": "city",
+    "notes": "Belongs to the back vowel harmony set.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "kʼe.tí",
+    "translation": "noun",
+    "pos": "hand",
+    "notes": "Belongs to the front vowel harmony set. Would likely use the `qʼe.tʼí` classifier for 'body part'.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "kʼtʼá.qʼu.n̩̂",
+    "translation": "verb",
+    "pos": "to create",
+    "notes": "Belongs to the back vowel harmony set. Features a complex CC onset and a syllabic nasal.",
+    "null": [
+      "",
+      "Rare content word. Translation inferred."
+    ]
+  },
+  {
+    "word": "kʼé",
+    "translation": "particle",
+    "pos": "Comitative particle (\"with\")",
+    "notes": "Used to conjoin noun phrases in a comitative sense. Placed between the two full noun phrases (e.g.",
+    "null": [
+      " NP1 kʼé NP2).",
+      "",
+      "Common function word."
+    ]
+  },
+  {
+    "word": "kʼé.nê",
+    "translation": "pronoun",
+    "pos": "you (2nd person)",
+    "notes": "Case is marked on the pronoun itself. Belongs to the front vowel harmony set.",
+    "null": [
+      "",
+      "Common content word",
+      " but functions as a pronoun."
+    ]
+  },
+  {
+    "word": "kʼé.tʼi.xê",
+    "translation": "noun",
+    "pos": "fire",
+    "notes": "Belongs to the front vowel harmony set.",
+    "null": [
+      "",
+      "Common content word. Translation inferred from core vocabulary status."
+    ]
+  },
+  {
+    "word": "kʼə́.tʼú.xə́.qáχ",
+    "translation": "noun",
+    "pos": "hearth",
+    "notes": "Belongs to the back vowel harmony set.",
+    "null": [
+      "/kʼé.tʼi.xê/ + /qáχ/",
+      "Compound noun: `fire-house`. Vowel harmony assimilation (/e,i,e/ -> /ə,u,ə/) and tonal neutralization (all syllables to high) on the first root."
+    ]
+  },
+  {
+    "word": "kʼə́.tʼú.xə́.qʼán",
+    "translation": "noun",
+    "pos": "charred tree",
+    "notes": "Belongs to the back vowel harmony set.",
+    "null": [
+      "/kʼé.tʼi.xê/ + /qʼán/",
+      "Compound noun: `fire-tree`. Vowel harmony assimilation (/e,i,e/ -> /ə,u,ə/) and tonal neutralization (all syllables to high) on the first root."
+    ]
+  },
+  {
+    "word": "kʼí",
+    "translation": "noun",
+    "pos": "person",
+    "notes": "Belongs to the front vowel harmony set. A more generic or informal term than using the classifier `kʼîx` as a noun.",
+    "null": [
+      "",
+      "Common monosyllabic content word."
+    ]
+  },
+  {
+    "word": "kʼîx",
+    "translation": "classifier",
+    "pos": "class for humans",
+    "notes": " deities",
+    "null": [
+      "Used as a proclitic before nouns of its class; also functions as a 3rd person pronoun for humans. Belongs to the front vowel harmony set.",
+      "",
+      "Common function word."
+    ]
+  },
+  {
+    "word": "kʼú.χaɴ",
+    "translation": "adjective, verb",
+    "pos": "to be big, big; to build",
+    "notes": "Functions as a stative verb ('to be big') and a transitive verb ('to build'). Belongs to the back vowel harmony set.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "na",
+    "translation": "particle",
+    "pos": "Future tense particle",
+    "notes": "Third particle slot in the pre-verbal string.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ň̩",
+    "translation": "noun",
+    "pos": "blood",
+    "notes": "Belongs to the back vowel harmony set. Contains a syllabic nasal.",
+    "null": [
+      "",
+      "Uncommon content word due to syllabic nasal."
+    ]
+  },
+  {
+    "word": "qáχ",
+    "translation": "noun",
+    "pos": "house",
+    "notes": " shelter",
+    "null": [
+      "Belongs to the back vowel harmony set.",
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "qô",
+    "translation": "classifier",
+    "pos": "class for tools",
+    "notes": " implements",
+    "null": [
+      "Used as a proclitic before nouns of its class; also functions as a 3rd person pronoun for inanimate objects/tools. Belongs to the back vowel harmony set.",
+      "",
+      "Common function word."
+    ]
+  },
+  {
+    "word": "qə̂",
+    "translation": "particle",
+    "pos": "Relativizer",
+    "notes": "Introduces relative clauses (e.g.",
+    "null": [
+      " adjectival modification).",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "qʼa",
+    "translation": "question word",
+    "pos": "what (inanimate)",
+    "notes": "Clause-initial wh-word.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "qʼa.ń̩",
+    "translation": "noun",
+    "pos": "sand",
+    "notes": "Belongs to the back vowel harmony set. Features a syllabic nasal coda.",
+    "null": [
+      "",
+      "Uncommon content word."
+    ]
+  },
+  {
+    "word": "qʼa.tʼa.ŋ̩̂.tʼo",
+    "translation": "noun",
+    "pos": "language",
+    "notes": "Belongs to the back vowel harmony set. Would use the `ɡâ.tʼə́` classifier.",
+    "null": [
+      "",
+      "Rare content word."
+    ]
+  },
+  {
+    "word": "qʼe.tʼí",
+    "translation": "classifier",
+    "pos": "class for body parts",
+    "notes": "Used as a proclitic before nouns like 'head' (`qʼî`) or 'hand' (`kʼe.tí`). Belongs to the front vowel harmony set.",
+    "null": [
+      "",
+      "Uncommon function word."
+    ]
+  },
+  {
+    "word": "qʼaχ",
+    "translation": "verb",
+    "pos": "to go",
+    "notes": "Belongs to the back vowel harmony set. Intransitive verb.",
+    "null": [
+      "",
+      "Common monosyllabic content word."
+    ]
+  },
+  {
+    "word": "qʼo",
+    "translation": "particle",
+    "pos": "Demonstrative (\"this",
+    "notes": " that\")",
+    "null": [
+      "Follows a noun phrase to specify it. Does not inflect.",
+      "",
+      "Common function word."
+    ]
+  },
+  {
+    "word": "qʼo.tʼî",
+    "translation": "classifier",
+    "pos": "class for liquids",
+    "notes": "Used as a proclitic before nouns like 'water' (`xí.kʼě`) or 'blood' (`ň̩`). Belongs to the front vowel harmony set.",
+    "null": [
+      "",
+      "Uncommon function word."
+    ]
+  },
+  {
+    "word": "qʼo.χú",
+    "translation": "noun",
+    "pos": "river",
+    "notes": "Belongs to the back vowel harmony set.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "qʼtʼu.kʼó.ŋa",
+    "translation": "verb",
+    "pos": "to remember",
+    "notes": "Belongs to the back vowel harmony set. Transitive verb",
+    "null": [
+      " takes a nominalized clause with `ɡâ.tʼə́` as its object.",
+      "",
+      "Rare content word."
+    ]
+  },
+  {
+    "word": "qʼtʼá.kʼa",
+    "translation": "verb",
+    "pos": "to break",
+    "notes": "Belongs to the back vowel harmony set. Features a complex CC onset.",
+    "null": [
+      "",
+      "Uncommon content word. Translation inferred."
+    ]
+  },
+  {
+    "word": "qʼu.tʼá",
+    "translation": "noun",
+    "pos": "path",
+    "notes": " road",
+    "null": [
+      "Belongs to the back vowel harmony set.",
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "qʼu.ŋó.tʼa.qâ",
+    "translation": "subordinating verb",
+    "pos": "to happen after (direct evidence)",
+    "notes": "Takes a converbial clause as its subject. Belongs to the back vowel harmony set.",
+    "null": [
+      "",
+      "Rare content word."
+    ]
+  },
+  {
+    "word": "qʼá.tʼu",
+    "translation": "verb",
+    "pos": "to die",
+    "notes": "Belongs to the back vowel harmony set. Intransitive verb.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "qʼá.tʼu.qáχ",
+    "translation": "noun",
+    "pos": "tomb",
+    "notes": "Belongs to the back vowel harmony set.",
+    "null": [
+      "/qʼá.tʼu/ + /qáχ/",
+      "Compound noun: `die-house`. The tonal neutralization on the first root is incomplete (/qʼá.tʼu/ does not become /qʼá.tʼú/), a possible exception to the general rule.",
+      ""
+    ]
+  },
+  {
+    "word": "qʼá.χu",
+    "translation": "adjective",
+    "pos": "to be bad, bad",
+    "notes": "Functions as a stative verb. Belongs to the back vowel harmony set.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "qʼán",
+    "translation": "noun",
+    "pos": "tree",
+    "notes": "Belongs to the back vowel harmony set.",
+    "null": [
+      "",
+      "Common monosyllabic content word."
+    ]
+  },
+  {
+    "word": "qʼán.qáχ",
+    "translation": "noun",
+    "pos": "wooden hut",
+    "notes": "Belongs to the back vowel harmony set.",
+    "null": [
+      "/qʼán/ + /qáχ/",
+      "Compound noun: `tree-house`. Tonal neutralization on the first root (vacuously",
+      " as /qʼán/ is already high-toned)."
+    ]
+  },
+  {
+    "word": "qʼî",
+    "translation": "noun",
+    "pos": "head",
+    "notes": "Belongs to the front vowel harmony set.",
+    "null": [
+      "",
+      "Common monosyllabic content word."
+    ]
+  },
+  {
+    "word": "qʼó.nǎ",
+    "translation": "noun",
+    "pos": "sun",
+    "notes": "Belongs to the back vowel harmony set.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "qʼó.qʼa.tə́",
+    "translation": "verb",
+    "pos": "to know",
+    "notes": "Belongs to the back vowel harmony set.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "qʼó.tǎ",
+    "translation": "noun",
+    "pos": "master",
+    "notes": " owner",
+    "null": [
+      "Belongs to the back vowel harmony set.",
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "qχa.tʼŋ̍̂.ɡóx",
+    "translation": "noun",
+    "pos": "thought",
+    "notes": "Belongs to the back vowel harmony set. Features multiple complex syllables.",
+    "null": [
+      "",
+      "Very rare content word. Translation inferred from 'abstract concept' classifier."
+    ]
+  },
+  {
+    "word": "qχánɴ",
+    "translation": "noun",
+    "pos": "sky",
+    "notes": "Belongs to the back vowel harmony set. Features a complex CC coda.",
+    "null": [
+      "",
+      "Uncommon content word. Translation inferred from core vocabulary status."
+    ]
+  },
+  {
+    "word": "tə",
+    "translation": "particle",
+    "pos": "Past tense particle",
+    "notes": "Third particle slot in the pre-verbal string.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tə.ŋô",
+    "translation": "verb",
+    "pos": "to see, to leave",
+    "notes": "This verb is synchronically a single lexical unit. It can mean 'to see' or, idiomatically, 'to leave'. Belongs to the back vowel harmony set.",
+    "null": [
+      "Etymologically a contraction of `tə` (PST) + `ŋo` (PFV) + a verb root for 'see'."
+    ]
+  },
+  {
+    "word": "tʼa",
+    "translation": "particle",
+    "pos": "Interrogative mood particle (Yes/No)",
+    "notes": "Second particle slot in the pre-verbal string.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tʼe",
+    "translation": "particle",
+    "pos": "Conjunctive particle (\"and\")",
+    "notes": "Used to conjoin noun phrases. Placed between the two full noun phrases (e.g.",
+    "null": [
+      " NP1 tʼe NP2).",
+      "",
+      "Common function word."
+    ]
+  },
+  {
+    "word": "tʼe.qʼí",
+    "translation": "noun",
+    "pos": "name",
+    "notes": "Belongs to the front vowel harmony set. Would use the `ɡâ.tʼə́` classifier.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "tʼe.xî.kʼe.nê",
+    "translation": "subordinating verb",
+    "pos": "to happen during (sensory evidence)",
+    "notes": "Takes a converbial clause as its subject. Belongs to the front vowel harmony set.",
+    "null": [
+      "",
+      "Rare content word."
+    ]
+  },
+  {
+    "word": "tʼi.kʼé.tʼe",
+    "translation": "pronoun",
+    "pos": "I / we (1st person)",
+    "notes": "Case is marked on the pronoun itself. Belongs to the front vowel harmony set.",
+    "null": [
+      "Common content word, but functions as a pronoun. This trisyllabic form is an exception to the typical monosyllabic structure of function words, possibly reflecting a fossilized compound."
+    ]
+  },
+  {
+    "word": "tʼkʼa.qʼó",
+    "translation": "verb",
+    "pos": "to think",
+    "notes": "Belongs to the back vowel harmony set. Transitive verb",
+    "null": [
+      " takes a nominalized clause with `ɡâ.tʼə́` as its object.",
+      "",
+      "Uncommon content word."
+    ]
+  },
+  {
+    "word": "tʼkʼe.ŋí",
+    "translation": "verb",
+    "pos": "to write",
+    "notes": "Belongs to the front vowel harmony set. Transitive verb. Features a complex CC onset.",
+    "null": [
+      "",
+      "Uncommon content word."
+    ]
+  },
+  {
+    "word": "tʼkʼéx",
+    "translation": "noun",
+    "pos": "word",
+    "notes": "Belongs to the front vowel harmony set. Features a complex CC onset.",
+    "null": [
+      "",
+      "Rare content word. Translation inferred from context of language."
+    ]
+  },
+  {
+    "word": "tʼo",
+    "translation": "question word",
+    "pos": "when",
+    "notes": "Clause-initial wh-word.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tʼqʼá",
+    "translation": "verb",
+    "pos": "to fall",
+    "notes": "Belongs to the back vowel harmony set. Intransitive verb. Features a complex CC onset.",
+    "null": [
+      "",
+      "Uncommon content word."
+    ]
+  },
+  {
+    "word": "tʼqʼî",
+    "translation": "verb",
+    "pos": "to sleep",
+    "notes": "Belongs to the front vowel harmony set. Intransitive verb. Features a complex CC onset.",
+    "null": [
+      "",
+      "Uncommon content word."
+    ]
+  },
+  {
+    "word": "tʼáq",
+    "translation": "verb",
+    "pos": "to run",
+    "notes": "Belongs to the back vowel harmony set. Intransitive verb.",
+    "null": [
+      "",
+      "Common monosyllabic content word."
+    ]
+  },
+  {
+    "word": "tʼé.kʼi",
+    "translation": "noun",
+    "pos": "child",
+    "notes": "Belongs to the front vowel harmony set. Would use the `kʼîx` classifier.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "tʼí.xě",
+    "translation": "verb",
+    "pos": "to eat",
+    "notes": "Belongs to the front vowel harmony set. Transitive verb.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "tʼí.ɡe",
+    "translation": "verb",
+    "pos": "to speak",
+    "notes": "Belongs to the front vowel harmony set. Can take a nominalized clause with `ɡâ.tʼə́` as its object.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "tʼô",
+    "translation": "classifier",
+    "pos": "class for plants",
+    "notes": " trees",
+    "null": [
+      "Used as a proclitic before nouns like 'tree' (`qʼán`). Belongs to the back vowel harmony set.",
+      "",
+      "Common function word."
+    ]
+  },
+  {
+    "word": "tʼúkʼ.qáχ",
+    "translation": "noun",
+    "pos": "stone-house",
+    "notes": " cave",
+    "null": [
+      "Belongs to the back vowel harmony set.",
+      "/tʼúkʼ/ + /qáχ/",
+      "Compound noun. Tonal neutralization is vacuous as the root /tʼúkʼ/ already has a high tone."
+    ]
+  },
+  {
+    "word": "tʼík.tʼé.kʼi",
+    "translation": "noun",
+    "pos": "stone-child",
+    "notes": " doll",
+    "null": [
+      "Belongs to the front vowel harmony set.",
+      "/tʼúkʼ/ + /tʼé.kʼi/",
+      "Compound noun: `rock-child`. Vowel harmony assimilation of the first root from /u/ to /i/.",
+      "This compound is an exception to the unidirectional vowel harmony rule for compounding."
+    ]
+  },
+  {
+    "word": "tʼúkʼ",
+    "translation": "noun",
+    "pos": "rock",
+    "notes": "Belongs to the back vowel harmony set.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "tʼě",
+    "translation": "classifier",
+    "pos": "class for non-human animals",
+    "notes": "Used as a proclitic before nouns of its class; also functions as a 3rd person pronoun for non-human animals. Belongs to the front vowel harmony set.",
+    "null": [
+      "",
+      "Common function word."
+    ]
+  },
+  {
+    "word": "xé.tʼè",
+    "translation": "noun",
+    "pos": "animal",
+    "notes": " beast",
+    "null": [
+      "Belongs to the front vowel harmony set.",
+      "",
+      "This word exhibits tonal allomorphy",
+      " appearing as `xé.tʼè` in some contexts (e.g.",
+      " compounding) and `xé.tʼě` in others (e.g.",
+      " when following a case-marked classifier)."
+    ]
+  },
+  {
+    "word": "xé.tʼě",
+    "translation": "verb",
+    "pos": "to walk",
+    "notes": "Belongs to the front vowel harmony set.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "xə́.tʼə́.ň̩",
+    "translation": "noun",
+    "pos": "prey's blood",
+    "notes": "Belongs to the back vowel harmony set.",
+    "null": [
+      "/xé.tʼè/ + /ň̩/",
+      "Compound noun: `beast-blood`. Vowel harmony assimilation (/e,e/ -> /ə,ə/) and tonal neutralization (all syllables to high) on the first root.",
+      ""
+    ]
+  },
+  {
+    "word": "xí.kʼě",
+    "translation": "noun",
+    "pos": "water",
+    "notes": "Belongs to the front vowel harmony set.",
+    "null": [
+      "",
+      "Common content word. Translation inferred from core vocabulary status."
+    ]
+  },
+  {
+    "word": "xí.ŋe",
+    "translation": "noun",
+    "pos": "moon",
+    "notes": "Belongs to the front vowel harmony set.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "xú.ŋə́.qáχ",
+    "translation": "noun",
+    "pos": "observatory",
+    "notes": "Belongs to the back vowel harmony set.",
+    "null": [
+      "/xí.ŋe/ + /qáχ/",
+      "Compound noun: `moon-house`. Vowel harmony assimilation (/i,e/ -> /u,ə/) and tonal neutralization (all syllables to high) on the first root."
+    ]
+  },
+  {
+    "word": "xə",
+    "translation": "particle",
+    "pos": "Imperfective aspect particle",
+    "notes": "Fourth particle slot in the pre-verbal string. Triggers Erg-Abs alignment.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "xə́.tʼə́.qʼó.tǎ",
+    "translation": "noun",
+    "pos": "pet-owner",
+    "notes": " master of beasts",
+    "null": [
+      "Belongs to the back vowel harmony set.",
+      "/xé.tʼè/ + /qʼó.tǎ/",
+      "Compound noun: `beast-master`. Vowel harmony assimilation (/e,e/ -> /ə,ə/) and tonal neutralization (all syllables to high) on the first root."
+    ]
+  },
+  {
+    "word": "xo",
+    "translation": "question word",
+    "pos": "why, how",
+    "notes": "Clause-initial wh-word.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ŋa",
+    "translation": "question word",
+    "pos": "who, what (animate)",
+    "notes": "Clause-initial wh-word.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ŋo",
+    "translation": "particle",
+    "pos": "Perfective aspect particle",
+    "notes": "Fourth particle slot in the pre-verbal string. Triggers Nom-Acc alignment.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ŋá.qʼa.nô",
+    "translation": "noun",
+    "pos": "Ngano (proper name)",
+    "notes": "Belongs to the back vowel harmony set.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "ŋɡáq",
+    "translation": "noun",
+    "pos": "fish",
+    "notes": "Belongs to the back vowel harmony set. Features a prenasalized plosive in the onset.",
+    "null": [
+      "",
+      "Uncommon content word due to cluster."
+    ]
+  },
+  {
+    "word": "ŋ̩́.qʼa",
+    "translation": "noun",
+    "pos": "heart",
+    "notes": "Belongs to the back vowel harmony set. Features a syllabic nasal.",
+    "null": [
+      "",
+      "Uncommon content word."
+    ]
+  },
+  {
+    "word": "ŋ̩̂",
+    "translation": "noun",
+    "pos": "soul",
+    "notes": "Belongs to the back vowel harmony set. Contains a syllabic nasal.",
+    "null": [
+      "",
+      "Rare content word. Translation inferred from animacy/metaphysical context."
+    ]
+  },
+  {
+    "word": "né.qʼe.tî",
+    "translation": "noun",
+    "pos": "vein",
+    "notes": "Belongs to the front vowel harmony set.",
+    "null": [
+      "/ň̩/ + /kʼe.tí/",
+      "Compound noun: `blood-hand`. The syllabic nasal of the first root patterns with back vowels and assimilates to the front vowel harmony of the second root, surfacing as /ne/ before tonal neutralization.",
+      "This compound violates the unidirectional vowel harmony rule for compounding, suggesting a possible lexicalized exception or a more complex harmony system than described."
+    ]
+  },
+  {
+    "word": "ɡa.χá",
+    "translation": "verb",
+    "pos": "to laugh",
+    "notes": "Belongs to the back vowel harmony set. Intransitive verb.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "ɡe",
+    "translation": "particle",
+    "pos": "Irrealis mood particle",
+    "notes": "Second particle slot in the pre-verbal string.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɡe.tî",
+    "translation": "verb",
+    "pos": "to love",
+    "notes": "Belongs to the front vowel harmony set. Transitive verb.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "ɡâ.tʼə́",
+    "translation": "classifier",
+    "pos": "class for abstract concepts",
+    "notes": " speech",
+    "null": [
+      "Used as a proclitic before nouns of its class; also used as a head noun 'fact, concept' for nominalizing clauses. Belongs to the back vowel harmony set.",
+      "",
+      "Uncommon disyllabic function word."
+    ]
+  },
+  {
+    "word": "ɡé.tʼi",
+    "translation": "noun",
+    "pos": "song",
+    "notes": "Belongs to the front vowel harmony set. Would use the `ɡâ.tʼə́` classifier.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "ɡó.qʼa",
+    "translation": "verb",
+    "pos": "to give",
+    "notes": "Belongs to the back vowel harmony set. Ditransitive verb.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "ɡó.tʼa",
+    "translation": "noun",
+    "pos": "food",
+    "notes": "Belongs to the back vowel harmony set. Likely takes an inanimate classifier like `qô`.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "ɡə.xâ.tʼu",
+    "translation": "subordinating verb",
+    "pos": "to be the reason for (inferred evidence)",
+    "notes": "Takes a converbial clause as its subject. Belongs to the back vowel harmony set.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "ɴ̩̂.qʼó",
+    "translation": "noun",
+    "pos": "darkness",
+    "notes": "Belongs to the back vowel harmony set. Features a syllabic nasal.",
+    "null": [
+      "",
+      "Uncommon content word. Translation inferred."
+    ]
+  },
+  {
+    "word": "χa.nó",
+    "translation": "noun",
+    "pos": "wind",
+    "notes": "Belongs to the back vowel harmony set.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "χe.tʼî",
+    "translation": "adjective",
+    "pos": "to be new, new",
+    "notes": "Functions as a stative verb. Belongs to the front vowel harmony set.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  },
+  {
+    "word": "χú.qʼo",
+    "translation": "noun",
+    "pos": "mountain",
+    "notes": "Belongs to the back vowel harmony set.",
+    "null": [
+      "",
+      "Common content word."
+    ]
+  }
+]

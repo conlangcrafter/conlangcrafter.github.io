@@ -1,0 +1,1028 @@
+[
+  {
+    "word": "a",
+    "translation": "adposition",
+    "pos": "during",
+    "notes": "Postposition used with abstract noun classes.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "a",
+    "translation": "pronoun",
+    "pos": "he, she, it (Class I)",
+    "notes": "Accusative case form of the Class I 3rd person singular pronoun.",
+    "null": [
+      "",
+      "Pronominal form for Class I nouns",
+      " such as 'person' (miʎ)."
+    ]
+  },
+  {
+    "word": "fai...pi",
+    "translation": "circumposition",
+    "pos": "apparently in/at/on",
+    "notes": "Inferential adposition for location.",
+    "null": [
+      "",
+      "Used with concrete noun classes."
+    ]
+  },
+  {
+    "word": "faipi",
+    "translation": "adjective",
+    "pos": "sharp",
+    "notes": "Adjective root for 'sharp'.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "frɔl.t͡ʃɛk",
+    "translation": "noun",
+    "pos": "fire",
+    "notes": "Intransitive form of 'fire'. Class V ('natural inanimate objects').",
+    "null": [
+      "frɔl- (INTR.CL.V) + -t͡ʃɛk (root)",
+      ""
+    ]
+  },
+  {
+    "word": "fɔs",
+    "translation": "suffix",
+    "pos": "inferential",
+    "notes": "-fɔs-. Evidentiality suffix (Slot 5).",
+    "null": [
+      "",
+      "Speaker infers from indirect evidence."
+    ]
+  },
+  {
+    "word": "im",
+    "translation": "case prefix",
+    "pos": "Genitive (Class I)",
+    "notes": "Case/class prefix for Genitive Class I nouns.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "it͡ɬarkʷɛnti",
+    "translation": "noun",
+    "pos": "unknown",
+    "notes": "Uncommon content item.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "iɛ",
+    "translation": "case prefix",
+    "pos": "Intransitive (Class IX)",
+    "notes": "Case/class prefix for Intransitive Class IX nouns.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "iɛχart͡sɛn",
+    "translation": "noun",
+    "pos": "year, cycle",
+    "notes": "Intransitive form of 'year'. Class IX ('cycles/processes').",
+    "null": [
+      "iɛ- (INTR.CL.IX) + -χart͡sɛn (root)",
+      ""
+    ]
+  },
+  {
+    "word": "krɛtsu",
+    "translation": "verb root",
+    "pos": "sleep",
+    "notes": "Verb root for 'sleep'.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kɔ",
+    "translation": "case prefix",
+    "pos": "Ergative (Class I)",
+    "notes": "Case/class prefix for Ergative Class I nouns.",
+    "null": [
+      "",
+      "Homophonous with the relative clause marker."
+    ]
+  },
+  {
+    "word": "kɔ",
+    "translation": "particle",
+    "pos": "REL",
+    "notes": "relative clause marker, invariant",
+    "null": [
+      "",
+      "Introduces a relative clause."
+    ]
+  },
+  {
+    "word": "kɛt",
+    "translation": "conjunction",
+    "pos": "or",
+    "notes": "Used to coordinate clauses and noun phrases.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʷi",
+    "translation": "conjunction",
+    "pos": "and, but",
+    "notes": "Used to coordinate clauses and noun phrases.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʷist",
+    "translation": "adjective",
+    "pos": "small",
+    "notes": "Adjective root for 'small'.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʷɛi.χɔlps",
+    "translation": "noun",
+    "pos": "mountain",
+    "notes": "Intransitive form of 'mountain'. Class V ('natural inanimate objects').",
+    "null": [
+      "kʷɛi- (INTR.CL.V) + -χɔlps (root)",
+      "An uncommon content item."
+    ]
+  },
+  {
+    "word": "kʷɛn",
+    "translation": "suffix",
+    "pos": "antipassive",
+    "notes": "-kʷɛn-. Valence suffix (Slot 1).",
+    "null": [
+      "Demotes a transitive object to an oblique case, making the verb intransitive.",
+      ""
+    ]
+  },
+  {
+    "word": "kʷɛt͡ɬu",
+    "translation": "noun",
+    "pos": "stone",
+    "notes": "Intransitive form of 'stone'. Class V ('natural inanimate objects').",
+    "null": [
+      "kʷɛ- (INTR.CL.V) + -t͡ɬu (root)",
+      ""
+    ]
+  },
+  {
+    "word": "k͡sa.t͡ɬi",
+    "translation": "verb root",
+    "pos": "write",
+    "notes": "Verb root for 'write'",
+    "null": [
+      " transitive.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "k͡sɛl.t͡ʃar.t͡ɬɔ.mɛu",
+    "translation": "adjective",
+    "pos": "beautiful",
+    "notes": "Adjective root for 'beautiful'.",
+    "null": [
+      "",
+      "A rare",
+      " polysyllabic adjective for formal or poetic use."
+    ]
+  },
+  {
+    "word": "lik",
+    "translation": "suffix",
+    "pos": "direct",
+    "notes": "-lik-. Evidentiality suffix (Slot 5).",
+    "null": [
+      "",
+      "Speaker has direct sensory evidence."
+    ]
+  },
+  {
+    "word": "lɔt͡ʃar",
+    "translation": "noun",
+    "pos": "water",
+    "notes": "Intransitive form of 'water'. Class III ('liquids').",
+    "null": [
+      "lɔ- (INTR.CL.III) + -t͡ʃar (root)",
+      ""
+    ]
+  },
+  {
+    "word": "ma...k͡s",
+    "translation": "circumfix",
+    "pos": "negation",
+    "notes": "ma-...-k͡s. Circumfix for verbal negation.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "manɛk",
+    "translation": "noun",
+    "pos": "hand",
+    "notes": "Intransitive form of 'hand'. Class VI ('body parts').",
+    "null": [
+      "ma- (INTR.CL.VI) + -nɛk (root)",
+      ""
+    ]
+  },
+  {
+    "word": "maqant͡ʃuɛ",
+    "translation": "noun",
+    "pos": "unknown",
+    "notes": "Uncommon content item.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "miʎ",
+    "translation": "noun root",
+    "pos": "person",
+    "notes": "Noun root for 'person'. Class I.",
+    "null": [
+      "",
+      "The intransitive form is 'miʎ'",
+      " with a zero prefix."
+    ]
+  },
+  {
+    "word": "mɔ.nɛsk",
+    "translation": "noun",
+    "pos": "mother",
+    "notes": "Intransitive form of 'mother'. Class I ('persons/kin').",
+    "null": [
+      "mɔ- (INTR.CL.I) + -nɛsk (root)",
+      "The prefix 'mɔ-' is an irregular Class I intransitive prefix used for this kin term."
+    ]
+  },
+  {
+    "word": "mɛu",
+    "translation": "suffix",
+    "pos": "optative",
+    "notes": "-mɛu-. Mood suffix (Slot 4).",
+    "null": [
+      "",
+      "Expresses a wish or hope."
+    ]
+  },
+  {
+    "word": "not͡ɬa",
+    "translation": "noun",
+    "pos": "child",
+    "notes": "Intransitive form of 'child'. Class II.",
+    "null": [
+      "no- (INTR.CL.II) + -t͡ɬa (root)",
+      ""
+    ]
+  },
+  {
+    "word": "nɔx",
+    "translation": "suffix",
+    "pos": "inceptive",
+    "notes": "-nɔx-. Aspect suffix (Slot 2).",
+    "null": [
+      "",
+      "Beginning of an action."
+    ]
+  },
+  {
+    "word": "nɛm",
+    "translation": "suffix",
+    "pos": "hearsay",
+    "notes": "-nɛm-. Evidentiality suffix (Slot 5).",
+    "null": [
+      "",
+      "Speaker was told by someone else."
+    ]
+  },
+  {
+    "word": "o",
+    "translation": "pronoun",
+    "pos": "you (singular)",
+    "notes": "Accusative case form of the Class I 2nd person singular pronoun.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pi",
+    "translation": "suffix",
+    "pos": "progressive",
+    "notes": "-pi-. Aspect suffix (Slot 2).",
+    "null": [
+      "",
+      "Action in progress."
+    ]
+  },
+  {
+    "word": "plɛxɔ",
+    "translation": "verb root",
+    "pos": "walk",
+    "notes": "Verb root for 'walk', intransitive.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pstron",
+    "translation": "case prefix",
+    "pos": "Instrumental (Class VII)",
+    "notes": "Case/class prefix for Instrumental Class VII nouns.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pstrɔ.kʷɛl",
+    "translation": "adjective",
+    "pos": "old",
+    "notes": "Adjective root for 'old'.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pua",
+    "translation": "noun",
+    "pos": "house",
+    "notes": "Intransitive form of 'house'. Class VII ('buildings/shelters').",
+    "null": [
+      "ø- (INTR.CL.VII) + pua (root)",
+      "The Class VII intransitive prefix is zero."
+    ]
+  },
+  {
+    "word": "pɛ.t͡ʃar",
+    "translation": "noun",
+    "pos": "book",
+    "notes": "Intransitive form of 'book'. Class XII ('information-bearing objects').",
+    "null": [
+      "pɛ- (INTR.CL.XII) + -t͡ʃar (root)",
+      ""
+    ]
+  },
+  {
+    "word": "pɛlɛu",
+    "translation": "verb root",
+    "pos": "speak",
+    "notes": "Verb root for 'speak', typically intransitive.",
+    "null": [
+      "",
+      "An uncommon content item."
+    ]
+  },
+  {
+    "word": "pʃkʷant͡ɬxulps",
+    "translation": "noun",
+    "pos": "unknown",
+    "notes": "Rare content item.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʃt͡ɬɔk.χant͡s.kʷɛ.lɔm",
+    "translation": "verb root",
+    "pos": "philosophize",
+    "notes": "Verb root for 'to philosophize' or 'to contemplate deeply', intransitive.",
+    "null": [
+      "",
+      "A rare verb root",
+      " characteristic of academic registers."
+    ]
+  },
+  {
+    "word": "qant͡sɔ",
+    "translation": "verb root",
+    "pos": "give",
+    "notes": "Verb root for 'give', ditransitive.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "qɔlps",
+    "translation": "noun",
+    "pos": "unknown",
+    "notes": "Common content item.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "qɔn",
+    "translation": "pronoun",
+    "pos": "they (Class I)",
+    "notes": "Accusative case form of the Class I 3rd person plural pronoun.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "qɔχt͡ɬamɛulik",
+    "translation": "noun",
+    "pos": "unknown",
+    "notes": "Uncommon content item.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "skil",
+    "translation": "case prefix",
+    "pos": "Intransitive (Class IV)",
+    "notes": "Case/class prefix for Intransitive Class IV nouns.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "skilχa",
+    "translation": "noun",
+    "pos": "knife",
+    "notes": "Intransitive form of 'knife'. Class IV ('edged/pointed tools').",
+    "null": [
+      "skil- (INTR.CL.IV) + -χa (root)",
+      ""
+    ]
+  },
+  {
+    "word": "skʷɛ.t͡ʃal",
+    "translation": "verb root",
+    "pos": "make/create",
+    "notes": "Verb root for 'make' or 'create'",
+    "null": [
+      " transitive.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "stau...mik",
+    "translation": "circumposition",
+    "pos": "during (hearsay)",
+    "notes": "Hearsay adposition for 'during'.",
+    "null": [
+      "",
+      "Used with abstract noun classes."
+    ]
+  },
+  {
+    "word": "staumik",
+    "translation": "noun",
+    "pos": "story",
+    "notes": "Common content item.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tfrɔqspɛnt",
+    "translation": "noun",
+    "pos": "spear",
+    "notes": "Intransitive form of 'spear'. Class IV ('edged/pointed tools').",
+    "null": [
+      "ø- (INTR.CL.IV) + -tfrɔqspɛnt (root)",
+      "A rare content item. The Class IV intransitive prefix is zero for this item."
+    ]
+  },
+  {
+    "word": "tɛl",
+    "translation": "suffix",
+    "pos": "future",
+    "notes": "-tɛl-. Tense suffix (Slot 3).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡sV",
+    "translation": "prefix",
+    "pos": "adjectival agreement (Class I)",
+    "notes": "`t͡sV-`. The vowel harmonizes with the first vowel of the noun's full intransitive form.",
+    "null": [
+      "",
+      "E.g.",
+      " for 'miʎ' (person)",
+      " the prefix is `t͡si-`; for 'mɔnɛsk' (mother)",
+      " the prefix is `t͡sɔ-`."
+    ]
+  },
+  {
+    "word": "t͡sa",
+    "translation": "case prefix",
+    "pos": "Dative (Class I)",
+    "notes": "Case/class prefix for Dative Class I nouns.",
+    "null": [
+      "",
+      "Used for the indirect object of nouns in Class I."
+    ]
+  },
+  {
+    "word": "t͡su",
+    "translation": "case prefix",
+    "pos": "Dative (Class IV/IX)",
+    "notes": "Case/class prefix for Dative Class IV/IX nouns.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡sɔnqɛl",
+    "translation": "noun",
+    "pos": "word/language",
+    "notes": "Intransitive form of 'word' or 'language'. Class XI ('abstract concepts').",
+    "null": [
+      "t͡sɔn- (INTR.CL.XI) + -qɛl (root)",
+      ""
+    ]
+  },
+  {
+    "word": "t͡ɬV",
+    "translation": "prefix",
+    "pos": "adjectival agreement (Class IV)",
+    "notes": "`t͡ɬV-`. The vowel harmonizes with the first vowel of the noun root.",
+    "null": [
+      "",
+      "E.g.",
+      " for 'skilχa' (knife",
+      " root -χa)",
+      " the prefix is `t͡ɬa-`."
+    ]
+  },
+  {
+    "word": "-t͡ɬa",
+    "translation": "noun root",
+    "pos": "child",
+    "notes": "Noun root for 'child'. Class II.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡ɬa",
+    "translation": "suffix",
+    "pos": "perfective",
+    "notes": "-t͡ɬa-. Aspect suffix (Slot 2).",
+    "null": [
+      "",
+      "Action as a complete event."
+    ]
+  },
+  {
+    "word": "t͡ɬa.pstron.kʷɛ.mi",
+    "translation": "noun",
+    "pos": "wisdom",
+    "notes": "Intransitive form of 'wisdom'. Class XI ('abstract concepts').",
+    "null": [
+      "t͡ɬa- (INTR.CL.XI) + -pstronkʷɛmi (root)",
+      "A rare content item",
+      " referring to a specialized abstract concept."
+    ]
+  },
+  {
+    "word": "t͡ɬufaipi",
+    "translation": "noun",
+    "pos": "tool",
+    "notes": "Common content item.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡ɬɛ...ʃi",
+    "translation": "circumposition",
+    "pos": "because of (inferred)",
+    "notes": "Inferential adposition for cause.",
+    "null": [
+      "",
+      "Used with abstract noun classes."
+    ]
+  },
+  {
+    "word": "t͡ʃax",
+    "translation": "verb root",
+    "pos": "see",
+    "notes": "Verb root for 'see'",
+    "null": [
+      " transitive.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡ʃo",
+    "translation": "pronoun",
+    "pos": "I (Class I)",
+    "notes": "Ergative case form of the Class I 1st person singular pronoun.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡ʃo",
+    "translation": "suffix",
+    "pos": "interrogative",
+    "notes": "-t͡ʃo-. Mood suffix (Slot 4).",
+    "null": [
+      "",
+      "Forms a yes/no question."
+    ]
+  },
+  {
+    "word": "t͡ʃuainɔxtɛl",
+    "translation": "noun",
+    "pos": "unknown",
+    "notes": "Uncommon content item.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t͡ʃɛlmi",
+    "translation": "adjective",
+    "pos": "big",
+    "notes": "Adjective root for 'big'.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "uai",
+    "translation": "suffix",
+    "pos": "indicative",
+    "notes": "-uai-. Mood suffix (Slot 4).",
+    "null": [
+      "Marks indicative mood. It is used in the future tense and is optional in the present tense. It is zero-marked in the past tense to avoid repetition with the past tense suffix.",
+      ""
+    ]
+  },
+  {
+    "word": "uai",
+    "translation": "suffix",
+    "pos": "past",
+    "notes": "-uai-. Tense suffix (Slot 3).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ul",
+    "translation": "case prefix",
+    "pos": "Accusative (Class IV/VII/IX)",
+    "notes": "Case/class prefix for Accusative Class IV/VII/IX nouns.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "wɛnt͡ʃo",
+    "translation": "noun",
+    "pos": "unknown",
+    "notes": "Uncommon content item.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "xalt͡sʎɛfɔs",
+    "translation": "noun",
+    "pos": "unknown",
+    "notes": "Uncommon content item.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "xulps",
+    "translation": "case prefix",
+    "pos": "Ablative (Class IV/IX)",
+    "notes": "Case/class prefix for Ablative Class IV/IX nouns.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "xɔps",
+    "translation": "verb root",
+    "pos": "eat",
+    "notes": "Verb root for 'eat', typically transitive.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "xɛt͡ɬ",
+    "translation": "verb root",
+    "pos": "know",
+    "notes": "Verb root for 'know', transitive.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɬɔn",
+    "translation": "adposition",
+    "pos": "to/towards",
+    "notes": "Preposition used with concrete noun classes.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɬɛk",
+    "translation": "verb root",
+    "pos": "go",
+    "notes": "Verb root for 'go'",
+    "null": [
+      " intransitive.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɲa",
+    "translation": "case prefix",
+    "pos": "Intransitive (Class III)",
+    "notes": "Case/class prefix for Intransitive Class III nouns.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɲiɛut͡sχapstrɔqɔlk͡s",
+    "translation": "noun",
+    "pos": "unknown",
+    "notes": "Rare content item.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɲɔt͡ʃi",
+    "translation": "noun",
+    "pos": "fish",
+    "notes": "Intransitive form of 'fish'. Class VIII ('animals').",
+    "null": [
+      "ɲɔ- (INTR.CL.VIII) + -t͡ʃi (root)",
+      ""
+    ]
+  },
+  {
+    "word": "ʃuliɛ",
+    "translation": "noun",
+    "pos": "sky",
+    "notes": "Intransitive form of 'sky'. Class X ('celestial bodies').",
+    "null": [
+      "ʃu- (INTR.CL.X) + -liɛ (root)",
+      ""
+    ]
+  },
+  {
+    "word": "ʃɛ.lɔm",
+    "translation": "noun",
+    "pos": "city",
+    "notes": "Intransitive form of 'city'. Class VII ('buildings/shelters').",
+    "null": [
+      "ʃɛ- (INTR.CL.VII) + -lɔm (root)",
+      "An uncommon content item."
+    ]
+  },
+  {
+    "word": "ʃɛt",
+    "translation": "adposition",
+    "pos": "in/at/on",
+    "notes": "Preposition used with concrete noun classes.",
+    "null": [
+      "",
+      "Homophonous with the Locative Class IV prefix."
+    ]
+  },
+  {
+    "word": "ʃɛt",
+    "translation": "case prefix",
+    "pos": "Locative (Class IV)",
+    "notes": "Case/class prefix for Locative Class IV nouns.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-χa",
+    "translation": "noun root",
+    "pos": "knife",
+    "notes": "Noun root for 'knife'. Class IV ('edged/pointed tools').",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "χa.t͡su.lai",
+    "translation": "verb root",
+    "pos": "understand",
+    "notes": "Verb root for 'understand'",
+    "null": [
+      " transitive.",
+      "",
+      "An uncommon content item."
+    ]
+  },
+  {
+    "word": "-χart͡sɛn",
+    "translation": "noun root",
+    "pos": "year, cycle",
+    "notes": "Noun root for 'year'. Class IX ('cycles/processes').",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "χt͡sɔkliat͡ʃaunɛm",
+    "translation": "noun",
+    "pos": "unknown",
+    "notes": "Rare content item.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-t͡ʃɛk",
+    "translation": "noun root",
+    "pos": "fire",
+    "notes": "Noun root for 'fire'. Class V ('natural inanimate objects').",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-χɔlps",
+    "translation": "noun root",
+    "pos": "mountain",
+    "notes": "Noun root for 'mountain'. Class V ('natural inanimate objects').",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-t͡ɬu",
+    "translation": "noun root",
+    "pos": "stone",
+    "notes": "Noun root for 'stone'. Class V ('natural inanimate objects').",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-t͡ʃar",
+    "translation": "noun root",
+    "pos": "water",
+    "notes": "Noun root for 'water'. Class III ('liquids').",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-nɛk",
+    "translation": "noun root",
+    "pos": "hand",
+    "notes": "Noun root for 'hand'. Class VI ('body parts').",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-nɛsk",
+    "translation": "noun root",
+    "pos": "mother",
+    "notes": "Noun root for 'mother'. Class I ('persons/kin').",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-t͡ʃar",
+    "translation": "noun root",
+    "pos": "book",
+    "notes": "Noun root for 'book'. Class XII ('information-bearing objects').",
+    "null": [
+      "",
+      "Homophonous with the root for 'water'."
+    ]
+  },
+  {
+    "word": "-qɛl",
+    "translation": "noun root",
+    "pos": "word/language",
+    "notes": "Noun root for 'word' or 'language'. Class XI ('abstract concepts').",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-pstronkʷɛmi",
+    "translation": "noun root",
+    "pos": "wisdom",
+    "notes": "Noun root for 'wisdom'. Class XI ('abstract concepts').",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-t͡ʃi",
+    "translation": "noun root",
+    "pos": "fish",
+    "notes": "Noun root for 'fish'. Class VIII ('animals').",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-liɛ",
+    "translation": "noun root",
+    "pos": "sky",
+    "notes": "Noun root for 'sky'. Class X ('celestial bodies').",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-lɔm",
+    "translation": "noun root",
+    "pos": "city",
+    "notes": "Noun root for 'city'. Class VII ('buildings/shelters').",
+    "null": [
+      "",
+      ""
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+# Phonology
+
+## Consonants
+
+| | Labial | Dental | Alveolar | Retroflex | Palatal | Velar |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Plosive** | p | t̪ | t | ʈ | | k |
+| **Nasal** | m | n̪ | n | ɳ | | ŋ |
+| **Implosive** | ɓ¹ | | | | | |
+| **Fricative** | | s̪ | s | ʂ | | |
+| **Approximant** | w | | l | ɭ | j | |
+
+¹ Implosives may only appear in word-initial onsets.
+
+*   **Secondary Articulations**: All non-palatal consonants, with the exception of the approximant /w/, have phonemically distinct labialized (/Cʷ/) and palatalized (/Cʲ/) counterparts, effectively tripling the inventory of contrastive onsets. For example, /p/, /pʷ/, and /pʲ/ are all distinct phonemes. The approximant /j/ is inherently palatal and does not undergo further secondary articulation. The approximant /w/ cannot itself undergo secondary articulation (i.e., no */wʷ/ or */wʲ/). Secondary articulations are permitted on consonants in both onsets and codas. Within a consonant cluster, adjacent consonants may not have conflicting secondary articulations (i.e., labial vs. palatal).
+*   **Allophony**: Voiceless plosives /p t̪ t ʈ k/, including their secondarily articulated counterparts, are realized as voiced [b d̪ d ɖ g] between two vowels. For example, /a.pa/ is pronounced [a.ba] and /a.pʲa/ is pronounced [a.bʲa].
+
+## Vowels
+
+| | Front | Central | Back |
+| :--- | :---: | :---: | :---: |
+| **High** | i, ĩ | | u, ũ |
+| **Mid** | e, ẽ | | o, õ |
+| **Low** | a, ã | | |
+
+## Phonotactics
+
+The syllable structure is (C₁C₂C₃)V(C₄C₅C₆), allowing for up to three-consonant clusters in both onsets (C₁C₂C₃) and codas (C₄C₅C₆). A consonant with a secondary articulation (e.g., /kʷ/, /lʲ/) counts as a single consonant slot (C) within these clusters.
+
+Onset clusters generally follow the Sonority Sequencing Principle (SSP), with sonority rising towards the nucleus (plosive < fricative < nasal < approximant). Codas generally follow the SSP in reverse (falling sonority).
+
+A common exception to the onset SSP allows for an initial coronal fricative (/s̪/, /s/, or /ʂ/) to be followed by a sequence of a plosive (of any place of articulation) and then an approximant. The plosive-approximant pair itself must adhere to the SSP. This pattern is permitted in both word-initial and syllable-initial position, as in /s̪kʷl-/ or /a.ʂt̪ʷla/.
+
+As a specific constraint, the three coronal fricatives (/s̪, s, ʂ/) cannot co-occur within a single cluster. Clusters of consonants from the same place of articulation are permitted (e.g., /st-/, /s̪t̪ʷ-/).
+
+## Suprasegmentals
+
+The language has no phonemically distinctive features such as tone, pitch accent, or lexical stress. Unlike most languages, there is no word-level stress whatsoever, not even a default or predictable pattern. Prosodic prominence is determined entirely by pragmatic focus and phrasal intonation, with no fixed acoustic correlates at the word level. Words in isolation are typically pronounced with a flat intonation contour.
+
+## Word Shapes and Lexical Statistics
+
+The language exhibits a vast diversity of word shapes, a direct consequence of its permissive (C₁C₂C₃)V(C₄C₅C₆) syllable structure. While the phonotactics allow for words of immense phonological complexity, a clear distributional pattern emerges between different word classes and their typical forms.
+
+Function items are typically monosyllabic, often consisting of a simple CV, CVC, or V structure. Many of these common grammatical words feature simple onsets and codas, though some utilize a single secondary articulation or a two-consonant cluster (e.g., /stʷ-/).
+
+Content items display a much wider range of shapes. Many basic nouns and adverbs are monosyllabic but are distinguished from function words by their tendency to employ more complex phonotactics, such as three-consonant clusters and secondary articulations. The most common word shape for content items is disyllabic, which allows for a variety of phonological patterns without reaching the maximal complexity permitted by the grammar. Polysyllabic words of three or more syllables are somewhat less common, typically reserved for more specialized or derived concepts. The maximal syllable structure is very rarely attested in single morphemes, being more characteristic of word boundaries or complex derivational forms. Due to the prevalence of verbless constructions, there are few lexical items that function solely as verbs; instead, many concepts are expressed through nominals and adverbs within specific argument frames.
+
+### Lexical Items
+
+1.  /ã/ (function item, common)
+2.  /kʲo/ (function item, common)
+3.  /ɓa/ (content item, common)
+4.  /stʷũ/ (function item, common)
+5.  /pʷjelʲ/ (content item, common)
+6.  /t̪ik/ (content item, common)
+7.  /ʂa.t̪a/ (content item, common)
+8.  /i.tõ/ (content item, common)
+9.  /mẽ.lʲa/ (content item, common)
+10. /kʷa.ʂal/ (content item, common)
+11. /n̪a.pʲĩ/ (content item, common)
+12. /tʷo.n̪e/ (content item, common)
+13. /ʂlaŋk/ (content item, somewhat common)
+14. /pʲlan̪.tʷi/ (content item, somewhat common)
+15. /s̪kʷo.ɳa/ (content item, somewhat common)
+16. /ɓi.t̪ʷa.lo/ (content item, somewhat common)
+17. /a.kʷe.t̪a/ (content item, somewhat common)
+18. /stʷa.kʲleŋ/ (content item, somewhat common)
+19. /ɳa.ɭo.pʲe/ (content item, somewhat common)
+20. /ŋʷ.a.ʂt̪ʷla/ (content item, uncommon)
+21. /spʲla.t̪ẽ/ (content item, uncommon)
+22. /ɓo.lʲa.kʷi.n̪a/ (content item, uncommon)
+23. /s̪t̪ʷaŋ.kʷlaʂ/ (content item, rare)
+24. /ʈʷla.ŋʷe.s̪kʲo.pa/ (content item, rare)
+25. /kʷlaʂ.t̪ʷla/ (content item, somewhat common)

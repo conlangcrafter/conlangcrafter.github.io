@@ -1,0 +1,74 @@
+# Phonology
+
+## Consonants
+
+| | Labial | Dental | Alveolar | Retroflex | Palatal | Velar | Uvular | Glottal |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Nasal** | m | n̪ | n | ɳ | ɲ | ŋ | ɴ | |
+| **Plosive** | p b | t̪ d̪ | t d | ʈ ɖ | c ɟ | k g | q ɢ | ʔ |
+| **Fricative** | f v | θ ð | s z | ʂ ʐ | ç ʝ | x ɣ | χ ʁ | h |
+| **Approximant** | | | l | ɻ | j | w¹ | | |
+| **Trill** | | | r | | | | | |
+
+¹The velar approximant /w/ may only precede back vowels (/u, uː, o, oː, ɔ, ɔː/) or the low central vowel (/a, aː/). Other velar consonants are unrestricted.
+
+## Vowels
+
+| | Front | Central | Back |
+| :--- | :---: | :---: | :---: |
+| **High** | i iː | | u uː |
+| **High-Mid** | e eː | | o oː |
+| **Low-Mid** | ɛ ɛː | | ɔ ɔː |
+| **Low** | | a aː | |
+
+## Phonotactics
+
+The language has a highly restrictive phonotactic system built exclusively on a CV syllable structure. Words consist of one or more CV syllables, with no codas, consonant clusters, or vowel-initial syllables permitted. Further constraints apply:
+
+*   The glottal stop /ʔ/ and the glottal fricative /h/ may only appear word-initially. They can begin words of any class (function or content) and any length.
+*   The palatal series of consonants (/ɲ, c, ɟ, ç, ʝ, j/) may only precede front vowels (/i, iː, e, eː, ɛ, ɛː/).
+*   The uvular series of consonants (/ɴ, q, ɢ, χ, ʁ/) may only precede back vowels (/u, uː, o, oː, ɔ, ɔː/).
+*   Other consonants are unrestricted in which vowels they may precede, with the exception of /w/ (see note on consonant chart).
+
+This creates a system of partial consonant-vowel harmony, where the choice of consonant can limit the choice of the following vowel.
+
+## Suprasegmentals
+
+The language does not use tone. It features phonemic vowel length, with a short/long distinction for all seven vowel qualities, which is a primary means of lexical contrast. Word stress is also phonemic and unpredictable, meaning its placement on a syllable can change the meaning of a word (e.g., /'qɔla/ "star" vs. /qɔ'la/ "river"). Stress is realized as a combination of increased amplitude and slightly higher pitch on the stressed syllable's vowel.
+
+## Word Shapes and Lexical Statistics
+
+Due to the language's restrictive CV syllable structure, all words consist of a sequence of one or more consonant-vowel pairs. The shortest possible word is a single CV syllable, while longer words are simply concatenations of such syllables.
+
+The distribution of word lengths varies significantly between content and function words. Most function items, such as particles, pronouns, and adpositions, are monosyllabic (CV) or disyllabic (CVCV) and are extremely common in discourse. Many of the most basic and frequently used content words (nouns and adjectives) are also disyllabic.
+
+Longer words, those with three or four syllables, are very common and make up the bulk of the content lexicon. Words exceeding four syllables exist but are less frequent, often representing more specialized or complex concepts. The longest words in the language are rare and typically found in formal or technical registers. The phonotactic constraints on palatal and uvular consonants create distinct phonetic textures within words. This can result in words that are partially or fully 'harmonic' (e.g., a word containing only uvular consonants and back vowels). Such words are found across all frequency levels, including in common vocabulary.
+
+### Lexical Items
+
+*   /'hɛ/ (function item, common)
+*   /ʔaː/ (function item, common)
+*   /'n̪o/ (content item, common)
+*   /ma'na/ (content item, common)
+*   /'t̪iːd̪a/ (content item, common)
+*   /kɛ'lɛː/ (content item, common)
+*   /'qɔla/ (content item, common)
+*   /ʁu'ɢuː/ (content item, common)
+*   /'ʝeːɲi/ (content item, common)
+*   /çi'mi/ (content item, uncommon)
+*   /'ʔad̪ɔnɔ/ (content item, common)
+*   /ha'ʂeːbu/ (content item, common)
+*   /bi'naːso/ (content item, common)
+*   /pa'lɔːt̪a/ (content item, common)
+*   /mi'ɲɛːɟɛ/ (content item, common)
+*   /'χoːʁɔɖɔ/ (content item, common)
+*   /tara'ɻaː/ (content item, uncommon)
+*   /vɔ'd̪iːlɛ/ (content item, common)
+*   /'zoːnaga/ (content item, common)
+*   /wu'soː/ (content item, uncommon)
+*   /ʔi'loːnɛma/ (content item, common)
+*   /hɔ'miːd̪anɛ/ (content item, common)
+*   /fu'nɛːlɛko/ (content item, common)
+*   /d̪a'naːkɔʈa/ (content item, common)
+*   /kɔ'qɔːʁuːlɔ/ (content item, rare)
+*   /sɛ'ʝiːçɛjɛ/ (content item, rare)

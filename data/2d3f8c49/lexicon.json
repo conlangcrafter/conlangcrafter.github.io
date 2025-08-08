@@ -1,0 +1,1130 @@
+[
+  {
+    "word": "-dʒa",
+    "translation": "enclitic",
+    "pos": "SENS",
+    "notes": "Non-visual sensory evidential.",
+    "null": [
+      "",
+      "Attaches to verbs."
+    ]
+  },
+  {
+    "word": "-go",
+    "translation": "enclitic",
+    "pos": "INFER",
+    "notes": "Inferred evidential. Triggers evidential concord in perfective aspect.",
+    "null": [
+      "",
+      "Attaches to verbs."
+    ]
+  },
+  {
+    "word": "-lo",
+    "translation": "enclitic",
+    "pos": "REP",
+    "notes": "Reported (hearsay) evidential. Triggers evidential concord in perfective aspect.",
+    "null": [
+      "",
+      "Attaches to verbs."
+    ]
+  },
+  {
+    "word": "-tʃʰa",
+    "translation": "enclitic",
+    "pos": "VIS",
+    "notes": "Direct visual evidential.",
+    "null": [
+      "",
+      "Attaches to verbs."
+    ]
+  },
+  {
+    "word": "da˩",
+    "translation": "conjunction",
+    "pos": "or",
+    "notes": "Connects clauses or noun phrases. Follows typical function word phonology.",
+    "null": [
+      "",
+      "Common function item."
+    ]
+  },
+  {
+    "word": "do˩",
+    "translation": "conjunction",
+    "pos": "but",
+    "notes": "Connects clauses. Follows typical function word phonology.",
+    "null": [
+      "",
+      "Common function item."
+    ]
+  },
+  {
+    "word": "dʒá.dʒà",
+    "translation": "adverb",
+    "pos": "why",
+    "notes": "Wh-word for content questions.",
+    "null": [
+      "",
+      "Function word."
+    ]
+  },
+  {
+    "word": "dʒá.lò",
+    "translation": "noun",
+    "pos": "eye",
+    "notes": "Class I (Animate).",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "dʒá.tʰà",
+    "translation": "noun",
+    "pos": "name",
+    "notes": "Class III (Artificial/Inanimate).",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "dʒe˩",
+    "translation": "postposition",
+    "pos": "with; by means of",
+    "notes": "Marks instrumental case. Follows typical function word phonology.",
+    "null": [
+      "",
+      "Common function item."
+    ]
+  },
+  {
+    "word": "dʒi˥˩-dʒi˥˩.dʒà",
+    "translation": "adjective",
+    "pos": "very beautiful",
+    "notes": "Intensive form of 'beautiful'.",
+    "null": [
+      "From /dʒi˥˩.dʒà/ (beautiful).",
+      "Illustrates adjectival reduplication of the first syllable (CV and its tone). The reduplicated syllable /dʒi˥˩/ copies the falling tone of the original syllable, as per the grammar rule."
+    ]
+  },
+  {
+    "word": "dʒi˥˩.dʒà",
+    "translation": "adjective; noun",
+    "pos": "beautiful; woman",
+    "notes": "As adjective: intensive form is /dʒi˥˩-dʒi˥˩.dʒà/ (very beautiful). As noun: Class I (Animate). Example of zero-derivation.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "dʒí.dʒi˥˩.dʒà",
+    "translation": "noun",
+    "pos": "old woman",
+    "notes": "Compound of 'old' + 'woman'.",
+    "null": [
+      "From /dʒì/ (old",
+      " hypothetical) + /dʒi˥˩.dʒà/ (woman).",
+      "Illustrates compounding and tonal dominance. The modifier /dʒí/ takes the high tone /˥/ from the head's initial syllable /dʒi˥˩/."
+    ]
+  },
+  {
+    "word": "dʒí.βólɖʂ",
+    "translation": "noun",
+    "pos": "law; rule",
+    "notes": "Class III (Artificial/Inanimate).",
+    "null": [
+      "",
+      "Very rare content item. CCC coda (liquid-stop-fricative)."
+    ]
+  },
+  {
+    "word": "dʒó.dʒò",
+    "translation": "adjective",
+    "pos": "red",
+    "notes": "Default high tone. Changes to a monosyllabic form /dʒó˥˩/ for Class I nouns and /dʒó˩˥/ for Class II nouns.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "dʒu˩",
+    "translation": "postposition",
+    "pos": "ERG",
+    "notes": "Ergative case marker for A in imperfective aspect. Replaces NOM in perfective with -go or -lo evidentials.",
+    "null": [
+      "",
+      "Common function item. Level tone, simple CV structure."
+    ]
+  },
+  {
+    "word": "dʒũː˥˩.ʁã̀",
+    "translation": "noun; verb",
+    "pos": "stone; to stone",
+    "notes": "As noun: Class II (Natural/Inanimate). As verb: 'to stone'. Example of zero-derivation. Triggers nasal harmony (long nasal vowel), makes other vowels short and nasal.",
+    "null": [
+      "",
+      "Uncommon content item. Nasal harmony."
+    ]
+  },
+  {
+    "word": "dʒũː˩˥.lã́",
+    "translation": "noun",
+    "pos": "thought; idea",
+    "notes": "Class III (Artificial/Inanimate). Triggers nasal harmony (long nasal vowel in initial syllable), makes other vowels short and nasal.",
+    "null": [
+      "",
+      "Uncommon content item. Nasal harmony."
+    ]
+  },
+  {
+    "word": "dʒṹ.dʒã̀",
+    "translation": "noun",
+    "pos": "sadness",
+    "notes": "Class III (Artificial/Inanimate). Triggers nasal harmony (short nasal vowel).",
+    "null": [
+      "",
+      "Common content item. Nasal harmony."
+    ]
+  },
+  {
+    "word": "dʒṹ.lã̀",
+    "translation": "verb",
+    "pos": "to think",
+    "notes": "Triggers nasal harmony (short nasal vowel).",
+    "null": [
+      "From /dʒũː˩˥.lã́/ (thought) via derivation involving vowel shortening and tonal change.",
+      "Common content item. Nasal harmony."
+    ]
+  },
+  {
+    "word": "glaː˥˩",
+    "translation": "verb",
+    "pos": "to drink",
+    "notes": "",
+    "null": [
+      "",
+      "Rare content item. Monosyllabic with complex onset and tone melody on long vowel."
+    ]
+  },
+  {
+    "word": "goː˩˥",
+    "translation": "particle",
+    "pos": "PERF",
+    "notes": "Perfective aspect marker. Also used as a pronoun 'he/she/it'.",
+    "null": [
+      "",
+      "Function word. Used as the 3rd person pronoun."
+    ]
+  },
+  {
+    "word": "gó-gó.là",
+    "translation": "verb",
+    "pos": "to wander; to roam",
+    "notes": "Iterative form of 'to walk'.",
+    "null": [
+      "From /gó.là/ (to walk).",
+      "Illustrates verbal reduplication."
+    ]
+  },
+  {
+    "word": "gó.là",
+    "translation": "verb",
+    "pos": "to walk",
+    "notes": "Iterative form is /gó-gó.là/ (to wander).",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "gó.lò",
+    "translation": "adverb",
+    "pos": "when",
+    "notes": "Wh-word for content questions.",
+    "null": [
+      "",
+      "Function word."
+    ]
+  },
+  {
+    "word": "gó.tʃʰà",
+    "translation": "verb",
+    "pos": "to give",
+    "notes": "",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "gɔ́.tʰɔ̀l",
+    "translation": "noun",
+    "pos": "shield",
+    "notes": "Class III (Artificial/Inanimate).",
+    "null": [
+      "Rare content item. Coda cluster is stop-fricative."
+    ]
+  },
+  {
+    "word": "hplũː˥˩.tã̀",
+    "translation": "verb",
+    "pos": "to create",
+    "notes": "Triggers nasal harmony (long nasal vowel in initial syllable), makes other vowels short and nasal.",
+    "null": [
+      "",
+      "Very rare content item. CCC onset and nasal harmony."
+    ]
+  },
+  {
+    "word": "hʈaː˥˩",
+    "translation": "verb",
+    "pos": "to see",
+    "notes": "",
+    "null": [
+      "",
+      "Rare content item. Complex onset."
+    ]
+  },
+  {
+    "word": "ká",
+    "translation": "postposition",
+    "pos": "NOM",
+    "notes": "Nominative case marker for A and S in perfective aspect (unless evidential concord applies).",
+    "null": [
+      "",
+      "Common function item. Level tone, simple CV structure."
+    ]
+  },
+  {
+    "word": "ki",
+    "translation": "postposition",
+    "pos": "ACC",
+    "notes": "Accusative case marker for P in perfective aspect.",
+    "null": [
+      "",
+      "Function word."
+    ]
+  },
+  {
+    "word": "kʰaː˥˩.pʰì",
+    "translation": "numeral",
+    "pos": "two",
+    "notes": "Default tone is high /kʰáː.pʰì/. Tone changes based on noun class agreement.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "kʰá.tʰà",
+    "translation": "noun",
+    "pos": "sky; weather",
+    "notes": "Class II (Natural/Inanimate).",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "kʰí.χaʁiː˩˥",
+    "translation": "noun",
+    "pos": "main channel; major river",
+    "notes": "Compound of 'big' + 'river'.",
+    "null": [
+      "From /kʰí/ (big) + /χá.ʁiː˩˥/ (river).",
+      "Illustrates compounding and tonal dominance. The modifier /kʰí/ retains its high tone, matching the high tone /˥/ from the head's initial syllable /χá/."
+    ]
+  },
+  {
+    "word": "kʰí",
+    "translation": "adjective",
+    "pos": "big",
+    "notes": "Default high tone. Changes to /kʰí˥˩/ for Class I nouns and /kʰí˩˥/ for Class II nouns. Used in compounding.",
+    "null": [
+      "",
+      "Common content item. Has an aspirated stop, which is rare for function words."
+    ]
+  },
+  {
+    "word": "kʰí.lòk",
+    "translation": "noun",
+    "pos": "bridge",
+    "notes": "Class III (Artificial/Inanimate).",
+    "null": [
+      "",
+      "Uncommon content item with a CVC final syllable."
+    ]
+  },
+  {
+    "word": "kʰlá.tʰà",
+    "translation": "verb",
+    "pos": "to break",
+    "notes": "Features a CC (stop-liquid) onset.",
+    "null": [
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "kʰó.dʒà",
+    "translation": "noun",
+    "pos": "head",
+    "notes": "Class I (Animate).",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "lá.qʰà",
+    "translation": "noun; verb",
+    "pos": "light; to shine",
+    "notes": "As noun: Class II (Natural/Inanimate). As verb: 'to shine'.",
+    "null": [
+      "",
+      "Example of zero-derivation."
+    ]
+  },
+  {
+    "word": "ló.βà",
+    "translation": "verb",
+    "pos": "to speak",
+    "notes": "",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "miː˩˥",
+    "translation": "noun",
+    "pos": "song",
+    "notes": "Class III (Artificial/Inanimate). Monosyllabic with a tone melody on a long vowel.",
+    "null": [
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "mí.lò",
+    "translation": "noun",
+    "pos": "mother",
+    "notes": "Class I (Animate).",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "mã́.qã̀",
+    "translation": "verb",
+    "pos": "to want",
+    "notes": "Triggers nasal harmony (short nasal vowel).",
+    "null": [
+      "",
+      "Common content item. Nasal harmony."
+    ]
+  },
+  {
+    "word": "mĩ́.tã̀",
+    "translation": "adverb",
+    "pos": "where",
+    "notes": "Wh-word for content questions. Triggers nasal harmony.",
+    "null": [
+      "",
+      "Common content item. Nasal harmony."
+    ]
+  },
+  {
+    "word": "mũː˥˩.la",
+    "translation": "verb",
+    "pos": "to sing",
+    "notes": "Triggers nasal harmony (long nasal vowel in initial syllable), making other vowels short and nasal in affixed forms (e.g., /mũː˥˩.lã-gõ/).",
+    "null": [
+      "",
+      "Uncommon content item. Nasal harmony."
+    ]
+  },
+  {
+    "word": "ni˩",
+    "translation": "postposition",
+    "pos": "from",
+    "notes": "Marks ablative case.",
+    "null": [
+      "",
+      "Common function item."
+    ]
+  },
+  {
+    "word": "nṍ.kõ̀",
+    "translation": "noun",
+    "pos": "heart",
+    "notes": "Class I (Animate). Triggers nasal harmony (short nasal vowel).",
+    "null": [
+      "",
+      "Common content item. Nasal harmony."
+    ]
+  },
+  {
+    "word": "pʰá-pʰá.pʰà",
+    "translation": "verb",
+    "pos": "to hop; to keep jumping",
+    "notes": "Iterative form of 'to jump'.",
+    "null": [
+      "From /pʰá.pʰà/ (to jump).",
+      "Illustrates verbal reduplication."
+    ]
+  },
+  {
+    "word": "pʰá.lò",
+    "translation": "noun",
+    "pos": "child",
+    "notes": "Class I (Animate).",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "pʰá.pʰà",
+    "translation": "verb",
+    "pos": "to jump",
+    "notes": "Iterative form is /pʰá-pʰá.pʰà/ (to hop).",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "pʰá.tʃì",
+    "translation": "noun",
+    "pos": "father",
+    "notes": "Class I (Animate).",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "pʰá.tʃì-mí.lò",
+    "translation": "noun",
+    "pos": "parents",
+    "notes": "Compound of 'father' + 'mother'.",
+    "null": [
+      "From /pʰá.tʃì/ (father) + /mí.lò/ (mother).",
+      "Illustrates Noun-Noun compounding and tonal dominance."
+    ]
+  },
+  {
+    "word": "pʰám",
+    "translation": "noun",
+    "pos": "hand",
+    "notes": "Class I (Animate).",
+    "null": [
+      "Rare content item. Monosyllabic with coda."
+    ]
+  },
+  {
+    "word": "pʰí.lá.qʰà.βò",
+    "translation": "noun",
+    "pos": "dog",
+    "notes": "Class I (Animate).",
+    "null": [
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "pʰí.láɭʈθ",
+    "translation": "noun",
+    "pos": "promise",
+    "notes": "Class III (Artificial/Inanimate). Features a CCC (liquid-stop-fricative) coda.",
+    "null": [
+      "",
+      "Very rare content item."
+    ]
+  },
+  {
+    "word": "pʰí.tʃà",
+    "translation": "verb",
+    "pos": "to run",
+    "notes": "",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "pʰí.tʰà",
+    "translation": "noun",
+    "pos": "tree; wood",
+    "notes": "Class II (Natural/Inanimate).",
+    "null": [
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "qʰa˩",
+    "translation": "particle",
+    "pos": "Q",
+    "notes": "Polar (yes/no) question particle. Sentence-final.",
+    "null": [
+      "",
+      "Function word."
+    ]
+  },
+  {
+    "word": "qʰá.là",
+    "translation": "noun",
+    "pos": "sun",
+    "notes": "Class II (Natural/Inanimate).",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "kʰí.tʰá.pʰà",
+    "translation": "noun",
+    "pos": "bonfire",
+    "notes": "Compound of 'big' + 'fire'.",
+    "null": [
+      "From /kʰí/ (big) + /tʰá.pʰà/ (fire).",
+      "Illustrates Adjective-Noun compounding. The modifier /kʰí/ takes the high tone from the head's first syllable /tʰá/."
+    ]
+  },
+  {
+    "word": "qʰá.tʰà",
+    "translation": "verb",
+    "pos": "to go",
+    "notes": "",
+    "null": [
+      "",
+      "Common content item. Could be confused with /kʰá.tʰà/ (sky) if tones are not distinguished."
+    ]
+  },
+  {
+    "word": "kʰá.βí.tʃà",
+    "translation": "noun",
+    "pos": "rain",
+    "notes": "Compound of 'sky' + 'water'.",
+    "null": [
+      "From /kʰá.tʰà/ (sky) + /βí.tʃà/ (water).",
+      "Illustrates Noun-Noun compounding. The modifier is reduced to its first syllable /kʰá/."
+    ]
+  },
+  {
+    "word": "qʰá.ʂʈá.ló",
+    "translation": "noun",
+    "pos": "sunbeam",
+    "notes": "Compound of 'sun' + 'path'.",
+    "null": [
+      "From /qʰá.là/ (sun) + /ʂʈá.ló/ (path).",
+      "Illustrates Noun-Noun compounding. The modifier is reduced to its first syllable /qʰá/."
+    ]
+  },
+  {
+    "word": "qʰá.βò",
+    "translation": "noun",
+    "pos": "moon",
+    "notes": "Class II (Natural/Inanimate).",
+    "null": [
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "qʰá.βò-qʰá.βò",
+    "translation": "noun",
+    "pos": "moonlight",
+    "notes": "Compound of 'moon' + 'moon' (hypothetical 'light' meaning).",
+    "null": [
+      "From /qʰá.βò/ (moon) + /qʰá.βò/ (moon).",
+      "Illustrates compounding via reduplication to form a new concept."
+    ]
+  },
+  {
+    "word": "qʰám",
+    "translation": "noun",
+    "pos": "food",
+    "notes": "Class II (Natural/Inanimate).",
+    "null": [
+      "",
+      "Uncommon content item. Monosyllabic with coda."
+    ]
+  },
+  {
+    "word": "qʰí.láɭʈ",
+    "translation": "noun",
+    "pos": "spear",
+    "notes": "Class III (Artificial/Inanimate).",
+    "null": [
+      "",
+      "Rare content item. Complex coda."
+    ]
+  },
+  {
+    "word": "qʰó.dʒì",
+    "translation": "noun",
+    "pos": "blood",
+    "notes": "Class II (Natural/Inanimate).",
+    "null": [
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "qʰó.ʂú.ʈà",
+    "translation": "noun",
+    "pos": "raw meat; bloody meat",
+    "notes": "Compound of 'blood' + 'meat'.",
+    "null": [
+      "From /qʰó.dʒì/ (blood) + /ʂú.ʈà/ (meat).",
+      "Illustrates Noun-Noun compounding. The modifier is reduced to its first syllable /qʰó/."
+    ]
+  },
+  {
+    "word": "tʃí.là",
+    "translation": "noun",
+    "pos": "bird",
+    "notes": "Class I (Animate).",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "tʃʰa˥˩˥.ɭa.gò",
+    "translation": "verb",
+    "pos": "to eat",
+    "notes": "Takes evidential enclitics.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "tʃʰá.ŋì",
+    "translation": "noun",
+    "pos": "mouth",
+    "notes": "Class I (Animate).",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "tʃʰálʈ",
+    "translation": "noun",
+    "pos": "key",
+    "notes": "Class III (Artificial/Inanimate). Features a CC (liquid-stop) coda.",
+    "null": [
+      "",
+      "Rare content item. Monosyllabic."
+    ]
+  },
+  {
+    "word": "tʃʰí.là",
+    "translation": "adjective",
+    "pos": "sharp",
+    "notes": "Default high tone. Changes to /tʃʰí˥˩/ for Class I nouns and /tʃʰí˩˥/ for Class II nouns. Intensive form is /tʃʰí-tʃʰí.là/.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "tʃʰó.kʰà",
+    "translation": "noun",
+    "pos": "book",
+    "notes": "Class III (Artificial/Inanimate).",
+    "null": [
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "tʃʰã́",
+    "translation": "noun",
+    "pos": "soup",
+    "notes": "Class II (Natural/Inanimate).",
+    "null": [
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "tʃʰã́.lṍkχ.mĩ̀",
+    "translation": "noun",
+    "pos": "secret",
+    "notes": "Triggers nasal harmony (short nasal vowel).",
+    "null": [
+      "",
+      "Very rare content item. Nasal harmony. CCC coda."
+    ]
+  },
+  {
+    "word": "tʰá-tʰá.lò",
+    "translation": "verb",
+    "pos": "to chatter; to keep talking",
+    "notes": "Iterative form of 'to say'.",
+    "null": [
+      "From /tʰá.lò/ (to say).",
+      "Illustrates verbal reduplication."
+    ]
+  },
+  {
+    "word": "tʰá.kʰà",
+    "translation": "adjective",
+    "pos": "new",
+    "notes": "Default high tone. Changes to /tʰá˥˩/ for Class I nouns and /tʰá˩˥/ for Class II nouns.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "tʰá.là",
+    "translation": "pronoun",
+    "pos": "we (inclusive)",
+    "notes": "",
+    "null": [
+      "",
+      "Pronoun; common function item."
+    ]
+  },
+  {
+    "word": "tʰá.lò",
+    "translation": "verb",
+    "pos": "to say",
+    "notes": "",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "tʰá.míŋkθ",
+    "translation": "noun",
+    "pos": "truth",
+    "notes": "Class III (Artificial/Inanimate).",
+    "null": [
+      "Very rare content item. CCC coda."
+    ]
+  },
+  {
+    "word": "tʰá.pʰà",
+    "translation": "noun",
+    "pos": "fire",
+    "notes": "Class II (Natural/Inanimate).",
+    "null": [
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "tʰá.pʰám",
+    "translation": "noun",
+    "pos": "torch",
+    "notes": "Compound of 'fire' + 'hand'.",
+    "null": [
+      "From /tʰá.pʰà/ (fire) + /pʰám/ (hand).",
+      "Illustrates Noun-Noun compounding. The modifier is reduced to its first syllable /tʰá/."
+    ]
+  },
+  {
+    "word": "tʰáʔ",
+    "translation": "particle",
+    "pos": "IMPERF",
+    "notes": "Imperfective aspect marker.",
+    "null": [
+      "",
+      "Function word."
+    ]
+  },
+  {
+    "word": "tʰé",
+    "translation": "postposition",
+    "pos": "to; for",
+    "notes": "Marks dative or allative case.",
+    "null": [
+      "",
+      "Common function item. Simple CV, level tone."
+    ]
+  },
+  {
+    "word": "tʰoː˩˥",
+    "translation": "verb",
+    "pos": "to know",
+    "notes": "",
+    "null": [
+      "",
+      "Uncommon content item. Monosyllabic with tone melody."
+    ]
+  },
+  {
+    "word": "tʰó",
+    "translation": "conjunction",
+    "pos": "and",
+    "notes": "Connects clauses or noun phrases. Follows typical function word phonology.",
+    "null": [
+      "",
+      "Common function item."
+    ]
+  },
+  {
+    "word": "tʰó.kʰà",
+    "translation": "noun",
+    "pos": "wind",
+    "notes": "Class II (Natural/Inanimate).",
+    "null": [
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "tʰã́.nã̀",
+    "translation": "pronoun",
+    "pos": "what",
+    "notes": "Wh-word for content questions. Triggers nasal harmony.",
+    "null": [
+      "",
+      "Common content item. Nasal harmony."
+    ]
+  },
+  {
+    "word": "ŋã́.dʒũ̀.pʰĩ́",
+    "translation": "noun",
+    "pos": "hunter",
+    "notes": "Class I (Animate). Triggers nasal harmony.",
+    "null": [
+      "",
+      "Common content item. Nasal harmony."
+    ]
+  },
+  {
+    "word": "ŋṍ.qõ̀",
+    "translation": "noun",
+    "pos": "fish",
+    "notes": "Class I (Animate). Triggers nasal harmony.",
+    "null": [
+      "",
+      "Common content item. Nasal harmony."
+    ]
+  },
+  {
+    "word": "ɸkʰɭí.tʃà",
+    "translation": "verb",
+    "pos": "to build",
+    "notes": "",
+    "null": [
+      "",
+      "Very rare content item. CCC onset."
+    ]
+  },
+  {
+    "word": "ʂá.dʒà",
+    "translation": "adjective",
+    "pos": "good",
+    "notes": "Default high tone. Changes to /ʂá˥˩/ for Class I nouns and /ʂá˩˥/ for Class II nouns.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "ʂá.tʃʰà.má",
+    "translation": "noun",
+    "pos": "story; tale",
+    "notes": "Class III (Artificial/Inanimate).",
+    "null": [
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "ʂlɔ́.βà",
+    "translation": "verb",
+    "pos": "to sleep",
+    "notes": "Onset is fricative-liquid.",
+    "null": [
+      "",
+      "Uncommon content item. Complex onset."
+    ]
+  },
+  {
+    "word": "ʂó.ʂò",
+    "translation": "adjective",
+    "pos": "small",
+    "notes": "Default high tone. Changes to /ʂó˥˩/ for Class I nouns and /ʂó˩˥/ for Class II nouns.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "ʂú.tʃʰã́",
+    "translation": "noun",
+    "pos": "broth; stew",
+    "notes": "Compound of 'meat' + 'soup'.",
+    "null": [
+      "From /ʂú.ʈà/ (meat) + /tʃʰã́/ (soup).",
+      "The modifier is reduced to its first syllable /ʂú/."
+    ]
+  },
+  {
+    "word": "ʂú.ʈà",
+    "translation": "noun",
+    "pos": "meat",
+    "notes": "Class II (Natural/Inanimate). Used in compounding.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "ʂʈá.ló",
+    "translation": "noun",
+    "pos": "path",
+    "notes": "Class II (Natural/Inanimate).",
+    "null": [
+      "",
+      "Rare content item. Complex onset."
+    ]
+  },
+  {
+    "word": "ʈá.tʃò.lok",
+    "translation": "noun",
+    "pos": "house",
+    "notes": "Class III (Artificial/Inanimate).",
+    "null": [
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "ʈʰí.láŋkθ",
+    "translation": "noun",
+    "pos": "weapon",
+    "notes": "Class III (Artificial/Inanimate).",
+    "null": [
+      "",
+      "Rare content item. Complex coda (stop-fricative)."
+    ]
+  },
+  {
+    "word": "ʔí.tʃʰà",
+    "translation": "particle",
+    "pos": "not",
+    "notes": "Negation particle. Placed before aspect particle or verb.",
+    "null": [
+      "",
+      "Function word."
+    ]
+  },
+  {
+    "word": "βí.tʃà",
+    "translation": "noun",
+    "pos": "water",
+    "notes": "Class II (Natural/Inanimate).",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "βó.láɭʈθ",
+    "translation": "noun",
+    "pos": "fortress",
+    "notes": "Class III (Artificial/Inanimate).",
+    "null": [
+      "",
+      "Very rare content item. CCC coda."
+    ]
+  },
+  {
+    "word": "βó.pʰà",
+    "translation": "verb",
+    "pos": "to make; to do",
+    "notes": "",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "βó.tà",
+    "translation": "postposition",
+    "pos": "inside",
+    "notes": "Marks location.",
+    "null": [
+      "",
+      "Common function item."
+    ]
+  },
+  {
+    "word": "θá.ʁáqχ",
+    "translation": "noun",
+    "pos": "mountain",
+    "notes": "Class II (Natural/Inanimate).",
+    "null": [
+      "",
+      "Rare content item. Complex coda."
+    ]
+  },
+  {
+    "word": "θkʰlá.tʰà",
+    "translation": "verb",
+    "pos": "to carve",
+    "notes": "Features a CCC (fricative-stop-liquid) onset.",
+    "null": [
+      "",
+      "Very rare content item."
+    ]
+  },
+  {
+    "word": "θpʰaː˥˩.ʁà",
+    "translation": "verb",
+    "pos": "to hunt",
+    "notes": "",
+    "null": [
+      "",
+      "Very rare content item. CCC onset."
+    ]
+  },
+  {
+    "word": "χá.ʁiː˩˥",
+    "translation": "noun",
+    "pos": "river",
+    "notes": "Class II (Natural/Inanimate). Used in compounding.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "χgʁũː˩˥.pã̀.tã̀",
+    "translation": "verb",
+    "pos": "to whisper",
+    "notes": "Triggers nasal harmony (long nasal vowel in initial syllable), makes other vowels short and nasal.",
+    "null": [
+      "",
+      "Very rare content item. Nasal harmony. CCC onset."
+    ]
+  },
+  {
+    "word": "χlã́.tã̀",
+    "translation": "verb",
+    "pos": "to dream",
+    "notes": "Triggers nasal harmony. Onset cluster is fricative-liquid.",
+    "null": [
+      "",
+      "Rare content item. Nasal harmony."
+    ]
+  }
+]

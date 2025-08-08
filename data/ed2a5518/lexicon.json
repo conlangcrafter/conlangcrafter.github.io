@@ -1,0 +1,1176 @@
+[
+  {
+    "word": "-je",
+    "translation": "mood suffix",
+    "pos": "interrogative",
+    "notes": "",
+    "null": [
+      "Verb suffix",
+      " Slot 3."
+    ]
+  },
+  {
+    "word": "-ki",
+    "translation": "aspect suffix",
+    "pos": "inceptive",
+    "notes": "",
+    "null": [
+      "Verb suffix",
+      " Slot 2."
+    ]
+  },
+  {
+    "word": "-kʰa",
+    "translation": "case suffix",
+    "pos": "instrumental",
+    "notes": "with",
+    "null": [
+      "Marks the instrument used for an action. Homophonous with the direct/visual evidential suffix -kʰa.",
+      ""
+    ]
+  },
+  {
+    "word": "-kʰa",
+    "translation": "evidential suffix",
+    "pos": "direct/visual",
+    "notes": "",
+    "null": [
+      "Verb suffix, Slot 4. Homophonous with the instrumental case suffix -kʰa.",
+      ""
+    ]
+  },
+  {
+    "word": "-kʰo",
+    "translation": "portmanteau suffix",
+    "pos": "instrumental-visual",
+    "notes": "Used on verbs with dropped objects to express instrumental case and visual evidence simultaneously.",
+    "null": [
+      "Replaces mood and evidential suffixes."
+    ]
+  },
+  {
+    "word": "-la",
+    "translation": "evidential suffix",
+    "pos": "inferential",
+    "notes": "",
+    "null": [
+      "Verb suffix",
+      " Slot 4."
+    ]
+  },
+  {
+    "word": "-laj",
+    "translation": "portmanteau suffix",
+    "pos": "locative-inferential",
+    "notes": "Used on verbs with dropped objects to express locative case and inferential evidence simultaneously.",
+    "null": [
+      "Replaces mood and evidential suffixes."
+    ]
+  },
+  {
+    "word": "-le",
+    "translation": "tense suffix",
+    "pos": "future",
+    "notes": "",
+    "null": [
+      "Verb suffix",
+      " Slot 1."
+    ]
+  },
+  {
+    "word": "-li",
+    "translation": "case suffix",
+    "pos": "locative",
+    "notes": "at, in, on",
+    "null": [
+      "Marks static location.",
+      ""
+    ]
+  },
+  {
+    "word": "-mi",
+    "translation": "tense suffix",
+    "pos": "past",
+    "notes": "",
+    "null": [
+      "Verb suffix",
+      " Slot 1."
+    ]
+  },
+  {
+    "word": "-na",
+    "translation": "aspect suffix",
+    "pos": "imperfective",
+    "notes": "",
+    "null": [
+      "Verb suffix, Slot 2. Homophonous with the dative case suffix -na.",
+      ""
+    ]
+  },
+  {
+    "word": "-na",
+    "translation": "case suffix",
+    "pos": "dative",
+    "notes": "",
+    "null": [
+      "Marks recipients of actions (e.g.",
+      " giving) and beneficiaries for whom an action is performed. Homophonous with the imperfective aspect suffix -na.",
+      ""
+    ]
+  },
+  {
+    "word": "-ne",
+    "translation": "number suffix",
+    "pos": "plural",
+    "notes": "",
+    "null": [
+      "Placed between the noun stem and case suffix.",
+      ""
+    ]
+  },
+  {
+    "word": "-nɔː",
+    "translation": "portmanteau suffix",
+    "pos": "malefactive-reported",
+    "notes": "Used on verbs with dropped objects to express malefactive case and reported evidence simultaneously.",
+    "null": [
+      "Replaces mood and evidential suffixes."
+    ]
+  },
+  {
+    "word": "-o",
+    "translation": "tense suffix",
+    "pos": "present",
+    "notes": "",
+    "null": [
+      "Verb suffix",
+      " Slot 1."
+    ]
+  },
+  {
+    "word": "-pʰá",
+    "translation": "mood suffix",
+    "pos": "indicative",
+    "notes": "",
+    "null": [
+      "Verb suffix",
+      " Slot 3."
+    ]
+  },
+  {
+    "word": "-so",
+    "translation": "case suffix",
+    "pos": "genitive",
+    "notes": "",
+    "null": [
+      "Marks a possessor. Homophonous with the reported evidential suffix -so.",
+      ""
+    ]
+  },
+  {
+    "word": "-so",
+    "translation": "evidential suffix",
+    "pos": "reported",
+    "notes": "",
+    "null": [
+      "Verb suffix, Slot 4. Homophonous with the genitive case suffix -so.",
+      ""
+    ]
+  },
+  {
+    "word": "-sta",
+    "translation": "portmanteau suffix",
+    "pos": "auto-benefactive-inferential",
+    "notes": "Used on verbs with dropped objects to express that the action is performed for the subject's own benefit, and this is inferred by the speaker.",
+    "null": [
+      "Replaces mood and evidential suffixes."
+    ]
+  },
+  {
+    "word": "-ta",
+    "translation": "case suffix",
+    "pos": "ablative",
+    "notes": "from",
+    "null": [
+      "Marks movement away from a location.",
+      ""
+    ]
+  },
+  {
+    "word": "-to",
+    "translation": "mood suffix",
+    "pos": "imperative",
+    "notes": "",
+    "null": [
+      "Verb suffix",
+      " Slot 3."
+    ]
+  },
+  {
+    "word": "-tɛ",
+    "translation": "case suffix",
+    "pos": "ergative",
+    "notes": "",
+    "null": [
+      "Marks the agent (A) of a transitive verb. Not used on pronouns.",
+      ""
+    ]
+  },
+  {
+    "word": "-tʰu",
+    "translation": "aspect suffix",
+    "pos": "perfective",
+    "notes": "",
+    "null": [
+      "Verb suffix",
+      " Slot 2."
+    ]
+  },
+  {
+    "word": "i.lɛ̀.mi",
+    "translation": "verb",
+    "pos": "to know",
+    "notes": "Transitive; can take a noun phrase or a clausal complement introduced by /pʰá/. When taking a clausal complement, the mood and evidentiality of the complement's verb reflect the original speaker's perspective on that event, not necessarily the subject's. When inflected with the direct/visual evidential -kʰa, it implies knowing based on direct, unambiguous evidence (e.g., seeing a written fact or witnessing the proof of something).",
+    "null": [
+      "Common."
+    ]
+  },
+  {
+    "word": "i.ná.ħu.tɛ",
+    "translation": "verb",
+    "pos": "to forget",
+    "notes": "Content item.",
+    "null": [
+      "",
+      "Rare. Four syllables. Contains a pharyngeal consonant."
+    ]
+  },
+  {
+    "word": "i.sɔ̂ː",
+    "translation": "noun",
+    "pos": "dog",
+    "notes": "Content item. Animate.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "jǒː",
+    "translation": "noun",
+    "pos": "teacher",
+    "notes": "Content item.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "kló.sa",
+    "translation": "noun",
+    "pos": "wolf",
+    "notes": "Content item. Animate.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "króːmp",
+    "translation": "noun",
+    "pos": "heart",
+    "notes": "Content item. Inanimate. Monosyllabic and complex (CCVːCC).",
+    "null": [
+      "",
+      "Uncommon."
+    ]
+  },
+  {
+    "word": "kɔ́",
+    "translation": "pronoun",
+    "pos": "I (1sg)",
+    "notes": "Used for S/A/O. Genitive is /kɔ́.so/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kɛ́",
+    "translation": "topic marker",
+    "pos": "topic marker",
+    "notes": "Follows a fronted",
+    "null": [
+      " topicalized object.",
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kɛ́.no",
+    "translation": "adverb",
+    "pos": "now",
+    "notes": "",
+    "null": [
+      "Time adverbial.",
+      "Common."
+    ]
+  },
+  {
+    "word": "kʰa.lí.so",
+    "translation": "conjunction",
+    "pos": "but",
+    "notes": "Introduces a contrasting clause.",
+    "null": [
+      "",
+      "A common trisyllabic conjunction."
+    ]
+  },
+  {
+    "word": "kʰa.pʰá.lo",
+    "translation": "adjective",
+    "pos": "beautiful",
+    "notes": "Content item. Follows the noun it modifies and agrees in case.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "kʰa.tʰá",
+    "translation": "postposition",
+    "pos": "under",
+    "notes": "Takes an inanimate object.",
+    "null": [
+      "",
+      "Common function item."
+    ]
+  },
+  {
+    "word": "kʰà.mi",
+    "translation": "noun",
+    "pos": "path, way",
+    "notes": "Derived from /kʰá.mi/ 'to walk' by tonal derivation (High > Low).",
+    "null": [
+      "Instrument/Result Noun."
+    ]
+  },
+  {
+    "word": "kʰá.mi",
+    "translation": "verb",
+    "pos": "to walk",
+    "notes": "Content item. High tone verb root.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "kʰǎ.mi",
+    "translation": "noun",
+    "pos": "walker",
+    "notes": "Derived from /kʰá.mi/ 'to walk' by tonal derivation (High > Rising). Inflects for case and number like a regular noun.",
+    "null": [
+      "Agent Noun."
+    ]
+  },
+  {
+    "word": "kʰǎ.mi-ne-tɛ",
+    "translation": "noun",
+    "pos": "walkers (ergative)",
+    "notes": "",
+    "null": [
+      "Example of noun inflection for /kʰǎ.mi/ 'walker'.",
+      ""
+    ]
+  },
+  {
+    "word": "kʰá.mi-o-ki-kʰo",
+    "translation": "verb",
+    "pos": "is beginning to walk with it (I see it)",
+    "notes": "",
+    "null": [
+      "Example of verb inflection with a portmanteau suffix: walk-PRS-INCEP-INSTR.VIS.",
+      ""
+    ]
+  },
+  {
+    "word": "kʰǎ",
+    "translation": "wh-word",
+    "pos": "where",
+    "notes": "",
+    "null": [
+      "Adverbial wh-word."
+    ]
+  },
+  {
+    "word": "kʰé.no",
+    "translation": "noun",
+    "pos": "tree",
+    "notes": "Content item. Inanimate.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "kʰle.má",
+    "translation": "verb",
+    "pos": "to sing",
+    "notes": "Content item.",
+    "null": [
+      "",
+      "Common. Note accent shift from the related noun /kʰlè.ma/."
+    ]
+  },
+  {
+    "word": "kʰlè.ma",
+    "translation": "noun",
+    "pos": "music",
+    "notes": "Content item.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "kʰlo.pʰá.tʰa.no",
+    "translation": "noun",
+    "pos": "king/queen",
+    "notes": "Content item. Animate. Four syllables.",
+    "null": [
+      "",
+      "Rare."
+    ]
+  },
+  {
+    "word": "kʰlúː",
+    "translation": "noun",
+    "pos": "fire",
+    "notes": "Content item. Monosyllabic and complex (CCVː).",
+    "null": [
+      "",
+      "Uncommon."
+    ]
+  },
+  {
+    "word": "kʰo.nɛ̂",
+    "translation": "verb",
+    "pos": "to give",
+    "notes": "Content item.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "kʰwéːps",
+    "translation": "verb",
+    "pos": "to write",
+    "notes": "Content item. Monosyllabic and complex (CCVːC).",
+    "null": [
+      "",
+      "Uncommon."
+    ]
+  },
+  {
+    "word": "kʰwɛ̀ːps",
+    "translation": "noun",
+    "pos": "pen, writing tool",
+    "notes": "Derived from /kʰwéːps/ 'to write' by tonal derivation (High > Low).",
+    "null": [
+      "Instrument Noun."
+    ]
+  },
+  {
+    "word": "kʰɛ́.tʰa",
+    "translation": "pronoun stem",
+    "pos": "it (3sg inanimate",
+    "notes": " plural stem)",
+    "null": [
+      "Irregular plural stem for /sà/ 'it'. The full plural form is /kʰɛ́.tʰa-ne/. Genitive is /kʰɛ́.tʰa-ne-so/.",
+      "Irregular plural."
+    ]
+  },
+  {
+    "word": "kʰɛ́.tʰa",
+    "translation": "preposition",
+    "pos": "to",
+    "notes": "Takes an animate object. Marks a destination/recipient.",
+    "null": [
+      "",
+      "Common function item."
+    ]
+  },
+  {
+    "word": "lɛ.kʰá",
+    "translation": "noun",
+    "pos": "sun",
+    "notes": "Content item.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "lɛ̆",
+    "translation": "wh-word",
+    "pos": "why",
+    "notes": "",
+    "null": [
+      "Adverbial wh-word."
+    ]
+  },
+  {
+    "word": "ma.lɛ́",
+    "translation": "noun",
+    "pos": "child",
+    "notes": "Content item.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "má",
+    "translation": "wh-word",
+    "pos": "who, what (animate)",
+    "notes": "Inflects for case like a noun.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "mù.so",
+    "translation": "postposition",
+    "pos": "inside",
+    "notes": "Takes an inanimate object.",
+    "null": [
+      "",
+      "Common function item."
+    ]
+  },
+  {
+    "word": "mɔ.nɛ̂",
+    "translation": "verb",
+    "pos": "to want",
+    "notes": "Content item.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "mɪ.tʰĕ.la",
+    "translation": "noun",
+    "pos": "cat",
+    "notes": "Content item. Animate.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "níː",
+    "translation": "pronoun",
+    "pos": "we (1pl)",
+    "notes": "Used for S/A/O. Genitive is /níː.so/.",
+    "null": [
+      "Suppletive plural form for 1st person."
+    ]
+  },
+  {
+    "word": "nɔ.tʰá.pi",
+    "translation": "noun",
+    "pos": "moon",
+    "notes": "Content item.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "nɪ́ːn",
+    "translation": "noun",
+    "pos": "food",
+    "notes": "Content item.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "pɛ́.tʰa",
+    "translation": "noun",
+    "pos": "book",
+    "notes": "Content item. Inanimate.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "pʰa.lɛ̀",
+    "translation": "conjunction",
+    "pos": "or",
+    "notes": "Introduces an alternative.",
+    "null": [
+      "",
+      "Common function item."
+    ]
+  },
+  {
+    "word": "pʰa.tʰá.no.li",
+    "translation": "noun",
+    "pos": "story",
+    "notes": "Content item. Four syllables. Possibly a compound or a borrowing.",
+    "null": [
+      "",
+      "Rare."
+    ]
+  },
+  {
+    "word": "pʰá",
+    "translation": "conjunction",
+    "pos": "that",
+    "notes": "Introduces subordinate clauses.",
+    "null": [
+      "",
+      "Common function item."
+    ]
+  },
+  {
+    "word": "pʰá.kʰa",
+    "translation": "adverb",
+    "pos": "quickly",
+    "notes": "",
+    "null": [
+      "Modifies a verb. Typically follows the verb complex.",
+      "Common."
+    ]
+  },
+  {
+    "word": "pʰá.la",
+    "translation": "noun",
+    "pos": "river",
+    "notes": "Content item. Inanimate.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "pʰá.ʕɪn",
+    "translation": "adjective",
+    "pos": "clever",
+    "notes": "Content item. Follows the noun it modifies and agrees in case.",
+    "null": [
+      "",
+      "Common. Contains a pharyngeal consonant."
+    ]
+  },
+  {
+    "word": "pʰě",
+    "translation": "pronoun",
+    "pos": "he/she (3sg animate)",
+    "notes": "Used for S/A/O. Genitive is /pʰě.so/. Plural is /pʰě.ne/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʰi.kʰá.lo",
+    "translation": "adjective",
+    "pos": "good",
+    "notes": "Content item. Follows the noun it modifies and agrees in case.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "pʰíːn",
+    "translation": "adjective",
+    "pos": "small",
+    "notes": "Content item. Follows the noun it modifies and agrees in case.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "pʰjá.tʰa",
+    "translation": "noun",
+    "pos": "leaf",
+    "notes": "Content item. Inanimate.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "pʰla.sɔ̀",
+    "translation": "noun",
+    "pos": "bed, sleeping place",
+    "notes": "Derived from /pʰla.sɔ́/ 'to sleep' by tonal derivation (High > Low).",
+    "null": [
+      "Instrument/Result Noun."
+    ]
+  },
+  {
+    "word": "pʰla.sɔ́",
+    "translation": "verb",
+    "pos": "to sleep",
+    "notes": "Content item. High tone verb root.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "pʰlě.nu",
+    "translation": "noun",
+    "pos": "man",
+    "notes": "Content item. Animate.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "pʰlɛ̂ː.tja.so",
+    "translation": "noun",
+    "pos": "flower",
+    "notes": "Content item.",
+    "null": [
+      "",
+      "Uncommon."
+    ]
+  },
+  {
+    "word": "pʰo.kʰá.mi",
+    "translation": "adjective",
+    "pos": "white",
+    "notes": "Content item. Follows the noun it modifies and agrees in case.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "pʰó.kʰa",
+    "translation": "adjective",
+    "pos": "red",
+    "notes": "Content item. Follows the noun it modifies and agrees in case.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "sà",
+    "translation": "pronoun",
+    "pos": "it (3sg inanimate)",
+    "notes": "Used for S/A/O. Genitive is /sà.so/. Plural stem is /kʰɛ́.tʰa/.",
+    "null": [
+      ""
+    ]
+  },
+  {
+    "word": "sí",
+    "translation": "wh-word",
+    "pos": "what (inanimate)",
+    "notes": "Inflects for case like a noun.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "sklóːts",
+    "translation": "noun",
+    "pos": "word",
+    "notes": "Content item. Inanimate. Monosyllabic and complex (CCVːCC).",
+    "null": [
+      "",
+      "Particularly rare."
+    ]
+  },
+  {
+    "word": "skɛ.lɔ̂ː.tʰa",
+    "translation": "verb",
+    "pos": "to dream",
+    "notes": "Content item.",
+    "null": [
+      "",
+      "Uncommon."
+    ]
+  },
+  {
+    "word": "snòː",
+    "translation": "noun",
+    "pos": "wind",
+    "notes": "Content item. Monosyllabic and complex (CCVː).",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "snǒːk.tʰa",
+    "translation": "adjective",
+    "pos": "big",
+    "notes": "Content item. Follows the noun it modifies and agrees in case.",
+    "null": [
+      "",
+      "Uncommon."
+    ]
+  },
+  {
+    "word": "so.tʰɛ̆",
+    "translation": "adjective",
+    "pos": "blue",
+    "notes": "Content item. Follows the noun it modifies and agrees in case.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "spjáː",
+    "translation": "noun",
+    "pos": "sky",
+    "notes": "Content item.",
+    "null": [
+      "",
+      "Uncommon."
+    ]
+  },
+  {
+    "word": "splàk.tʰo",
+    "translation": "noun",
+    "pos": "forest",
+    "notes": "Content item. Inanimate.",
+    "null": [
+      "",
+      "Uncommon. Initial CCC cluster."
+    ]
+  },
+  {
+    "word": "sta.pʰɪː.lǎ",
+    "translation": "noun",
+    "pos": "builder",
+    "notes": "Derived from /sta.pʰɪ́ː.la/ 'to build' by tonal derivation (High > Rising).",
+    "null": [
+      "Agent Noun."
+    ]
+  },
+  {
+    "word": "sta.pʰɪ́ː.la",
+    "translation": "verb",
+    "pos": "to build",
+    "notes": "Content item. High tone verb root.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "stlàk.mɔn",
+    "translation": "noun",
+    "pos": "shadow",
+    "notes": "Content item.",
+    "null": [
+      "",
+      "Rare. Complex syllable structure (CCCVC.CVC)."
+    ]
+  },
+  {
+    "word": "sɔ́.la",
+    "translation": "verb",
+    "pos": "to speak",
+    "notes": "Content item. High tone verb root.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "sɔ̌.la",
+    "translation": "noun",
+    "pos": "speaker",
+    "notes": "Derived from /sɔ́.la/ 'to speak' by tonal derivation (High > Rising).",
+    "null": [
+      "Agent Noun."
+    ]
+  },
+  {
+    "word": "sɛ.pʰá.la.mi",
+    "translation": "noun",
+    "pos": "mountain",
+    "notes": "Content item.",
+    "null": [
+      "",
+      "Rare. Four syllables."
+    ]
+  },
+  {
+    "word": "sɛ́.kʰa",
+    "translation": "adverb",
+    "pos": "slowly",
+    "notes": "",
+    "null": [
+      "Modifies a verb. Typically follows the verb complex.",
+      "Common."
+    ]
+  },
+  {
+    "word": "tjáː.ma",
+    "translation": "noun",
+    "pos": "water",
+    "notes": "Content item. Inanimate.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "tlɔ́ːk",
+    "translation": "noun",
+    "pos": "fish",
+    "notes": "Content item. Animate. Monosyllabic and complex (CCVːC).",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "tɛ.kʰá.mi",
+    "translation": "verb",
+    "pos": "to find",
+    "notes": "Content item.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "tɛ́",
+    "translation": "pronoun",
+    "pos": "you (2sg)",
+    "notes": "Used for S/A/O. Genitive is /tɛ́.so/. Plural is /tɛ́.ne/.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tʰa.lɔ́.mi",
+    "translation": "noun",
+    "pos": "city",
+    "notes": "Content item. Inanimate.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "tʰa.só",
+    "translation": "postposition",
+    "pos": "on",
+    "notes": "Takes an inanimate object.",
+    "null": [
+      "",
+      "Common function item."
+    ]
+  },
+  {
+    "word": "tʰá.lo",
+    "translation": "verb",
+    "pos": "to love",
+    "notes": "Content item.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "tʰáː.ħo",
+    "translation": "noun",
+    "pos": "house",
+    "notes": "Content item. Inanimate.",
+    "null": [
+      "",
+      "Uncommon. Contains a pharyngeal consonant."
+    ]
+  },
+  {
+    "word": "tʰe.lá.no",
+    "translation": "noun",
+    "pos": "bird",
+    "notes": "Content item. Animate.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "tʰé.so",
+    "translation": "preposition",
+    "pos": "for",
+    "notes": "Takes an animate object. Benefactive.",
+    "null": [
+      "",
+      "Common function item."
+    ]
+  },
+  {
+    "word": "tʰnâːts",
+    "translation": "noun",
+    "pos": "dream",
+    "notes": "Content item.",
+    "null": [
+      "",
+      "Particularly rare. Complex syllable structure (CCVCC)."
+    ]
+  },
+  {
+    "word": "tʰó.la",
+    "translation": "noun",
+    "pos": "stone",
+    "notes": "Content item. Inanimate.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tʰó.na",
+    "translation": "verb",
+    "pos": "to run",
+    "notes": "Content item. High tone verb root.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "tʰô",
+    "translation": "wh-word",
+    "pos": "when",
+    "notes": "",
+    "null": [
+      "Adverbial wh-word."
+    ]
+  },
+  {
+    "word": "tʰù",
+    "translation": "preposition",
+    "pos": "with",
+    "notes": "Takes an animate object.",
+    "null": [
+      "",
+      "Common function item."
+    ]
+  },
+  {
+    "word": "tʰwéː",
+    "translation": "noun",
+    "pos": "gold",
+    "notes": "Content item. Inanimate. Monosyllabic and complex (CCVː).",
+    "null": [
+      "",
+      "Uncommon."
+    ]
+  },
+  {
+    "word": "tʰǒ.na",
+    "translation": "noun",
+    "pos": "runner",
+    "notes": "Derived from /tʰó.na/ 'to run' by tonal derivation (High > Rising).",
+    "null": [
+      "Agent Noun."
+    ]
+  },
+  {
+    "word": "tʰɛ̀ːps",
+    "translation": "noun",
+    "pos": "eating utensil",
+    "notes": "Derived from /tʰɛ́ːps/ 'to eat' by tonal derivation (High > Low).",
+    "null": [
+      "Instrument Noun."
+    ]
+  },
+  {
+    "word": "tʰɛ́ːps",
+    "translation": "verb",
+    "pos": "to eat",
+    "notes": "Content item. High tone verb root.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "úː.laj",
+    "translation": "verb",
+    "pos": "to see",
+    "notes": "Content item.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "ħá.no",
+    "translation": "verb",
+    "pos": "to think",
+    "notes": "Content item. Contains a pharyngeal consonant.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "ħɛ́.sa",
+    "translation": "noun",
+    "pos": "sand",
+    "notes": "Content item. Inanimate. Contains a pharyngeal consonant.",
+    "null": [
+      "",
+      "Uncommon."
+    ]
+  },
+  {
+    "word": "ʕáː.tʰa",
+    "translation": "noun",
+    "pos": "person",
+    "notes": "Content item. Animate.",
+    "null": [
+      "",
+      "Common. Contains a pharyngeal consonant."
+    ]
+  },
+  {
+    "word": "ʕo.má.li",
+    "translation": "verb",
+    "pos": "to hear",
+    "notes": "Content item. Contains a pharyngeal consonant.",
+    "null": [
+      "",
+      "Common."
+    ]
+  },
+  {
+    "word": "ʕɛ̀.la",
+    "translation": "noun",
+    "pos": "blood",
+    "notes": "Content item. Inanimate. Contains a pharyngeal consonant.",
+    "null": [
+      "",
+      "Common."
+    ]
+  }
+]

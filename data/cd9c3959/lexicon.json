@@ -1,0 +1,1063 @@
+[
+  {
+    "word": "-a",
+    "translation": "deriv",
+    "pos": "verbal noun marker",
+    "notes": "Forms verbal nouns from verb roots.",
+    "null": [
+      "The accent falls on the first syllable of the resulting noun",
+      " e.g.",
+      " *bādʑ-* -> *bâdʑa*.",
+      ""
+    ]
+  },
+  {
+    "word": "-i",
+    "translation": "infl",
+    "pos": "plural marker (inanimate)",
+    "notes": "Forms the plural of inanimate nouns by being suffixed as a new syllable and taking the accent.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-kʰā",
+    "translation": "postp",
+    "pos": "to; for",
+    "notes": "Dative/Benefactive postposition. Cliticizes to the noun.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-si",
+    "translation": "postp",
+    "pos": "with; by means of",
+    "notes": "Instrumental postposition. Cliticizes to the noun.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-t̪ā",
+    "translation": "postp",
+    "pos": "in; at; on",
+    "notes": "Locative postposition. Cliticizes to the noun.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-u",
+    "translation": "infl",
+    "pos": "plural marker (animate)",
+    "notes": "Forms the plural of animate nouns by replacing the final vowel and taking the accent.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-vâ",
+    "translation": "postp",
+    "pos": "from; out of",
+    "notes": "Ablative postposition. Cliticizes to the noun.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "bâdʑa",
+    "translation": "n",
+    "pos": "a meal; the act of eating",
+    "notes": "Verbal noun, Inanimate class. Plural: *bādʑaī*.",
+    "null": [
+      "From root *bādʑ-* + derivational suffix *-a*.",
+      ""
+    ]
+  },
+  {
+    "word": "bîlā",
+    "translation": "v",
+    "pos": "give",
+    "notes": "Verb, ditransitive. Root: *bīl-*. Perfective: *bîlū*. Takes an ergative agent, absolutive theme, and dative recipient.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "bîlāva",
+    "translation": "n",
+    "pos": "a gift; the act of giving",
+    "notes": "Verbal noun, Inanimate class. Plural: *bīlāvaī*.",
+    "null": [
+      "From an extended root *bīlāv-* + derivational suffix *-a*.",
+      ""
+    ]
+  },
+  {
+    "word": "bābî",
+    "translation": "n",
+    "pos": "woman",
+    "notes": "Noun, Animate class. Plural: *bābiú*.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "bādʑ-",
+    "translation": "v.root",
+    "pos": "eat",
+    "notes": "",
+    "null": [
+      "Root of the verb *bādʑâ*.",
+      ""
+    ]
+  },
+  {
+    "word": "bādʑâ",
+    "translation": "v",
+    "pos": "eat; feed",
+    "notes": "Verb. Can mean 'to feed' when used with a dative complement. Root: *bādʑ-*.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "bādʑâ̤",
+    "translation": "v",
+    "pos": "eat (evidential or irrealis)",
+    "notes": "Evidential or Irrealis mood of *bādʑâ*. Marked by breathy voice on the accented syllable, which is the final syllable in this case.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "bāɖʐâ̤",
+    "translation": "n",
+    "pos": "blood",
+    "notes": "Noun, Inanimate class. Plural: *bāɖʐāī*. The breathy syllable is lexical.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "cāpâ",
+    "translation": "n",
+    "pos": "father",
+    "notes": "Noun, Animate class. Plural: *cāpû*.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "cʰâ̤rū",
+    "translation": "n",
+    "pos": "bird",
+    "notes": "Noun, Animate class. Plural: *cʰārû*. The breathy syllable is lexical.",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "cʰîkā",
+    "translation": "n",
+    "pos": "sight; the act of seeing",
+    "notes": "Verbal noun, Inanimate class. Plural: *cʰīkaī*.",
+    "null": [
+      "From root *cʰīk-* + derivational suffix *-a*.",
+      ""
+    ]
+  },
+  {
+    "word": "cʰîkāt̪ū",
+    "translation": "v",
+    "pos": "look at",
+    "notes": "Verb. Root: *cʰīkāt̪-*. Perfective: *cʰīkāt̪û*.",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "cʰîkū",
+    "translation": "v",
+    "pos": "see (perfective)",
+    "notes": "Perfective form of a verb 'to see'. Root: *cʰīk-*.",
+    "null": [
+      "From root *cʰīk-* + perfective ablaut.",
+      ""
+    ]
+  },
+  {
+    "word": "cʰākâ",
+    "translation": "v",
+    "pos": "be black",
+    "notes": "Stative verb. Used as a medial verb to modify a subject.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "cʰīk-",
+    "translation": "v.root",
+    "pos": "see",
+    "notes": "",
+    "null": [
+      "Root of the verb *cʰīkâ*.",
+      ""
+    ]
+  },
+  {
+    "word": "cʰīkâ",
+    "translation": "v",
+    "pos": "see (imperfective)",
+    "notes": "Imperfective form of a verb 'to see'. Root: *cʰīk-*.",
+    "null": [
+      "This is distinct from the verbal noun *cʰîkā* (sight) due to a different accent pattern."
+    ]
+  },
+  {
+    "word": "dār̪âkʰa",
+    "translation": "v",
+    "pos": "see",
+    "notes": "Verb. Root: *dār̪âk-*. Perfective: *dār̪ākʰû*. Semantic distinction from *cʰīkâ* unclear.",
+    "null": [
+      "",
+      "Translation inferred from example sentence 3."
+    ]
+  },
+  {
+    "word": "dʑāvâsi",
+    "translation": "n",
+    "pos": "weapon",
+    "notes": "Noun, Inanimate class. Plural: *dʑāvāsiī*.",
+    "null": [
+      "From the instrumental postposition *-si* being lexicalized."
+    ]
+  },
+  {
+    "word": "dʑī",
+    "translation": "v",
+    "pos": "be big",
+    "notes": "Stative verb. Used as a medial verb to modify a subject.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d̪zid̪ācʰâ̤bū",
+    "translation": "n",
+    "pos": "teacher",
+    "notes": "Noun, Animate class. Plural: *d̪zid̪ācʰābû*. The breathy syllable is lexical.",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "d̪ā",
+    "translation": "func",
+    "pos": "this/that",
+    "notes": "Common function word.",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "d̪ākâ",
+    "translation": "n",
+    "pos": "man",
+    "notes": "Noun, Animate class. Plural: *d̪ākû*.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d̪īlâ",
+    "translation": "n",
+    "pos": "word",
+    "notes": "Noun, Inanimate class. Plural: *d̪īlāī*.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d̪ūbâ",
+    "translation": "v",
+    "pos": "be ugly",
+    "notes": "Stative verb. Used as a medial verb to modify a subject.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "d̪ūkî",
+    "translation": "v",
+    "pos": "want",
+    "notes": "Verb. Root: *d̪ūk-*. Perfective: *d̪ūkû*. Takes a clausal complement.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "fāsâ̤",
+    "translation": "n",
+    "pos": "fish",
+    "notes": "Noun, Animate class. Plural: *fāsû*. The breathy syllable is lexical.",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "i",
+    "translation": "v",
+    "pos": "to exist",
+    "notes": "Existential verb root.",
+    "null": [
+      "",
+      "Appears in discourse as *i̤*."
+    ]
+  },
+  {
+    "word": "id̪â̤lī",
+    "translation": "n",
+    "pos": "child",
+    "notes": "Noun, Animate class. Plural: *id̪āliú*. The breathy syllable is lexical.",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "i̤",
+    "translation": "v",
+    "pos": "exist (focus)",
+    "notes": "Existential verb used to introduce new participants. The breathy voice is a mandatory focus marker in this construction.",
+    "null": [
+      "From root 'i' + focus marking.",
+      ""
+    ]
+  },
+  {
+    "word": "jā",
+    "translation": "prep",
+    "pos": "ergative marker",
+    "notes": "Preposition marking the agent (A) of a transitive verb.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kâtā",
+    "translation": "n",
+    "pos": "person",
+    "notes": "Noun, Animate class. Plural: *kātû* (people) or *kātāī* (bodies, pejorative).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kâtā̤",
+    "translation": "n",
+    "pos": "person's",
+    "notes": "Possessive form of *kâtā*.",
+    "null": [
+      "From *kâtā* + possessive breathy voice.",
+      ""
+    ]
+  },
+  {
+    "word": "kât̪āva",
+    "translation": "n",
+    "pos": "a walk; a journey; the act of walking",
+    "notes": "Verbal noun, Inanimate class. Plural: *kāt̪āvaī*.",
+    "null": [
+      "From root *kāt̪āv-* + derivational suffix *-a*.",
+      ""
+    ]
+  },
+  {
+    "word": "kātû",
+    "translation": "n",
+    "pos": "people",
+    "notes": "Plural of *kâtā*.",
+    "null": [
+      "From *kâtā* + Animate plural formation.",
+      ""
+    ]
+  },
+  {
+    "word": "kāt̪āv-",
+    "translation": "v.root",
+    "pos": "walk",
+    "notes": "",
+    "null": [
+      "Root of the verb *kāt̪āvâ*.",
+      ""
+    ]
+  },
+  {
+    "word": "kāt̪āvâ",
+    "translation": "v",
+    "pos": "walk",
+    "notes": "Verb. Root: *kāt̪āv-*. Perfective: *kāt̪āvû*.",
+    "null": [
+      "",
+      "Translation inferred from verbal noun example."
+    ]
+  },
+  {
+    "word": "kāt̪āvâ̤",
+    "translation": "v",
+    "pos": "walk (evidential)",
+    "notes": "Evidential mood of *kāt̪āvâ*.",
+    "null": [
+      "From *kāt̪āvâ* + evidential breathy voice on final syllable.",
+      ""
+    ]
+  },
+  {
+    "word": "kī",
+    "translation": "part",
+    "pos": "interrogative particle",
+    "notes": "Clause-initial particle that turns a statement into a yes-no question. As a function word, it is always unaccented.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kīl̪â",
+    "translation": "v",
+    "pos": "make; create",
+    "notes": "Verb. Root: *kīl̪-*. Perfective: *kīl̪û*.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kīl̪âva",
+    "translation": "n",
+    "pos": "creation; a thing made",
+    "notes": "Verbal noun, Inanimate class. Plural: *kīl̪āvaī*.",
+    "null": [
+      "From an extended root *kīl̪āv-* + derivational suffix *-a*.",
+      ""
+    ]
+  },
+  {
+    "word": "kʰul̪â",
+    "translation": "n",
+    "pos": "friend",
+    "notes": "Noun, Animate class. Plural: *kʰul̪û*.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʰā",
+    "translation": "func",
+    "pos": "and",
+    "notes": "Common function word.",
+    "null": [
+      "",
+      "Translation inferred. Homophonous with the dative postposition."
+    ]
+  },
+  {
+    "word": "kʰāɡû",
+    "translation": "n",
+    "pos": "tree",
+    "notes": "Noun, Inanimate class. Plural: *kʰāɡuī*.",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "kʰītɕâ",
+    "translation": "v",
+    "pos": "be new",
+    "notes": "Stative verb. Used as a medial verb to modify a subject.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "l̪āt̪â",
+    "translation": "n",
+    "pos": "hand",
+    "notes": "Noun, Animate class (as a body part). Plural: *l̪āt̪û*.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "l̪āwâ",
+    "translation": "v",
+    "pos": "go",
+    "notes": "Verb, intransitive. Root: *l̪āw-*. Perfective: *l̪āwû*.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pât̪ā",
+    "translation": "n",
+    "pos": "stone",
+    "notes": "Noun, Inanimate class. Plural: *pāt̪aī*.",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "pā",
+    "translation": "part",
+    "pos": "past tense marker",
+    "notes": "Pre-verbal particle that marks past tense, e.g. *pā bādʑâ* 'ate'.",
+    "null": [
+      "",
+      "Analytic tense markers are common function words."
+    ]
+  },
+  {
+    "word": "pāt̪â",
+    "translation": "n",
+    "pos": "house",
+    "notes": "Noun, Inanimate class. Plural: *pāt̪āī* (houses) or *pāt̪û* (homes, personified).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pāt̪â̤",
+    "translation": "n",
+    "pos": "house's",
+    "notes": "Possessive form of *pāt̪â*.",
+    "null": [
+      "From *pāt̪â* + possessive breathy voice.",
+      ""
+    ]
+  },
+  {
+    "word": "pāt̪û",
+    "translation": "n",
+    "pos": "homes",
+    "notes": "Personified plural of *pāt̪â*.",
+    "null": [
+      "From *pāt̪â* + Animate plural formation (metaphorical).",
+      ""
+    ]
+  },
+  {
+    "word": "pāt̪ākʰāl̪â̤vū",
+    "translation": "n",
+    "pos": "story",
+    "notes": "Noun, Inanimate class. Plural: *pāt̪ākʰāl̪āvuī*. The breathy syllable is lexical.",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "pāt̪āī",
+    "translation": "n",
+    "pos": "houses",
+    "notes": "Plural of *pāt̪â*.",
+    "null": [
+      "From *pāt̪â* + Inanimate plural formation.",
+      ""
+    ]
+  },
+  {
+    "word": "pīl̪â",
+    "translation": "v",
+    "pos": "be beautiful",
+    "notes": "Stative verb. Used as a medial verb to modify a subject.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʰil̪â̤bū",
+    "translation": "n",
+    "pos": "animal",
+    "notes": "Noun, Animate class. Plural: *pʰil̪ābû*. The breathy syllable is lexical.",
+    "null": [
+      "",
+      "A general term for animals."
+    ]
+  },
+  {
+    "word": "pʰâva",
+    "translation": "n",
+    "pos": "speech; a language; the act of speaking",
+    "notes": "Verbal noun, Inanimate class. Plural: *pʰāvaī*.",
+    "null": [
+      "From root *pʰāv-* + derivational suffix *-a*.",
+      ""
+    ]
+  },
+  {
+    "word": "pʰādʑâ",
+    "translation": "v",
+    "pos": "read",
+    "notes": "Verb, transitive. Root: *pʰādʑ-*. Perfective: *pʰādʑû*. Used with nouns like *t̪ʰāpʰâɭa* (book).",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʰākâ",
+    "translation": "n",
+    "pos": "cloth; clothing",
+    "notes": "Noun, Inanimate class. Plural: *pʰākāī*.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʰāt̪â̤lū",
+    "translation": "n",
+    "pos": "dog",
+    "notes": "Noun, Animate class. Plural: *pʰāt̪ālû*. The breathy syllable is lexical.",
+    "null": [
+      "",
+      "Translation inferred from example sentence 4."
+    ]
+  },
+  {
+    "word": "pʰāvâ",
+    "translation": "v",
+    "pos": "speak; say",
+    "notes": "Verb. Root: *pʰāv-*. Perfective: *pʰāvû*.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʰāvâsi",
+    "translation": "n",
+    "pos": "pen; writing tool",
+    "notes": "Noun, Inanimate class. Plural: *pʰāvāsiī*. Lexicalized from 'speech' + 'with'.",
+    "null": [
+      "From *pʰâva* (speech) + *-si* (instrumental).",
+      ""
+    ]
+  },
+  {
+    "word": "r̪āt̪â",
+    "translation": "n",
+    "pos": "road; path",
+    "notes": "Noun, Inanimate class. Plural: *r̪āt̪āī*.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "sâkā",
+    "translation": "n",
+    "pos": "food",
+    "notes": "Noun, Inanimate class. Plural: *sākaī*.",
+    "null": [
+      "",
+      "A general term for food."
+    ]
+  },
+  {
+    "word": "sā",
+    "translation": "part",
+    "pos": "negative particle",
+    "notes": "Pre-verbal particle that negates the verb, e.g. *sā bādʑâ* 'does not eat'.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "sīkʰâ",
+    "translation": "v",
+    "pos": "know",
+    "notes": "Verb. Root: *sīkʰ-*. Perfective: *sīkʰû*.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "sīpâ",
+    "translation": "v",
+    "pos": "sleep",
+    "notes": "Verb, intransitive. Root: *sīp-*. Perfective: *sīpû*.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tɕābî",
+    "translation": "n",
+    "pos": "head",
+    "notes": "Noun, Animate class. Plural: *tɕābiú*.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t̪i",
+    "translation": "part",
+    "pos": "future tense marker",
+    "notes": "Pre-verbal particle that marks future tense, e.g. *t̪i bādʑâ* 'will eat'.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t̪sâd̪zā",
+    "translation": "n",
+    "pos": "water",
+    "notes": "Noun, Inanimate class. Plural: *t̪sād̪zaī*.",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "t̪sākâ",
+    "translation": "v",
+    "pos": "drink",
+    "notes": "Verb, transitive. Root: *t̪sāk-*. Perfective: *t̪sākû*.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t̪sīkʰâ",
+    "translation": "n",
+    "pos": "spider",
+    "notes": "Noun, Animate class. Plural: *t̪sīkʰû*.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t̪ā",
+    "translation": "pron",
+    "pos": "you",
+    "notes": "Absolutive pronoun. Used for S and O roles. As an ergative agent, it would be *jā t̪ā*.",
+    "null": [
+      "",
+      "Homophonous with the locative postposition *-t̪ā*. Disambiguated by position."
+    ]
+  },
+  {
+    "word": "t̪ʰāl̪â̤",
+    "translation": "n",
+    "pos": "river",
+    "notes": "Noun, Inanimate class. Plural: *t̪ʰālāī*. The breathy syllable is lexical.",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "t̪ʰāpʰâɭa",
+    "translation": "n",
+    "pos": "book",
+    "notes": "Noun, Inanimate class. Plural: *t̪ʰāpʰāɭaī*.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "t̪ʰīlâ̤",
+    "translation": "n",
+    "pos": "city; town",
+    "notes": "Noun, Inanimate class. Plural: *t̪ʰīlāī*. The breathy syllable is lexical.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "vâ",
+    "translation": "func",
+    "pos": "or",
+    "notes": "Common function word.",
+    "null": [
+      "",
+      "Translation inferred. Homophonous with the ablative postposition."
+    ]
+  },
+  {
+    "word": "vīd̪ākâ",
+    "translation": "n",
+    "pos": "heart",
+    "notes": "Noun, Animate class. Plural: *vīd̪ākû*. Personified as animate.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "wālâ",
+    "translation": "v",
+    "pos": "be white",
+    "notes": "Stative verb. Used as a medial verb to modify a subject.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "wīkʰâ",
+    "translation": "v",
+    "pos": "kill",
+    "notes": "Verb, transitive. Root: *wīkʰ-*. Perfective: *wīkʰû*.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "xâɣa",
+    "translation": "v",
+    "pos": "be good",
+    "notes": "Stative verb. Used as a medial verb to modify a subject.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "xāɣâtɕāsi",
+    "translation": "n",
+    "pos": "knowledge",
+    "notes": "Noun, Inanimate class. Plural: *xāɣātɕāsiī*.",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "xīwâ",
+    "translation": "n",
+    "pos": "sun",
+    "notes": "Noun, Inanimate class. Plural: *xīwaī*.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɕālî",
+    "translation": "n",
+    "pos": "fire",
+    "notes": "Noun, Inanimate class. Plural: *ɕāliī*.",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "ɡā",
+    "translation": "pron",
+    "pos": "I; me",
+    "notes": "Absolutive pronoun. Used for S and O roles. As an ergative agent, it would be *jā ɡā*.",
+    "null": [
+      "",
+      "Pronouns are a type of function word and thus tend to be short."
+    ]
+  },
+  {
+    "word": "ɡādʑākâ",
+    "translation": "v",
+    "pos": "think",
+    "notes": "Verb. Root: *ɡādʑāk-*. Perfective: *ɡādʑākû*.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɡāt̪â",
+    "translation": "v",
+    "pos": "love",
+    "notes": "Verb, transitive. Root: *ɡāt̪-*. Perfective: *ɡāt̪û*.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɡāvî",
+    "translation": "n",
+    "pos": "song",
+    "notes": "Noun, Inanimate class. Plural: *ɡāviī*.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɡīdʑâ",
+    "translation": "n",
+    "pos": "mother",
+    "notes": "Noun, Animate class. Plural: *ɡīdʑû*.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ɡītɕâ",
+    "translation": "n",
+    "pos": "ruler; chief",
+    "notes": "Noun, Animate class. Plural: *ɡītɕû*.",
+    "null": [
+      "",
+      "A gender-neutral term for a leader."
+    ]
+  },
+  {
+    "word": "ɬâpʰa",
+    "translation": "n",
+    "pos": "wind",
+    "notes": "Noun, Inanimate class. Plural: *ɬāpʰaī*.",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "ɬāɮâ",
+    "translation": "n",
+    "pos": "moon",
+    "notes": "Noun, Inanimate class. Plural: *ɬāɮāī*.",
+    "null": [
+      "",
+      "Features uncommon lateral fricatives",
+      " typical of content words."
+    ]
+  },
+  {
+    "word": "ɮâ̤wū",
+    "translation": "n",
+    "pos": "spirit",
+    "notes": "Noun, Animate class. Plural: *ɮāwû*. The breathy syllable is lexical.",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "ʈʂāɖʐâkʰa",
+    "translation": "n",
+    "pos": "mountain",
+    "notes": "Noun, Inanimate class. Plural: *ʈʂāɖʐākʰaī*.",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "ʈʂūbâ",
+    "translation": "v",
+    "pos": "be red",
+    "notes": "Stative verb. Used as a medial verb to modify a subject.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ʈʰāɭâpʰā",
+    "translation": "n",
+    "pos": "flower",
+    "notes": "Noun, Inanimate class. Plural: *ʈʰāɭāpʰāī*.",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "ʐâvā",
+    "translation": "n",
+    "pos": "sky",
+    "notes": "Noun, Inanimate class. Plural: *ʐāvaī*.",
+    "null": [
+      "",
+      "Translation inferred."
+    ]
+  },
+  {
+    "word": "ʐād̪â",
+    "translation": "v",
+    "pos": "be old",
+    "notes": "Stative verb. Used as a medial verb to modify a subject.",
+    "null": [
+      "",
+      "Refers to objects; a different verb would be used for living things."
+    ]
+  },
+  {
+    "word": "ʐāwâ̤",
+    "translation": "n",
+    "pos": "enemy",
+    "notes": "Noun, Animate class. Plural: *ʐāwû*. The breathy syllable is lexical.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ʐūtâ",
+    "translation": "v",
+    "pos": "be small",
+    "notes": "Stative verb. Used as a medial verb to modify a subject.",
+    "null": [
+      "",
+      ""
+    ]
+  }
+]

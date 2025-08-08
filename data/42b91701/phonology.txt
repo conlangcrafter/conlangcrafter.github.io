@@ -1,0 +1,71 @@
+# Phonology
+
+## Consonants
+
+| | Labial | Dental | Palatal | Velar |
+| :--- | :---: | :---: | :---: | :---: |
+| **Plosive (Unaspirated)** | p | t | c | k |
+| **Plosive (Aspirated)** | pʰ | tʰ | cʰ | kʰ |
+| **Implosive** | ɓ | ɗ | ʄ | ɠ |
+| **Nasal** | m | n | ɲ | ŋ |
+| **Fricative** | | s | ʃ | x |
+| **Approximant** | | l | j | w |
+| **Palatalized** | pʲ pʰʲ ɓʲ mʲ | tʲ tʰʲ ɗʲ nʲ sʲ lʲ | | |
+| **Labialized** | | tʷ tʰʷ ɗʷ nʷ sʷ lʷ | cʷ cʰʷ ʄʷ ɲʷ ʃʷ | kʷ kʰʷ ɠʷ ŋʷ xʷ |
+
+## Vowels
+
+| | Front Unrounded | Front Rounded | Central | Back Rounded |
+| :--- | :---: | :---: | :---: | :---: |
+| **Close** | i | y | | u |
+| **Mid** | e | ø | | o |
+| **Open** | | | a | |
+
+## Phonotactics
+
+The syllable structure is (C)CV(C), allowing for complex onsets but simple codas. Onset clusters are restricted to a stop (unaspirated, aspirated, or implosive) or a fricative, followed by an approximant (/l, j, w/). Only the initial consonant of an onset cluster may carry a secondary articulation; the following approximant cannot. The initial consonant and the following approximant do not need to share a place of articulation (e.g., labial + dental clusters like /pl/ are permitted). However, the approximant cannot have the same place of articulation as the secondary articulation of the initial consonant (e.g., *tʷw* and *tʲj* are disallowed). Additionally, within an onset cluster, velar consonants may not be followed by the palatal approximant /j/. The contrast between velar and palatal consonants is maintained in all environments (e.g., velars do not have palatalized allophones before front vowels). The nucleus must be a vowel. The only permissible coda consonants are unaspirated plosives (/p, t, c, k/) and nasals (/m, n, ɲ, ŋ/).
+
+All vowels within a phonological word must agree in their values for the features [back] and [round]. The vowel /a/ is harmonically neutral, co-occurring with vowels from any set without altering its quality, but it does not trigger harmony itself. Multiple consonants within a word may carry secondary articulations; however, the co-occurrence of different articulations (e.g., palatalization and labialization) within a word is rare, as is the occurrence of the same secondary articulation on multiple consonants, though rare exceptions exist.
+
+## Suprasegmentals
+
+The language is not tonal. It has a fixed, predictable stress system where primary stress always falls on the initial syllable of the phonological word. There is no secondary stress. While stress itself is not phonemic, its placement on the first syllable is a crucial demarcative feature, signaling the beginning of a word unit. This rigid stress system is central to parsing the ubiquitous verbless constructions, where prosodic phrasing and the initial-syllable stress "beat" are the primary means of distinguishing constituents in the absence of verbs.
+
+## Word Shapes and Lexical Statistics
+
+The vast majority of words in the language are polysyllabic, typically consisting of two or three syllables, though longer words are not uncommon, especially among content items. Monosyllabic words are common; while they are predominantly function items like pronouns and particles, a number of basic content words are also monosyllabic.
+
+Word shapes are heavily constrained by the language's pervasive vowel harmony. Most words are built around one of the three primary harmonic groups: front unrounded (/i, e/), front rounded (/y, ø/), or back rounded (/u, o/). Words containing the neutral vowel /a/ are also numerous; it can appear alongside vowels from any harmonic group or constitute the sole vowel in a word.
+
+The syllable structure (C)CV(C) allows for a variety of word shapes. Most syllables are open (CV or CCV). Words ending in a consonant are common, but the coda is restricted to nasals and unaspirated plosives, making CVC and CCVC final syllables frequent. Complex onsets, while permitted, are less common than simple onsets. Content words beginning with a vowel are rare; this restriction does not apply to high-frequency function words. The fixed initial-syllable stress is a key demarcative feature, but since it is non-phonemic, it is not marked.
+
+Function words are typically monosyllabic (V, CV, CVC) or disyllabic (CVCV) and phonologically simple. In contrast, content words (nouns, adjectives, etc.), which are central to the common verbless constructions, display the full range of phonological complexity. They are frequently polysyllabic, often feature complex onsets or secondary articulations, and make up the bulk of longer words.
+
+### Lexical Items
+
+1.  /pʰi/ (Function item, common)
+2.  /ket/ (Content item, common)
+3.  /sʲelet/ (Content item, common)
+4.  /pʰitek/ (Content item, common)
+5.  /tʰy/ (Function item, common)
+6.  /køp/ (Content item, common)
+7.  /ʃyɗø/ (Content item, common)
+8.  /cʰøɓʲøɲ/ (Content item, rare; rare due to multiple palatalized consonants and cross-harmonic secondary articulation)
+9.  /u/ (Function item, common)
+10. /ɓok/ (Content item, common)
+11. /kʷotun/ (Content item, common)
+12. /xolusok/ (Content item, uncommon; uncommon due to its length)
+13. /a/ (Function item, very common)
+14. /map/ (Content item, common)
+15. /ʃakan/ (Content item, common)
+16. /ɠʷaŋ/ (Content item, common)
+17. /tʰʷaŋat/ (Content item, uncommon)
+18. /pʰla/ (Content item, common)
+19. /pʲe/ (Content item, common)
+20. /tʷo/ (Function item, common)
+21. /sʷøp/ (Content item, common)
+22. /cʷam/ (Content item, common)
+23. /ɗʲic/ (Content item, common)
+24. /nʲeɲ/ (Content item, common)
+25. /pʰʲaɓʲak/ (Content item, rare; rare due to multiple palatalized consonants)
+26. /kulut/ (Content item, common)

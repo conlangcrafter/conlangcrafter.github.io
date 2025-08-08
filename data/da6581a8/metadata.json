@@ -1,0 +1,15 @@
+{
+  "id": "da6581a8",
+  "name": "Kʼaãnã",
+  "created_at": "2025-08-02 23:14:44",
+  "model": "gemini-2.5-pro",
+  "user_constraints": null,
+  "has_phonology": true,
+  "has_grammar": false,
+  "has_lexicon": false,
+  "completeness": 30,
+  "features": [
+    "Ejective Consonants",
+    "Tone System"
+  ]
+}

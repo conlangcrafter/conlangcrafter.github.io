@@ -1,0 +1,62 @@
+# Phonology
+
+## Consonants
+
+| | Alveolar | Velar | Uvular |
+| :--- | :---: | :---: | :---: |
+| **Nasal** | n | ŋ | ɴ |
+| **Plosive** | t | k | q |
+| | | ɡ | ɢ |
+| **Ejective** | tʼ | kʼ | qʼ |
+| **Fricative** | | x | χ |
+
+## Vowels
+
+| | Front | Central | Back |
+| :--- | :---: | :---: | :---: |
+| **Close** | i | | u |
+| **Mid** | e | ə | o |
+| **Open** | | a | |
+
+## Phonotactics
+
+The syllable structure is highly complex. The nucleus (N) can be a vowel (V) or a syllabic consonant (C̩), specifically /n̩/, /ŋ̍/, or /ɴ̩/. The full syllable template is (C)(C)(C)N(C)(C). Onsets can contain up to three consonants, and codas up to two. Any consonant may appear in any position. There are no restrictions on consonant clustering, leading to sequences that can be challenging to articulate, such as /qχanɴ/. The language is highly permissive, with phonotactic constraints being almost non-existent beyond the defined syllable template.
+
+## Suprasegmentals
+
+The language features a lexical tone system. There are three phonemic tones: High (´), Rising (ˇ), and Falling (ˆ). Every syllable must carry one of these three tones, and its placement is unpredictable, needing to be memorized for each word. Vowel harmony is also present, specifically backness harmony. Within a word, all vowels must be either front vowels (/i, e/) or back/central vowels (/u, o, a, ə/). The mid-central vowel /ə/ patterns with the back vowels for the purposes of harmony.
+
+## Word Shapes and Lexical Statistics
+
+The lexicon of this language exhibits a wide variety of word shapes, reflecting its highly permissive phonotactics. Most content words (nouns, verbs, adjectives) are disyllabic or trisyllabic, often featuring complex syllable structures. Monosyllabic content words are also common, particularly for core vocabulary items. Longer words of four or more syllables are somewhat rare and are typically reserved for specialized, technical, or derived concepts.
+
+Function words, in contrast, are overwhelmingly monosyllabic and tend toward simple structures like CV or CVC. Many of the most common function words consist of a single consonant and a vowel. A few disyllabic function words exist, but these represent an uncommon structure for this word class.
+
+While the syllable template allows for up to three consonants in an onset and two in a coda, such maximal clusters are not ubiquitous. The most frequent syllable shapes are CV and CVC. Syllables with two-consonant onsets (CCV, CCVC) are also very common, whereas three-consonant onsets are less frequent but still well-attested, especially in stylistically marked or technical vocabulary. Codas with two consonants are less common than those with one. Words containing syllabic nasals are present but represent a minority of the lexicon. Due to the lack of co-occurrence restrictions, consonant clusters can be phonetically challenging, though speakers natively acquire their articulation without difficulty. Vowel harmony strictly divides the lexicon into words containing only front vowels and words containing only back or central vowels.
+
+1.  /tʼě/ (Common function word)
+2.  /qô/ (Common function word)
+3.  /kʼîx/ (Common function word)
+4.  /ɡâ.tʼə́/ (Function word, uncommon disyllabic shape)
+5.  /qáχ/ (Common content word)
+6.  /tʼúkʼ/ (Common content word)
+7.  /ŋ̩̂/ (Rare content word)
+8.  /xé.tʼě/ (Common content word)
+9.  /kʼé.nê/ (Common content word)
+10. /qʼó.tǎ/ (Common content word)
+11. /tə.ŋô/ (Common content word)
+12. /kʼú.χaɴ/ (Common content word)
+13. /xí.kʼě/ (Common content word)
+14. /tʼi.kʼé.tʼe/ (Common content word)
+15. /qʼó.qʼa.tə́/ (Common content word)
+16. /ŋá.qʼa.nô/ (Common content word)
+17. /ɡə.xâ.tʼu/ (Common content word)
+18. /kʼé.tʼi.xê/ (Common content word)
+19. /qχánɴ/ (Uncommon content word, due to CC coda)
+20. /tʼkʼéx/ (Rare content word)
+21. /qʼtʼá.kʼa/ (Uncommon content word)
+22. /ɴ̩̂.qʼó/ (Uncommon content word)
+23. /kʼtʼá.qʼu.n̩̂/ (Rare content word)
+24. /qχa.tʼŋ̍̂.ɡóx/ (Very rare content word)
+25. /tʼe.xî.kʼe.nê/ (Rare content word)
+26. /qʼu.ŋó.tʼa.qâ/ (Rare content word)

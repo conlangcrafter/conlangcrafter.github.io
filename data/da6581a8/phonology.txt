@@ -1,0 +1,71 @@
+# Phonology
+
+## Consonants
+
+| | Labial | Alveolar | Palatal | Velar | Pharyngeal |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Nasal** | m | n | ɲ | ŋ | |
+| **Stop** | b p pʰ | d t tʰ | ɟ c cʰ | ɡ k kʰ | |
+| **Ejective Stop** | | | cʼ | kʼ | |
+| **Fricative** | | s | ç | x | ħ |
+| **Approximant** | | l | j | ɰ | |
+
+*   **Palatalized Series:** /pʲ, bʲ, pʰʲ, tʲ, dʲ, nʲ, lʲ, sʲ/
+*   **Labialized Series:** /kʷ, ɡʷ, xʷ/
+*   **Pharyngealized Series:** /tˤ, dˤ, nˤ, lˤ, sˤ/
+
+## Vowels
+
+| | Front | Central | Back |
+| :--- | :---: | :---: | :---: |
+| **High** | i | ɨ | ɯ u |
+| **Mid** | e | ə | o |
+| **Low** | | a | |
+
+## Phonotactics
+
+The syllable structure is (C₁)C₂V(C₃)(C₄). Onsetless syllables are not permitted.
+*   **Onsets:** Single consonant onsets (C₂V) are most common. Complex onsets (C₁C₂) must adhere to a strict sonority hierarchy where C₁ must have lower sonority than C₂. The sonority scale is: Stop < Fricative < Nasal < Approximant. Both consonants in a complex onset must share the same secondary articulation (palatalization, labialization, or pharyngealization). Ejectives can only appear in the onset and cannot be part of a consonant cluster.
+*   **Codas:** Codas (C₃C₄) are restricted to nasals and plain voiceless stops (/p, t, c, k/). Aspiration is neutralized in coda position. Complex codas (C₃C₄) consist of a nasal followed by a voiceless stop.
+*   **Vowel Harmony:** A highly restrictive system of vowel harmony governs the language: all vowels within a phonological word must share the same backness value. Words are either entirely composed of front and central vowels ({i, e, ɨ, ə, a}) or entirely of back vowels ({ɯ, u, o}).
+*   **Secondary Articulation Harmony:** Only one secondary articulation type (palatalization, labialization, or pharyngealization) is permitted per word. A word containing a palatalized consonant cannot also contain a labialized or pharyngealized one. All relevant consonants and vowels in a word will typically carry the secondary articulation, either phonemically or allophonically. Pharyngeal consonants (/ħ/) are considered plain for the purposes of this rule and can co-occur with pharyngealized consonants. Ejectives do not trigger harmony and can co-occur with plain consonants.
+
+## Suprasegmentals
+
+The language has a complex contour tone system with five phonemic tones carried by the syllable nucleus: High Level /˥/, Low Level /˩/, Rising /˩˥/, Falling /˥˩/, and Dipping /˥˩˥/. Tone sandhi is extensive, with the realization of a tone changing based on the tone of the following syllable. A unique feature is "tonal metathesis," where under specific morphological conditions, the tones of two adjacent syllables can swap places (e.g., /CV́.CV̀/ becomes /CV̀.CV́/). Stress is fixed on the first syllable of the root and is realized as a slight increase in duration, independent of tone.
+
+## Word Shapes and Lexical Statistics
+
+The vast majority of words in the language are polysyllabic, typically consisting of two or three syllables. Monosyllabic words are common, but almost exclusively serve as function items like particles, pronouns, and adpositions. Words exceeding four syllables are rare and usually represent complex derived or compounded forms.
+
+The phonological constraints of the language heavily influence word shapes. The most common syllable structure is CV, followed by CVC. Complex onsets (CCV) are frequent, especially in roots, provided both consonants share a secondary articulation. Complex codas (CVCC) and syllables with both complex onsets and codas (CCVCC) are quite rare. The strict vowel harmony and the "one secondary articulation per word" rule create distinct phonological classes of words: a word will either be entirely "front/central-vowel" or "back-vowel," and it will be characterized by either palatalization, labialization, pharyngealization, or the absence of any of these features.
+
+Content words (nouns, verbs, adjectives) are most often disyllabic or trisyllabic and carry the full range of phonological features, including complex onsets, secondary articulations, and the full five-tone inventory. Function words, being typically monosyllabic, are simpler in structure. Many are just CV, and they tend to carry the less complex level tones (High or Low).
+
+### Lexical Items
+
+1.  /tˤa˥.nˤə˩/ (Content item, common)
+2.  /kʼɯ˩˥/ (Content item, uncommon)
+3.  /sʲi˥˩/ (Function item, common)
+4.  /pʰʲlʲe˥.cʰə˩.nʲi˥/ (Content item, common)
+5.  /ɡʷon˩/ (Content item, common)
+6.  /ce˩˥.la˥˩/ (Content item, rare)
+7.  /xʷo˥.ɡʷut˩˥/ (Content item, common)
+8.  /ħa˩.dˤɨnˤk/ (Content item, uncommon)
+9.  /ɟə˥˩˥/ (Function item, common)
+10. /cʰik/ (Content item, rare)
+11. /kʷo˥.xʷum˩.pʰot˥˩/ (Content item, common)
+12. /ɲe˩/ (Function item, very common)
+13. /sˤa˥˩.lˤəmp/ (Content item, uncommon)
+14. /bɨ˥.tʰək˩˥/ (Content item, common)
+15. /mə.kʼaŋ˩/ (Content item, rare)
+16. /ɟep˥/ (Content item, common)
+17. /sˤa˩˥.tˤak/ (Content item, common)
+18. /cʰi˥.lʲe˩.mɨɲ˥˩˥/ (Content item, common)
+19. /ɡʷu˩/ (Function item, common)
+20. /pʰa˥.ɰa˥.kʼət˩/ (Content item, uncommon)
+21. /nˤa˩˥/ (Function item, very common)
+22. /tʰɯ˥.xo˩.kʼuŋ˥˩/ (Content item, rare)
+23. /sʲlʲe˥.tʲa˩/ (Content item, common)
+24. /xʷo˥˩.kʷo˩˥.bop/ (Content item, rare)
+25. /sɨ˩.pʰen˥.tə˩/ (Content item, rare)

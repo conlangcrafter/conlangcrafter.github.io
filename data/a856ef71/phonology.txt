@@ -1,0 +1,66 @@
+# Phonology
+
+## Consonants
+
+| | Labial | Dental | Alveolar | Retroflex | Palatal | Velar | Uvular | Glottal |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Nasal** | m | n̪ | n | ɳ | ɲ | ŋ | ɴ | |
+| **Stop** | p | t̪ | t | ʈ | c | k | q | ʔ |
+| **Fricative**| | | s | ʂ | | x | χ | h |
+| **Approximant**| w | | l | | j | | | |
+
+## Vowels
+
+| | Front | Central | Back |
+| :--- | :---: | :---: | :---: |
+| **High** | i | | |
+| **Mid** | | ə | |
+| **Low** | | a | |
+
+## Phonotactics
+
+The syllable structure is (C)CV(C). Onsets can be any single consonant or a stop/fricative followed by an approximant (/w, j, l/). The nucleus is a single vowel. The coda can be any single consonant except for the glottal stop /ʔ/. Gemination of consonants across syllable boundaries is permitted. There are very few other restrictions on consonant sequences, leading to a large number of possible CVC.CVC combinations.
+
+## Suprasegmentals
+
+The language is tonal, employing four lexical contour tones: High-Falling /â/, Low-Rising /ǎ/, High-Level /á/, and Low-Level /à/. There is no word-level stress; prominence is realized at the phrasal level through intonation.
+
+A pervasive and complex system of vowel harmony exists, where words are either entirely "bright" or "dark". The presence of a retroflex (/ʈ, ɳ, ʂ/) or uvular (/q, ɴ, χ/) consonant in a word's root marks the entire word as "dark," causing all vowels /i, ə, a/ to be realized as their centralized or retracted allophones [ɪ, ʌ, ɑ]. The phonemic transcriptions of lexical items use the base vowels; this harmony rule describes an allophonic process. For example, /χâp.t̪ə/ is phonetically [χɑ̂p.t̪ʌ].
+
+The tone of a vowel influences the phonation of a following voiceless stop onset. A low-toned vowel (/à, ǎ/) causes a following /p, t̪, t, ʈ, c, k, q/ to become voiced [b, d̪, d, ɖ, ɟ, g, ɢ]. This is a purely allophonic process and is not reflected in the phonemic transcription.
+
+## Word Shapes and Lexical Statistics
+
+The lexicon of this language is characterized by a prevalence of monosyllabic and disyllabic words. Most function items are monosyllabic, typically conforming to a simple CV or CVC structure, and often utilize the more common consonants. Many high-frequency content words are also monosyllabic, but they tend to exploit the full range of possible CVC structures.
+
+The majority of content words are disyllabic, with the CVC.CVC pattern being extremely common due to the permissive phonotactics. Words with complex onsets (CCV) are somewhat common, appearing in both monosyllabic and polysyllabic words. Geminate consonants across syllable boundaries are a feature of some morphological processes. Words of three or more syllables exist but are relatively few, mostly resulting from derivation or compounding.
+
+The small vowel inventory is offset by the large consonant inventory and the four-way tonal distinction, creating a large number of possible monosyllabic words. The "dark" harmony system, triggered by retroflex and uvular consonants, effectively partitions the lexicon into two distinct phonological classes, with "bright" words being more numerous overall, but "dark" words still constituting a significant portion of the vocabulary.
+
+### Lexical Items
+
+1.  /kwǎj/ (Content item, common)
+2.  /qá/ (Function item, common)
+3.  /sə̂p/ (Content item, common)
+4.  /t̪à/ (Function item, very common)
+5.  /χâp.t̪ə/ (Content item, uncommon)
+6.  /mǎ.n̪ǎ/ (Content item, common)
+7.  /plá/ (Content item, common)
+8.  /ʔà.kə̂t/ (Content item, common)
+9.  /ʂǎɴ/ (Content item, common)
+10. /jə́/ (Function item, very common)
+11. /câ.lǎk/ (Content item, uncommon)
+12. /tá.tə̂/ (Content item, common)
+13. /ŋə̀n/ (Content item, common)
+14. /slà.xá/ (Content item, common)
+15. /ɳâ.ʈà/ (Content item, common)
+16. /pə̌t.tá/ (Content item, common)
+17. /ʔí/ (Content item, common)
+18. /kà.ɴǎχ/ (Content item, uncommon)
+19. /n̪ì.sə́m/ (Content item, common)
+20. /twə̂/ (Content item, common)
+21. /xǎ.mí/ (Content item, common)
+22. /ɲà/ (Function item, common)
+23. /qà.pə́.la/ (Content item, rare)
+24. /hə́.jən/ (Content item, uncommon)
+25. /kâ/ (Function item, common)

@@ -1,0 +1,251 @@
+# Grammar
+
+A key phonetic feature of the language is **Pervasive Nasal Coarticulation**. Nasalization is a prominent feature that spreads from nasal consonants to adjacent vowels, causing them to have a distinctly nasal quality. This phonetic harmony gives the language a unique, "nasal-centric" sound that reflects its cultural and grammatical focus on olfaction.
+
+> **Note on Transcription:** For transcription clarity, the predictable allophonic nasalization of vowels (e.g., in `má-ⁿǀəːn`) is not explicitly marked with a diacritic (e.g., a tilde), but it is always phonetically present as described.
+
+## Morphology
+
+The language is moderately synthetic and exhibits a mix of agglutinative and fusional characteristics. It primarily uses prefixes on nouns and suffixes on verbs and nouns to build words and mark grammatical relations. Words are typically composed of a root and a few affixes. Nouns and verbs are the primary open classes.
+
+### Noun Morphology
+
+Nouns are obligatorily marked for noun class and number, and optionally for case.
+
+#### 1. Olfactory Noun Classes
+
+A key morphological feature is the **Olfactory Noun Class** system. Nouns are categorized into one of two classes based on their inherent scent properties. This distinction is marked on the noun itself via a fusional prefix that also encodes number, and it triggers agreement on verbs and adjectives.
+
+|            | Class I (Proximal Scent)                                                                      | Class II (Distal Scent)                                                                                     |
+| :--------- | :-------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
+| **Singular** | `má-`                                                                                         | `ŋə̂m-`                                                                                                      |
+| **Plural**   | `mî-`                                                                                         | `ŋîm-`                                                                                                      |
+
+*   **Class I (Proximal Scent):** Nouns for entities whose scent is intrinsic, experienced up close, or is inherent to their being. This includes living beings, plants, food, tools, and body parts (e.g., flowers, food, people, animals). Marked with `má-` (SG) and `mî-` (PL).
+*   **Class II (Distal Scent):** Nouns for entities whose scent is diffuse, airborne, or experienced from a distance. This includes weather phenomena, smoke, emotions, concepts, and locations perceived as a whole (e.g., smoke, rain, wind, concepts). Marked with `ŋə̂m-` (SG) and `ŋîm-` (PL).
+
+> `má-ⁿǀəːn`
+>
+> I.SG-person
+>
+> 'a person'
+>
+> `mî-ⁿǀəːn`
+>
+> I.PL-person
+>
+> 'people'
+
+> `ŋə̂m-mṽau`
+>
+> II.SG-smoke
+>
+> 'smoke' (as a singular mass noun)
+>
+> `ŋîm-mṽau`
+>
+> II.PL-smoke
+>
+> 'plumes of smoke' / 'different kinds of smoke'
+
+#### 2. Case System
+
+The language uses a **double-marking** system where case is marked on noun phrases (dependents) and agreement is marked on the verb (head). The case system is organized around an **evidential alignment** based on olfactory perception.
+
+| Case               | Suffix | Function                                                                                                                                                             |
+| :----------------- | :----- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nominative (NOM)** | `-ŋàn` | Marks the Agent (A) of a transitive verb and the core argument (S) of an intransitive verb when the event is perceived by smell (Direct Scent).                        |
+| **Patientive (PAT)** | `-mî`  | Marks the Patient (P) of a transitive verb and the core argument (S) of an intransitive verb when the event is perceived by other senses (e.g., sight, hearing).      |
+| **Scent-Source (SRC)** | `-ᵑgūm` | A locative case marking the origin or source of a scent. It is used on inanimate nouns in adjunct phrases to specify where a scent emanates from. |
+
+> **Transitive Clause:**
+>
+> `ṽái-ᵑgə̄ má-ᵑgǁáinā-mî má-ⁿǀəːn-ŋàn`
+>
+> smell-3SG.I.AGR I.SG-flower-PAT I.SG-person-NOM
+>
+> 'The person smells the flower.'
+
+> **Evidential Alignment Example (Intransitive):**
+>
+> `ⁿdù-ᵑgə̄ má-ⁿǀəːn-ŋàn`
+>
+> arrive-3SG.I.AGR I.SG-person-NOM
+>
+> 'The person arrives (I can smell them).'
+>
+> `ⁿdù-ᵑgə̄ má-ⁿǀəːn-mî`
+>
+> arrive-3SG.I.AGR I.SG-person-PAT
+>
+> 'The person arrives (I see/hear them).'
+
+> **Scent-Source Case:**
+>
+> `ⁿdù-ŋə̄ ŋə̂m-mṽau-ŋàn ᵐbǎ ŋə̂m-ṽə́.ᵐbîŋ-ᵑgūm`
+>
+> emanate-3SG.II.AGR II.SG-smoke-NOM from II.SG-house-SRC
+>
+> 'Smoke emanates (I can smell it) from the house.' (Lit: '...from the scent-source of the house.')
+
+#### 3. Derivational Morphology: Olfactory Qualifiers
+
+A highly creative aspect of the morphology is a set of derivational suffixes that attach to noun roots to create new nouns describing the specific quality or nature of a scent. This allows for extremely precise olfactory descriptions. When a derivational suffix beginning with a prenasalized consonant attaches to a noun root that ends in a nasal consonant, an epenthetic vowel `-ə-` is inserted. The final nasal of the root is re-syllabified as the onset of this new syllable.
+
+| Suffix    | Meaning                                 | Example                                                                                    |
+| :-------- | :-------------------------------------- | :----------------------------------------------------------------------------------------- |
+| `-ⁿdáu`   | 'faint/lingering scent of X'            | `ŋə̂m-ṽə́.ᵐbîŋ-ⁿdáu` (II.SG-house-faint.scent) 'the faint, lingering smell of a house' |
+| `-ᶮɟúːŋ` | 'strong/overpowering scent of X'        | `má-ᵑgǁáinā-ᶮɟúːŋ` (I.SG-flower-strong.scent) 'the overpowering fragrance of the flower' |
+| `-ⁿǀà`    | 'the characteristic scent of a decaying X' | `má-ᵐbáu-ⁿǀà` (I.SG-fruit-decay.scent) 'the smell of rotting fruit'              |
+
+> **Epenthesis Example:**
+>
+> The root `nə̄n` 'meat' combines with the suffix `-ⁿdáu`. To avoid a consonant cluster, an epenthetic vowel `-ə-` is inserted, creating the form `má-nə̄n-ə-ⁿdáu`. The final /n/ of the root then resyllabifies as the onset of the new syllable, yielding the surface form and syllabification `má.nə̄.nə.ⁿdáu`.
+>
+> `má-nə̄n-ə-ⁿdáu`
+>
+> I.SG-meat-EPEN-faint.scent
+>
+> 'the faint, lingering smell of meat'
+
+### Verb Morphology
+
+Verbs are inflected only for subject agreement. Tense, aspect, and mood are handled by pre-verbal auxiliaries.
+
+#### 1. Subject Agreement
+
+The verb must agree with its subject in person, number, and (for 3rd person) noun class. This is marked with a suffix.
+
+| Person          | Singular | Plural |
+| :-------------- | :------- | :----- |
+| **1st**         | `-nā`    | `-nî`  |
+| **2nd**         | `-gǎ`    | `-gî`  |
+| **3rd (Class I)** | `-ᵑgə̄`    | `-ᵑgə̂`  |
+| **3rd (Class II)**| `-ŋə̄`    | `-ŋə̂`  |
+
+> `ṽái-nā`
+>
+> smell-1SG.AGR
+>
+> '(I) smell'
+>
+> `ⁿdù-ᵑgə̄ má-ⁿǀəːn-ŋàn`
+>
+> arrive-3SG.I.AGR I.SG-person-NOM
+>
+> 'The person (Class I) arrives.'
+>
+> `mṽáu-ŋə̄ ŋə̂m-ŋṽá.ⁿdə̄-mî`
+>
+> drift-3SG.II.AGR II.SG-wind-PAT
+>
+> 'The wind (Class II) drifts (I feel/hear it).'
+
+## Syntax
+
+The syntax is organized around a rigid VOS word order and a system of auxiliaries and particles that provide relational and temporal information.
+
+### 1. Constituent Order
+
+The dominant constituent order is a strict **Verb-Object-Subject (VOS)**. For intransitive verbs, the order is **Verb-Subject (VS)**. The language is non-pro-drop, meaning that a subject (for intransitives) and both a subject and object (for transitives) must always be overtly present, either as a full noun phrase or an explicit personal pronoun. Adjuncts, such as prepositional phrases, follow the core clause.
+
+> `ṽái-ᵑgə̄ má-ᵑgǁáinā-mî má-ⁿǀəːn-ŋàn`
+>
+> smell-3SG.I.AGR I.SG-flower-PAT I.SG-person-NOM
+>
+> 'The person smells the flower.'
+
+With an auxiliary, the order is **Aux-VOS** (or **Aux-VS**).
+
+> `ᵑgə́ ṽái-ᵑgə̄ má-ᵑgǁáinā-mî má-ⁿǀəːn-ŋàn`
+>
+> PST smell-3SG.I.AGR I.SG-flower-PAT I.SG-person-NOM
+>
+> 'The person smelled the flower.'
+
+### 2. Olfactory Evidentiality (Evidential Alignment)
+
+This system is a core syntactic feature. The choice between the Nominative (`-ŋàn`) and Patientive (`-mî`) case on the subject of an intransitive verb is not optional; it encodes the speaker's source of evidence for the event, creating a distinction that is crucial for meaning.
+
+> `ⁿǁə̌ːm-ᵑgə̄ má-ⁿǀəːn-ŋàn`
+>
+> sleep-3SG.I.AGR I.SG-person-NOM
+>
+> 'The person is sleeping (I can smell their sleeping scent).'
+>
+> `ⁿǁə̌ːm-ᵑgə̄ má-ⁿǀəːn-mî`
+>
+> sleep-3SG.I.AGR I.SG-person-PAT
+>
+> 'The person is sleeping (I can see them; they are scentless to me).'
+
+### 3. Noun Phrase Structure
+
+The NP has a fixed internal order. Adjectives precede the noun root, while genitive possessors follow the head noun. Adpositions are primarily **prepositions**, which precede the noun phrase they modify. Personal pronouns (e.g., `mâ` '1SG', `gâ` '2SG') are pronoun roots that inflect for case using the same suffixes as nouns.
+
+*   **Adjective-Noun:** Adjectives are uninflected roots that are prefixed to the noun root to form a compound noun root. A phonological rule simplifies adjacent prenasalized stops at the morpheme boundary: when a root ending in a prenasalized stop is followed by a root beginning with one, the first stop loses its prenasalization. The entire compound root is then preceded by the noun class prefix and followed by any case suffixes.
+    > Example: Adjective `ⁿdó-` ('dark') + Noun `ᵑgǁáinā` ('flower') → `dóᵑgǁáinā` ('dark flower')
+    >
+    > `ṽái-ᵑgə̄ má-dóᵑgǁáinā-mî má-ⁿǀəːn-ŋàn`
+    >
+    > smell-3SG.I.AGR I.SG-dark.flower-PAT I.SG-person-NOM
+    >
+    > 'The person smells the dark flower.'
+
+*   **Noun-Genitive:** Possession is marked with the particle `ⁿdî` placed after the head noun. The entire possessive phrase inflects for case as a single unit, with the case suffix attaching at the very end.
+    > `ṽái-nā [má-ṽə́.ᵐbîŋ ⁿdî gâ]-mî mâ-ŋàn`
+    >
+    > smell-1SG.AGR [I.SG-house of 2SG.PRON]-PAT 1SG.PRON-NOM
+    >
+    > 'I smell your house.'
+
+*   **Prepositions (in Adjuncts):** Adjunct phrases are typically introduced by prepositions. The noun within such a phrase is unmarked for case, unless a specific locative case like Scent-Source (`-ᵑgūm`) is used to add semantic detail.
+    > `ⁿdù-ᵑgə̄ má-ⁿǀəːn-ŋàn ᵐbǎ má-ṽə́.ᵐbîŋ`
+    >
+    > arrive-3SG.I.AGR I.SG-person-NOM from I.SG-house
+    >
+    > 'The person arrives from the house.'
+
+### 4. Scent Vector Construction
+
+A unique syntactic structure is the **Scent Vector Construction**, used to describe tracking or following a scent trail. It requires the verb `ᶮɟá` ('to follow/track') and places the source of the scent (the entity being tracked) in the Object slot, while the tracker is the Subject. The meaning of 'following a scent' is inherent to the verb `ᶮɟá` and is distinguished from simple physical pursuit.
+
+> **Standard Transitive Verb:**
+>
+> `ṽái-nā má-ᵐbáu-mî mâ-ŋàn`
+>
+> smell-1SG.AGR I.SG-fruit-PAT 1SG.PRON-NOM
+>
+> 'I smell the fruit.'
+
+> **Scent Vector Construction:**
+>
+> `ᶮɟá-nā má-ᵐbáu-mî mâ-ŋàn`
+>
+> follow-1SG.AGR I.SG-fruit-PAT 1SG.PRON-NOM
+>
+> 'I follow the fruit's scent-trail.'
+
+### 5. TAM Auxiliaries
+
+Tense, Aspect, and Mood (TAM) are expressed **mainly through a closed class of auxiliary verbs**, which precede the main VOS clause.
+
+| Auxiliary | Gloss | Meaning                                                      |
+| :-------- | :---- | :----------------------------------------------------------- |
+| `ᵑgə́`     | PST   | Past tense; a completed event.                             |
+| `ɲîːm`     | FUT   | Future tense; an intended or predicted event.              |
+| `ⁿdù`     | PROG  | Progressive aspect; an ongoing event.                        |
+| `ᵐbî`     | PERF  | Perfect aspect; an event that is complete and has current relevance. |
+| `ŋə̂`      | DEB   | Debitive mood; expresses obligation or necessity ('must', 'should'). |
+
+> `ⁿdù ṽái-ᵑgə̄ má-ᵑgǁáinā-mî má-ⁿǀəːn-ŋàn`
+>
+> PROG smell-3SG.I.AGR I.SG-flower-PAT I.SG-person-NOM
+>
+> 'The person is smelling the flower.'
+
+> `ŋə̂ ṽái-nā ⁿgə́m-mî mâ-ŋàn`
+>
+> DEB smell-1SG.AGR REFL-PAT 1SG.PRON-NOM
+>
+> 'I must smell myself.'

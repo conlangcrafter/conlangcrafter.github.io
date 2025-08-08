@@ -1,0 +1,204 @@
+# Grammar
+
+## Morphology
+
+This language is moderately fusional and strongly head-marking. Grammatical information is primarily encoded through affixes on verbs and postpositions, rather than on nouns. Nouns themselves are largely uninflected for case, with their grammatical role being indicated by verb agreement. The language does not have overt articles ('a/an', 'the'); definiteness is inferred from context and the use of pro-nouns.
+
+### Noun Class System
+
+The language has a complex, phonologically-determined noun class system with five classes. The class of a noun is determined by the "Manner Analogue" of its initial chromeme. This system is arbitrary and not based on semantics. Agreement with these classes is marked on verbs, descriptors, and postpositions.
+
+| Class | Determining Initial Chromeme | Example Noun |
+| :--- | :--- | :--- |
+| **I (Static)** | `SR`, `SB`, `SW` | `SRHCSW` 'the-being' |
+| **II (Pulsating)** | `PR`, `PB`, `PW` | `PRHC` 'the-idea' |
+| **III (Gradient)** | `GR`, `GB` | `GBHCSW` 'the-vessel' |
+| **IV (Bleeding)** | `BR`, `BB` | `BRNH` 'the-water' |
+| **V (Scintillating)**| `SC` | `SCTW` 'the-event' |
+
+### Lexical Roots
+
+The following table lists the lexical roots used in the examples.
+
+| Root | Type | Gloss |
+| :--- | :--- | :--- |
+| `PWHC` | Verb | 'to move' |
+| `GBTW` | Verb | 'to see' |
+| `BBNH` | Descriptor | 'deep' |
+| `SWSP` | Postposition | 'inside' |
+
+### Pronouns and Demonstratives
+
+The language does not have a distinct morphological class for pronouns. Instead, it uses a closed set of generic nouns that function as pronouns. These "pro-nouns" are mandatory in main clauses for core arguments (subject, object). If a full noun phrase is also present, the pro-noun must precede it. They are chosen based on the class of their antecedent.
+
+The distinction between "this" and "that" (proximal/distal) is not marked by a separate morpheme but by the **Kinetic Contour (Tone)** applied to the pro-noun. A **Peak** tone indicates proximity ('this one'), while a **Dip** tone indicates distance ('that one').
+
+| Class | Pro-Noun Root | Proximal ('this one') | Distal ('that one') |
+| :--- | :--- | :--- | :--- |
+| **I (Static)** | `SRHCSW` | `SRHCSW(Peak)` | `SRHCSW(Dip)` |
+| **II (Pulsating)** | `PRHC` | `PRHC(Peak)` | `PRHC(Dip)` |
+| **III (Gradient)**| `GBHCSW` | `GBHCSW(Peak)`| `GBHCSW(Dip)`|
+| **IV (Bleeding)** | `BRNH` | `BRNH(Peak)` | `BRNH(Dip)` |
+| **V (Scintillating)**| `SCTW` | `SCTW(Peak)` | `SCTW(Dip)` |
+
+**Example:**
+`PB BR GRHC.PWHC.SWHC GBHCSW(Dip) SRHCSW(Peak)`
+`PFV VIS CL3.AGT-move-CL1.PAT that.one(CL3) this.one(CL1)`
+'That one (Class III) moved this one (Class I).'
+
+### The Kinetic Contour System (Suprasegmentals)
+
+The kinetic contour system is a core component of the grammar, interacting with morphology and syntax.
+*   **Rising:** A rising pitch contour.
+*   **Falling:** A falling pitch contour.
+*   **Peak:** A sharp rise followed by a sharp fall.
+*   **Dip:** A sharp fall followed by a sharp rise.
+*   **Level:** A steady, level pitch.
+
+**1. Derivational Contours:** Contours can derive nouns from verbs. The **Falling** contour is the primary nominalizer. When applied to a verb root, it creates a noun representing the result or abstraction of that action. This derived noun's class is determined by the Manner Analogue of the verb root's initial chromeme, following the same rules as for underived nouns.
+
+**Example:**
+*   `GBTW(Rising)` - 'to see' (verb)
+*   `PWHC(Rising)` - 'to move' (verb)
+*   `GBTW(Falling)` - 'a sight / a vision' (noun, Class III, from initial `GB`)
+
+`PB BR SRHC.GBTW.GBHC SRHCSW(Peak) GBTW(Falling)`
+`PFV VIS CL1.AGT-see-CL3.PAT this.one(CL1) a.sight`
+'This being saw a sight.'
+
+**2. Grammatical Contours: Clause-Typing:** The kinetic contour of the **verb** determines the fundamental type of the clause.
+*   **Declarative:** Any contour is possible, determined by lexical and derivational factors.
+*   **Interrogative (Yes/No):** The verb takes a **Peak** contour, overriding its lexical tone.
+*   **Interrogative (Content/Wh-):** The verb takes a **Dip** contour.
+*   **Imperative:** The final syllable of the verb complex takes a sharp **Rising** contour, and all subsequent words in the clause must also take a Rising contour.
+
+### Verbal Morphology
+
+Verbs are the morphological core of the language. A verbal complex consists of a verb root with an optional patient enclitic, preceded by a series of mandatory pre-verbal particles and an optional agent particle. The template is: `TAM EVID/MOOD AGENT.PARTICLE [VERB.ROOT] (-PATIENT.ENCLITIC)`. The agent particle is a `CV` syllable of the form [Class Chromeme] + `HC`, which precedes the verb root as a separate phonological unit, transcribed with a dot (e.g., `GRHC.PWHC`).
+
+**1. Tense-Aspect-Mood (TAM):** The TAM system is marked by the first pre-verbal particle.
+*   **Imperfective (IPFV):** `PW`. Denotes ongoing or habitual actions.
+*   **Perfective (PFV):** `PB`. Denotes completed actions.
+*   **Prospective (PROSP):** `PR`. Denotes future or intended actions.
+
+**2. Evidentiality and Mood:** This second particle slot is mandatory and specifies the source of knowledge or modality.
+
+*   **Evidential Particles:**
+    *   **Direct Visual (VIS):** `BR`. The speaker directly witnessed the event. This is the default, unmarked evidential.
+    *   **Inferential (INFER):** `BB`. The speaker infers the event from direct evidence.
+    *   **Reportative (REP):** `GR`. The speaker was told about the event.
+
+*   **Modal Particles:** These replace the evidential particle.
+    *   **Potential (POT):** `PW`. Expresses ability ('can'). Homophonous with the IPFV particle.
+    *   **Desiderative (DESID):** `PR`. Expresses desire ('wants to'). Homophonous with the PROSP particle.
+    *   **Obligative (OBL):** `GB`. Expresses obligation ('must').
+
+**Example of Disambiguation by Position:**
+`PW PW SRHC.PWHC`
+`IPFV POT CL1.AGT-move`
+'The being is able to be moving / is continuously able to move.'
+
+**Example with Obligative Mood:**
+`PR GB SRHC.PWHC.GBHC SRHCSW(Peak) GBHCSW(Dip)`
+`PROSP OBL CL1.AGT-move-CL3.PAT this.one(CL1) that.one(CL3)`
+'This being will have to move that vessel.'
+
+**3. Split-S Alignment & Agreement:** The language has a Split-S alignment system. The verb agrees with its core arguments via an agentive particle and a patientive enclitic. The patient marker is an enclitic that follows the verb root, realized as a CV syllable of the form [Class Chromeme] + `HC`.
+*   **Agent (A/Sₐ):** Marked by a particle preceding the verb root, which agrees with the noun class of the agent.
+*   **Patient (O/Sₚ):** Marked by an enclitic following the verb root, which agrees with the noun class of the patient.
+
+| Class | Agent Particle Chromeme | Patient Enclitic Chromeme |
+| :--- | :--- | :--- |
+| **I** | `SR-` | `-SW` |
+| **II** | `PR-` | `-PW` |
+| **III**| `GR-` | `-GB` |
+| **IV** | `BR-` | `-BB` |
+| **V** | `PW-` | `-SC` |
+
+An intransitive verb must take either an agent particle (for an agentive subject, Sₐ) or a patient enclitic (for a patientive subject, Sₚ). A transitive verb takes both.
+
+*   **Agentive Intransitive (SₐV):**
+    `PB BR SRHC.PWHC(Rising) SRHCSW(Peak) SRHCSW`
+    `PFV VIS CL1.AGT-move(V.RISING) this.one(CL1) the-being`
+    'This being moved (intentionally, I saw it).'
+
+*   **Patientive Intransitive (VSₚ):**
+    `PB BR PWHC.SWHC SRHCSW(Peak) SRHCSW`
+    `PFV VIS move-CL1.PAT this.one(CL1) the-being`
+    'This being moved (was moved/drifted, I saw it).'
+
+*   **Transitive (VSO):**
+    `PB BR GRHC.PWHC.SWHC GBHCSW(Dip) SRHCSW(Peak)`
+    `PFV VIS CL3.AGT-move-CL1.PAT that.one(CL3) this.one(CL1)`
+    'That being moved this being (I saw it happen).'
+
+## Syntax
+
+The language has a VSO (Verb-Subject-Object) word order and is exclusively head-initial in its phrases, with the notable exception of postpositions.
+
+### Basic Clause Structure
+
+The verb complex (pre-verbal particles + inflected verb) always appears first. It is followed by the subject (Agent) and then the object (Patient). Pro-nouns are mandatory for core arguments and precede any full noun phrase they refer to. The word order for intransitive clauses is VS, regardless of whether the subject is agentive (Sₐ) or patientive (Sₚ).
+
+`PR BR GRHC.GBTW.SWHC GBHCSW(Dip) SRHCSW(Peak)`
+`PROSP VIS CL3.AGT-see-CL1.PAT that.one(CL3) this.one(CL1)`
+'That one (Class III) will see this one (Class I).'
+
+### Noun Phrase Structure
+
+Noun phrases are strictly head-initial. The head noun is followed by its modifiers in a fixed order: Noun - Descriptor - Genitive - Postposition - Relative Clause.
+
+*   **Noun-Descriptor:** Descriptors (adjectives) follow the noun and agree with it in class. They take the same patient enclitics as verbs to mark this agreement.
+    `GBHCSW BBNH.GBHC`
+    `vessel deep-CL3.PAT`
+    'the deep vessel'
+
+*   **Noun-Genitive:** A genitive phrase consists of the possessed noun followed immediately by the possessor noun phrase, forming a single larger noun phrase constituent. No special morphological marking is used.
+    `PRHC SRHCSW`
+    `idea the-being`
+    'the being's idea'
+
+### Predicative Use of Descriptors
+
+Descriptors can be used predicatively, acting as the main verb. The descriptor is inflected with TAM and Evidential/Modal particles, and takes a Patient enclitic agreeing with the subject. It never takes an Agent particle. This forms a stative clause with VS word order.
+
+`PW BR BBNH.GBHC GBHCSW(Dip) GBHCSW`
+`IPFV VIS deep-CL3.PAT that.one(CL3) the-vessel`
+'The vessel is deep (I am looking at it now).'
+
+### Postpositions
+
+The language uses postpositions exclusively. Postpositions follow their entire noun phrase and agree in class with the head noun via a patient enclitic.
+`PB BR SRHC.GBTW SRHCSW(Peak) GBHCSW(Dip) [GBHCSW SWSP.GBHC]`
+`PFV VIS CL1.AGT-see this.one(CL1) that.one(CL3) [the-vessel inside-CL3.PAT]`
+'This being saw inside that vessel.'
+
+### Interrogative Clauses
+
+*   **Yes/No Questions:** The verb takes a **Peak** contour.
+    `PB BR SRHC.PWHC(Peak) SRHCSW(Peak)`
+    `PFV VIS CL1.AGT-move(V.PEAK) this.one(CL1)`
+    'Did this being move?'
+
+*   **Content Questions:** These use an in-situ interrogative pro-noun, which takes a **Level** tone. The verb's **Dip** contour signals that a pro-noun in the sentence should be interpreted as a "wh-word". The specific meaning ('who', 'what', 'where') is understood from the noun class of the pro-noun.
+    *   `PRHC(Level)` (Class II) can mean 'who/what (idea-like)?'
+    *   `GBHCSW(Level)` (Class III) can mean 'who/what (vessel-like)?'
+    *   `BRNH(Level)` (Class IV) can mean 'what/where (liquid-like)?'
+
+    `PB BR SRHC.GBTW.PWHC(Dip) SRHCSW(Peak) PRHC(Level)`
+    `PFV VIS CL1.AGT-see-CL2.PAT(V.DIP) this.one(CL1) what(CL2)`
+    'What (of Class II) did this being see?'
+
+*   **Imperative Clauses:** The imperative mood is marked solely by a sharp **Rising** contour on the final syllable of the verb complex. Imperative clauses omit the pre-verbal TAM and Evidential/Modal particles, beginning directly with the agent-inflected verb. It follows the standard Split-S agreement rules, taking an agent particle and/or patient enclitic as required. The agent particle agrees with the addressee. All subsequent words in the clause must also take a Rising contour.
+    `PRHC.PWHC.GBHC(Rising) GBHCSW(Rising)`
+    `CL2.AGT-move-CL3.PAT(V.RISING) the-vessel(N.RISING)`
+    'Move the vessel!' (spoken to a Class II being)
+
+### Subordination
+
+The primary strategy for subordination is the use of non-finite participles, which function as relative clauses. These participles follow the head noun they modify. They are formed by adding the participial suffix `-SWNH` to the verb root, followed by a patient enclitic that agrees in class with the head noun. Participles lack TAM and Evidential/Modal particles but retain the agent and patient agreement markers corresponding to the arguments within the subordinate clause. When the participial suffix `-SWNH` is added to a root, it forms its own syllable (e.g., `GBTW` + `-SWNH` -> `GBTW.SWNH`).
+
+`PB BR SRHC.PWHC.GBHC SRHCSW(Peak) [GBHCSW [PRHC.GBTW.SWNH.GBHC]]`
+`PFV VIS CL1.AGT-move-CL3.PAT this.one(CL1) [vessel [CL2.AGT-see-PTCP-CL3.PAT]]`
+'This being moved the vessel that that one (Class II) was seeing.'
+*(Literally: 'Moved (I saw) this.one(CL1) the-vessel that.one(CL2)-seeing-it(CL3).')*

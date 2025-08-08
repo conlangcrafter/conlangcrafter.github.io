@@ -1,0 +1,1014 @@
+[
+  {
+    "word": "-jɪ́",
+    "translation": "clitic",
+    "pos": "Locative Singular marker",
+    "notes": "Modal phonation.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-jɪ́",
+    "translation": "converb",
+    "pos": "Simultaneous/Manner converb",
+    "notes": "Indicates an action happening at the same time as the main verb.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-kʷʰà̰l",
+    "translation": "clitic",
+    "pos": "Locative Paucal marker",
+    "notes": "Creaky phonation; imposes creaky voice on the stem it attaches to.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-la",
+    "translation": "clitic",
+    "pos": "Vocative marker",
+    "notes": "Modal phonation; attaches to the end of a noun phrase to mark direct address.",
+    "null": [
+      "A common function clitic."
+    ]
+  },
+  {
+    "word": "-pʰlɐ̰̀k",
+    "translation": "converb",
+    "pos": "Sequential converb",
+    "notes": "Creaky phonation; indicates an action completed before the main verb's action.",
+    "null": [
+      "",
+      "Appears as a root in the noun /pʰlɐ̰́k.sɐ̰̀/ (market)."
+    ]
+  },
+  {
+    "word": "-tʃʰɔ̰̀",
+    "translation": "clitic",
+    "pos": "Comitative marker ('with')",
+    "notes": "Creaky phonation; imposes creaky voice on the stem it attaches to.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-tʰà",
+    "translation": "clitic",
+    "pos": "Instrumental case marker",
+    "notes": "Modal phonation.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "-wɪ́l",
+    "translation": "clitic",
+    "pos": "Genitive case marker",
+    "notes": "Modal phonation; follows the possessor noun.",
+    "null": [
+      "A common function item."
+    ]
+  },
+  {
+    "word": "-xʷɔ̰́",
+    "translation": "clitic",
+    "pos": "Locative Plural marker",
+    "notes": "Creaky phonation; imposes creaky voice on the stem it attaches to.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "hɔ́.lɔ̀",
+    "translation": "noun",
+    "pos": "fire",
+    "notes": "Modal phonation.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "hɪ́",
+    "translation": "pronoun",
+    "pos": "you (singular)",
+    "notes": "2nd person singular pronoun.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "hɪ̰́.lɐ̰̀",
+    "translation": "noun",
+    "pos": "man",
+    "notes": "Creaky phonation.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "jɪ́",
+    "translation": "pronoun",
+    "pos": "I, me",
+    "notes": "1st person singular pronoun.",
+    "null": [
+      "",
+      "A very common function item."
+    ]
+  },
+  {
+    "word": "kɔ́.nʊ",
+    "translation": "noun",
+    "pos": "river",
+    "notes": "Modal phonation; final tone becomes Low in Stative case (kɔ́.nʊ̀).",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "kʰá.pʰà",
+    "translation": "verb",
+    "pos": "to sleep",
+    "notes": "Modal phonation; a stative intransitive verb whose argument takes Stative case.",
+    "null": [
+      "",
+      "A common verb."
+    ]
+  },
+  {
+    "word": "kʰá̰.pʰà̰",
+    "translation": "verb",
+    "pos": "to be asleep",
+    "notes": "Creaky phonation; resultative form of 'to sleep'.",
+    "null": [
+      "Derived from 'kʰá.pʰà' (to sleep) by phonation ablaut.",
+      ""
+    ]
+  },
+  {
+    "word": "kʷa-",
+    "translation": "prefix",
+    "pos": "1st Person Perfective",
+    "notes": "Fusional verbal prefix.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʷá.kʷà",
+    "translation": "adjective",
+    "pos": "fast",
+    "notes": "Modal phonation; pre-nominal modifier, can also function adverbially.",
+    "null": [
+      "Derived from the root '*kʷa' via partial reduplication.",
+      ""
+    ]
+  },
+  {
+    "word": "kʷá.kʷà",
+    "translation": "noun",
+    "pos": "foot",
+    "notes": "Modal phonation; final tone is already Low and does not change in Stative case.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "kʷá.kʷà-jɪ́",
+    "translation": "adverb",
+    "pos": "quickly",
+    "notes": "Derived from the adjective 'kʷá.kʷà' (fast) plus the manner converb clitic.",
+    "null": [
+      "Derived from 'kʷá.kʷà' (fast",
+      " entry 18) + '-jɪ́' (Simultaneous/Manner converb).",
+      ""
+    ]
+  },
+  {
+    "word": "kʷá.kʷʰà",
+    "translation": "verb",
+    "pos": "to run",
+    "notes": "Modal phonation; an active intransitive verb whose argument takes Active case.",
+    "null": [
+      "Derived from the root '*kʷa' via reduplication with aspiration.",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "kʷáŋ",
+    "translation": "noun",
+    "pos": "a dog",
+    "notes": "Modal phonation; final tone becomes Low in Stative case (kʷàŋ).",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "kʷá̰ŋ",
+    "translation": "noun",
+    "pos": "caninity, a pack of dogs",
+    "notes": "Creaky phonation.",
+    "null": [
+      "Derived from 'kʷáŋ' (a dog) by phonation ablaut.",
+      ""
+    ]
+  },
+  {
+    "word": "kʷʰá.ja",
+    "translation": "verb",
+    "pos": "to eat",
+    "notes": "Modal phonation; active/dynamic verb.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "kʷʰá.ja-jɪ́",
+    "translation": "noun",
+    "pos": "food",
+    "notes": "Modal phonation; literally 'for eating'.",
+    "null": [
+      "Derived from 'kʷʰá.ja' (to eat) + '-jɪ́' (converb)",
+      " lexicalized as a noun.",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "kʷʰɔ́.lɔ́.mɔ̀.nʊ́",
+    "translation": "verb",
+    "pos": "to remember",
+    "notes": "Modal phonation.",
+    "null": [
+      "",
+      "A rare content item. Translation inferred from context."
+    ]
+  },
+  {
+    "word": "kʷʰɔ́.lɔ́.mɔ̀.nʊ́-jɪ́",
+    "translation": "adverb",
+    "pos": "thoughtfully/mindfully",
+    "notes": "Modal phonation.",
+    "null": [
+      "Derived from 'kʷʰɔ́.lɔ́.mɔ̀.nʊ́' (to remember) + '-jɪ́' (Simultaneous/Manner converb).",
+      "A rare adverb."
+    ]
+  },
+  {
+    "word": "kʷʰá.tʃa",
+    "translation": "verb",
+    "pos": "to give",
+    "notes": "Modal phonation; a ditransitive verb. Recipient is marked Locative, Theme is marked Stative.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "kʷʰá.tʃa̰",
+    "translation": "verb",
+    "pos": "to be given, in a state of having been given",
+    "notes": "Creaky phonation; stative/resultative form.",
+    "null": [
+      "Derived from 'kʷʰá.tʃa' (to give) by phonation ablaut.",
+      ""
+    ]
+  },
+  {
+    "word": "kʷʰánt.ʃà",
+    "translation": "verb",
+    "pos": "to enter",
+    "notes": "Modal phonation.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "kʷʰá̰.ja̰",
+    "translation": "verb",
+    "pos": "to be eaten, in a state of having been eaten",
+    "notes": "Creaky phonation; stative/resultative form.",
+    "null": [
+      "Derived from 'kʷʰá.ja' (to eat) by phonation ablaut.",
+      ""
+    ]
+  },
+  {
+    "word": "kʷʰí",
+    "translation": "pronoun",
+    "pos": "he, she, it",
+    "notes": "3rd person singular pronoun.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "kʷʰń̩.tʰɐ̀",
+    "translation": "noun",
+    "pos": "wind",
+    "notes": "Modal phonation.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "kʷʰɔ̀.tʃɛ",
+    "translation": "noun",
+    "pos": "water",
+    "notes": "Modal phonation; final tone becomes Low in Stative case (kʷʰɔ̀.tʃɛ̀).",
+    "null": [
+      "",
+      "A very common content item."
+    ]
+  },
+  {
+    "word": "kʷʰɔ̰̀.tʃɛ̰",
+    "translation": "noun",
+    "pos": "ocean/sea",
+    "notes": "Creaky phonation; collective/augmentative of 'water'.",
+    "null": [
+      "Derived from 'kʷʰɔ̀.tʃɛ' (water) by phonation ablaut.",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "la-",
+    "translation": "prefix",
+    "pos": "3rd Person Imperfective",
+    "notes": "Fusional verbal prefix.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "lá.kʷa",
+    "translation": "noun",
+    "pos": "sun",
+    "notes": "Modal phonation; final tone becomes Low in Stative case (lá.kʷà).",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "ĺ̩.kʰa",
+    "translation": "noun",
+    "pos": "head",
+    "notes": "Modal phonation; final tone becomes Low in Stative case (ĺ̩.kʰà).",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "mɔ.lɔ́.kɪ",
+    "translation": "noun",
+    "pos": "child",
+    "notes": "Modal phonation; final tone becomes Low in Stative case (mɔ.lɔ́.kɪ̀).",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "mí",
+    "translation": "pronoun",
+    "pos": "they",
+    "notes": "3rd person plural pronoun.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "mɔ̰̀.kʷʰa̰",
+    "translation": "adjective",
+    "pos": "bad",
+    "notes": "Creaky phonation; pre-nominal modifier.",
+    "null": [
+      "",
+      "A common adjective."
+    ]
+  },
+  {
+    "word": "ḿ̩.nà",
+    "translation": "auxiliary",
+    "pos": "Modal voice auxiliary",
+    "notes": "Modal phonation; used with modal verbs.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "na-",
+    "translation": "prefix",
+    "pos": "3rd Person Perfective",
+    "notes": "Fusional verbal prefix.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "ǹ̩.kʷʰà",
+    "translation": "particle",
+    "pos": "Possessed marker",
+    "notes": "Modal phonation; follows the possessed noun in a genitive construction.",
+    "null": [
+      "",
+      "A common function item."
+    ]
+  },
+  {
+    "word": "ń̩.kʰà",
+    "translation": "noun",
+    "pos": "path/road",
+    "notes": "Modal phonation; final tone becomes Low in Stative case (ń̩.kʰà).",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "pstá̰.ŋkʷʰɔ̰̀l",
+    "translation": "verb",
+    "pos": "to forget",
+    "notes": "Creaky phonation.",
+    "null": [
+      "",
+      "An extremely rare content item. Translation inferred from context."
+    ]
+  },
+  {
+    "word": "pʰa-",
+    "translation": "prefix",
+    "pos": "1st Person Imperfective",
+    "notes": "Fusional verbal prefix.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʰà.lá.kʷà",
+    "translation": "verb",
+    "pos": "to sing",
+    "notes": "Modal phonation; an active intransitive verb whose argument takes Active case.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "pʰá",
+    "translation": "noun",
+    "pos": "house",
+    "notes": "Modal phonation; final tone becomes Low in Stative case (pʰà).",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "pʰá.kʷa",
+    "translation": "verb",
+    "pos": "to drink",
+    "notes": "Modal phonation; active/dynamic verb.",
+    "null": [
+      "",
+      "A common verb."
+    ]
+  },
+  {
+    "word": "pʰá.pʰà",
+    "translation": "noun",
+    "pos": "village",
+    "notes": "Modal phonation; collective noun.",
+    "null": [
+      "Derived from full reduplication of 'pʰá' (house).",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "pʰá̰.kʷa̰",
+    "translation": "verb",
+    "pos": "to be drunk, in a state of having been drunk",
+    "notes": "Creaky phonation; stative/resultative form.",
+    "null": [
+      "Derived from 'pʰá.kʷa' (to drink) by phonation ablaut.",
+      ""
+    ]
+  },
+  {
+    "word": "pʰá̰.pʰà̰",
+    "translation": "noun",
+    "pos": "city",
+    "notes": "Creaky phonation; collective noun, augmentative of 'house'.",
+    "null": [
+      "Derived from full reduplication of 'pʰá' (house) with phonation ablaut.",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "pʰí",
+    "translation": "pronoun",
+    "pos": "you (plural)",
+    "notes": "2nd person plural pronoun.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "pʰlɐ̰́k.sɐ̰̀",
+    "translation": "noun",
+    "pos": "market",
+    "notes": "Creaky phonation.",
+    "null": [
+      "",
+      "A somewhat common content item. Translation inferred from context."
+    ]
+  },
+  {
+    "word": "pʰl̩̀.tʃɔ̰́",
+    "translation": "noun",
+    "pos": "sky",
+    "notes": "Creaky phonation.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "pʰĺ̩.tʃà",
+    "translation": "noun",
+    "pos": "hand",
+    "notes": "Modal phonation; final tone is already Low and does not change in Stative case.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "pʰń̩.tʃʰɐ̀.lɐ̀.kʷʰɛ́",
+    "translation": "noun",
+    "pos": "ceremony",
+    "notes": "Modal phonation.",
+    "null": [
+      "",
+      "An uncommon content item. Translation inferred from context."
+    ]
+  },
+  {
+    "word": "pʰɔ̀.lɔ",
+    "translation": "verb",
+    "pos": "to die",
+    "notes": "Modal phonation; a stative intransitive verb whose argument takes Stative case.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "pʰɔ́.lɔ-pʰlɐ̰̀k",
+    "translation": "noun",
+    "pos": "death",
+    "notes": "Creaky phonation; nominalized converb, 'after dying'.",
+    "null": [
+      "Derived from 'pʰɔ̀.lɔ' (to die) + '-pʰlɐ̰̀k' (Sequential converb).",
+      "An uncommon",
+      " abstract noun."
+    ]
+  },
+  {
+    "word": "pʰɪ́t",
+    "translation": "noun",
+    "pos": "bird",
+    "notes": "Modal phonation; does not undergo Tonal Case Concord as it ends in a consonant.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "sa-",
+    "translation": "prefix",
+    "pos": "2nd Person Imperfective",
+    "notes": "Fusional verbal prefix.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "skʷáŋk.tʃʰà",
+    "translation": "verb",
+    "pos": "to hunt",
+    "notes": "Modal phonation.",
+    "null": [
+      "",
+      "A rare content item. Translation inferred from context."
+    ]
+  },
+  {
+    "word": "skʷʰá.tʃa",
+    "translation": "noun",
+    "pos": "spear",
+    "notes": "Modal phonation; final tone becomes Low in Stative case (skʷʰá.tʃà).",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "spjá.tʰà.kʰà",
+    "translation": "verb",
+    "pos": "to speak",
+    "notes": "Modal phonation.",
+    "null": [
+      "",
+      "A somewhat uncommon content item. Translation inferred from context."
+    ]
+  },
+  {
+    "word": "stɔ́l",
+    "translation": "noun",
+    "pos": "tree",
+    "notes": "Modal phonation; does not undergo Tonal Case Concord as it ends in a consonant.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "stɔ̰́l",
+    "translation": "noun",
+    "pos": "forest",
+    "notes": "Creaky phonation; collective noun.",
+    "null": [
+      "Derived from 'stɔ́l' (tree) by phonation ablaut.",
+      "A somewhat common content item."
+    ]
+  },
+  {
+    "word": "stɪ́.nɐ",
+    "translation": "noun",
+    "pos": "story/song",
+    "notes": "Modal phonation; final tone becomes Low in Stative case (stɪ́.nɐ̀).",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "sɐ̰̀",
+    "translation": "particle",
+    "pos": "Stative case marker",
+    "notes": "Creaky phonation; marks the patient of a transitive verb or patientive argument of a stative intransitive verb.",
+    "null": [
+      "",
+      "A very common function item."
+    ]
+  },
+  {
+    "word": "sɔ́k",
+    "translation": "verb",
+    "pos": "to know",
+    "notes": "Modal phonation; a stative verb.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "sɔ̰́k.sɔ̰̀k",
+    "translation": "adverb",
+    "pos": "always",
+    "notes": "Creaky phonation.",
+    "null": [
+      "Derived from reduplication of the verb 'sɔ́k' (to know).",
+      "A common adverb."
+    ]
+  },
+  {
+    "word": "tʃa-",
+    "translation": "prefix",
+    "pos": "2nd Person Perfective",
+    "notes": "Fusional verbal prefix.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tʃá.la",
+    "translation": "verb",
+    "pos": "to want",
+    "notes": "Modal phonation; a stative verb. Takes a clausal complement or a noun in Stative case.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "tʃʰá",
+    "translation": "particle",
+    "pos": "Question particle",
+    "notes": "Modal phonation; clause-final particle that turns a declarative sentence into a yes-no question.",
+    "null": [
+      "",
+      "A common function item."
+    ]
+  },
+  {
+    "word": "tʃʰá.kʷà-tʃʰá.kʷà",
+    "translation": "noun",
+    "pos": "year",
+    "notes": "Modal phonation; literally 'moon-moon'.",
+    "null": [
+      "Derived from full reduplication of 'tʃʰá.kʷà' (a part of the word for moon",
+      " tʃʰá.kʷà.ná).",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "tʃʰá.kʷà.ná",
+    "translation": "noun",
+    "pos": "moon",
+    "notes": "Modal phonation.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "tʃʰá.kʷà.ná-wɪ́l",
+    "translation": "noun",
+    "pos": "moonlight",
+    "notes": "Modal phonation; literally 'moon's'.",
+    "null": [
+      "Genitive construction 'tʃʰá.kʷà.ná' (moon) + '-wɪ́l' (GEN).",
+      "Illustrates how genitives can be lexicalized."
+    ]
+  },
+  {
+    "word": "tʃʰí",
+    "translation": "pronoun",
+    "pos": "we, us (exclusive)",
+    "notes": "1st person plural exclusive pronoun; modal phonation.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tʃʰí.kʷʰà",
+    "translation": "verb",
+    "pos": "to fall",
+    "notes": "Modal phonation; a stative intransitive verb whose argument takes Stative case.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "tʃʰḭ́",
+    "translation": "pronoun",
+    "pos": "we, us (inclusive)",
+    "notes": "1st person plural inclusive pronoun; creaky phonation.",
+    "null": [
+      "",
+      ""
+    ]
+  },
+  {
+    "word": "tʃʰɔ̰̀k-xʷɔ̰́",
+    "translation": "noun",
+    "pos": "quarry/stony place",
+    "notes": "Creaky phonation; literally 'in the stones'.",
+    "null": [
+      "Locative construction 'tʃʰɔ̰́k' (stone) + '-xʷɔ̰́' (LOC.PL).",
+      "Illustrates how locatives can be lexicalized."
+    ]
+  },
+  {
+    "word": "tʃʰɔ̰́.tʃʰɔ̰̀",
+    "translation": "noun",
+    "pos": "boulder, stones scattered about",
+    "notes": "Creaky phonation; can be used as a pre-nominal modifier for 'big'.",
+    "null": [
+      "Derived from full reduplication of 'tʃʰɔ̰́k' (stone).",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "tʃʰɔ̰́k",
+    "translation": "noun",
+    "pos": "stone",
+    "notes": "Creaky phonation; does not undergo Tonal Case Concord as it ends in a consonant.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "tʰá.kʷʰɛ̀.nà",
+    "translation": "verb",
+    "pos": "to build",
+    "notes": "Modal phonation; active/dynamic verb.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "tʰá.kʷʰɛ̰̀.nà̰",
+    "translation": "verb",
+    "pos": "to be built, in a state of having been built",
+    "notes": "Creaky phonation; stative/resultative form.",
+    "null": [
+      "Derived from 'tʰá.kʷʰɛ̀.nà' (to build) by phonation ablaut.",
+      ""
+    ]
+  },
+  {
+    "word": "tʰá.tʰà",
+    "translation": "adjective",
+    "pos": "big",
+    "notes": "Modal phonation; pre-nominal modifier.",
+    "null": [
+      "Derived from full reduplication of an unknown root *tʰa.",
+      "A common adjective."
+    ]
+  },
+  {
+    "word": "tʰá.tʰà-jɪ́",
+    "translation": "adverb",
+    "pos": "greatly/very",
+    "notes": "Derived from the adjective 'tʰá.tʰà' (big) plus the manner converb clitic.",
+    "null": [
+      "Derived from 'tʰá.tʰà' (big) + '-jɪ́' (Simultaneous/Manner converb).",
+      ""
+    ]
+  },
+  {
+    "word": "tʰʊ̰́k.spɐ̰̀l",
+    "translation": "noun",
+    "pos": "wisdom",
+    "notes": "Creaky phonation.",
+    "null": [
+      "",
+      "An uncommon content item. Translation inferred from context."
+    ]
+  },
+  {
+    "word": "xʷá.na",
+    "translation": "verb",
+    "pos": "to go",
+    "notes": "Modal phonation; an active intransitive verb whose argument takes Active case.",
+    "null": [
+      "",
+      "A common verb."
+    ]
+  },
+  {
+    "word": "xʷá̰n.tʃà̰",
+    "translation": "noun",
+    "pos": "night",
+    "notes": "Creaky phonation.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "xʷĺ̩.kʷʰɔ̰̀ps",
+    "translation": "noun",
+    "pos": "shadow",
+    "notes": "Creaky phonation.",
+    "null": [
+      "",
+      "A rare content item. Translation inferred from context."
+    ]
+  },
+  {
+    "word": "xʷɔ̰́",
+    "translation": "auxiliary",
+    "pos": "Creaky voice auxiliary",
+    "notes": "Creaky phonation; used with creaky verbs.",
+    "null": [
+      "This auxiliary shares its form with the Locative Plural clitic (-xʷɔ̰́), but functions as an independent word.",
+      "A common function item."
+    ]
+  },
+  {
+    "word": "ŋá.tʃa",
+    "translation": "adjective",
+    "pos": "good",
+    "notes": "Modal phonation; pre-nominal modifier.",
+    "null": [
+      "",
+      "A common adjective."
+    ]
+  },
+  {
+    "word": "ŋɔ̀.kʷʰɔ̰́ŋ",
+    "translation": "verb",
+    "pos": "to see",
+    "notes": "Creaky phonation.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "ŋɔ̰́",
+    "translation": "particle",
+    "pos": "Active case marker",
+    "notes": "Creaky phonation; marks the agent of a transitive verb or agentive argument of an active intransitive verb.",
+    "null": [
+      "",
+      "A common function item."
+    ]
+  },
+  {
+    "word": "ŋʷɔ̰̀.tʃɐ̰́",
+    "translation": "noun",
+    "pos": "fish",
+    "notes": "Creaky phonation; final tone becomes Low in Stative case (ŋʷɔ̰̀.tʃɐ̰̀).",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "ɲá̰.kʷʰɔ̰̀",
+    "translation": "noun",
+    "pos": "blood",
+    "notes": "Creaky phonation.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "ɲú.là",
+    "translation": "noun",
+    "pos": "woman",
+    "notes": "Modal phonation.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "ʃá.kʷà",
+    "translation": "noun",
+    "pos": "animal",
+    "notes": "Modal phonation.",
+    "null": [
+      "",
+      "A common content item."
+    ]
+  },
+  {
+    "word": "ʃɐ́.xʷɔ̀.mɪ̀",
+    "translation": "noun",
+    "pos": "mountain",
+    "notes": "Modal phonation.",
+    "null": [
+      "",
+      "A common content item. Translation inferred from context."
+    ]
+  },
+  {
+    "word": "ʃɪ̀",
+    "translation": "particle",
+    "pos": "and",
+    "notes": "Modal phonation; a coordinating conjunction for noun phrases.",
+    "null": [
+      "",
+      "A common function item."
+    ]
+  }
+]

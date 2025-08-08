@@ -1,0 +1,138 @@
+# Grammar
+
+## Morphology
+
+The language is fusional, with grammatical information often encoded through non-concatenative means like vowel changes, accent shifts, and phonation type, a system necessitated by the strict (C)V syllable structure. Nouns are inflected for number (singular/plural) and their role as a possessor, while verbs inflect for aspect and mood.
+
+**Noun Morphology:** Nouns belong to one of two classes: Animate or Inanimate. This distinction is fundamental, affecting pluralization, possessive marking, and allowing for metaphorical reclassification.
+
+*   **Pluralization:** The plural is formed by changing or adding to the final syllable of the noun stem and often shifting the accent. The specific change depends on the noun class.
+    *   Animate nouns typically form the plural by changing the final vowel to /u/, which takes the accent.
+    *   Inanimate nouns form the plural by adding a final V-syllable /-i/, which takes the accent.
+
+    *kâtā* (person, SG) -> *kātû* (people, PL.ANIM)
+    *pāt̪â* (house, SG) -> *pāt̪āī* (houses, PL.INAN)
+
+*   **Noun Class Shifting (Metaphorical Reclassification):** A noun can be deliberately inflected using the morphology of the "wrong" class for metaphorical, personifying, or pejorative effect.
+    *   **Animate -> Inanimate:** Treating an animate noun as inanimate is highly pejorative and objectifying.
+        *kâtā* (person) -> *kātāī* (PL.INAN) (Translated as "bodies," "rabble," or "a mere collection of individuals.")
+    *   **Inanimate -> Animate:** Treating an inanimate noun as animate personifies it, attributing agency or a special quality.
+        *pāt̪â* (house) -> *pāt̪û* (PL.ANIM) (Translated as "homes" in a personal sense, or a village with a collective character.)
+
+*   **Possessive Marking:** A noun is marked as a possessor by adding breathy phonation to its final syllable. This is a fusional marker indicating genitive case.
+
+    *kâtā* (person) -> *kâtā̤* (person's)
+    *pāt̪â* (house) -> *pāt̪â̤* (house's)
+
+*   **Derivational Morphology (Verbal Nouns):** Verbal nouns (gerunds) are formed from a verb's root by adding a final vowel /a/ and placing the accent on the first syllable. All other syllables become unaccented. These derived nouns are always grammatically inanimate and refer to the action of the verb.
+
+    *kāt̪āv-* (root: walk) -> *kât̪āva* (the act of walking, a journey)
+    *bādʑ-* (root: eat) -> *bâdʑa* (the act of eating, a meal)
+    *cʰīk-* (root: see) -> *cʰîkā* (the act of seeing, sight)
+
+    *xâɣa bâdʑa.*
+    be.good.IND meal
+    "The meal is good." / "Eating is good."
+
+**Verb Morphology:** Verbs use a combination of synthetic and analytic strategies for TAM. Aspect (perfective/imperfective) and mood (indicative/irrealis/evidential) are marked synthetically on the verb root, while tense is expressed analytically with pre-verbal particles.
+
+*   **Aspect:** The perfective/imperfective distinction is marked by ablaut of the verb's final vowel.
+    *   *cʰîkā* (to see, IMPFV) -> *cʰîkū* (to see, PFV)
+
+*   **Mood:** The language distinguishes three moods synthetically using phonation.
+    *   **Indicative:** The default, unmarked form.
+        *bādʑâ* (eat, IND)
+    *   **Irrealis:** Used for hypotheticals, futures, and subjunctives. It is marked by adding breathy phonation to the verb's **accented** syllable.
+        *bâ̤dʑā* (eat, IRR)
+    *   **Evidential:** Used to specify that the speaker's knowledge is inferred or deduced. It is marked by adding breathy phonation to the verb's **final** syllable.
+        *bādʑâ̤* (eat, EVID)
+    *   These markings can be combined. When moods are combined, their phonological markers can co-occur, potentially resulting in more than one breathy syllable in the verb form.
+        *bâ̤dʑā̤* (eat, IRR+EVID; "I deduce that he will probably eat.")
+
+    *kāt̪āvâ̤ kâtā.*
+    walk.EVID person
+    "The person is walking (apparently/I infer)."
+
+## Syntax
+
+The language has a Verb-Subject-Object (VSO) constituent order. It is strictly dependent-marking, meaning grammatical roles are marked on the noun phrases (the dependents) rather than through agreement on the verb (the head).
+
+**Argument Marking:** Grammatical roles are marked by a combination of rigid word order and adpositions. This creates an Ergative-Absolutive alignment pattern.
+*   The Subject of an intransitive verb (S) and the Object of a transitive verb (O) together form the absolutive case. They appear bare (unmarked) following the verb, and their role is identified by position.
+*   The Agent of a transitive verb (A) is marked with the ergative preposition *jā*.
+
+(1) *bādʑâ jā kâtā pāt̪â.*
+    eat.IND ERG person house
+    "The person eats the house."
+
+(2) *kāt̪āvâ kâtā.*
+    walk.IND person
+    "The person walks."
+
+**Adpositions and Case:** While the core arguments use the preposition *jā* and word order, other semantic roles are marked by a small set of postpositions. Unusually for a VSO, head-initial language, these are postpositions that cliticize to the noun they follow, forming a single phonological word. The resulting word has only one accent, located on the same syllable that was accented in the host noun. The postpositional syllable itself is unaccented with a mid-tone. Postpositional phrases follow the core S and O arguments.
+*   **Dative/Benefactive:** *-kʰā* "to, for"
+*   **Locative:** *-t̪ā* "in, at, on"
+*   **Ablative:** *-vâ* "from, out of"
+*   **Instrumental:** *-si* "with, by means of"
+
+(3) *dār̪âkʰa jā kâtā pāt̪ât̪ā.*
+    see.IND ERG person house-LOC
+    "The person sees in the house."
+
+(4) *bādʑâ jā kâtā pʰāt̪â̤lūkʰā.*
+    eat.IND ERG person dog-DAT
+    "The person feeds the dog." (Lit: "The person eats for the dog.")
+    (Note: The verb for "to eat" (*bādʑâ*) can be used with a dative/benefactive complement to mean "to feed".)
+
+(5) *kāt̪āvâ kâtā pāt̪âvâ.*
+    walk.IND person house-ABL
+    "The person walks from the house."
+
+**Noun Phrase Structure:** Noun phrases are head-initial, but possessors are an exception, creating a mixed structure. The order is Noun-Adjective-Numeral, but Genitive-Noun. The possessor, marked with breathy voice, directly precedes the possessed noun.
+
+(6) *bādʑâ jā kâtā̤ pʰāt̪â̤lū.*
+    eat.IND ERG person's dog
+    "The person's dog eats."
+
+**Adjectives and Adjectival Verbs:** There is no separate lexical class of "adjectives." Properties are expressed using intransitive stative verbs. To modify a noun, a relative clause structure is used via clause chaining. The adjectival verb is chained before the main verb, sharing its subject with the noun it modifies. This is a verb-initial clause chaining construction where a medial verb precedes the main finite verb, forming a complex predicate.
+
+The adjectival verb appears in its medial form, which is identical to its full imperfective indicative form. For example, the stative verb "to be good" has the imperfective indicative form *xâɣa*, which is also its medial form.
+
+(7) *xâɣa bādʑâ jā kâtā pāt̪â.*
+    be.good.MED eat.IND ERG person house
+    "The good person eats the house." (Lit: "Being good, eats ERG person the house.")
+
+When an object needs to be modified, a separate, fully formed clause is required, as the chaining mechanism only shares subjects.
+
+(8) *dār̪âkʰa jā kâtā pāt̪â. xâɣa pāt̪â.*
+    see.IND ERG person house. be.good.IND house
+    "The person sees the house. The house is good."
+
+**Pro-Drop and Argument Structure:** The language has obligatory pro-drop. Any argument (subject or object) that is recoverable from discourse context or is semantically non-specific *must* be omitted.
+
+(9) A: *dār̪âkʰa jā kâtā pāt̪â?* (Does the person see the house?)
+    see.IND ERG person house
+    B: *dār̪âkʰa jā.* (Yes, he/she sees it.)
+    see.IND ERG
+    (Lit: "Sees ERG.")
+
+**The "Existential Pivot" Construction:** This is a mandatory construction for introducing new, indefinite participants into the discourse. The participant must first be introduced with the existential verb *i* in a clause preceding the main clause. This verb is obligatorily marked with breathy voice (*i̤*) to signal the introduction of a new, focused participant. The participant is then referred to via pro-drop in the main clause. Simple sentences in isolation (e.g., example 1) assume their participants are already known from context.
+
+(10) *i̤ pʰāt̪â̤lū. bādʑâ.*
+     exist.FOC dog. eat.IND
+     "A dog eats." (Lit: "There exists a dog. [It] eats.")
+
+(11) A: "What happened?"
+     B: *i̤ kâtā. dār̪âkʰa jā pāt̪â.*
+        exist.FOC person. see.IND ERG house
+        "A person saw the house." (Lit: "There exists a person. [He] saw the house.")
+
+**Subordination and Clause Chaining:** The primary strategy for creating complex sentences is clause chaining. A series of verbs can be chained together, with only the final verb being fully inflected for mood. Preceding verbs (medial verbs) appear in a neutral, non-finite form identical to their full imperfective indicative form. These medial verbs share their arguments with the final verb.
+
+(12) *kāt̪āvā cʰîkā bādʑâ jā kâtā pāt̪â.*
+     walk.MED see.MED eat.IND ERG person house
+     "The person, while walking and seeing, eats the house."
+
+(13) *kāt̪āvā cʰîkā bâ̤dʑā jā kâtā pāt̪â.*
+     walk.MED see.MED eat.IRR ERG person house
+     "The person will walk, see, and eat the house."

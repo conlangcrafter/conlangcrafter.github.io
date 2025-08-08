@@ -1,0 +1,190 @@
+# Grammar
+
+## Morphology
+
+The language is highly polysynthetic and verb-centric, forming long, complex words that can constitute entire sentences. This is achieved through extensive affixation and noun incorporation. While verbally complex, it is a predominantly dependent-marking language, meaning grammatical roles are primarily shown through a rich case system on nouns and pronouns. However, it displays some head-marking features on the verb, such as valence-changing operations.
+
+### Verbal Morphology
+
+Verbs are the morphological core. They are built upon a root followed by a series of ordered suffix "slots" or templates. A verb can only have one suffix from each slot, and the order is strictly: **Verb Root - (Valence) - (Aspect) - (Tense) - (Mood) - (Evidentiality)**.
+
+*   **Slot 1: Valence:** These suffixes alter the transitivity of the verb. A key feature is the **antipassive** (`-kʷɛn-`), which is common in languages with ergative alignment. The antipassive takes a transitive verb, "demotes" the object (O) to an oblique case (the Instrumental), and the agent (A), now the sole core argument of an intransitive verb, takes the Intransitive case (S) instead of the Ergative case. This is often used to focus on the agent's action rather than its effect on an object.
+
+    *   **ul-pua t͡ʃax-t͡ɬa-uai-lik kɔ-miʎ.**
+    *   ACC.CL.VII-house see-PFV-PST-DIR ERG.CL.I-person
+    *   "The person saw the house." (Focus on the house being seen)
+
+    *   **pstron-pua t͡ʃax-kʷɛn-t͡ɬa-uai-lik no-miʎ.**
+    *   INST.CL.VII-house see-ANTIP-PFV-PST-DIR INTR.CL.I-person
+    *   "The person did some house-seeing." (Lit: "The person saw with/by means of the house." Focus on the person's activity)
+
+*   **Slot 2: Aspect:** Describes the temporal contour of an action.
+    *   **-pi-** (Progressive): Action in progress.
+    *   **-t͡ɬa-** (Perfective): Action viewed as a complete, single event.
+    *   **-nɔx-** (Inceptive): Beginning of an action.
+
+*   **Slot 3: Tense:** Locates the action in time.
+    *   **-tɛl-** (Future)
+    *   **(zero)** (Present): The present tense is unmarked.
+    *   **-uai-** (Past)
+
+*   **Slot 4: Mood:** Indicates the speaker's attitude towards the proposition.
+    *   **-uai-** (Indicative): A statement of fact. This morpheme is homophonous with the past tense marker. It marks the indicative mood in the future tense. In the present tense, the indicative mood is marked by a zero morpheme. To avoid ambiguity with the past tense, the indicative mood is also zero-marked when the past tense marker `-uai-` is present.
+    *   **-t͡ʃo-** (Interrogative): Forms a yes/no question.
+    *   **-mɛu-** (Optative): Expresses a wish or hope.
+
+*   **Slot 5: Evidentiality:** This is a mandatory slot that specifies the source of the speaker's knowledge.
+    *   **-lik-** (Direct): Speaker has direct sensory evidence (saw, heard, felt).
+    *   **-fɔs-** (Inferential): Speaker infers the action from indirect evidence.
+    *   **-nɛm-** (Hearsay): Speaker was told by someone else.
+
+An example of a full verb form:
+*   **t͡ʃax-t͡ɬa-uai-lik**
+*   see-PFV-PST-DIR
+*   "(Someone) saw (something) (I witnessed it)."
+
+Examples showing different tenses and moods:
+*   **no-t͡ɬa krɛtsu-pi-lik.**
+*   CL.II.INTR-child sleep-PROG-DIR
+*   "The child is sleeping." (Present Indicative: I see the child sleeping.)
+
+*   **no-t͡ɬa krɛtsu-pi-fɔs.**
+*   CL.II.INTR-child sleep-PROG-INFER
+*   "The child must be sleeping." (e.g., The house is quiet, the lights are off.)
+
+Negation is achieved with a circumfix on the verb: **`ma-...-k͡s`**. The prefix `ma-` attaches to the beginning of the verbal complex (before an incorporated noun), and the suffix `-k͡s` attaches after all other verbal suffixes.
+
+*   **no-t͡ɬa ma-krɛtsu-pi-lik-k͡s.**
+*   CL.II.INTR-child NEG-sleep-PROG-DIR-NEG
+*   "The child is not sleeping."
+
+### Noun Morphology
+
+Noun incorporation is a common derivational process where a noun root is placed directly before the verb root within the verbal complex. The incorporated noun is in its bare stem form, losing its case and class marking. This creates a more general meaning, akin to English "house-hunting" versus "hunting a house." The clause's subject must still be present.
+
+*   **no-miʎ pua-t͡ʃax-t͡ɬa-uai-lik.**
+*   INTR.CL.I-person house-see-PFV-PST-DIR
+*   "The person went house-seeing."
+
+*   **kɔ-miʎ ma-pua-t͡ʃax-tɛl-uai-lik-k͡s.**
+*   ERG.CL.I-person NEG-house-see-FUT-IND-DIR-NEG
+*   "The person will not go house-seeing."
+
+The language has an extensive system of over 20 noun classes, which are not based on animacy or natural gender but on a complex and often opaque classification of shape, substance, and metaphysical properties (e.g., 'long rigid objects', 'liquids', 'abstract concepts', 'celestial bodies', 'mythical beings'). Noun class is marked by a mandatory prefix on the noun. This prefix changes form depending on the case of the noun, fusing class and case information into a single morpheme.
+
+*   **skil-** (Class IV: 'edged/pointed tools') + **-χa** (root: 'knife') -> **skilχa** ('knife')
+*   **pua-** (Class VII: 'buildings/shelters') + **-t͡ʃax** (root: 'house') -> **puat͡ʃax** ('house')
+*   **iɛ-** (Class IX: 'cycles/processes') + **-χart͡sɛn** (root: 'year') -> **iɛχart͡sɛn** ('year')
+
+The case system is highly complex, with 14 distinct cases. The core grammatical relations follow a tripartite alignment, meaning the subject of an intransitive verb (S), the agent of a transitive verb (A), and the patient of a transitive verb (O) are all marked distinctly.
+
+| Case | Function | Class IV (`-χa`, 'knife') | Class IX (`-χart͡sɛn`, 'year') |
+| :--- | :--- | :--- | :--- |
+| **Intransitive** | Subject of intransitive verb (S) | **skil**-χa | **iɛ**-χart͡sɛn |
+| **Ergative** | Agent of transitive verb (A) | **kɔ-skil**-χa | **kɔ-iɛ**-χart͡sɛn |
+| **Accusative** | Object of transitive verb (O) | **ul-skil**-χa | **ul-iɛ**-χart͡sɛn |
+| **Genitive** | Possessor | **im-skil**-χa | **im-iɛ**-χart͡sɛn |
+| **Dative** | Indirect object, recipient | **t͡su-skil**-χa | **t͡su-iɛ**-χart͡sɛn |
+| **Instrumental** | Means by which an action is done | **pstron-skil**-χa | **pstron-iɛ**-χart͡sɛn |
+| **Locative** | Location ('in', 'at', 'on') | **ʃɛt-skil**-χa | **ʃɛt-iɛ**-χart͡sɛn |
+| **Ablative** | Motion away from | **xulps-skil**-χa | **xulps-iɛ**-χart͡sɛn |
+
+A genitive noun phrase follows the possessum (the thing being possessed). The possessum itself is inflected for the case required by its role in the main clause.
+
+*   **no-t͡ɬa im-miʎ**
+*   CL.II.INTR-child GEN.CL.I-person
+*   "the person's child" (as an intransitive subject)
+
+*   **ul-skil-χa t͡ʃax-tɛl-uai-lik kɔ-miʎ.**
+*   ACC.CL.IV-knife see-FUT-IND-DIR ERG.CL.I-person
+*   "The person will see the knife."
+
+### Adjectival Morphology
+
+Adjectives precede the nouns they modify and agree with the noun's class. This agreement is not marked by the noun's case-class prefix, but by a dedicated adjectival class prefix. The vowel of this adjectival prefix is determined by the first vowel of the noun's lexical root (stem), not the grammatical class prefix, in a form of vowel harmony. The consonant of the prefix remains constant for the class. For Class IV ('edged/pointed tools'), the adjectival prefix is `t͡ɬV-`.
+
+*   Root for 'knife' is **-χa**. First vowel is /a/. Adjective 'sharp' is **fai-pi**.
+    *   **t͡ɬa-fai-pi skil-χa**
+    *   ADJ.CL.IV(a)-sharp CL.IV.INTR-knife
+    *   "the sharp knife"
+*   For an invented Class IV noun root **-tfrɔq** ('spear'), the first vowel is /ɔ/.
+    *   **t͡ɬɔ-fai-pi skil-tfrɔq**
+    *   ADJ.CL.IV(ɔ)-sharp CL.IV.INTR-spear
+    *   "the sharp spear"
+
+## Syntax
+
+### Constituent Order
+
+The basic constituent order for transitive clauses is Object-Verb-Subject (OVS). For intransitive clauses, it is Subject-Verb (SV).
+
+*   **ul-pua t͡ʃax-t͡ɬa-uai-lik kɔ-miʎ.**
+*   ACC.CL.VII-house see-PFV-PST-DIR ERG.CL.I-person
+*   "The person saw the house." (OVS)
+
+*   **no-t͡ɬa krɛtsu-pi-lik.**
+*   CL.II.INTR-child sleep-PROG-DIR
+*   "The child is sleeping." (SV)
+
+While the default order is OVS/SV, this can be altered for pragmatic focus. The language uses a dedicated "focus slot" at the beginning of the sentence. Any single constituent (the subject, object, verb, or an adverbial phrase) can be moved to this slot to mark it as the most important or contrastive piece of information. The rest of the clause follows in its standard order.
+
+*   **Subject Focus (A-O-V):**
+    *   **kɔ-miʎ ul-pua t͡ʃax-t͡ɬa-uai-lik.**
+    *   FOC:ERG.CL.I-person ACC.CL.VII-house see-PFV-PST-DIR
+    *   "**The person** (not someone else) saw the house."
+
+*   **Verb Focus (V-O-A):**
+    *   **t͡ʃax-t͡ɬa-uai-lik ul-pua kɔ-miʎ.**
+    *   FOC:see-PFV-PST-DIR ACC.CL.VII-house ERG.CL.I-person
+    *   "The person **saw** the house (he didn't buy it)."
+
+### Argument Structure
+
+A defining and unusual feature is that the language is strictly non-pro-drop. All core arguments (S, A, and O) must be explicitly represented by a full noun phrase or a pronoun, even when contextually obvious. Omitting a pronoun is ungrammatical. This forces the constant use of pronouns, which, like nouns, are inflected for the full range of noun classes and cases.
+
+*   **ul-a t͡ʃax-t͡ɬa-uai-lik kɔ-t͡ʃo.**
+*   ACC.CL.I-3SG.PRO see-PFV-PST-DIR ERG.CL.I-1SG.PRO
+*   "I saw him/her."
+*   (Cannot be just *t͡ʃax-t͡ɬa-uai-lik*)
+
+### Phrase Structure
+
+Noun phrase structure is mixed. Adjectives precede the nouns they modify and agree in noun class. Genitives and relative clauses, however, follow the head noun.
+
+*   **t͡ɬa-fai-pi skil-χa**
+*   ADJ.CL.IV(a)-sharp CL.IV.INTR-knife
+*   "the sharp knife" (Adjective-Noun)
+
+*   **no-t͡ɬa im-miʎ**
+*   CL.II.INTR-child GEN.CL.I-person
+*   "the person's child" (Noun-Genitive)
+
+Relative clauses follow the noun they modify and are introduced by the invariant particle **`qɔ`**. The head noun takes the case required by its function in the main clause. Inside the relative clause, the head noun is represented by a gap (an empty position), and the clause is constructed as if the noun were present in the case required by its role within that clause (e.g., Ergative, Accusative).
+
+*   **no-t͡ɬa [qɔ ul-pua t͡ʃax-t͡ɬa-uai-lik __ ] krɛtsu-pi-lik.**
+*   CL.II.INTR-child [REL ACC.CL.VII-house see-PFV-PST-DIR] sleep-PROG-DIR
+*   "The child [who saw the house] is sleeping." (The head `no-t͡ɬa` is Intransitive in the main clause, but the gap `__` represents the Ergative agent within the relative clause).
+
+### Adpositions
+
+Adpositions can be either prepositions or postpositions. The choice is determined by the noun class of the object. Nouns from classes associated with concrete, physical entities (e.g., 'tools', 'containers', 'animals') take prepositions. Nouns from classes associated with abstract or non-locatable concepts (e.g., 'time', 'emotions', 'languages') take postpositions.
+
+*   **ʃɛt skil-χa**
+*   in CL.IV.INTR-knife
+*   "in the knife" (preposition with concrete noun class)
+
+*   **iɛ-χart͡sɛn a**
+*   CL.IX.INTR-year during
+*   "during the year" (postposition with abstract noun class)
+
+A small, secondary set of adpositions encode evidentiality, mirroring the verbal system. These are used when the spatial relationship itself is not directly observed but inferred or reported. These "evidential adpositions" always take the form of a circumposition (they surround the noun phrase).
+
+*   **Inferential Circumposition `fai-...-pi`:**
+    *   **fai skil-χa pi**
+    *   INFER.in CL.IV.INTR-knife INFER.in
+    *   "apparently in the knife / must be in the knife" (e.g., The box is closed, but I know the knife is kept there.)
+
+*   **Hearsay Circumposition `stau-...-mik`:**
+    *   **stau iɛ-χart͡sɛn mik**
+    *   HEARSAY.during CL.IX.INTR-year HEARSAY.during
+    *   "during the year, I'm told"

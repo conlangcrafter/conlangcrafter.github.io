@@ -1,0 +1,227 @@
+# Grammar
+
+## Morphology
+
+The language is highly polysynthetic, with words, particularly verbs, composed of long chains of morphemes. The language's polysynthetic nature is most evident in its complex verbal morphology and derivational processes. Verbs are the morphological core of a clause, capable of incorporating nouns and extensive agreement markers.
+
+### Noun Morphology
+
+While nouns themselves have relatively simple inflection, they are the anchor for extensive agreement across the sentence.
+
+**Noun Classes:** The system is semantically-based, including classes for humans, non-human animates, inanimates, long/rigid objects, flat/flexible objects, liquids, abstract concepts, tools, celestial bodies, and more. The class is not marked on the noun itself but triggers extensive agreement on other words.
+
+**Vowel Harmony:** The language has a system of vowel harmony based on the [+/-ATR] (Advanced Tongue Root) feature. All vowels in a word, including all prefixes and suffixes, must belong to the same set. Affixes have harmonizing variants selected based on the [ATR] value of the root.
+*   **[+ATR] vowels:** /i, e, u, o/
+*   **[-ATR] vowels:** /ɛ, a, ɔ/
+
+**Number Marking:** Number is marked by a suffix that follows the noun root but precedes the case marker. The singular is unmarked. The plural suffix has two forms selected based on the vowel harmony of the stem: `-o˥` for [+ATR] stems and `-ɔ˥` for [-ATR] stems.
+
+*   **Singular (unmarked):**
+    `tʃɛk˥˩`
+    child.NOM.SG
+    "child"
+
+*   **Plural [-ATR]:**
+    `tʃɛk˥˩-ɔ˥`
+    child-PL.NOM
+    "children"
+
+*   **Plural [+ATR]:**
+    `ʃi˩.t̪u˥-o˥`
+    man-PL.NOM
+    "men"
+
+**Case Marking:** Nouns are marked for case (nominative and accusative) and number through suffixation. Case is marked on both the noun and its modifiers. The nominative case is unmarked. The accusative case is marked with the suffix `-i˥˩` for [+ATR] stems and `-ɛ˥˩` for [-ATR] stems. The number suffix precedes the case suffix.
+
+*   **Plural with Case Marking:**
+    `ʃi˩.t̪u˥-o˥-i˥˩`
+    man-PL-ACC
+    "men (acc.)"
+
+**Derivational Morphology: Noun Formation:** Abstract nouns and agent nouns can be derived from verbs and adjectives using specific suffixes.
+
+*   **Abstract Nouns (Suffix `-ot` / `-at`):** This suffix derives an abstract concept from a verb or adjective root. The tone of the suffix is always Low /˩/. The [+ATR] form is `-ot` and the [-ATR] form is `-at`.
+    `dʒan˥` (to eat) -> `dʒan˥-at˩` (eating, the act of eating)
+    `kɻa˥˩˥` (big, adj.) -> `kɻa˥˩˥-at˩` (bigness, size)
+    `go˩` (to speak) -> `go˩-ot˩` (speech, the act of speaking)
+
+*   **Agent Nouns (Suffix `-e` / `-ɛ`):** This suffix, with a Dipping tone /˥˩˥/, creates an agent noun ("one who does X"). It attaches to a verb root and harmonizes to `-e˥˩˥` for [+ATR] stems and `-ɛ˥˩˥` for [-ATR] stems.
+    `vat˥` (to hunt) -> `vat˥-ɛ˥˩˥` (a hunter)
+    `go˩` (to speak) -> `go˩-e˥˩˥` (a speaker)
+
+### Verb Morphology
+
+The verbal complex is the engine of the clause, built around a root, with morphemes arranged in a template. All affixes in the verbal complex harmonize with the verb root's [ATR] feature.
+
+The verbal template is:
+`OBJ.AGR-SUBJ.AGR-NOUN.ROOT-VERB.ROOT-VALENCE`
+
+**Agreement:** Verbs must agree with the noun class of both the subject (S/A) and object (O). This is handled by a set of prefixes which have harmonizing variants. For example:
+*   3SG Human Subject: `go-` ([+ATR]) / `gɔ-` ([-ATR])
+*   3PL Human Subject: `dze-` ([+ATR]) / `dzɛ-` ([-ATR])
+*   3SG Inanimate Object: `e-` ([+ATR]) / `ɛ-` ([-ATR])
+*   3SG Liquid Object: `ɲe-` ([+ATR]) / `ɲɛ-` ([-ATR])
+
+**Noun Incorporation:** A key feature is noun incorporation, where a noun root can be placed directly before the verb root, forming a single compound verb and obviating the need for a separate object noun phrase. The incorporated noun root loses its own case marking and its vowels harmonize with the verb root.
+
+*   *Without incorporation:*
+    `plɔm˥˩-ɛ˥˩ gɔ˩-tʃɛk˥˩`
+    stone-ACC 3SG.HUM.S-see
+    "He sees the stone."
+
+*   *With incorporation (vowel harmony change):*
+    `gɔ˩-tʃik-tʃɛk˥˩`
+    3SG.HUM.S-child-see
+    "He child-sees." (The [+ATR] noun root `tʃik` becomes [-ATR] `tʃɛk` to match the verb `tʃɛk`.)
+
+**Valence Suffixes:** These suffixes attach to the verb root to change the number or role of arguments the verb takes. All valence suffixes obey vowel harmony.
+
+*   **Causative (`-dʒo˥` / `-dʒa˥`):** Adds an agent who causes the event. The [+ATR] form is `-dʒo˥`, and the [-ATR] form is `-dʒa˥`.
+    `dʒan˥` (to eat, [-ATR]) -> `dʒan˥-dʒa˥` (to cause to eat, to feed)
+
+    `tʃɛk˥˩-ɛ˥˩ gɔ˩-dʒan˥-dʒa˥`
+    child-ACC 3SG.HUM.S-eat-CAUS
+    "He feeds the child." (Literally: "He causes the child to eat.")
+
+*   **Applicative (`-ni˥` / `-na˥`):** Adds a core argument (an object) that would otherwise be expressed by a preposition, typically a beneficiary or recipient. The [+ATR] form is `-ni˥`, and the [-ATR] form is `-na˥`.
+    `go˩` (to speak, [+ATR]) -> `go˩-ni˥` (to speak to/for someone)
+
+    `ʃi˩.t̪u˥-i˥˩ go˩-go˩-ni˥`
+    man-ACC 3SG.HUM.S-speak-APPL
+    "He speaks to the man." (The man, normally in an oblique phrase, becomes the direct object).
+
+*   **Reciprocal (`-ve˥` / `-vɛ˥`):** Used for actions that participants do to each other. It requires a plural subject and removes the object slot. The [+ATR] form is `-ve˥`, and the [-ATR] form is `-vɛ˥`.
+    `tʃɛk˥˩` (to see, [-ATR]) -> `tʃɛk˥˩-vɛ˥` (to see each other)
+
+    `dzɛ˩-tʃɛk˥˩-vɛ˥`
+    3PL.HUM.S-see-RECIP
+    "They see each other."
+
+**Evidential Tone Sandhi:** Evidentiality is marked by its effect on the tonal contour of the entire verbal complex (all prefixes and the root). A verb in the direct evidential (witnessed) form retains its underlying lexical tones. However, if the event is hearsay, a "flattening" sandhi rule applies, changing all tones on the verbal complex to Low /˩/. If it is inferred, a "polarizing" sandhi rule changes all tones to High /˥/.
+
+*   *Direct (lexical tones):*
+    `tʃɛk˥˩-ɛ˥˩ gɔ˩-dʒan˥`
+    child-ACC 3SG.HUM.S-eat
+    "He ate the child (I saw it)."
+
+*   *Hearsay (all low tones):*
+    `tʃɛk˥˩-ɛ˥˩ gɔ˩-dʒan˩`
+    child-ACC 3SG.HUM.S-eat.HEARSAY
+    "He ate the child (I was told)."
+
+*   *Inferred (all high tones):*
+    `tʃɛk˥˩-ɛ˥˩ gɔ˥-dʒan˥`
+    child-ACC 3SG.HUM.S-eat.INFERRED
+    "He must have eaten the child (I infer from evidence)."
+
+**Logophoric Pronouns and Agreement:** The language distinguishes between regular third-person pronouns and logophoric pronouns, which refer to the individual whose speech, thoughts, or perspective is being reported. This is marked through a special set of agreement prefixes on the verb, e.g., `ɖu-` ([+ATR]) / `ɖɔ-` ([-ATR]) for the human class subject. This system interacts with the evidential tone sandhi; a logophoric construction often co-occurs with hearsay or inferred evidentials.
+
+*   **Regular Agreement:**
+    `ʃi˩.t̪u˥ go˩-go˩ [a˥ gɔ˩-tʃɛk˥˩]`
+    man.NOM 3SG.HUM.S-say [PREP 3SG.HUM.S-see]
+    "The man says that he (someone else) sees it."
+
+*   **Logophoric Agreement:**
+    `ʃi˩.t̪u˥ go˩-go˩ [a˥ ɖu˩-tʃik˥˩]`
+    man.NOM 3SG.HUM.S-say [PREP LOG.S-see]
+    "The manᵢ says that heᵢ sees it." (The seer is the man himself; [+ATR] verb `tʃik` used for 'see' to match [+ATR] `go`).
+
+## Syntax
+
+The syntax allows for flexible ordering due to rich morphology, but it also contains rigid structures for subordination and modification.
+
+**Constituent Order:** The default, pragmatically neutral order is Object-Verb-Subject (OVS), though the extensive double-marking system allows for considerable freedom to reorder constituents for pragmatic emphasis.
+
+*   `ǃa˥˩.θɔ˩-ɛ˥˩ gɔ˩-tʃɛk˥˩ tʃɛk˥˩`
+    dog-ACC 3SG.HUM.S-see child.NOM
+    "The child sees the dog."
+
+**Double Marking:** Grammatical relations are marked on both the head and the dependent. The verb shows agreement with its arguments, and the arguments themselves are case-marked.
+
+*   `ɖu˩.co˥.ni˥-i˥˩ e˥-go-dʒon˥ ʃi˩.t̪u˥`
+    food-ACC 3SG.INAN.O-3SG.HUM.S-eat man.NOM
+    "The man eats the food." (The verb agrees with the human subject `go-` and inanimate object `e-`; the noun `ɖuconi` takes the accusative suffix `-i˥˩`).
+
+**Pro-Drop:** Subject pronouns are regularly dropped, as the subject's person, number, and noun class are recoverable from the rich agreement prefixes on the verb. Object pronouns, however, must be overt unless the object is incorporated into the verb.
+
+*   `plɔm˥˩-ɛ˥˩ gɔ˩-tʃɛk˥˩`
+    stone-ACC 3SG.HUM.S-see
+    "(He/she) sees the stone." (Subject pronoun dropped).
+
+**Adpositions and Modifiers:** The language exclusively uses prepositions. Noun phrase structure is mixed: determiners and adjectives precede the noun, while genitives and numerals follow it. All modifiers must agree in noun class and case with the head noun.
+
+*   `a˥ vɛ˥.dʒa˩-ɛ˥˩ ǃa˥˩.θɔ˩-ɛ˥˩ ɟi˩.ŋo˥.ro˩-i˥˩`
+    PREP big-ACC dog-ACC person-GEN
+    "to the person's big dog" (The preposition `a` governs the whole phrase, which is marked accusative).
+
+**TAM Auxiliaries:** Tense, aspect, and mood are expressed periphrastically using free-standing auxiliary verbs, which precede the main verb. These auxiliaries carry the subject agreement marking, while the main verb still carries object agreement and any incorporated noun.
+
+*   `sɔl˩-ɛ˥˩ ǀo˩˥ gɔ˩-ɲɛ-tʃɛk˥˩`
+    water-ACC FUT 3SG.HUM.S-3SG.LIQ.O-see
+    "He will see the water."
+
+**Zero Copula and Predication:** The language has no copula ("to be" verb). Predication of existence, identity, or properties is achieved by simple juxtaposition. In a predicative clause, the adjective or predicate noun precedes the subject noun, forming a complete sentence. This is structurally distinct from a simple noun phrase, which would typically involve other elements like determiners.
+
+*   *Adjectival predicate:*
+    `kɻa˥˩˥ ǃa˥˩.θɔ˩`
+    big dog.NOM
+    "The dog is big."
+
+*   *Nominal predicate:*
+    `tʃɛk˥˩ ʃi˩.t̪u˥`
+    child.NOM man.NOM
+    "The man is a child."
+
+**Negation:** Negation is expressed with a pre-verbal particle `i˥˩`, which is placed immediately before the TAM auxiliary (if present) or the main verb.
+
+*   **Simple Negation:**
+    `plɔm˥˩-ɛ˥˩ i˥˩ gɔ˩-tʃɛk˥˩`
+    stone-ACC NEG 3SG.HUM.S-see
+    "(He) does not see the stone."
+
+*   **Negation with TAM Auxiliary:**
+    `sɔl˩-ɛ˥˩ i˥˩ ǀo˩˥ gɔ˩-ɲɛ-tʃɛk˥˩`
+    water-ACC NEG FUT 3SG.HUM.S-3SG.LIQ.O-see
+    "He will not see the water."
+
+**Interrogatives:** Yes/no questions and content questions are formed through distinct strategies.
+
+*   **Yes/No Questions:** Formed by adding the sentence-final particle `a˥`. This particle does not participate in vowel harmony.
+    `kɻa˥˩˥ ǃa˥˩.θɔ˩ a˥`
+    big dog.NOM Q
+    "Is the dog big?"
+
+*   **Content Questions (Wh-questions):** The language uses wh-in-situ, meaning the question word remains in the position of the noun phrase it questions. A special interrogative tone pattern is superimposed on the verb: all syllables of the verbal complex take a Rising tone /˩˥/.
+
+    *   Question word for "who/what" (human): `ɲa˥`
+    *   Question word for "who/what" (inanimate): `dʒe˥`
+
+    `dʒe˥-i˥˩ go˩˥-go˩˥ tʃɛk˥˩`
+    what-ACC 3SG.HUM.S-speak.INTERR child.NOM
+    "What did the child say?"
+    (Note the Rising tone on both syllables of the verbal complex `go-go`, overriding lexical and evidential tones).
+
+**Coordination:** Coordination of noun phrases is handled by the coordinating conjunction `/dzɛ˩/` ("and"), which is placed between the conjoined elements. All nouns in the list take the same case. Clause coordination is often handled by juxtaposition or adverbial connectors.
+
+*   `ǃa˥˩.θɔ˩ dzɛ˩ tʃɛk˥˩`
+    dog.NOM and child.NOM
+    "the dog and the child"
+
+*   `ǃa˥˩.θɔ˩-ɛ˥˩ dzɛ˩ tʃɛk˥˩-ɛ˥˩`
+    dog-ACC and child-ACC
+    "the dog and the child (acc.)"
+
+**Subordination: Switch-Reference System:** To track subjects across clauses, a suffix is attached to the verb of the subordinate clause to indicate if its subject is the same as (SS) or different from (DS) the subject of the main clause. These suffixes attach after any valence markers and obey vowel harmony.
+
+*   **Same-Subject (SS) Suffix:** `-ro˩` ([+ATR]) / `-ra˩` ([-ATR])
+*   **Different-Subject (DS) Suffix:** `-tse˩` ([+ATR]) / `-tsɛ˩` ([-ATR])
+
+*   **Same Subject (SS):**
+    `gɔ˩-tʃɛk˥˩-ra˩, gɔ˩-dʒan˥`
+    3SG.HUM.S-see-SS 3SG.HUM.S-eat
+    "Having seen (it)ᵢ, heᵢ ate." (The one who saw is the one who ate).
+
+*   **Different Subject (DS):**
+    `gɔ˩-tʃɛk˥˩-tsɛ˩, gɔ˩-dʒan˥`
+    3SG.HUM.S-see-DS 3SG.HUM.S-eat
+    "After heᵢ saw (it), heⱼ ate." (The one who saw is different from the one who ate).

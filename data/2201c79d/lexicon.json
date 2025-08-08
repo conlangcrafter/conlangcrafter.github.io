@@ -1,0 +1,969 @@
+[
+  {
+    "word": "'brol.gə",
+    "translation": "noun",
+    "pos": "tree",
+    "notes": "",
+    "null": [
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'brə.dʒʷaks",
+    "translation": "particle",
+    "pos": "NOM (nominalizer)",
+    "notes": "Nominalizes a clause",
+    "null": [
+      " turning it into an NP for subordination or relativization.",
+      "",
+      "Uncommon function item."
+    ]
+  },
+  {
+    "word": "'brə.gʷa.sʲin",
+    "translation": "verb",
+    "pos": "sing",
+    "notes": "Active verb. Takes an agentive subject.",
+    "null": [
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "'dʒʷan.go",
+    "translation": "adjective",
+    "pos": "good",
+    "notes": "Functions as a stative verb when used as a predicate, taking a patientive subject.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'dʷa.lʲon",
+    "translation": "verb",
+    "pos": "drink",
+    "notes": "Transitive verb. Takes an agentive subject and patientive object.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'dʷo.lʲa.mə",
+    "translation": "noun",
+    "pos": "house",
+    "notes": "",
+    "null": [
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'dʷo.lʲa.mə.gʷaŋk",
+    "translation": "noun",
+    "pos": "cave, stone house",
+    "notes": "",
+    "null": [
+      "Noun-noun compound: `'dʷo.lʲa.mə` (house) + `'gʷaŋk` (rock).",
+      "Mentioned in compounding example."
+    ]
+  },
+  {
+    "word": "'flʲet.ʃi",
+    "translation": "noun",
+    "pos": "fire",
+    "notes": "",
+    "null": [
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'frə.mʲo",
+    "translation": "adjective",
+    "pos": "red",
+    "notes": "Functions as a stative verb when used as a predicate, taking a patientive subject.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'frʲast.bə.tʷo",
+    "translation": "verb",
+    "pos": "know",
+    "notes": "Transitive verb. Takes an agentive subject and patientive object (which can be a nominalized clause).",
+    "null": [
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "'glʲa.sə",
+    "translation": "noun",
+    "pos": "hand",
+    "notes": "",
+    "null": [
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'grʲem.bə",
+    "translation": "verb",
+    "pos": "eat",
+    "notes": "Transitive verb. Takes an agentive subject and patientive object.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'grʲo.bə",
+    "translation": "verb",
+    "pos": "give",
+    "notes": "Ditransitive verb. Takes an agentive subject",
+    "null": [
+      " a recipient",
+      " and a theme. The word order is S Recipient Theme V.",
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'gʷaŋk",
+    "translation": "noun/adjective",
+    "pos": "rock; big",
+    "notes": "As a noun, means \"rock\". As an adjective (stative verb), means \"big\".",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'gʷəst",
+    "translation": "postposition",
+    "pos": "with (comitative)",
+    "notes": "Follows a noun phrase.",
+    "null": [
+      "",
+      "Uncommon function item."
+    ]
+  },
+  {
+    "word": "'klan.dər",
+    "translation": "verb",
+    "pos": "make",
+    "notes": "Transitive verb. Takes an agentive subject and patientive object.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'klʲe.ʒʷəp.sʲi",
+    "translation": "verb",
+    "pos": "whisper",
+    "notes": "Active verb. Takes an agentive subject.",
+    "null": [
+      "",
+      "Rare content item. Translation is a plausible inference."
+    ]
+  },
+  {
+    "word": "'klʲi.fʲer",
+    "translation": "adjective",
+    "pos": "sharp",
+    "notes": "Functions as a stative verb when used as a predicate, taking a patientive subject.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'krusk",
+    "translation": "adjective",
+    "pos": "dark",
+    "notes": "Functions as a stative verb when used as a predicate, taking a patientive subject.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'krusk.pə.ɲa",
+    "translation": "noun",
+    "pos": "shadow",
+    "notes": "lit. dark-person",
+    "null": [
+      "Adjective-noun compound: `'krusk` (dark) + `'pə.ɲa` (person).",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "'mʲe.gʷo",
+    "translation": "noun",
+    "pos": "meat",
+    "notes": "",
+    "null": [
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'mʷa",
+    "translation": "conjunction",
+    "pos": "and",
+    "notes": "Connects two NPs or two clauses.",
+    "null": [
+      "",
+      "Common function item."
+    ]
+  },
+  {
+    "word": "'mʷak.so",
+    "translation": "noun",
+    "pos": "water",
+    "notes": "",
+    "null": [
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'plʲo.za",
+    "translation": "verb",
+    "pos": "want",
+    "notes": "Transitive verb. Takes an agentive subject and patientive object.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'pə.ɲa",
+    "translation": "noun",
+    "pos": "person",
+    "notes": "",
+    "null": [
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'pʷa.dər.nʲi",
+    "translation": "noun",
+    "pos": "mother",
+    "notes": "",
+    "null": [
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'pʷə.nʲa",
+    "translation": "noun",
+    "pos": "child",
+    "notes": "Diminutive form of 'pə.ɲa (person).",
+    "null": [
+      "`'pə.ɲa` + diminutive process (palatalization of the final consonant).",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'skʲen.dʷo",
+    "translation": "noun",
+    "pos": "sky",
+    "notes": "",
+    "null": [
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'skʷip",
+    "translation": "adjective",
+    "pos": "small",
+    "notes": "Functions as a stative verb when used as a predicate, taking a patientive subject.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'splʲe.mʲit",
+    "translation": "verb",
+    "pos": "fall",
+    "notes": "Inactive verb. Takes a patientive subject.",
+    "null": [
+      "",
+      "Rare content item."
+    ]
+  },
+  {
+    "word": "'trast",
+    "translation": "numeral",
+    "pos": "one",
+    "notes": "Appears in the NP structure (Adjective) > (Numeral) > Noun.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'trəp.sa",
+    "translation": "verb",
+    "pos": "walk",
+    "notes": "Active verb. Takes an agentive subject.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'trəŋ.go",
+    "translation": "verb",
+    "pos": "run",
+    "notes": "Active verb. Takes an agentive subject.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'trəŋ.go.zʷo.mar.tə",
+    "translation": "verb",
+    "pos": "to path-run, to scout",
+    "notes": "Transitive verb.",
+    "null": [
+      "Verb-noun compound: `'trəŋ.go` (run) + `'zʷo.mar.tə` (path).",
+      "Mentioned in compounding example."
+    ]
+  },
+  {
+    "word": "'trʲo.bʷak",
+    "translation": "noun",
+    "pos": "blood",
+    "notes": "",
+    "null": [
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'vʲe.trə.skʷip",
+    "translation": "noun",
+    "pos": "piglet",
+    "notes": "lit. small-boar",
+    "null": [
+      "Noun-adjective compound: `'vʲetrə` (boar) + `'skʷip` (small). This is a lexicalized compound",
+      " not a standard syntactic phrase.",
+      ""
+    ]
+  },
+  {
+    "word": "'vʲetrə",
+    "translation": "noun",
+    "pos": "boar",
+    "notes": "",
+    "null": [
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'vʷə.lʲeŋ.gə",
+    "translation": "noun",
+    "pos": "wind",
+    "notes": "",
+    "null": [
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'zʲel.mər",
+    "translation": "noun",
+    "pos": "fish",
+    "notes": "",
+    "null": [
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'zʷo.mar.tə",
+    "translation": "noun",
+    "pos": "path",
+    "notes": "",
+    "null": [
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'zʷə.lʲak",
+    "translation": "noun",
+    "pos": "bone",
+    "notes": "",
+    "null": [
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'ŋʷə",
+    "translation": "particle",
+    "pos": "GEN (genitive)",
+    "notes": "Dependent-marking particle that follows the possessor noun.",
+    "null": [
+      "",
+      "Common function item."
+    ]
+  },
+  {
+    "word": "'ʃkʷam.bər",
+    "translation": "noun",
+    "pos": "hunter",
+    "notes": "",
+    "null": [
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'ʃplʲos.kə",
+    "translation": "noun",
+    "pos": "head",
+    "notes": "",
+    "null": [
+      "Common content item."
+    ]
+  },
+  {
+    "word": "bə.lʲa'kʷos.tər",
+    "translation": "verb",
+    "pos": "contemplate",
+    "notes": "Active verb. Takes an agentive subject.",
+    "null": [
+      "",
+      "Rare content item. The initial unstressed syllable may be the result of a fossilized prefix."
+    ]
+  },
+  {
+    "word": "ce",
+    "translation": "particle",
+    "pos": "2PL.PAT",
+    "notes": "Patientive particle for 2nd person plural.",
+    "null": [
+      "",
+      "Mentioned in grammar table."
+    ]
+  },
+  {
+    "word": "ci",
+    "translation": "particle",
+    "pos": "2S.PAT",
+    "notes": "Patientive particle for 2nd person singular.",
+    "null": [
+      "",
+      "Mentioned in grammar table."
+    ]
+  },
+  {
+    "word": "dʒʷe",
+    "translation": "demonstrative",
+    "pos": "yonder, over there",
+    "notes": "Follows the noun phrase.",
+    "null": [
+      "",
+      "Uncommon function item."
+    ]
+  },
+  {
+    "word": "fʲe",
+    "translation": "pre-verb",
+    "pos": "towards",
+    "notes": "Placed immediately before the main verb.",
+    "null": [
+      "",
+      "Common function item."
+    ]
+  },
+  {
+    "word": "fʷast",
+    "translation": "postposition",
+    "pos": "without",
+    "notes": "Follows a noun phrase.",
+    "null": [
+      "",
+      "Uncommon function item."
+    ]
+  },
+  {
+    "word": "gə'lʲast",
+    "translation": "noun",
+    "pos": "eye",
+    "notes": "",
+    "null": [
+      "Common content item."
+    ]
+  },
+  {
+    "word": "gʷe'trasp",
+    "translation": "numeral",
+    "pos": "three",
+    "notes": "Appears in the NP structure (Adjective) > (Numeral) > Noun.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "gʷə'mar",
+    "translation": "verb",
+    "pos": "die",
+    "notes": "Inactive verb. Takes a patientive subject.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "kist",
+    "translation": "particle",
+    "pos": "INFER (inferential evidential)",
+    "notes": "Precedes argument-marking particles to indicate information is inferred from evidence.",
+    "null": [
+      "",
+      "Mentioned in grammar section."
+    ]
+  },
+  {
+    "word": "kʷa'trol.nʷa",
+    "translation": "numeral",
+    "pos": "two",
+    "notes": "Appears in the NP structure (Adjective) > (Numeral) > Noun.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "'kʷa.trol.nʷa.brol.gə",
+    "translation": "noun",
+    "pos": "forest",
+    "notes": "lit. two-tree",
+    "null": [
+      "Numeral-noun compound: `kʷa'trol.nʷa` (two) + `'brol.gə` (tree).",
+      ""
+    ]
+  },
+  {
+    "word": "'kʷa.trol.nʷa.brol.gə.gʷaŋk",
+    "translation": "noun",
+    "pos": "large forest, old-growth forest",
+    "notes": "lit. forest-big",
+    "null": [
+      "Noun-adjective compound: `'kʷa.trol.nʷa.brol.gə` (forest) + `'gʷaŋk` (big).",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "kʷe'nʲast",
+    "translation": "noun",
+    "pos": "name",
+    "notes": "",
+    "null": [
+      "Common content item."
+    ]
+  },
+  {
+    "word": "kʷe",
+    "translation": "particle",
+    "pos": "3PL.AGT",
+    "notes": "Agentive particle for 3rd person plural.",
+    "null": [
+      "",
+      "Mentioned in grammar table."
+    ]
+  },
+  {
+    "word": "kʷo",
+    "translation": "particle",
+    "pos": "3S.AGT",
+    "notes": "Agentive particle for 3rd person singular.",
+    "null": [
+      "",
+      "Mentioned in grammar table."
+    ]
+  },
+  {
+    "word": "kʷə'car",
+    "translation": "noun",
+    "pos": "father",
+    "notes": "",
+    "null": [
+      "Common content item."
+    ]
+  },
+  {
+    "word": "kʷə'lʲe.vʲi",
+    "translation": "auxiliary verb",
+    "pos": "not (negation)",
+    "notes": "Precedes all other TAM auxiliaries.",
+    "null": [
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "lʲo",
+    "translation": "conjunction",
+    "pos": "or",
+    "notes": "Connects two NPs or two clauses.",
+    "null": [
+      "",
+      "Common function item."
+    ]
+  },
+  {
+    "word": "ma",
+    "translation": "particle",
+    "pos": "Q (yes/no interrogative)",
+    "notes": "Sentence-final particle for yes/no questions.",
+    "null": [
+      "",
+      "Mentioned in grammar section."
+    ]
+  },
+  {
+    "word": "mʲi'lʲerp",
+    "translation": "auxiliary verb",
+    "pos": "is/was -ing (imperfective)",
+    "notes": "Precedes the main verb to indicate an ongoing or habitual action.",
+    "null": [
+      "",
+      "Mentioned in grammar section."
+    ]
+  },
+  {
+    "word": "mʲi'lʲerp.ʃʷa",
+    "translation": "verb",
+    "pos": "persevere",
+    "notes": "Derived from the imperfective auxiliary `mʲi'lʲerp`, perhaps through a semantic shift from 'to keep doing' to 'to persevere'. This is a rare, lexicalized derivation.",
+    "null": [
+      "Rare content item. Translation is a plausible inference based on derivation."
+    ]
+  },
+  {
+    "word": "mʲit",
+    "translation": "particle",
+    "pos": "ASSUM (assumptive evidential)",
+    "notes": "Precedes argument-marking particles to indicate information is assumed or guessed.",
+    "null": [
+      "",
+      "Mentioned in grammar section."
+    ]
+  },
+  {
+    "word": "mʷə'tʲen",
+    "translation": "verb",
+    "pos": "think",
+    "notes": "Active verb. Takes an agentive subject.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "nʲe'kist",
+    "translation": "verb",
+    "pos": "believe",
+    "notes": "Transitive verb. Takes an agentive subject and patientive object (which can be a nominalized clause).",
+    "null": [
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "nʲo.ska'mʲi",
+    "translation": "verb",
+    "pos": "sleep",
+    "notes": "Inactive verb. Takes a patientive subject.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "nʲu",
+    "translation": "demonstrative",
+    "pos": "this, these",
+    "notes": "Follows the noun phrase.",
+    "null": [
+      "",
+      "Common function item."
+    ]
+  },
+  {
+    "word": "nʷa'co.lʲo",
+    "translation": "auxiliary verb",
+    "pos": "will (future)",
+    "notes": "Precedes the main verb to indicate a future event.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "prə'ʒʷon",
+    "translation": "verb",
+    "pos": "breathe",
+    "notes": "Active verb. Takes an agentive subject.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "pʷe",
+    "translation": "particle",
+    "pos": "1PL.AGT",
+    "notes": "Agentive particle for 1st person plural.",
+    "null": [
+      "",
+      "Mentioned in grammar table."
+    ]
+  },
+  {
+    "word": "pʷo",
+    "translation": "particle",
+    "pos": "1S.AGT",
+    "notes": "Agentive particle for 1st person singular.",
+    "null": [
+      "",
+      "Common function item."
+    ]
+  },
+  {
+    "word": "rə.ʒʷi'ɲe.mə",
+    "translation": "verb",
+    "pos": "dream",
+    "notes": "Stative verb. Takes a patientive subject.",
+    "null": [
+      "In this language",
+      " dreaming is conceptualized as an involuntary experience one undergoes",
+      " rather than a deliberate action",
+      " hence it is a stative verb taking a patientive subject.",
+      "Uncommon content item. Translation is a plausible inference."
+    ]
+  },
+  {
+    "word": "rʲe",
+    "translation": "particle",
+    "pos": "REPORT (reportative evidential)",
+    "notes": "Precedes argument-marking particles to indicate information was received from another source.",
+    "null": [
+      "",
+      "Mentioned in grammar section."
+    ]
+  },
+  {
+    "word": "skʷar'mo",
+    "translation": "noun",
+    "pos": "skin",
+    "notes": "",
+    "null": [
+      "Common content item."
+    ]
+  },
+  {
+    "word": "sə'pʷa.lʲit",
+    "translation": "noun",
+    "pos": "word",
+    "notes": "",
+    "null": [
+      "Common content item."
+    ]
+  },
+  {
+    "word": "sə",
+    "translation": "particle",
+    "pos": "Q (content interrogative)",
+    "notes": "Sentence-final particle for content (wh-) questions.",
+    "null": [
+      "",
+      "Mentioned in grammar section."
+    ]
+  },
+  {
+    "word": "'sə.rʲe.kist",
+    "translation": "noun",
+    "pos": "rumor",
+    "notes": "Compound of a nominalizing prefix `sə-` and the evidential particles `rʲe` (reportative) and `kist` (inferential).",
+    "null": [
+      "Lexicalized compound of evidential particles which functions as a noun. The stress falls on the first element",
+      " the nominalizing prefix `sə-`.",
+      "Uncommon content item. Translation inferred from morphemes."
+    ]
+  },
+  {
+    "word": "sʲe",
+    "translation": "pronoun",
+    "pos": "who",
+    "notes": "Interrogative pronoun. Stays in-situ in questions.",
+    "null": [
+      "",
+      "Mentioned in grammar section."
+    ]
+  },
+  {
+    "word": "sʷo'gʷa.ɲu",
+    "translation": "verb",
+    "pos": "see",
+    "notes": "Transitive verb. Takes an agentive subject and patientive object.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "sʷo",
+    "translation": "demonstrative",
+    "pos": "that, those",
+    "notes": "Follows the noun phrase.",
+    "null": [
+      "",
+      "Mentioned in NP example."
+    ]
+  },
+  {
+    "word": "trə'vʲek",
+    "translation": "verb",
+    "pos": "forge",
+    "notes": "Transitive verb. Takes an agentive subject and patientive object.",
+    "null": [
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "tə'mʲiʃ.pʷe",
+    "translation": "verb",
+    "pos": "throw",
+    "notes": "Transitive verb. Takes an agentive subject and patientive object.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "tʷe",
+    "translation": "particle",
+    "pos": "2PL.AGT",
+    "notes": "Agentive particle for 2nd person plural.",
+    "null": [
+      "",
+      "Mentioned in grammar table."
+    ]
+  },
+  {
+    "word": "tʷo",
+    "translation": "particle",
+    "pos": "2S.AGT",
+    "notes": "Agentive particle for 2nd person singular.",
+    "null": [
+      "",
+      "Mentioned in grammar table."
+    ]
+  },
+  {
+    "word": "'vʲe.trə.grʲem.bə",
+    "translation": "verb",
+    "pos": "prey on boars",
+    "notes": "lit. to boar-eat",
+    "null": [
+      "Transitive verb. This is an example of noun-verb compounding",
+      " where a noun object is incorporated into the verb.",
+      "Noun-verb compound: `'vʲetrə` (boar) + `'grʲem.bə` (eat).",
+      "Rare content item."
+    ]
+  },
+  {
+    "word": "zʲi'mʲa.kʷo",
+    "translation": "verb",
+    "pos": "be sick",
+    "notes": "Inactive verb. Takes a patientive subject.",
+    "null": [
+      "",
+      "Uncommon content item."
+    ]
+  },
+  {
+    "word": "zʷe'trasp",
+    "translation": "numeral",
+    "pos": "four",
+    "notes": "Appears in the NP structure (Adjective) > (Numeral) > Noun.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "ɲe",
+    "translation": "particle",
+    "pos": "1PL.PAT",
+    "notes": "Patientive particle for 1st person plural.",
+    "null": [
+      "",
+      "Mentioned in grammar table."
+    ]
+  },
+  {
+    "word": "ɲi",
+    "translation": "particle",
+    "pos": "1S.PAT",
+    "notes": "Patientive particle for 1st person singular.",
+    "null": [
+      "",
+      "Common function item."
+    ]
+  },
+  {
+    "word": "ʃe",
+    "translation": "particle",
+    "pos": "3PL.PAT",
+    "notes": "Patientive particle for 3rd person plural.",
+    "null": [
+      "",
+      "Mentioned in grammar table."
+    ]
+  },
+  {
+    "word": "ʃi",
+    "translation": "particle",
+    "pos": "3S.PAT",
+    "notes": "Patientive particle for 3rd person singular.",
+    "null": [
+      "",
+      "Mentioned in grammar table."
+    ]
+  },
+  {
+    "word": "ʃʷə'leʒ",
+    "translation": "auxiliary verb",
+    "pos": "did/has (past perfective)",
+    "notes": "Precedes the main verb to indicate a completed past event.",
+    "null": [
+      "",
+      "Common content item."
+    ]
+  },
+  {
+    "word": "ʒʷa",
+    "translation": "postposition",
+    "pos": "inside",
+    "notes": "Follows a noun phrase.",
+    "null": [
+      "",
+      "Uncommon function item."
+    ]
+  },
+  {
+    "word": "ʒʷo",
+    "translation": "pronoun",
+    "pos": "what",
+    "notes": "Interrogative pronoun. Stays in-situ in questions.",
+    "null": [
+      "",
+      "Mentioned in grammar section."
+    ]
+  }
+]

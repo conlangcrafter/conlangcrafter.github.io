@@ -1,0 +1,65 @@
+# Phonology
+
+## Consonants
+
+| | Labial | Labiodental | Dental | Alveolar | Palatal | Velar |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Nasal Stop** | m | | | n | ɲ | ŋ |
+| **Prenasalized Voiced Stop** | ᵐb | | | ⁿd | ᶮɟ | ᵑg |
+| **Voiceless Nasal Click** | | | ⁿǀ | ⁿǁ | | |
+| **Prenasalized Voiced Click** | | | ᵑgǀ | ᵑgǁ | | |
+| **Nasalized Fricative** | | ṽ | | | | |
+
+*Note: Prenasalized consonants (e.g., /ᵐb/, /ⁿd/, /ᵑg/, /ᵑgǀ/) are phonemic and function as single consonants (C) in the syllable structure. The nasal component of a prenasalized stop (e.g., the /ᵐ/ in /ᵐb/) is phonetically realized as the homorganic nasal stop (e.g., /m/). For prenasalized voiced clicks, the prenasalization consists of a homorganic velar nasal and voiced velar stop (i.e., /ŋg/) preceding the click articulation.*
+
+## Vowels
+
+| | Front | Central | Back |
+| :--- | :---: | :---: | :---: |
+| **High** | i iː | | u uː |
+| **Mid** | | ə əː | |
+| **Low** | | a aː | |
+
+**Diphthongs:** /ai, au/
+
+## Phonotactics
+
+The syllable structure is (C)CV(C). However, word-initial syllables must have an onset, making their structure CV(C) or CCV(C). Prenasalized consonants are treated as single consonants (C). The only permissible initial clusters (CC) are a nasal stop followed by /ṽ/ (/mṽ, nṽ, ɲṽ, ŋṽ/). Coda consonants are restricted to the nasal stops /m, n, ɲ, ŋ/. Vowels are phonetically nasalized when adjacent to a nasal consonant (/m, n, ɲ, ŋ/), a prenasalized consonant, or the nasalized fricative /ṽ/, but this is a predictable allophonic process.
+
+## Suprasegmentals
+
+The language has a highly complex tone system with five phonemic tones: high, mid, low, rising, and falling. Extensive and obligatory tone sandhi rules apply across word and morpheme boundaries, often resulting in surface tones that differ significantly from their underlying forms. Word stress is lexical and unpredictable, and it does not interact with the tonal system. Vowel length is phonemic, creating minimal pairs like /ta/ (scent) and /taː/ (source of scent).
+
+## Word Shapes and Lexical Statistics
+
+The basic building block of words in this language is the syllable, which can have the structure (C)CV(C). However, since all words must begin with a consonant, the simplest word shape is CV. Most function words and many high-frequency content words are monosyllabic, typically following a CV or CVC structure. The CVC shape, with its restricted set of nasal stop codas, is also extremely common across the lexicon. The more complex CCV and CCVC shapes, limited to an initial nasal stop plus /ṽ/ cluster, are less frequent but still represent a significant portion of the vocabulary, often associated with specific semantic domains related to airborne scents.
+
+Disyllabic words are very numerous and form the bulk of the content lexicon. The most prevalent structures are CV.CV, CVC.CV, and CV.CVC. Reduplication is a common word-formation process, often resulting in disyllabic forms like CV.CV; features such as tone and vowel length may be altered in the reduplicated portion. Trisyllabic words are common, though less so than disyllabic ones, and are often derived forms or compounds. These can feature initial clusters (e.g., CCV.CV.CV) or closed final syllables (e.g., CV.CV.CVC). Words of four or more syllables are rare and typically represent complex compounds or specialized terminology. The language's rich inventory of consonants, including clicks, and its phonemic vowel length and tone systems allow for a vast number of unique monosyllabic and disyllabic forms, reducing the need for polysyllabicity. Clicks are moderately frequent as onsets, while the fricative /ṽ/ is common both on its own and in initial clusters.
+
+### Lexical Items
+
+1.  /ᵐbǎ/ (function item, common)
+2.  /ⁿǀəːn/ (content item, common)
+3.  /ᵑgə́/ (content item, common)
+4.  /mṽáu/ (content item, common)
+5.  /ɲîːm/ (content item, common)
+6.  /ⁿdù/ (function item, common)
+7.  /ᵑgǁái.nā/ (content item, common)
+8.  /ṽə́.ᵐbîŋ/ (content item, common)
+9.  /mù.ⁿǀá/ (content item, common)
+10. /ᵑgǀǔː/ (content item, uncommon)
+11. /nə̄.ᵑgîɲ/ (content item, common)
+12. /nṽíː.ⁿdáu/ (content item, common)
+13. /ŋə̂/ (function item, common)
+14. /ᶮɟá.ᵐbə̄.ⁿǀûːɲ/ (content item, uncommon; a derived form)
+15. /ⁿǁə̌ːm/ (content item, common)
+16. /ṽái/ (content item, common)
+17. /ⁿdə̄.ŋàn/ (content item, common)
+18. /ᵑgǀí.ᵑgǀì/ (content item, common; a reduplicated form)
+19. /ɲṽə́ː/ (content item, uncommon)
+20. /ᵐbáu.ᵑgǁám/ (content item, common)
+21. /ŋṽá.ⁿdə̄.mî/ (content item, uncommon; a compound)
+22. /ᶮɟúːŋ/ (content item, common)
+23. /ⁿǀà.ⁿǀà/ (content item, common; a reduplicated form)
+24. /ṽíː.ᵑgə̌n.ᵐbá.ŋūm/ (content item, rare; a complex compound)
+25. /má/ (function item, common)
