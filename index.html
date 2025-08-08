@@ -1,15 +1,134 @@
-<!DOCTYPE HTML>
-<html lang="en-US">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="refresh" content="0; url=https:/example.com/">
-        <script type="text/javascript">
-            window.location.href = "https://example.com"
-        </script>
-        <title>Page Redirection</title>
-    </head>
-    <body>
-        <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
-        If you are not redirected automatically, follow this <a href='https://example.com/'>link</a>.
-    </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ConlangCrafter: LLM-powered Constructed Language Generation</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-text">
+                    <div class="quote">
+                        <div class="conlang-quote">"phán dzáwali-li a-ga-galúnta-mi áta-li."</div>
+                        <div class="gloss">every language-INTR EVID.NEUT-IPFV-be_a_world-3SG.INTR he/she/it-INTR</div>
+                        <div class="translation">"Every language is a world."</div>
+                        <div class="source">(generated conlang)</div>
+                    </div>
+                    
+                    <h1 class="title">ConlangCrafter</h1>
+                    <p class="subtitle">Constructing Languages with a Multi-Hop LLM Pipeline</p>
+                    
+                    <div class="authors">
+                        <a href="https://morrisalp.github.io" class="author">Morris Alper*</a>,
+                        <a href="https://www.linkedin.com/in/moran-yanuka-a5452a1b7/" class="author">Moran Yanuka*</a>,
+                        <a href="https://www.eng.tau.ac.il/~raja/" class="author">Raja Giryes</a>,
+                        <a href="https://www.gasperbegus.com" class="author">Gašper Beguš</a>
+                        <div class="equal-contrib">*Equal contribution</div>
+                    </div>
+                    
+                    <div class="paper-links">
+                        <a href="#" class="btn btn-primary">📄 Paper</a>
+                        <a href="#" class="btn btn-secondary">💻 Code</a>
+                        <a href="#language-browser" class="btn btn-secondary">🌐 Explore Languages</a>
+                    </div>
+                </div>
+                
+                <div class="hero-image">
+                    <img src="assets/teaser/teaser_v2.png" alt="ConlangCrafter Overview" />
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- TL;DR -->
+    <section class="tldr">
+        <div class="container">
+            <h2>TL;DR</h2>
+            <p>We introduce a fully automated system for constructing languages (conlangs) using large language models. Our multi-stage pipeline creates coherent, diverse artificial languages with their own phonology, grammar, lexicon, and translation capabilities.</p>
+        </div>
+    </section>
+
+    <!-- Abstract -->
+    <section class="abstract">
+        <div class="container">
+            <h2>Abstract</h2>
+            <p>Constructed languages (conlangs) such as Esperanto and Quenya have played diverse roles in art, philosophy, and international communication. Meanwhile, large-scale foundation models have revolutionized creative generation in text, images, and beyond. In this work, we leverage modern LLMs as computational creativity aids for end-to-end conlang creation. We introduce <strong>ConlangCrafter</strong>, a multi-hop pipeline that decomposes language design into modular stages -- phonology, morphology, syntax, lexicon generation, and translation. At each stage, our method leverages LLMs' meta-linguistic reasoning capabilities, injecting randomness to encourage diversity and leveraging self-refinement feedback to encourage consistency in the emerging language description. We evaluate ConlangCrafter on metrics measuring coherence and typological diversity, demonstrating its ability to produce coherent and varied conlangs without human linguistic expertise.</p>
+        </div>
+    </section>
+
+    <!-- Method -->
+    <section class="method">
+        <div class="container">
+            <h2>Method</h2>
+            <div class="method-overview">
+                <img src="assets/pipeline/conlang_pipeline_v6.pdf" alt="ConlangCrafter Pipeline" />
+                <p>ConlangCrafter decomposes language creation into modular stages, each with specialized prompting strategies and self-refinement loops for consistency.</p>
+            </div>
+            
+            <!-- <div class="stages">
+                <div class="stage">
+                    <h3>1. Phonology</h3>
+                    <p>Generate sound systems with consonant and vowel inventories, phonotactic constraints, and suprasegmental features.</p>
+                </div>
+                
+                <div class="stage">
+                    <h3>2. Grammar</h3>
+                    <p>Create morphological and syntactic rules, including word formation processes, case systems, and clause structure.</p>
+                </div>
+                
+                <div class="stage">
+                    <h3>3. Lexicon</h3>
+                    <p>Build vocabulary using typologically-informed word lists and morphological processes from the grammar.</p>
+                </div>
+                
+                <div class="stage">
+                    <h3>4. Translation</h3>
+                    <p>Generate translations through constructive translation, expanding vocabulary and grammar as needed.</p>
+                </div>
+            </div> -->
+        </div>
+    </section>
+
+    <!-- Language Browser -->
+    <section id="language-browser" class="language-browser">
+        <div class="container">
+            <h2>Explore Generated Languages</h2>
+            <p>Browse our collection of generated constructed languages. Click on any language to explore its phonology, grammar, lexicon, and sample translations.</p>
+            
+            <div class="browser-container">
+                <div class="language-grid" id="language-grid">
+                    <!-- Languages will be loaded dynamically -->
+                </div>
+                
+                <div class="language-viewer" id="language-viewer">
+                    <div class="viewer-placeholder">
+                        <h3>Select a language to explore</h3>
+                        <p>Choose a generated conlang from the grid to view its detailed linguistic analysis.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Citation -->
+    <section class="citation">
+        <div class="container">
+            <h2>Citation</h2>
+            <div class="citation-box">
+                <pre>@article{conlangcrafter2025,
+  title={ConlangCrafter: Constructing Languages with a Multi-Hop LLM Pipeline},
+  author={Morris Alper and Moran Yanuka and Raja Giryes and Ga{\v{s}}per Begu{\v{s}}},
+  year={2025}
+}</pre>
+            </div>
+        </div>
+    </section>
+
+    <script src="js/main.js"></script>
+</body>
 </html>

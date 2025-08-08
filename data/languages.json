@@ -1,0 +1,320 @@
+{
+  "languages": [
+    {
+      "id": "e045bf70",
+      "created_at": "2025-08-02 23:25:00",
+      "has_html": false,
+      "has_phonology": true,
+      "has_grammar": true,
+      "has_lexicon": true,
+      "has_translations": true,
+      "features": [
+        "SVO Word Order",
+        "Ergative-Absolutive",
+        "Vowel Harmony",
+        "Agglutinative",
+        "Prenasalized Stops"
+      ],
+      "completeness": 100
+    },
+    {
+      "id": "da6581a8",
+      "created_at": "2025-08-02 23:14:44",
+      "has_html": false,
+      "has_phonology": true,
+      "has_grammar": false,
+      "has_lexicon": false,
+      "has_translations": false,
+      "features": [
+        "Ejective Consonants",
+        "Tonal System"
+      ],
+      "completeness": 25
+    },
+    {
+      "id": "4a07b15a",
+      "created_at": "2025-08-02 22:34:43",
+      "has_html": false,
+      "has_phonology": true,
+      "has_grammar": true,
+      "has_lexicon": true,
+      "has_translations": true,
+      "features": [
+        "VSO Word Order",
+        "Nominative-Accusative",
+        "Vowel Harmony",
+        "Agglutinative",
+        "Ejective Consonants",
+        "Tonal System"
+      ],
+      "completeness": 100
+    },
+    {
+      "id": "fba30989",
+      "created_at": "2025-08-02 21:59:40",
+      "has_html": false,
+      "has_phonology": true,
+      "has_grammar": true,
+      "has_lexicon": true,
+      "has_translations": true,
+      "features": [
+        "SOV Word Order",
+        "Nominative-Accusative",
+        "Ejective Consonants"
+      ],
+      "completeness": 100
+    },
+    {
+      "id": "2201c79d",
+      "created_at": "2025-08-02 21:23:41",
+      "has_html": false,
+      "has_phonology": true,
+      "has_grammar": true,
+      "has_lexicon": true,
+      "has_translations": true,
+      "features": [
+        "SOV Word Order",
+        "Active-Stative Alignment"
+      ],
+      "completeness": 100
+    },
+    {
+      "id": "979a868d",
+      "created_at": "2025-08-02 20:46:19",
+      "has_html": false,
+      "has_phonology": true,
+      "has_grammar": true,
+      "has_lexicon": true,
+      "has_translations": true,
+      "features": [
+        "SVO Word Order",
+        "Ergative-Absolutive",
+        "Vowel Harmony",
+        "Analytic",
+        "Tonal System"
+      ],
+      "completeness": 100
+    },
+    {
+      "id": "2d3f8c49",
+      "created_at": "2025-08-02 20:06:53",
+      "has_html": false,
+      "has_phonology": true,
+      "has_grammar": true,
+      "has_lexicon": true,
+      "has_translations": true,
+      "features": [
+        "SVO Word Order",
+        "Ergative-Absolutive",
+        "Agglutinative",
+        "Tonal System"
+      ],
+      "completeness": 100
+    },
+    {
+      "id": "5989895f",
+      "created_at": "2025-08-02 19:28:23",
+      "has_html": false,
+      "has_phonology": true,
+      "has_grammar": true,
+      "has_lexicon": true,
+      "has_translations": true,
+      "features": [
+        "SOV Word Order",
+        "Vowel Harmony",
+        "Agglutinative",
+        "Ejective Consonants",
+        "Tonal System"
+      ],
+      "completeness": 100
+    },
+    {
+      "id": "e6de88d5",
+      "created_at": "2025-08-02 18:50:12",
+      "has_html": false,
+      "has_phonology": true,
+      "has_grammar": true,
+      "has_lexicon": true,
+      "has_translations": true,
+      "features": [
+        "SOV Word Order",
+        "Agglutinative"
+      ],
+      "completeness": 100
+    },
+    {
+      "id": "5e9c1078",
+      "created_at": "2025-08-02 18:15:04",
+      "has_html": false,
+      "has_phonology": true,
+      "has_grammar": true,
+      "has_lexicon": true,
+      "has_translations": true,
+      "features": [
+        "Complex Morphology",
+        "Rich Phonology",
+        "Unique Typology"
+      ],
+      "completeness": 100
+    },
+    {
+      "id": "854b29c7",
+      "created_at": "2025-08-02 16:12:16",
+      "has_html": false,
+      "has_phonology": true,
+      "has_grammar": true,
+      "has_lexicon": true,
+      "has_translations": true,
+      "features": [
+        "Nominative-Accusative",
+        "Vowel Harmony",
+        "Tonal System"
+      ],
+      "completeness": 100
+    },
+    {
+      "id": "ed2a5518",
+      "created_at": "2025-08-02 15:39:44",
+      "has_html": false,
+      "has_phonology": true,
+      "has_grammar": true,
+      "has_lexicon": true,
+      "has_translations": true,
+      "features": [
+        "SVO Word Order",
+        "Ergative-Absolutive",
+        "Agglutinative",
+        "Tonal System"
+      ],
+      "completeness": 100
+    },
+    {
+      "id": "df23a99d",
+      "created_at": "2025-08-02 14:57:04",
+      "has_html": false,
+      "has_phonology": true,
+      "has_grammar": true,
+      "has_lexicon": true,
+      "has_translations": true,
+      "features": [
+        "VSO Word Order",
+        "Ergative-Absolutive",
+        "Vowel Harmony",
+        "Analytic",
+        "Ejective Consonants",
+        "Tonal System"
+      ],
+      "completeness": 100
+    },
+    {
+      "id": "3cf70179",
+      "created_at": "2025-08-02 14:12:53",
+      "has_html": false,
+      "has_phonology": true,
+      "has_grammar": true,
+      "has_lexicon": true,
+      "has_translations": true,
+      "features": [
+        "Active-Stative Alignment",
+        "Tonal System"
+      ],
+      "completeness": 100
+    },
+    {
+      "id": "a856ef71",
+      "created_at": "2025-08-02 13:32:22",
+      "has_html": false,
+      "has_phonology": true,
+      "has_grammar": true,
+      "has_lexicon": true,
+      "has_translations": true,
+      "features": [
+        "SOV Word Order",
+        "Ergative-Absolutive",
+        "Tonal System"
+      ],
+      "completeness": 100
+    },
+    {
+      "id": "0b212eef",
+      "created_at": "2025-08-02 12:57:38",
+      "has_html": true,
+      "has_phonology": true,
+      "has_grammar": true,
+      "has_lexicon": true,
+      "has_translations": true,
+      "features": [
+        "VSO Word Order",
+        "Active-Stative Alignment",
+        "Vowel Harmony",
+        "Agglutinative",
+        "Ejective Consonants",
+        "Prenasalized Stops"
+      ],
+      "completeness": 100
+    },
+    {
+      "id": "60461262",
+      "created_at": "2025-08-02 12:20:21",
+      "has_html": false,
+      "has_phonology": true,
+      "has_grammar": true,
+      "has_lexicon": true,
+      "has_translations": true,
+      "features": [
+        "SOV Word Order"
+      ],
+      "completeness": 100
+    },
+    {
+      "id": "e0fbc862",
+      "created_at": "2025-08-02 11:42:07",
+      "has_html": false,
+      "has_phonology": true,
+      "has_grammar": true,
+      "has_lexicon": true,
+      "has_translations": true,
+      "features": [
+        "Ergative-Absolutive",
+        "Vowel Harmony",
+        "Tonal System"
+      ],
+      "completeness": 100
+    },
+    {
+      "id": "2fb589d1",
+      "created_at": "2025-08-02 11:00:53",
+      "has_html": false,
+      "has_phonology": true,
+      "has_grammar": true,
+      "has_lexicon": true,
+      "has_translations": true,
+      "features": [
+        "Ergative-Absolutive",
+        "Vowel Harmony",
+        "Agglutinative",
+        "Ejective Consonants",
+        "Tonal System"
+      ],
+      "completeness": 100
+    },
+    {
+      "id": "cd9c3959",
+      "created_at": "2025-08-02 10:24:15",
+      "has_html": false,
+      "has_phonology": true,
+      "has_grammar": true,
+      "has_lexicon": true,
+      "has_translations": true,
+      "features": [
+        "VSO Word Order",
+        "Ergative-Absolutive",
+        "Analytic",
+        "Tonal System"
+      ],
+      "completeness": 100
+    }
+  ],
+  "total_count": 20,
+  "generated_at": "2025-08-06T12:00:00Z"
+}
