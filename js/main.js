@@ -148,7 +148,7 @@ class LanguageBrowser {
             
             viewer.innerHTML = `
                 <div class="language-content-wrapper">
-                    <div class="fullscreen-btn" onclick="this.parentElement.parentElement.requestFullscreen()">
+                    <div class="fullscreen-btn" onclick="toggleFullscreen(this.parentElement.parentElement, this)">
                         <span>⛶ Fullscreen</span>
                     </div>
                     <iframe class="language-content" src="${blobUrl}"></iframe>
@@ -278,6 +278,17 @@ class InteractiveFeatures {
         
         // Start typing animation after a delay
         setTimeout(typeChar, 1000);
+    }
+}
+
+// Global fullscreen toggle function
+function toggleFullscreen(element, button) {
+    if (!document.fullscreenElement) {
+        element.requestFullscreen();
+        button.querySelector('span').textContent = '⛶ Exit Fullscreen';
+    } else {
+        document.exitFullscreen();
+        button.querySelector('span').textContent = '⛶ Fullscreen';
     }
 }
 

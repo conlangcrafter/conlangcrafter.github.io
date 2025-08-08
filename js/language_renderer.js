@@ -72,11 +72,6 @@ class LanguageRenderer {
     <style>${style}</style>
 </head>
 <body>
-    <div class="fullscreen-toggle" onclick="toggleFullscreen()">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
-            <path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"/>
-        </svg>
-    </div>
     
     <div class="header">
         <h1>${metadata?.name || 'Unknown Language'}</h1>
@@ -88,13 +83,6 @@ class LanguageRenderer {
     ${this.renderLexicon(lexicon)}
 
     <script>
-        function toggleFullscreen() {
-            if (!document.fullscreenElement) {
-                document.documentElement.requestFullscreen();
-            } else {
-                document.exitFullscreen();
-            }
-        }
         
         // Collapse/expand sections
         document.querySelectorAll('.section-header').forEach(header => {
@@ -124,28 +112,6 @@ class LanguageRenderer {
             background-color: #fafafa;
         }
         
-        .fullscreen-toggle {
-            position: fixed;
-            top: 20px;
-            right: 20px;
-            background: ${this.tealColors.primary};
-            color: white;
-            width: 40px;
-            height: 40px;
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            cursor: pointer;
-            z-index: 1000;
-            transition: all 0.3s ease;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
-        }
-        
-        .fullscreen-toggle:hover {
-            background: ${this.tealColors.dark};
-            transform: scale(1.1);
-        }
         
         .header {
             background: linear-gradient(135deg, ${this.tealColors.primary} 0%, ${this.tealColors.dark} 100%);
