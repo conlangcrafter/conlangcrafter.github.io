@@ -2,7 +2,7 @@
   "languages": [
     {
       "id": "30ebe7f6",
-      "name": "Kat\u00f3n\u00e1",
+      "name": "Auo'oa",
       "model": "gemini-2.5-pro",
       "user_constraints": "There are no consonant phonemes.",
       "has_phonology": true,
@@ -16,11 +16,13 @@
         "Agglutinative Morphology",
         "Evidentiality System"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Auo'oa",
+      "name_ipa": "ɑ.u.ˈó.ɑ"
     },
     {
       "id": "a95557f6",
-      "name": "Ka\u00e3n\u00e3",
+      "name": "Kotolin",
       "model": "gemini-2.5-pro",
       "user_constraints": "The language is a creole combining Japanese and Esperanto.",
       "has_phonology": true,
@@ -33,11 +35,13 @@
         "Agglutinative Morphology",
         "Evidentiality System"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Kotolin",
+      "name_ipa": "ko.to.lin"
     },
     {
       "id": "d18d5449",
-      "name": "Ka\u00e3n\u00e3",
+      "name": "Hogha Jinkut",
       "model": "gemini-2.5-pro",
       "user_constraints": "All inflectional forms are suppletive, and words in a sentence are ordered alphabetically.",
       "has_phonology": true,
@@ -48,11 +52,13 @@
         "Tone System",
         "VSO Word Order"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Hogha Jinkut",
+      "name_ipa": "xɔ́.ɣà ʒɪ́n.kʊ̀t̪"
     },
     {
       "id": "dabc5876",
-      "name": "Nga\u00e3n\u00e3",
+      "name": "Nqángan",
       "model": "gemini-2.5-pro",
       "user_constraints": "This language is nasal-centric, with all consonants and vowels nasalized and a rich vocabulary and grammar centered around smells.",
       "has_phonology": true,
@@ -66,11 +72,13 @@
         "Agglutinative Morphology",
         "Evidentiality System"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Nqángan",
+      "name_ipa": "ⁿǀáŋàn"
     },
     {
       "id": "0644f50b",
-      "name": "Ka\u00e3n\u00e3",
+      "name": "Soleso",
       "model": "gemini-2.5-pro",
       "user_constraints": "All inflectional forms are suppletive, and words in a sentence are ordered alphabetically.",
       "has_phonology": true,
@@ -83,11 +91,13 @@
         "Agglutinative Morphology",
         "Evidentiality System"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Soleso",
+      "name_ipa": "ˈso.le.so"
     },
     {
       "id": "108e5b9c",
-      "name": "Ka\u00e3n\u00e3",
+      "name": "Prtw(falling)",
       "model": "gemini-2.5-pro",
       "user_constraints": "The language is produced by an alien cephalopod species. Phonemes are color values and gestures rather than consonants or vowels. Indicate each one with a two-character ASCII code.",
       "has_phonology": true,
@@ -100,11 +110,13 @@
         "Fusional Morphology",
         "Evidentiality System"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Prtw(falling)",
+      "name_ipa": "PRTW(Falling)"
     },
     {
       "id": "9a741104",
-      "name": "Ka\u00e3n\u00e3",
+      "name": "Tsuloku",
       "model": "gemini-2.5-pro",
       "user_constraints": "Triple center embeddings are common.",
       "has_phonology": true,
@@ -116,11 +128,13 @@
         "SVO Word Order",
         "Agglutinative Morphology"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Tsuloku",
+      "name_ipa": "t͡suˈloku"
     },
     {
       "id": "e3281433",
-      "name": "Ka\u00e3n\u00e3",
+      "name": "Kwasral",
       "model": "gemini-2.5-pro",
       "user_constraints": "Verbless constructions (null verb) are common and have a variety of meanings depending on the argument frame present, being used for many functions that are typically lexical verbs (far beyond copular functions).",
       "has_phonology": true,
@@ -133,11 +147,13 @@
         "Ergative Alignment",
         "Agglutinative Morphology"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Kwasral",
+      "name_ipa": "kʷa.ʂal"
     },
     {
       "id": "c5d697a4",
-      "name": "Ka\u00e3n\u00e3",
+      "name": "Khorhóna",
       "model": "gemini-2.5-pro",
       "user_constraints": "Verbless constructions (null verb) are common and have a variety of meanings depending on the argument frame present.",
       "has_phonology": true,
@@ -150,11 +166,13 @@
         "Fusional Morphology",
         "Evidentiality System"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Khorhóna",
+      "name_ipa": "χɔ'ʁoːna"
     },
     {
       "id": "42b91701",
-      "name": "Ka\u00e3n\u00e3",
+      "name": "Seletnyeny",
       "model": "gemini-2.5-pro",
       "user_constraints": "Verbless constructions (null verb) are common and have a variety of meanings depending on the argument frame present.",
       "has_phonology": true,
@@ -167,11 +185,13 @@
         "Accusative Alignment",
         "Evidentiality System"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Seletnyeny",
+      "name_ipa": "sʲeletnʲeɲ"
     },
     {
       "id": "e045bf70",
-      "name": "Nga\u00e3n\u00e3",
+      "name": "Dhotadho",
       "model": "gemini-2.5-pro",
       "user_constraints": null,
       "has_phonology": true,
@@ -185,11 +205,13 @@
         "Agglutinative Morphology",
         "Evidentiality System"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Dhotadho",
+      "name_ipa": "d̪ʱo.t̪a.d̪ʱo"
     },
     {
       "id": "ed2a5518",
-      "name": "Ka\u00e3n\u00e3",
+      "name": "Khlema-so",
       "model": "gemini-2.5-pro",
       "user_constraints": null,
       "has_phonology": true,
@@ -203,11 +225,13 @@
         "Agglutinative Morphology",
         "Evidentiality System"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Khlema-so",
+      "name_ipa": "kʰlɛ̀.ma.so"
     },
     {
       "id": "da6581a8",
-      "name": "K\u02bca\u00e3n\u00e3",
+      "name": "S̱ala",
       "model": "gemini-2.5-pro",
       "user_constraints": null,
       "has_phonology": true,
@@ -218,11 +242,13 @@
         "Ejective Consonants",
         "Tone System"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "S̱ala",
+      "name_ipa": "sˤa˥.lˤa˩˥"
     },
     {
       "id": "cd9c3959",
-      "name": "Ka\u00e3n\u00e3",
+      "name": "Dîla",
       "model": "gemini-2.5-pro",
       "user_constraints": null,
       "has_phonology": true,
@@ -236,11 +262,13 @@
         "Fusional Morphology",
         "Evidentiality System"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Dîla",
+      "name_ipa": "d̪îlā"
     },
     {
       "id": "2d3f8c49",
-      "name": "Ka\u00e3n\u00e3",
+      "name": "Lovátha",
       "model": "gemini-2.5-pro",
       "user_constraints": null,
       "has_phonology": true,
@@ -254,11 +282,13 @@
         "Agglutinative Morphology",
         "Evidentiality System"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Lovátha",
+      "name_ipa": "ló.βà.tʰà"
     },
     {
       "id": "4a07b15a",
-      "name": "K\u02bca\u00e3n\u00e3",
+      "name": "Kwelete",
       "model": "gemini-2.5-pro",
       "user_constraints": null,
       "has_phonology": true,
@@ -272,11 +302,13 @@
         "VSO Word Order",
         "Accusative Alignment"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Kwelete",
+      "name_ipa": "kʷe.lʼe.t̠e"
     },
     {
       "id": "a856ef71",
-      "name": "Ka\u00e3n\u00e3",
+      "name": "Karnakh",
       "model": "gemini-2.5-pro",
       "user_constraints": null,
       "has_phonology": true,
@@ -290,11 +322,13 @@
         "Fusional Morphology",
         "Evidentiality System"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Karnakh",
+      "name_ipa": "kà.ɴǎχ"
     },
     {
       "id": "3cf70179",
-      "name": "Ka\u025bt\u026a",
+      "name": "Khwöchela",
       "model": "gemini-2.5-pro",
       "user_constraints": null,
       "has_phonology": true,
@@ -307,11 +341,13 @@
         "Active-Stative Alignment",
         "Fusional Morphology"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Khwöchela",
+      "name_ipa": "kʷʰɔ̰̀tʃɛ̰́.là̰"
     },
     {
       "id": "854b29c7",
-      "name": "!xa\u025bt\u026a",
+      "name": "Gôot",
       "model": "gemini-2.5-pro",
       "user_constraints": null,
       "has_phonology": true,
@@ -325,11 +361,13 @@
         "Accusative Alignment",
         "Evidentiality System"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Gôot",
+      "name_ipa": "go˩.ot˩"
     },
     {
       "id": "2201c79d",
-      "name": "Ka\u00e3n\u00e3",
+      "name": "Klezwa",
       "model": "gemini-2.5-pro",
       "user_constraints": null,
       "has_phonology": true,
@@ -341,11 +379,13 @@
         "Active-Stative Alignment",
         "Evidentiality System"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Klezwa",
+      "name_ipa": "'klʲe.ʒʷa"
     },
     {
       "id": "5e9c1078",
-      "name": "Kalanga",
+      "name": "Korokona",
       "model": "gemini-2.5-pro",
       "user_constraints": null,
       "has_phonology": true,
@@ -356,11 +396,13 @@
         "Active-Stative Alignment",
         "Evidentiality System"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Korokona",
+      "name_ipa": "ko.ro.ˈko.na"
     },
     {
       "id": "0b212eef",
-      "name": "K\u02bca\u025bt\u026a",
+      "name": "Petese",
       "model": "gemini-2.5-pro",
       "user_constraints": null,
       "has_phonology": true,
@@ -374,11 +416,13 @@
         "Tone System",
         "VSO Word Order"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Petese",
+      "name_ipa": "ˈpetesɛ"
     },
     {
       "id": "df23a99d",
-      "name": "K\u02bca\u00e3n\u00e3",
+      "name": "K'u Gât'y",
       "model": "gemini-2.5-pro",
       "user_constraints": null,
       "has_phonology": true,
@@ -392,11 +436,13 @@
         "Ergative Alignment",
         "Evidentiality System"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "K'u Gât'y",
+      "name_ipa": "kʼú.ɡâ.tʼə́"
     },
     {
       "id": "fba30989",
-      "name": "K\u02bca\u00e3n\u00e3",
+      "name": "Q'alatha",
       "model": "gemini-2.5-pro",
       "user_constraints": null,
       "has_phonology": true,
@@ -410,11 +456,13 @@
         "Accusative Alignment",
         "Fusional Morphology"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Q'alatha",
+      "name_ipa": "qʼa.la.ˈtʰa"
     },
     {
       "id": "e6de88d5",
-      "name": "Ka\u025bt\u026a",
+      "name": "Xilona",
       "model": "gemini-2.5-pro",
       "user_constraints": null,
       "has_phonology": true,
@@ -427,11 +475,13 @@
         "Agglutinative Morphology",
         "Evidentiality System"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Xilona",
+      "name_ipa": "ʃi'lo̘na"
     },
     {
       "id": "e0fbc862",
-      "name": "Ka\u00e3n\u00e3",
+      "name": "Kselcharpeleu",
       "model": "gemini-2.5-pro",
       "user_constraints": null,
       "has_phonology": true,
@@ -443,11 +493,13 @@
         "Ergative Alignment",
         "Evidentiality System"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Kselcharpeleu",
+      "name_ipa": "k͡sɛl.t͡ʃar.pɛ.lɛu"
     },
     {
       "id": "60461262",
-      "name": "Ka\u00e3n\u00e3",
+      "name": "Bhraw Khla",
       "model": "gemini-2.5-pro",
       "user_constraints": null,
       "has_phonology": true,
@@ -460,11 +512,13 @@
         "Fusional Morphology",
         "Evidentiality System"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Bhraw Khla",
+      "name_ipa": "bʱraw kʰla"
     },
     {
       "id": "2fb589d1",
-      "name": "K\u02bca\u00e3n\u00e3",
+      "name": "K’ìtǀ’í",
       "model": "gemini-2.5-pro",
       "user_constraints": null,
       "has_phonology": true,
@@ -478,11 +532,13 @@
         "Ergative Alignment",
         "Agglutinative Morphology"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "K’ìtǀ’í",
+      "name_ipa": "kʼĩ̀tǀʼí"
     },
     {
       "id": "979a868d",
-      "name": "!xa\u00e3n\u00e3",
+      "name": "Llakhwesa",
       "model": "gemini-2.5-pro",
       "user_constraints": null,
       "has_phonology": true,
@@ -496,11 +552,13 @@
         "Ergative Alignment",
         "Fusional Morphology"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Llakhwesa",
+      "name_ipa": "ǁa.kʰwe.sa˥"
     },
     {
       "id": "5989895f",
-      "name": "K\u02bca\u00e3n\u00e3",
+      "name": "Plek's",
       "model": "gemini-2.5-pro",
       "user_constraints": null,
       "has_phonology": true,
@@ -514,7 +572,9 @@
         "SOV Word Order",
         "Agglutinative Morphology"
       ],
-      "has_html": true
+      "has_html": true,
+      "name_orthography": "Plek's",
+      "name_ipa": "plɛkʼs˥"
     }
   ],
   "last_updated": "2025-08-08T12:15:15.151286"

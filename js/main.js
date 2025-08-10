@@ -20,21 +20,33 @@ class LanguageBrowser {
             }
             const data = await response.json();
             
-            this.languages = data.languages.map(lang => ({
-                id: lang.id,
-                name: lang.name,
-                hasHtml: true, // Always true since we generate programmatically
-                features: lang.features || [],
-                completeness: lang.completeness,
-                hasPhonology: lang.has_phonology,
-                hasGrammar: lang.has_grammar,
-                hasLexicon: lang.has_lexicon,
-                userConstraints: lang.user_constraints,
-                model: lang.model
-            })).sort((a, b) => {
-                // Sort by name first, then by ID as tiebreaker
-                if (a.name !== b.name) {
-                    return a.name.localeCompare(b.name);
+            this.languages = data.languages.map(lang => {
+                // Create display name with IPA if available
+                let displayName = lang.name;
+                if (lang.name_ipa && lang.name_ipa !== 'N/A' && lang.name_ipa !== lang.name) {
+                    displayName = `${lang.name} (/${lang.name_ipa}/)`;
+                }
+                
+                return {
+                    id: lang.id,
+                    name: displayName,
+                    nameOrthography: lang.name_orthography || lang.name,
+                    nameIpa: lang.name_ipa,
+                    hasHtml: true, // Always true since we generate programmatically
+                    features: lang.features || [],
+                    completeness: lang.completeness,
+                    hasPhonology: lang.has_phonology,
+                    hasGrammar: lang.has_grammar,
+                    hasLexicon: lang.has_lexicon,
+                    userConstraints: lang.user_constraints,
+                    model: lang.model
+                };
+            }).sort((a, b) => {
+                // Sort by orthography name first, then by ID as tiebreaker
+                const aName = a.nameOrthography || a.name;
+                const bName = b.nameOrthography || b.name;
+                if (aName !== bName) {
+                    return aName.localeCompare(bName);
                 }
                 return a.id.localeCompare(b.id);
             });
