@@ -1,24 +1,27 @@
 # ConlangCrafter Project Page
 
-This directory contains the project website for ConlangCrafter, showcasing the research and providing an interactive browser for generated constructed languages.
-
 ## Structure
 
 ```
-web/
-├── index.html              # Main project page
+conlangcrafter.github.io/
+├── index.html              # Main language browser interface
 ├── css/
-│   └── style.css           # Stylesheet for the project page
+│   └── style.css           # Responsive styling with teal theme
 ├── js/
-│   └── main.js            # JavaScript for interactive features
-├── assets/                 # Images and media from the paper
+│   ├── main.js            # Core browser functionality
+│   └── language_renderer.js # Language HTML generation
+├── assets/                 # Research paper figures and diagrams
 │   ├── teaser/            # Teaser images
-│   ├── pipeline/          # Pipeline diagrams
-│   ├── experiments/       # Experiment results visualizations
-│   └── appendix/         # Additional figures
+│   ├── pipeline/          # System pipeline diagrams
+│   ├── experiments/       # Experimental results
+│   └── appendix/         # Additional visualizations
 └── data/
-    ├── languages.json     # Language metadata for browser
-    └── sample_language.html # Sample language HTML (from generator)
+    ├── languages.json     # Central language metadata with names/IPA
+    └── [language_id]/     # Individual language data folders
+        ├── metadata.json  # Language metadata
+        ├── phonology.txt  # Phonological description
+        ├── grammar.txt    # Grammatical analysis
+        └── lexicon.json   # Complete vocabulary (optional)
 ```
 
 ## Usage
@@ -29,7 +32,6 @@ Since this is a static site, you can serve it locally:
 
 ```bash
 # Option 1: Python simple server
-cd web/
 python -m http.server 8000
 
 # Option 2: Node.js serve
