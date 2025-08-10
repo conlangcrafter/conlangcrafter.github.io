@@ -24,7 +24,6 @@ class LanguageBrowser {
                 id: lang.id,
                 name: lang.name,
                 hasHtml: true, // Always true since we generate programmatically
-                created: new Date(lang.created_at),
                 features: lang.features || [],
                 completeness: lang.completeness,
                 hasPhonology: lang.has_phonology,
@@ -74,11 +73,16 @@ class LanguageBrowser {
                     <div class="completeness-badge">${lang.completeness}%</div>
                 </div>
                 <div class="language-name">${lang.name}</div>
-                <div class="language-date">${lang.created.toLocaleDateString()}</div>
                 ${lang.userConstraints ? `<div class="user-constraints-indicator">📝 Constrained</div>` : ''}
                 <div class="language-features">
-                    ${lang.features.slice(0, 2).map(f => `<span class="feature-tag">${f}</span>`).join('')}
-                    ${lang.features.length > 2 ? `<span class="feature-more">+${lang.features.length - 2} more</span>` : ''}
+                    <div class="features-visible">
+                        ${lang.features.slice(0, 2).map(f => `<span class="feature-tag">${f}</span>`).join('')}
+                        ${lang.features.length > 2 ? `<span class="feature-more" onclick="toggleFeatures(event, '${lang.id}')">+${lang.features.length - 2} more</span>` : ''}
+                    </div>
+                    ${lang.features.length > 2 ? `<div class="features-hidden" id="features-${lang.id}" style="display: none;">
+                        ${lang.features.slice(2).map(f => `<span class="feature-tag">${f}</span>`).join('')}
+                        <span class="feature-less" onclick="toggleFeatures(event, '${lang.id}')">show less</span>
+                    </div>` : ''}
                 </div>
                 <div class="language-status">
                     ${lang.hasPhonology ? '<span class="status-indicator available">PHON</span>' : '<span class="status-indicator unavailable">PHON</span>'}
@@ -172,7 +176,6 @@ class LanguageBrowser {
                     <h3>${language.name}</h3>
                     <div class="language-meta">
                         <span class="language-id">ID: ${language.id}</span>
-                        <span class="language-date">Generated: ${language.created.toLocaleDateString()}</span>
                     </div>
                 </div>
                 
@@ -292,6 +295,25 @@ function toggleFullscreen(element, button) {
     }
 }
 
+// Global feature toggle function
+function toggleFeatures(event, languageId) {
+    event.stopPropagation(); // Prevent triggering card selection
+    const hiddenFeatures = document.getElementById(`features-${languageId}`);
+    const moreButton = event.target;
+    
+    if (hiddenFeatures.style.display === 'none') {
+        hiddenFeatures.style.display = 'block';
+        moreButton.style.display = 'none';
+    } else {
+        hiddenFeatures.style.display = 'none';
+        const card = document.querySelector(`[data-id="${languageId}"]`);
+        const moreSpan = card.querySelector('.feature-more');
+        if (moreSpan) {
+            moreSpan.style.display = 'inline-block';
+        }
+    }
+}
+
 // Add CSS animations
 const style = document.createElement('style');
 style.textContent = `
@@ -331,11 +353,31 @@ style.textContent = `
         font-size: 0.75rem;
         font-style: italic;
         margin-left: 0.25rem;
+        cursor: pointer;
+        text-decoration: underline;
+        transition: color 0.2s;
     }
     
-    .language-date {
-        font-size: 0.8rem;
-        color: #888;
+    .feature-more:hover {
+        color: #1976d2;
+    }
+    
+    .feature-less {
+        display: inline-block;
+        color: #666;
+        font-size: 0.75rem;
+        font-style: italic;
+        margin-left: 0.25rem;
+        cursor: pointer;
+        text-decoration: underline;
+        transition: color 0.2s;
+    }
+    
+    .feature-less:hover {
+        color: #1976d2;
+    }
+    
+    .features-hidden {
         margin-top: 0.25rem;
     }
     
