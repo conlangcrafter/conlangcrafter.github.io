@@ -31,7 +31,13 @@ class LanguageBrowser {
                 hasLexicon: lang.has_lexicon,
                 userConstraints: lang.user_constraints,
                 model: lang.model
-            }));
+            })).sort((a, b) => {
+                // Sort by name first, then by ID as tiebreaker
+                if (a.name !== b.name) {
+                    return a.name.localeCompare(b.name);
+                }
+                return a.id.localeCompare(b.id);
+            });
         } catch (error) {
             console.error('Failed to load languages:', error);
             // Fallback to empty array
