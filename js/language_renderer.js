@@ -27,8 +27,8 @@ class LanguageRenderer {
             const grammar = await this.loadText(`data/${languageId}/grammar.txt`);
             const lexicon = await this.loadJSON(`data/${languageId}/lexicon.json`);
 
-            // Use name from languages.json if available, with IPA display format
-            let displayName = languageEntry?.name || metadata?.name || 'Unknown Language';
+            // Use name from languages.json (metadata no longer contains names)
+            let displayName = languageEntry?.name || `Language ${languageId}`;
             if (languageEntry?.name_ipa && languageEntry.name_ipa !== 'N/A' && languageEntry.name_ipa !== languageEntry.name) {
                 displayName = `${languageEntry.name} /${languageEntry.name_ipa}/`;
             }
@@ -302,6 +302,33 @@ class LanguageRenderer {
             border-left: 3px solid ${this.tealColors.primary};
             padding-left: 1rem;
         }
+        
+        code {
+            background: #f1f3f4;
+            padding: 0.2rem 0.4rem;
+            border-radius: 3px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9em;
+            color: ${this.tealColors.dark};
+        }
+        
+        ul, ol {
+            margin: 1rem 0;
+            padding-left: 2rem;
+        }
+        
+        li {
+            margin: 0.5rem 0;
+            line-height: 1.5;
+        }
+        
+        ul li {
+            list-style-type: disc;
+        }
+        
+        ol li {
+            list-style-type: decimal;
+        }
         `;
     }
 
@@ -370,15 +397,13 @@ class LanguageRenderer {
             return '<div class="section"><div class="section-header"><h2>Lexicon</h2><span class="collapse-indicator">▼</span></div><div class="section-content"><p><em>Lexicon not available.</em></p></div></div>';
         }
 
-        const lexiconHTML = lexiconData.slice(0, 50).map(entry => `
+        const lexiconHTML = lexiconData.map(entry => `
             <tr>
                 <td class="conlang-text">${this.escapeHtml(entry.word || '')}</td>
-                <td>${this.escapeHtml(entry.pos || '')}</td>
-                <td>${this.escapeHtml(entry.definition || '')}</td>
+                <td>${this.processInlineMarkdown(this.escapeHtml(entry.pos || ''))}</td>
+                <td>${this.processInlineMarkdown(this.escapeHtml(entry.definition || ''))}</td>
             </tr>
         `).join('');
-
-        const moreEntries = lexiconData.length > 50 ? `<p><em>... and ${lexiconData.length - 50} more entries</em></p>` : '';
 
         return `
         <div class="section">
@@ -400,9 +425,26 @@ class LanguageRenderer {
                         ${lexiconHTML}
                     </tbody>
                 </table>
-                ${moreEntries}
             </div>
         </div>`;
+    }
+
+    /**
+     * Process inline markdown (for table cells and small text fragments)
+     */
+    processInlineMarkdown(text) {
+        if (!text) return '';
+        
+        let html = text;
+        
+        // Convert code spans (backticks)
+        html = html.replace(/`([^`]+)`/g, '<code>$1</code>');
+        
+        // Convert bold/italic
+        html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+        html = html.replace(/\*(.+?)\*/g, '<em>$1</em>');
+        
+        return html;
     }
 
     /**
@@ -421,20 +463,77 @@ class LanguageRenderer {
         // Convert markdown tables
         html = this.convertMarkdownTables(html);
         
+        // Convert code spans (backticks)
+        html = html.replace(/`([^`]+)`/g, '<code>$1</code>');
+        
         // Convert bold/italic
         html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
         html = html.replace(/\*(.+?)\*/g, '<em>$1</em>');
+        
+        // Convert bullet lists
+        html = this.convertBulletLists(html);
+        
+        // Convert numbered lists
+        html = this.convertNumberedLists(html);
         
         // Convert paragraphs
         html = html.replace(/\n\n+/g, '</p><p>');
         html = '<p>' + html + '</p>';
         
-        // Clean up empty paragraphs
+        // Clean up empty paragraphs and fix header formatting
         html = html.replace(/<p>\s*<\/p>/g, '');
         html = html.replace(/<p>\s*(<h[1-6])/g, '$1');
         html = html.replace(/(<\/h[1-6]>)\s*<\/p>/g, '$1');
+        html = html.replace(/<p>\s*(<ul|<ol)/g, '$1');
+        html = html.replace(/(<\/ul>|<\/ol>)\s*<\/p>/g, '$1');
         
         return html;
+    }
+
+    /**
+     * Convert bullet lists to HTML
+     */
+    convertBulletLists(text) {
+        // Match bullet list patterns (- or * at start of line)
+        const bulletRegex = /^(\s*)[-*]\s+(.+)$/gm;
+        let inList = false;
+        let listHtml = '';
+        
+        return text.replace(/^((?:\s*[-*]\s+.+\n?)+)/gm, (match) => {
+            const lines = match.trim().split('\n');
+            let html = '<ul>\n';
+            
+            lines.forEach(line => {
+                const itemMatch = line.match(/^\s*[-*]\s+(.+)$/);
+                if (itemMatch) {
+                    html += `  <li>${itemMatch[1]}</li>\n`;
+                }
+            });
+            
+            html += '</ul>\n';
+            return html;
+        });
+    }
+
+    /**
+     * Convert numbered lists to HTML
+     */
+    convertNumberedLists(text) {
+        // Match numbered list patterns (1. 2. etc at start of line)
+        return text.replace(/^((?:\s*\d+\.\s+.+\n?)+)/gm, (match) => {
+            const lines = match.trim().split('\n');
+            let html = '<ol>\n';
+            
+            lines.forEach(line => {
+                const itemMatch = line.match(/^\s*\d+\.\s+(.+)$/);
+                if (itemMatch) {
+                    html += `  <li>${itemMatch[1]}</li>\n`;
+                }
+            });
+            
+            html += '</ol>\n';
+            return html;
+        });
     }
 
     /**

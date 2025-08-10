@@ -1,6 +1,5 @@
 {
   "id": "30ebe7f6",
-  "name": "Katóná",
   "created_at": "2025-08-06 03:34:24",
   "model": "gemini-2.5-pro",
   "user_constraints": "There are no consonant phonemes.",

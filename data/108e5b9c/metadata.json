@@ -1,6 +1,5 @@
 {
   "id": "108e5b9c",
-  "name": "Kaãnã",
   "created_at": "2025-08-06 07:07:11",
   "model": "gemini-2.5-pro",
   "user_constraints": "The language is produced by an alien cephalopod species. Phonemes are color values and gestures rather than consonants or vowels. Indicate each one with a two-character ASCII code.",

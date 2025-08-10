@@ -1,6 +1,5 @@
 {
   "id": "c5d697a4",
-  "name": "Kaãnã",
   "created_at": "2025-08-06 05:02:50",
   "model": "gemini-2.5-pro",
   "user_constraints": "Verbless constructions (null verb) are common and have a variety of meanings depending on the argument frame present.",

@@ -1,6 +1,5 @@
 {
   "id": "e3281433",
-  "name": "Kaãnã",
   "created_at": "2025-08-06 07:01:57",
   "model": "gemini-2.5-pro",
   "user_constraints": "Verbless constructions (null verb) are common and have a variety of meanings depending on the argument frame present, being used for many functions that are typically lexical verbs (far beyond copular functions).",
