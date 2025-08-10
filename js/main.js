@@ -24,7 +24,7 @@ class LanguageBrowser {
                 // Create display name with IPA if available
                 let displayName = lang.name;
                 if (lang.name_ipa && lang.name_ipa !== 'N/A' && lang.name_ipa !== lang.name) {
-                    displayName = `${lang.name} (/${lang.name_ipa}/)`;
+                    displayName = `${lang.name} /${lang.name_ipa}/`;
                 }
                 
                 return {

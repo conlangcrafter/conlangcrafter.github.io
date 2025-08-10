@@ -17,13 +17,30 @@ class LanguageRenderer {
      */
     async generateLanguageHTML(languageId) {
         try {
-            // Load language data
+            // Load central language data for name
+            const languagesData = await this.loadJSON('data/languages.json');
+            const languageEntry = languagesData?.languages?.find(lang => lang.id === languageId);
+            
+            // Load individual language files
             const metadata = await this.loadJSON(`data/${languageId}/metadata.json`);
             const phonology = await this.loadText(`data/${languageId}/phonology.txt`);
             const grammar = await this.loadText(`data/${languageId}/grammar.txt`);
             const lexicon = await this.loadJSON(`data/${languageId}/lexicon.json`);
 
-            return this.renderLanguageHTML(metadata, phonology, grammar, lexicon);
+            // Use name from languages.json if available, with IPA display format
+            let displayName = languageEntry?.name || metadata?.name || 'Unknown Language';
+            if (languageEntry?.name_ipa && languageEntry.name_ipa !== 'N/A' && languageEntry.name_ipa !== languageEntry.name) {
+                displayName = `${languageEntry.name} /${languageEntry.name_ipa}/`;
+            }
+            
+            // Create enhanced metadata with correct name
+            const enhancedMetadata = {
+                ...metadata,
+                name: displayName,
+                user_constraints: languageEntry?.user_constraints || metadata?.user_constraints
+            };
+
+            return this.renderLanguageHTML(enhancedMetadata, phonology, grammar, lexicon);
         } catch (error) {
             console.error(`Error generating HTML for ${languageId}:`, error);
             return this.renderErrorHTML(languageId, error);
